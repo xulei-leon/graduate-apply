@@ -1,71 +1,85 @@
 # 申请人背景
 
-## 基本信息
+## 1. 基本信息
 
-- **姓名：**
-- **邮箱：**
-- **国籍：** 中国
-- **目标入学年份：** 2027年秋季
+| Field | Value |
+|------|-------|
+| Name | Pending |
+| Email | Pending |
+| Nationality | China |
+| Target intake | Fall 2027 |
 
-## 教育背景
+## 2. Education
 
-### 本科
-- **学校：** 多伦多大学
-- **专业：** 物理
-- **GPA：** 3.0/4.0
-- **排名：**
-- **时间：** 2024年秋 – 2028年春（大三在读）
+| Level | Institution | Program | GPA | Timing |
+|------|-------------|---------|-----|--------|
+| Undergraduate | University of Toronto | Physics | 3.0/4.0 | Fall 2024 - Spring 2028, currently junior |
 
-## 标化成绩
+## 3. Standardized tests
 
-- **TOEFL/IELTS：** 免考（在英语授课大学就读）
-- **GRE：** 317（V: 151 Q: 166 AW: ）
-- **GRE Subject：**
+| Test | Score | Notes |
+|------|-------|------|
+| GRE | 317 (V 151, Q 166) | AW pending |
+| TOEFL/IELTS | Waived | English-instruction university |
+| GRE Subject | Pending | Not yet reported |
 
-## 研究经历
+## 4. Research experience
 
-### 经历一
-- **时间：**
-- **单位/实验室：**
-- **导师：** 普林斯顿大学天体物理教授
-- **课题：** 暗物质晕浓度–质量关系（c–M relation）的贝叶斯推断
-- **描述：** 基于 MaNGA 积分场 Hα 运动学数据，构建三阶段贝叶斯框架：① 经验旋转曲线筛选可信的盘状星系；② 单星系 NFW 质量分解，得到联合 (M200, c) 后验分布；③ 先验校正的重要性采样似然，将非高斯、弯曲的单星系后验直接传播至种群级 c–M 拟合。最终样本为 620 个近邻晚型盘状星系，得到 log₁₀c₀、α 及固有弥散 σ_int 的后验估计。α 的 95% ETI 完全为负，与 ΛCDM 晚期成团预期一致。**一作论文正在投稿。**
-- **推荐信：** 商业班课项目，预计非强推。可提交最多 10 所院校。
+### 4.1 Dark matter c-M relation
 
-### 经历二
-- **时间：** 2026年5月刚启动
-- **单位/实验室：**
-- **导师：** UCL物理教授
-- **课题：** （未定）
-- **描述：** 一对一科研项目，刚启动，课题名称待定。
-- **推荐信：** 一对一指导，若表现满意则推荐信内容较好。
+| Field | Value |
+|------|-------|
+| Mentor | Princeton University astrophysics professor |
+| Topic | Bayesian inference on the dark-matter halo concentration-mass relation |
+| Data / method | MaNGA IFU H-alpha kinematics, PyMC 5, Bayesian MCMC |
+| Key contribution | Three-stage Bayesian pipeline: disk-galaxy selection, single-galaxy NFW decomposition, population-level c-M inference with importance-sampled likelihood correction |
+| Sample size | 620 nearby late-type disk galaxies |
+| Result | Posterior estimates for log10 c0, alpha, and intrinsic scatter; alpha 95% ETI is fully negative |
+| Publication status | First-author paper ready for arXiv submission, then journal submission |
+| LoR strength | Likely weak, because the project was arranged as a commercial class project |
 
-## 发表论文
+### 4.2 UCL one-on-one project
 
-1. **标题：** （暗物质 c–M 关系，待定）
-   - **会议/期刊：** 本周提交 arXiv 预印本，后续投稿期刊
-   - **作者排序：** 一作
-   - **状态：** 已完成，本周提交预印本
+| Field | Value |
+|------|-------|
+| Mentor | UCL physics professor |
+| Start date | May 2026 |
+| Topic | Pending |
+| Status | Just started |
+| LoR strength | Unknown; depends on performance |
 
-## 推荐人
+## 5. Publications
 
-1. **姓名：** （待补） | **职称：** 教授 | **单位：** 普林斯顿大学 | **关系：** 科研一导师 | **强度：** 非强推
-2. **姓名：** （待补） | **职称：** 教授 | **单位：** UCL | **关系：** 科研二导师 | **强度：** 视表现而定
-3. **姓名：** | **职称：** | **单位：** | **关系：** 
+| Title | Venue | Authorship | Status |
+|------|------|------------|--------|
+| Dark matter c-M relation paper | arXiv + later journal submission | First author | Ready to submit |
 
-## 获奖与荣誉
+## 6. Recommenders
 
-- 大学期间无获奖
+| Name | Title | Institution | Relationship | Strength | Status |
+|------|------|-------------|--------------|----------|--------|
+| Pending | Professor | Princeton University | Research mentor | Weak to moderate | Not finalized |
+| Pending | Professor | UCL | Research mentor | Unknown | Not finalized |
 
-## 技能
+## 7. Skills
 
-- **编程语言：** Python（2门课程，GPA 4.0）
-- **工具/框架：** PyMC 5（贝叶斯 MCMC 推断）
-- **语言能力：** 中文（母语），英文（多伦多大学在读） 中文（母语），英文（多伦多大学在读）
+| Area | Detail |
+|------|--------|
+| Programming | Python; 2 courses with GPA 4.0 |
+| Statistical computing | PyMC 5, Bayesian MCMC |
+| Language | Chinese native; English in English-medium university |
 
-## 目标方向
+## 8. Application direction
 
-- **申请学位：** PhD + Master 混申
-- **目标方向：** 计算物理（PhD + Master）& 数据科学（Master）
-- **目标国家：**
-- **目标学校范围：**
+| Field | Value |
+|------|-------|
+| Degree mix | Physics PhD + Physics Master + Data Science Master |
+| Main research fit | Dark matter, Bayesian inference, galaxy dynamics, computational astrophysics, Python-based scientific computing |
+| Target countries | Pending |
+| Target school range | Pending |
+
+## 9. Notes for evaluation
+
+- GPA 3.0 should be treated as a constraint, not a blocker.
+- Strongest evidence currently comes from the Bayesian dark-matter project and the first-author paper.
+- Recommendation strength should be tracked separately from topic fit.

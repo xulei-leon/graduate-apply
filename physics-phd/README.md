@@ -1,20 +1,36 @@
 # Physics PhD Applications
 
-## Target Regions
+## Scope
+
+Use this folder for physics PhD programs and advisor records. A program entry should cover admissions and funding; an advisor entry should cover research fit and outreach status.
+
+## Target regions
 
 - USA
-- Singapore (self-funded possible)
+- Singapore, only if self-funded or scholarship-supported options are explicitly viable
 
----
+## File rules
 
-## Program List
+- Create one markdown file per PhD program or advisor using the existing naming convention in this folder.
+- Keep source URLs visible in both the per-program file and the index table.
+- Record fellowship-priority deadlines separately from the main deadline when the program distinguishes them.
 
-| # | Country | University | Program | Department | Requirements | Deadline | Status |
-|---|---------|-----------|---------|------------|-------------|---------|--------|
-|   |         |           |         |            |             |         |        |
+## Program index
 
-## Advisor List
+| # | Country | University | Program | Department | Degree type | GPA req | GRE req | TOEFL/IELTS | Cohort size | Deadline | Fellowship deadline | Funding model | Self-funded accepted | Source | Status | Last verified |
+|---|---------|------------|---------|------------|-------------|---------|---------|-------------|------------|----------|---------------------|---------------|----------------------|--------|--------|---------------|
+|   |         |            |         |            |             |         |         |             |            |          |                     |               |                      |        |        |               |
 
-| # | University | Advisor | Research Area | Current Grants | Key Papers | Recruiting? | Match | Contact Status |
-|---|-----------|---------|--------------|----------------|-----------|-------------|-------|---------------|
-|   |           |         |              |                |           |             |       |               |
+## Advisor index
+
+| # | University | Advisor | Title | Department | Research focus | Current projects / grants | Key papers | Recruiting? | Outreach needed? | Match | Contact status | Source | Last verified |
+|---|-----------|---------|-------|------------|----------------|--------------------------|-----------|-------------|------------------|-------|----------------|--------|---------------|
+|   |           |         |       |            |                |                          |           |             |                  |       |                |        |               |
+
+## Contact status values
+
+- Not contacted
+- Emailed
+- Replied
+- Positive
+- Negative

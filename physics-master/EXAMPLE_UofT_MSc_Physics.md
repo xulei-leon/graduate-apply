@@ -1,44 +1,60 @@
-# EXAMPLE — 请删除此文件后创建真实条目
+# Example template
 
-## 学校信息
+Use this file as a copyable pattern for a real program entry. Replace every placeholder with verified source-backed data before keeping the file in the repository.
 
-- **国家：** 加拿大
-- **学校：** University of Toronto
-- **项目名称：** MSc in Physics (Thesis-Based)
-- **院系：** Department of Physics
-- **方向：** 计算物理 / 天体物理
+## School information
 
-## 申请要求
+| Field | Value |
+|------|-------|
+| Country | Pending |
+| University | Pending |
+| Program name | Pending |
+| Department | Pending |
+| Track | Pending |
 
-- **GPA 要求：** 最低 3.0/4.0 (B-)，竞争录取者通常 3.3+
-- **GRE 要求：** 不要求
-- **TOEFL/IELTS：** 免考（本科英语授课）
-- **先修课要求：** 物理学士学位或同等学历
+## Admission requirements
 
-## 项目规模
+| Field | Value |
+|------|-------|
+| GPA requirement | Pending |
+| GRE requirement | Pending |
+| TOEFL/IELTS | Pending |
+| Prerequisites | Pending |
 
-- **招生人数：** 每年约 40–50 人（全方向）
+## Program scale
 
-## 截止日期
+| Field | Value |
+|------|-------|
+| Cohort size | Pending |
 
-- **申请截止：** 2027 年 2 月 1 日
-- **奖学金截止：** 2027 年 2 月 1 日（与申请截止相同）
+## Deadlines
 
-## 费用与奖学金
+| Field | Value |
+|------|-------|
+| Main deadline | Pending |
+| Scholarship deadline | Pending |
 
-- **学费：** CAD ~$15,000/年（国际生）
-- **奖学金：** guaranteed funding package (~$25,000 CAD/年，含 TA + RA)
+## Funding
 
-## 链接
+| Field | Value |
+|------|-------|
+| Tuition | Pending |
+| Funding package | Pending |
 
-- 项目页面：https://www.physics.utoronto.ca/graduate-studies/
+## Source
 
-## 匹配度评估
+| Field | Value |
+|------|-------|
+| Official program URL | Pending |
+| Last verified | Pending |
 
-- **等级：** Match
-- **理由：** 本校项目，GPA 刚好达到最低要求，科研经历加分。但竞争激烈，不保证录取。
+## Match assessment
 
-## 备注
+| Field | Value |
+|------|-------|
+| Match level | Pending |
+| Reason | Pending |
 
-- 分类：Match
-- 推荐信：本校教授推荐信可能更有说服力
+## Notes
+
+- Add any caveats about thesis requirements, supervisor matching, or country-specific rules.

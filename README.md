@@ -1,35 +1,44 @@
 # graduate-apply
 
-Graduate school application research project for **Fall 2027** intake.
+Graduate school application research workspace for Fall 2027 intake.
 
-## Applicant Snapshot
+## What this repo is for
+
+Use this repo to collect, verify, and compare graduate programs and advisors for an applicant with a physics background. The goal is not broad research notes; the goal is a structured decision database that another model can continue updating without guessing.
+
+## Core inputs
 
 | Item | Detail |
 |------|--------|
-| University | University of Toronto, Physics |
-| GPA | 3.0/4.0 (junior) |
+| Applicant | University of Toronto, Physics |
+| GPA | 3.0/4.0 |
 | GRE | 317 (Q 166) |
-| TOEFL/IELTS | Waived (English-instruction university) |
-| Research 1 | Dark matter c–M relation, Bayesian MCMC + PyMC 5, first-author paper (submitting) — Princeton professor, weak LoR |
-| Research 2 | 1-on-1 with UCL physics professor, just started (May 2026) |
-| Skills | Python (GPA 4.0 in 2 courses), PyMC 5, Bayesian inference |
-| Target | Physics PhD, Physics Master, Data Science Master |
+| English test | Waived by English-instruction university |
+| Research | Dark matter c–M relation, Bayesian MCMC + PyMC 5, first-author paper in progress |
+| Current collaboration | 1-on-1 with UCL physics professor, started May 2026 |
+| Skills | Python, PyMC 5, Bayesian inference |
+| Targets | Physics PhD, Physics Master, Data Science Master |
 
-## Directory
+## Repository map
 
-| Folder | Purpose |
-|--------|---------|
-| `physics-phd/` | Physics PhD programs + advisor info |
-| `physics-master/` | Physics Master programs |
-| `ds-master/` | Data Science Master programs |
-| `guides/` | Search templates, country differences |
-| `background.md` | Full applicant profile |
-| `targets.md` | Target regions and program lists |
-| `AGENTS.md` | Complete search and evaluation guidelines |
+| Folder | Role |
+|--------|------|
+| [physics-phd/](physics-phd/) | Physics PhD programs and advisor records |
+| [physics-master/](physics-master/) | Physics Master programs |
+| [ds-master/](ds-master/) | Data Science Master programs |
+| [guides/](guides/) | Search heuristics and country comparisons |
+| [background.md](background.md) | Full applicant profile |
+| [targets.md](targets.md) | Target regions and program prioritization |
+| [AGENTS.md](AGENTS.md) | Operating rules for search, evaluation, and file updates |
 
-## Workflow
+## Working rules
 
-1. Search programs/ advisors via official websites
-2. Create per-school `.md` files in the relevant folder
-3. Update the `README.md` summary tables in each folder
-4. Track contact status (emails sent, replies, etc.) in advisor tables
+1. Use official program, admissions, and lab sources first.
+2. Create one file per program or advisor before updating the summary table.
+3. Record the source URL and the last-verified date for every entry.
+4. Separate facts from judgment: requirements and deadlines are facts; match level is an assessment.
+5. Do not leave placeholders in final entries unless the source truly does not provide the field.
+
+## Output standard
+
+Every entry should answer four questions: can the applicant apply, what is required, how strong is the fit, and what needs follow-up. If the answer is uncertain, mark it explicitly instead of inferring.

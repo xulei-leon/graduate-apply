@@ -1,60 +1,54 @@
-# EXAMPLE — 请删除此文件后创建真实条目
+# Example template
 
-## 学校信息
+Use this file as a copyable pattern for a real advisor record. Replace every placeholder with verified source-backed data before keeping the file in the repository.
 
-- **国家：** 美国
-- **学校：** Princeton University
-- **项目名称：** PhD in Physics
-- **院系：** Department of Astrophysical Sciences
+## Program information
 
-## 申请要求
+| Field | Value |
+|------|-------|
+| Country | Pending |
+| University | Pending |
+| Program name | Pending |
+| Department | Pending |
+| Degree type | PhD |
 
-- **GPA 要求：** 无硬性最低线，录取者通常 3.7+
-- **GRE 要求：** 不要求（已取消）
-- **TOEFL/IELTS：** 免考（本科英语授课）
-- **招生规模：** 每年约 15–20 人（全系）
+## Admissions and funding
 
-## 截止日期
+| Field | Value |
+|------|-------|
+| GPA requirement | Pending |
+| GRE requirement | Pending |
+| TOEFL/IELTS | Pending |
+| Cohort size | Pending |
+| Main deadline | Pending |
+| Fellowship deadline | Pending |
+| Funding model | Pending |
+| Self-funded accepted | Pending |
+| Official program URL | Pending |
+| Last verified | Pending |
 
-- **申请截止：** 2027 年 12 月 1 日（fellowship 优先截止）
+## Advisor information
 
-## 费用与奖学金
+| Field | Value |
+|------|-------|
+| Name | Pending |
+| Title | Pending |
+| Department | Pending |
+| Research focus | Pending |
+| Current projects / grants | Pending |
+| Representative papers | Pending |
+| Recruiting? | Pending |
+| Outreach needed? | Pending |
+| Contact status | Not contacted |
 
-- **资助：** 所有录取 PhD 学生均获得全额资助（学费全免 + 生活津贴）
+## Match assessment
 
-## 导师信息
+| Field | Value |
+|------|-------|
+| Match level | Pending |
+| Reason | Pending |
 
-- **姓名：** Dr. Jane Smith（虚构示例）
-- **职称：** Professor of Astrophysical Sciences
-- **所在院系：** Department of Astrophysical Sciences
+## Notes
 
-### 研究方向
-
-- 暗物质 halo 形成与演化
-- 星系动力学建模
-- Bayesian 统计方法在天体物理中的应用
-
-### 当前课题 / 基金
-
-- NSF 项目："Bayesian Approaches to Dark Matter Halo Inference"（2024–2027）
-- 使用 MCMC + 星系巡天数据约束暗物质模型
-
-### 代表性论文（近 3 年）
-
-1. Smith+ (2025) "Hierarchical Bayesian Inference of c–M Relation from MaNGA", ApJ, 在审
-2. Smith+ (2024) "Bayesian Population-Level Dark Matter Halo Modeling", MNRAS, 961, 123
-3. Smith+ (2023) "MCMC in Astrophysics: A Practical Guide", ARA&A, 61, 45
-
-### 是否招生
-
-- **是否招生：** 是（实验室网站标注 "Accepting PhD students for Fall 2027"）
-
-## 匹配度评估
-
-- **等级：** 高
-- **理由：** 研究方向（暗物质 c–M relation、Bayesian MCMC、星系动力学）与申请人科研经历高度重合。方法学（PyMC / MCMC）直接可用。
-
-## 套磁
-
-- **是否需要套磁：** 是
-- **套磁状态：** 未联系
+- Add only source-backed facts.
+- Keep research fit separate from contact strength.
