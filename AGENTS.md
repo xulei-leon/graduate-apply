@@ -117,3 +117,75 @@
 - 申请季：2026年秋 – 2027年初（fall 2027 入学）
 - 提前批次 / 奖学金截止通常在 12月–1月
 - 建议在 2026年9月前完成套磁
+
+### 9. GPA 3.0 竞争力定位
+
+在不同国家的申请体系中，GPA 3.0 的竞争力不同：
+
+| 国家 | 竞争力定位 | 说明 |
+|------|-----------|------|
+| **美国** | **偏低** | 研究型 PhD / Master 项目通常期望 3.3+。优势在于科研经历和论文可弥补 GPA 短板。建议扩大选校范围至排名 30–80 的学校 |
+| **加拿大** | **中等** | U of T 本校 GPA 3.0 在加拿大体系内仍可申请大多数 Master 项目，但非保底 |
+| **英国** | **中等偏低** | 英国要求学位等级（一等/二等一）。多伦多大学 3.0 约对应 UK 2:1（60–65%），**非 G5 学校**仍有竞争力 |
+| **瑞士** | **中等** | ETH Zurich / EPFL 看重学术背景和课程匹配度，GPA 3.0 在边缘范围但可尝试 |
+| **新加坡** | **中等** | NUS / NTU 对 U of T 出身认可度较高，GPA 3.0 可申，科研经历加分 |
+| **香港** | **中等** | HKU / CUHK / HKUST 对 U of T 认可度高，GPA 3.0 在范围内 |
+| **澳大利亚** | **中等** | 澳洲八大通常要求相当于澳洲 65%+ 的水平，U of T 3.0 在范围内 |
+
+### 10. 分级分类标准 (Safe / Match / Reach)
+
+搜索时对每个项目给出分类：
+
+| 等级 | 定义 | GPA 参考范围 | 示例 |
+|------|------|-------------|------|
+| **Reach** | 录取率低或要求明显高于背景 | 项目平均 GPA > 3.5 | Ivy League + MIT/Stanford/Caltech 的 PhD 项目；G5 的强竞争项目 |
+| **Match** | 背景在录取范围的中位或偏下 | 项目平均 GPA 3.0–3.5 | 排名 30–60 的美国物理 PhD；加拿大/澳洲/香港 Master；非 G5 英国 Master |
+| **Safe** | 背景明显高于录取平均水平 | 项目平均 GPA < 2.8 或已知录取友好 | 低排名学校或录取率高的项目。**物理/DS Master 中很少存在"保底"，需谨慎判断** |
+
+分类说明：
+- 申请人 GPA 3.0 偏低，**不应过度依赖 "Safe" 分类**，即使分类为 "Safe" 也不能保证录取
+- Reach/Match/Safe 应在学校对应的 `备注` 字段标注
+- 分类应结合项目具体要求而非仅看排名
+- 论文发表 + 科研经历可使 Match 升级为强 Match，或 Reach 降级为 Match
+
+### 11. 信息提取 Checklist
+
+搜索每个项目时，按以下路径查找各字段：
+
+| 字段 | 查找位置 | 备注 |
+|------|---------|------|
+| GPA 要求 | Admissions → Requirements | 多数写最低要求（如 3.0/4.0）或"strong academic record"；英国看学位等级要求 |
+| GRE 要求 | Admissions → Requirements / FAQ | 是否 required / recommended / waived for 2027 |
+| TOEFL/IELTS | Admissions → International | 英语授课本科满 X 年通常免考 |
+| 先修课 | Program curriculum / handbook / FAQ | 特别注意线性代数、微积分、统计、编程要求 |
+| 学费 | Program tuition page | 区分本地/国际生 |
+| 奖学金 | Funding / Financial Aid | 是否 automatic consideration / 需单独申请 |
+| 招生人数 | Program page / About | 也可在 GradCafe / 论坛查 |
+| 截止日期 | Admissions → Deadlines | 区分 priority / regular / scholarship deadline |
+| 导师研究 | Lab website → People + Research + Publications | 看 Recent publications (近 3 年)、Grants、Open positions |
+| 导师是否招生 | Lab website / FAQ / Email | 明确写 "recruiting" / "hiring" / "accepting students" 为 Yes；否则默认 Unknown |
+
+### 12. 搜索查询模板
+
+根据不同目标国家和平台，推荐使用以下搜索词（依需要组合）：
+
+#### 按国家
+- **美国 PhD:** `site:edu "Physics PhD" admissions requirements`
+- **美国 Master:** `site:edu "Master of Science" Physics`
+- **加拿大 Master:** `site:ca "MSc" Physics admission requirements`
+- **英国 Master:** `site:ac.uk "MSc" Physics entry requirements`
+- **瑞士 Master:** `site:ch "Master" Physics ETH` / `site:ch "Master" Physics EPFL`
+- **新加坡:** `site:edu.sg "Master" Physics` / `site:edu.sg "PhD" Physics`
+- **香港:** `site:edu.hk "MSc" Physics`
+- **澳大利亚:** `site:edu.au "Master" Physics`
+
+#### DS Master 专项
+- `site:edu "Data Science" Master admission requirements`
+- `"Data Science" MSc "application requirements" 2027`
+- `"Master of Data Science" prerequisites`
+
+#### 导师搜索
+- `site:edu "dark matter" "Bayesian" professor physics` — 找方向匹配的教授
+- `"galaxy dynamics" "MCMC" "professor"` — 找方法匹配的教授
+- `site:edu "faculty" "computational astrophysics"` — 计算天体物理方向
+- 进入导师 lab 网站后查看:  People →  Publications →  Research →  Join / Openings
