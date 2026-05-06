@@ -122,3 +122,74 @@ Use these query patterns when starting a new search:
 ## 8. Quality bar
 
 Every entry should make the next model's job easier by answering four questions without interpretation: can the applicant apply, what is required, how strong is the fit, and what source supports the claim. If a field cannot be verified from a reliable source, leave it explicitly unresolved.
+
+## 9. Search workflow and targets
+
+### 9.1 School ranking filter
+
+Only consider programs that meet at least one of these criteria:
+
+| Criterion | Details |
+|-----------|---------|
+| QS World University Rankings | Top 100 overall **or** top 100 in the relevant subject (Physics & Astronomy, Computer Science, Statistics, or Data Science) |
+| US NEWS Best National Universities (US only) | Top 50 overall **or** top 50 in the relevant subject (Physics, Computer Science, or Statistics) |
+
+Use the most recent published rankings. If a school does not meet this bar, do not add it.
+
+### 9.2 Quantitative targets per category
+
+| Category | Number of targets |
+|----------|-------------------|
+| Physics PhD (programs + advisors) | 30 |
+| Physics Master | 30 |
+| Data Science Master | 15 |
+
+Distribute targets across the agreed regions proportionally. For example, Physics Master should cover all 7 regions, with more weight on the US and UK.
+
+### 9.3 Per-category instructions
+
+#### Physics PhD (physics-phd/)
+
+- Search for programs at QS-100 / US NEWS-50 universities in the US and Singapore.
+- For every program, identify 1–3 potential advisors whose research overlaps with Bayesian inference, dark matter, galaxy dynamics, computational astrophysics, or PyMC-style methods.
+- Create one file per **advisor** (not per program). If multiple advisors at the same university fit, create separate files for each.
+- **Not every university needs an advisor file** — only create files for advisors whose research is a genuine match (high or medium).
+- Record the program-level info in the advisor file's header section. The program index table tracks which universities have one or more matched advisors.
+
+#### Physics Master (physics-master/)
+
+- Search for physics or astronomy master programs (MSc, MPhys, MASt, etc.).
+- Favour programs with a computational, data-analysis, or quantitative-skills component.
+- Create one `.md` file per program.
+- If a university offers multiple relevant tracks, you may combine them into one file or split as needed.
+
+#### Data Science Master (ds-master/)
+
+- Search for DS / Data Analytics / Applied Statistics master programs that accept STEM backgrounds.
+- Prioritise programs that explicitly welcome non-CS majors or note that a physics background is sufficient.
+- Create one `.md` file per program.
+
+### 9.4 Step 1 — Search and capture
+
+For each target program or advisor:
+
+1. Open the official program / admissions / advisor page.
+2. Extract all fields required by section 3.
+3. Save to a single `.md` file in the correct folder.
+4. Update the folder `README.md` index table with a summary row.
+5. Move to the next target.
+
+### 9.5 Step 2 — Summarise
+
+After all targets in a category have been captured:
+
+1. Ensure the folder `README.md` index table is complete and up to date.
+2. For each entry, add or verify:
+   - **Match level** (High / Medium / Low)
+   - **Difficulty** (Safe / Match / Reach), using the definitions in section 5 and section 10 of the older guide (see `country-differences.md` for context)
+   - **Deadline** — highlight any approaching deadlines
+3. Sort the table by priority: Reach items first (they need the most preparation), then Match, then Safe.
+
+### 9.6 Diversity requirement
+
+Spread targets across regions and institution tiers. Do not concentrate all 30 Physics Master picks on US schools alone. Ensure at least 2–3 entries per region (Canada, UK, Switzerland, Singapore, Hong Kong, Australia) are present in the Master categories.
