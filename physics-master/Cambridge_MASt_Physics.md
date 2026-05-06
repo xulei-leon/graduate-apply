@@ -1,0 +1,19 @@
+# University of Cambridge — MASt in Physics
+
+- **Country:** United Kingdom
+- **University:** University of Cambridge
+- **Program:** Master of Advanced Study (MASt) in Physics
+- **Department:** Department of Physics
+- **Track:** Physics
+- **GPA requirement:** High II.i (US: ~3.3–3.5 equivalent); typical admitted: First
+- **GRE requirement:** Not required
+- **TOEFL/IELTS:** TOEFL 100 / IELTS 7.0
+- **Prerequisites:** Strong Honours degree in Physics; core physics knowledge (QM, CM, stat mech, electrodynamics)
+- **Cohort size:** ~40–50
+- **Deadline:** December 3 (funding), May 14 (final)
+- **Funding:** Limited; Gates Cambridge (US round Oct 15)
+- **Tuition:** ~£35k/year (international)
+- **Source:** https://www.postgraduate.study.cam.ac.uk/courses/directory/pcphasphy/requirements
+- **Last verified:** 2026-05-06
+- **Match:** Low — typical admitted grade is high First
+- **Notes:** 9-month program. Requires ATAS. Classified as Reach.

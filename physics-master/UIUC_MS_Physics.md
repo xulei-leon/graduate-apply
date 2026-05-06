@@ -1,0 +1,19 @@
+# UIUC — MS Physics
+
+- **Country:** United States
+- **University:** University of Illinois Urbana-Champaign
+- **Program:** MS Physics
+- **Department:** Department of Physics
+- **Track:** Physics / Computational Physics
+- **GPA requirement:** Minimum 3.0/4.0 (last 2 years)
+- **GRE requirement:** Not required
+- **TOEFL/IELTS:** Waived for 2+ years English-instruction
+- **Prerequisites:** BSc in physics, astronomy or related; intermediate courses in classical mechanics, electrodynamics, QM; programming familiarity (Python, C++, Java)
+- **Cohort size:** ~20–30
+- **Deadline:** June 1 (May 1 for international)
+- **Funding:** Limited for MS students; mostly self-funded
+- **Tuition:** ~$35k–$45k/year (international)
+- **Source:** https://physics.illinois.edu/academics/masters/application-process
+- **Last verified:** 2026-05-06
+- **Match:** Medium — GPA meets minimum; programming requirement matches Python skills
+- **Notes:** Rolling admissions. Statement of purpose, 2 LoRs, resume required. Classified as Match.

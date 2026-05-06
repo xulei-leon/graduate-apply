@@ -1,0 +1,19 @@
+# University of Toronto — MSc Physics
+
+- **Country:** Canada
+- **University:** University of Toronto
+- **Program:** MSc Physics (Thesis)
+- **Department:** Department of Physics
+- **Track:** Physics / Computational Physics
+- **GPA requirement:** Mid-B (approx. 3.0/4.0) minimum; competitive applicants typically higher
+- **GRE requirement:** Not required
+- **TOEFL/IELTS:** Waived for English-instruction degrees
+- **Prerequisites:** Honours BSc in Physics or equivalent rigour
+- **Cohort size:** ~40–50 across all fields
+- **Deadline:** December 12 (all materials + references)
+- **Funding:** Guaranteed funding package (~$25k CAD/year via TA/RA)
+- **Tuition:** ~$15k CAD/year (international)
+- **Source:** https://www.physics.utoronto.ca/graduate/prospective-students/graduate-admissions-department-physics/
+- **Last verified:** 2026-05-06
+- **Match:** Medium — home institution, GPA meets minimum, research experience helps
+- **Notes:** Application opens September 16. Two reference letters required. Direct-entry PhD also considered automatically. Classified as Match.

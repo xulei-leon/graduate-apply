@@ -1,0 +1,19 @@
+# University of Oxford — MSc Mathematical and Theoretical Physics
+
+- **Country:** United Kingdom
+- **University:** University of Oxford
+- **Program:** MSc Mathematical and Theoretical Physics
+- **Department:** Physics
+- **Track:** Theoretical Physics
+- **GPA requirement:** First-class degree (US: 3.7/4.0 equivalent)
+- **GRE requirement:** Not required
+- **TOEFL/IELTS:** Higher level (TOEFL 110, IELTS 7.5)
+- **Prerequisites:** First-class degree in mathematics, physics or related
+- **Cohort size:** ~62
+- **Deadline:** January 28 (final deadline)
+- **Funding:** Limited; Clarendon, Oxford scholarships (competitive)
+- **Tuition:** ~£35k/year (international)
+- **Source:** https://www.ox.ac.uk/admissions/graduate/courses/msc-mathematical-and-theoretical-physics
+- **Last verified:** 2026-05-06
+- **Match:** Low — GPA 3.0 significantly below 3.7 typical requirement
+- **Notes:** 9-month program. Requires ATAS clearance. Classified as Reach.

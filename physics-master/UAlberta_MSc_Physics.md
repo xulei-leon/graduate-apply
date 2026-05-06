@@ -1,0 +1,19 @@
+# University of Alberta — MSc Physics
+
+- **Country:** Canada
+- **University:** University of Alberta
+- **Program:** MSc Physics (Thesis)
+- **Department:** Department of Physics
+- **Track:** Physics
+- **GPA requirement:** Minimum 3.0/4.0 on last 60 units
+- **GRE requirement:** Not required
+- **TOEFL/IELTS:** Waived for English-instruction degrees
+- **Prerequisites:** BSc in physics, engineering physics, geophysics or equivalent
+- **Cohort size:** ~15–20
+- **Deadline:** Varies by term; check department
+- **Funding:** TA/RA available
+- **Tuition:** ~$10k CAD/year (international)
+- **Source:** https://www.ualberta.ca/en/graduate-programs/master-of-science-physics.html
+- **Last verified:** 2026-05-06
+- **Match:** Medium — safety option within Canada; GPA meets minimum
+- **Notes:** Three reference letters, statement of purpose, CV required. Classified as Match.

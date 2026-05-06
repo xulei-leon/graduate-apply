@@ -1,0 +1,19 @@
+# University of British Columbia — MSc Physics
+
+- **Country:** Canada
+- **University:** University of British Columbia
+- **Program:** MSc Physics (Thesis)
+- **Department:** Physics & Astronomy
+- **Track:** Physics / Astrophysics
+- **GPA requirement:** 80%+ (B+ minimum, competitive well above)
+- **GRE requirement:** Not required
+- **TOEFL/IELTS:** Waived for English-instruction degrees
+- **Prerequisites:** BSc in physics, astronomy, or related with courses in E&M, QM, stat mech
+- **Cohort size:** ~30–35 enrolled
+- **Deadline:** December 1 (application), December 15 (supporting documents)
+- **Funding:** 50% of students receive $34k+/year funding; ~$10k tuition (international)
+- **Tuition:** ~$10k CAD/year (international)
+- **Source:** https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics
+- **Last verified:** 2026-05-06
+- **Match:** Medium — strong overlap with dark matter research at UBC
+- **Notes:** Students can transfer to PhD after 1 year with 85%+ avg. Three reference letters. Classified as Match/Reach.

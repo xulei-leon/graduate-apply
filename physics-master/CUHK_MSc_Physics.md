@@ -1,0 +1,19 @@
+# Chinese University of Hong Kong — MSc Physics
+
+- **Country:** Hong Kong
+- **University:** Chinese University of Hong Kong (CUHK)
+- **Program:** MSc Physics
+- **Department:** Department of Physics
+- **Track:** Physics
+- **GPA requirement:** Second Class Honours or B average or above
+- **GRE requirement:** Not required
+- **TOEFL/IELTS:** Waived for English-instruction degrees
+- **Prerequisites:** BSc in Science or Engineering with sufficient Physics preparation
+- **Cohort size:** ~20–30
+- **Deadline:** September 1 – May 15 (rolling)
+- **Funding:** Self-funded
+- **Tuition:** HKD ~192,000/year
+- **Source:** https://wp.phy.cuhk.edu.hk/postgraduate-admissions/msc-in-physics
+- **Last verified:** 2026-05-06
+- **Match:** Medium — coursework-based; GPA likely meets B average threshold
+- **Notes:** 1-year full-time. Dissertation option available. Classified as Match.

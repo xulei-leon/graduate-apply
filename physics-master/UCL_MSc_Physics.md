@@ -1,0 +1,19 @@
+# University College London — MSc Physics
+
+- **Country:** United Kingdom
+- **University:** University College London (UCL)
+- **Program:** MSc Physics
+- **Department:** Department of Physics and Astronomy
+- **Track:** Physics
+- **GPA requirement:** Upper second-class (2:1) in a physics-based programme (US: ~3.0–3.3)
+- **GRE requirement:** Not required
+- **TOEFL/IELTS:** Level 2; waived if English-instruction degree
+- **Prerequisites:** Strong physics-based undergraduate degree
+- **Cohort size:** ~30–40
+- **Deadline:** June 26 (visa applicants), August 28 (non-visa)
+- **Funding:** Limited; competitive scholarships
+- **Tuition:** ~£35k/year (international)
+- **Source:** https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/physics-msc
+- **Last verified:** 2026-05-06
+- **Match:** Medium — 2:1 is reachable; UCL is strong in physics
+- **Notes:** 1-year MSc. ATAS may be required. £90 application fee. 2 references required. Classified as Match.

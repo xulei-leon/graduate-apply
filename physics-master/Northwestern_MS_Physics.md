@@ -1,0 +1,19 @@
+# Northwestern University — MS Physics
+
+- **Country:** United States
+- **University:** Northwestern University
+- **Program:** MS Physics
+- **Department:** Department of Physics and Astronomy
+- **Track:** Physics
+- **GPA requirement:** No strict minimum; holistic review
+- **GRE requirement:** Optional (not required)
+- **TOEFL/IELTS:** Waived for English-instruction degrees
+- **Prerequisites:** BSc in Physics or related
+- **Cohort size:** ~10–15
+- **Deadline:** Rolling; Fall admission
+- **Funding:** Self-funded; TA/RA limited
+- **Tuition:** ~$55k/year (international)
+- **Source:** https://www.physics.northwestern.edu/graduate/master-degree/index.html
+- **Last verified:** 2026-05-06
+- **Match:** Medium — GPA 3.0 meets likely threshold; thesis and non-thesis tracks
+- **Notes:** Two paths: Standard (thesis, 1 year) and Broad (non-thesis, 15 months). Classified as Match.

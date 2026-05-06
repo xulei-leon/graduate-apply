@@ -1,0 +1,19 @@
+# University of New South Wales — MSc Physics (by Research)
+
+- **Country:** Australia
+- **University:** University of New South Wales (UNSW Sydney)
+- **Program:** MSc Physics (by Research)
+- **Department:** School of Physics
+- **Track:** Physics / Computational Physics
+- **GPA requirement:** 4-year Bachelor with First or Upper Second Class Honours
+- **GRE requirement:** Not required
+- **TOEFL/IELTS:** IELTS 6.5 (min 6.0 each); waived if English-instruction
+- **Prerequisites:** Honours degree in Physics
+- **Cohort size:** ~10–20
+- **Deadline:** Multiple intakes (Feb, Jun, Sep)
+- **Funding:** Limited
+- **Tuition:** AUD ~45k–55k/year (international)
+- **Source:** https://www.unsw.edu.au/
+- **Last verified:** 2026-05-06
+- **Match:** Medium — research-focused; alternative pathway via Postgraduate Diploma
+- **Notes:** If honours requirement not met, 1-year Postgraduate Diploma pathway available. Classified as Match.

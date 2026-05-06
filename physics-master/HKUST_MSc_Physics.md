@@ -1,0 +1,19 @@
+# Hong Kong University of Science and Technology — MSc Physics
+
+- **Country:** Hong Kong
+- **University:** Hong Kong University of Science and Technology (HKUST)
+- **Program:** MSc Physics
+- **Department:** Department of Physics
+- **Track:** Physics
+- **GPA requirement:** Bachelor's degree from a recognized institution
+- **GRE requirement:** Not required
+- **TOEFL/IELTS:** Waived for English-instruction degrees
+- **Prerequisites:** BSc in Physics, Applied Physics, Optics, Mathematics, or related
+- **Cohort size:** ~15–25
+- **Deadline:** June 15 (non-local), July 15 (local) for Fall 2026
+- **Funding:** Self-funded
+- **Tuition:** HKD ~180,000/year
+- **Source:** https://prog-crs.hkust.edu.hk/pgprog/2026-27/msc-phys
+- **Last verified:** 2026-05-06
+- **Match:** Medium — coursework-based; open to related disciplines
+- **Notes:** Rolling admissions. Classified as Match.

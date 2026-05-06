@@ -1,0 +1,19 @@
+# Nanyang Technological University — MSc Physics
+
+- **Country:** Singapore
+- **University:** Nanyang Technological University (NTU)
+- **Program:** MSc Physics (by Research)
+- **Department:** School of Physical and Mathematical Sciences (SPMS)
+- **Track:** Physics / Applied Physics
+- **GPA requirement:** BSc in Physics with at least Second-Upper Honours or equivalent
+- **GRE requirement:** Strongly encouraged (GRE General)
+- **TOEFL/IELTS:** Required for non-English-instruction
+- **Prerequisites:** BSc in Physics or related discipline
+- **Cohort size:** ~15–25
+- **Deadline:** October–January (August intake), June–July (January intake)
+- **Funding:** Self-funded for MSc; scholarships only for PhD
+- **Tuition:** SGD ~45k (self-funded)
+- **Source:** https://www.ntu.edu.sg/spms/about-us/physics/grad/msc-in-physics
+- **Last verified:** 2026-05-06
+- **Match:** Medium — GRE Q166 helps; research-oriented
+- **Notes:** Must find supervisor before applying. May need alternative evaluation if no GRE/GATE. Classified as Match.

@@ -1,0 +1,19 @@
+# Boston University — MS Physics
+
+- **Country:** United States
+- **University:** Boston University
+- **Program:** MS Physics
+- **Department:** Department of Physics
+- **Track:** Physics
+- **GPA requirement:** 3.0/4.0 minimum recommended
+- **GRE requirement:** Not required
+- **TOEFL/IELTS:** Waived for English-instruction degrees
+- **Prerequisites:** BSc in Physics or equivalent
+- **Cohort size:** ~10–15
+- **Deadline:** Varies; typically Spring/Fall admission
+- **Funding:** Limited for MS; TA/RA competitive
+- **Tuition:** ~$55k/year (international)
+- **Source:** https://www.bu.edu/physics/graduate/
+- **Last verified:** 2026-05-06
+- **Match:** Medium — GPA meets threshold; research experience valued
+- **Notes:** Thesis and non-thesis tracks. Classified as Match.

@@ -1,0 +1,19 @@
+# King's College London — MSc Physics
+
+- **Country:** United Kingdom
+- **University:** King's College London
+- **Program:** MSc Physics
+- **Department:** Department of Physics
+- **Track:** Physics
+- **GPA requirement:** 2:1 Honours (US: ~3.0–3.3 equivalent)
+- **GRE requirement:** Not required
+- **TOEFL/IELTS:** Band D
+- **Prerequisites:** 2:1 in Physics; related degrees considered case-by-case
+- **Cohort size:** ~30–40
+- **Deadline:** March 9 (first), July 25 (international final)
+- **Funding:** Limited
+- **Tuition:** ~£30k/year (international)
+- **Source:** https://www.kcl.ac.uk/study/postgraduate-taught/courses/physics-msc/requirements
+- **Last verified:** 2026-05-06
+- **Match:** Medium — 2:1 is within reach for 3.0 GPA; research experience helps
+- **Notes:** Requires ATAS. 1-year taught program. Classified as Match.
