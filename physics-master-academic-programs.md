@@ -36,11 +36,8 @@ Research-oriented physics master programs requiring a thesis or substantial rese
 | 28 | Germany | [TU Munich](physics-master/TUM_MSc_Physics.md) | 22 (2026) |  | MSc Physics (AEP) | Academic/Research | 2 years | Yes | Physics/Applied | Good BSc | Not req | May 31 | ~€3k/sem | Medium | Reach |
 | 29 | Germany | [LMU Munich](physics-master/LMU_MSc_Physics.md) | 54 |  | MSc Physics | Academic/Research | 2 years | Yes | Physics | Aptitude | GRE (non-EU) | Jul 15 | Tuition-free | Medium | Match |
 | 30 | Germany | [Heidelberg University](physics-master/Heidelberg_MSc_Physics.md) | 87 |  | MSc Physics | Academic/Research | 2 years | Yes | Physics/Astro | ≥2.9 German | Not req | Jul 15 | €1.5k/sem | Medium | Match |
-| 31 | Germany | [KIT](physics-master/KIT_MSc_Physics.md) | 102 |  | MSc Physics | Academic/Research | 2 years | Yes | Physics/Particle | Good BSc | Not req | Jul 15 | €1.5k/sem | Medium | Match |
-| 32 | Germany | [FAU Erlangen-Nürnberg](physics-master/FAU_MSc_Physics.md) | 248 |  | MSc Physics | Academic/Research | 2 years | Yes | Physics/Comp | ≥2.5 German | Not req | Jul 15 | Tuition-free | Medium | Match |
-| 33 | Germany | [University of Stuttgart](physics-master/Stuttgart_MSc_Physics.md) | 285 |  | MSc Physics | Academic/Research | 2 years | Yes | Physics/Comp | Above avg | Not req | Feb 15 | €1.5k/sem | Medium | Match |
-| 34 | Singapore | [NUS](physics-master/NUS_MSc_Physics_byResearch.md) | 8 (2026) |  | MSc Physics by Research | Academic/Research | 1–2 years | Yes | Research | Honours with Dist | Not req | Oct–Jan | SGD ~45k total | Medium | Match |
-| 35 | Singapore | [NTU](physics-master/NTU_MSc_Physics.md) | 15 (2026) |  | MSc Physics | Academic/Research | 1–2 years | Yes | Research | 2nd Up Honours | Encouraged | Oct–Jan | SGD ~45k total | Medium | Match |
+| 31 | Singapore | [NUS](physics-master/NUS_MSc_Physics_byResearch.md) | 8 (2026) |  | MSc Physics by Research | Academic/Research | 1–2 years | Yes | Research | Honours with Dist | Not req | Oct–Jan | SGD ~45k total | Medium | Match |
+| 32 | Singapore | [NTU](physics-master/NTU_MSc_Physics.md) | 15 (2026) |  | MSc Physics | Academic/Research | 1–2 years | Yes | Research | 2nd Up Honours | Encouraged | Oct–Jan | SGD ~45k total | Medium | Match |
 
 ## Geographic distribution
 
@@ -51,17 +48,17 @@ Research-oriented physics master programs requiring a thesis or substantial rese
 | UK | 6 | Edinburgh, Manchester, Warwick, Durham, Glasgow, Birmingham |
 | Australia | 5 | Melbourne, UNSW, Sydney, ANU, Monash |
 | Switzerland | 2 | ETH, EPFL |
-| Germany | 6 | TUM, LMU, Heidelberg, KIT, FAU, Stuttgart |
+| Germany | 3 | TUM, LMU, Heidelberg |
 | Singapore | 2 | NUS (by Research), NTU |
 
-**Total: 35 targets**
+**Total: 32 targets**
 
 ## Summary by difficulty
 
 | Difficulty | Count | Notes |
 |-----------|-------|-------|
 | Reach | 4 | Cornell, ETH, EPFL, TUM — GPA 3.0 significantly below expected profile |
-| Match | 29 | Within range with research experience to compensate |
+| Match | 26 | Within range with research experience to compensate |
 | Safe | 2 | UofT, UAlberta — GPA meets minimum, acceptance likely more accessible |
 
 ## Per-program files
