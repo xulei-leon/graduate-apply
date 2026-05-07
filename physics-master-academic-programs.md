@@ -5,7 +5,7 @@ Research-oriented physics master programs requiring a thesis or substantial rese
 ## Index table
 
 | # | Country | University | QS rank | US NEWS | Program | Type | Duration | Thesis | Track | GPA req | GRE req | Deadline | Tuition (intl) | Match | Difficulty |
-|---|---------|-----------|--------|---------|------|----------|-------|-------|---------|---------|----------|----------------|-------|------------|
+|---|---------|-----------|--------|--------|---------|------|----------|-------|-------|---------|---------|----------|----------------|-------|------------|
 | 1 | Canada | [University of Toronto](physics-master/UofT_MSc_Physics.md) | 21 |  | MSc Physics | Academic/Research | 2 years | Yes | Physics | Mid-B (~3.0) | Not req | Dec 12 | ~$15k CAD/yr | Medium | Safe |
 | 2 | Canada | [McGill University](physics-master/McGill_MSc_Physics.md) | 29 |  | MSc Physics | Academic/Research | 2 years | Yes | Physics | 3.0 min | Optional | Dec 15 | ~$20k CAD/yr | Medium | Match |
 | 3 | Canada | [UBC](physics-master/UBC_MSc_Physics.md) | 38 |  | MSc Physics | Academic/Research | 2 years | Yes | Physics/Astro | 80%+ | Not req | Dec 1 | ~$10k CAD/yr | Medium | Match |
@@ -45,7 +45,7 @@ Research-oriented physics master programs requiring a thesis or substantial rese
 ## Geographic distribution
 
 | Region | Count | Programs |
-|-------|----------|
+|--------|-------|----------|
 | Canada | 4 | UofT, UBC, McGill, UAlberta |
 | USA | 10 | Duke, Northwestern, Cornell, UCLA, UCSD, UT Austin, NYU, Georgia Tech, UIUC, BU |
 | UK | 6 | Edinburgh, Manchester, Warwick, Durham, Glasgow, Birmingham |

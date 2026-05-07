@@ -5,7 +5,7 @@ Coursework-oriented physics master programs (taught master's) with no thesis req
 ## Index table
 
 | # | Country | University | QS rank | US NEWS | Program | Type | Duration | Thesis | Track | GPA req | GRE req | Deadline | Tuition (intl) | Match | Difficulty |
-|---|---------|-----------|--------|---------|------|----------|-------|-------|---------|---------|----------|----------------|-------|------------|
+|---|---------|-----------|--------|--------|---------|------|----------|-------|-------|---------|---------|----------|----------------|-------|------------|
 | 1 | USA | [Northwestern University](physics-master/Northwestern_MS_Physics.md) | 50 | 6 | MS Physics | Both tracks | 1–1.25 yr | Optional | Physics | Holistic | Optional | Rolling | ~$55k/yr | Medium | Match |
 | 2 | USA | [Boston University](physics-master/BU_MS_Physics.md) | 93 | 42 | MS Physics | Both tracks | 1.5–2 yr | Optional | Physics | 3.0 rec | Not req | Rolling | ~$55k/yr | Medium | Match |
 | 3 | USA | [UW Madison](physics-master/UWMadison_MS_Physics_QuantumComputing.md) ⚠️ | 125 | 36 | MS Physics (QC) | Professional (taught) | 1 year | No | Quantum Comp | 3.0 min | Not req | Mar 15 | ~$40k/yr | Low/Med | Match |
@@ -23,7 +23,7 @@ Coursework-oriented physics master programs (taught master's) with no thesis req
 ## Geographic distribution
 
 | Region | Count | Programs |
-|-------|----------|
+|--------|-------|----------|
 | USA | 3 | Northwestern, BU, UW Madison |
 | UK | 6 | Oxford, Cambridge, Imperial, UCL, Edinburgh, KCL |
 | Singapore | 1 | NUS (Physics for Technology) |
