@@ -1,0 +1,22 @@
+# Friedrich-Alexander-Universität Erlangen-Nürnberg — MSc Physics
+
+- **Country:** Germany
+- **University:** Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
+- **Program:** MSc Physics
+- **Master type:** Academic/Research
+- **Duration:** 2 years (4 semesters)
+- **Research/thesis:** Yes (master's thesis required, 1-year research phase)
+- **Department:** Department of Physics
+- **Track:** Physics / Computational Physics / Materials Physics
+- **GPA requirement:** Bachelor's degree with grade ≥ 2.5 (German grade, ~B average); qualification assessment
+- **GRE requirement:** Not required
+- **TOEFL/IELTS:** English B2 (CEFR)
+- **Prerequisites:** BSc in Physics, Materials Physics, or closely related program
+- **Cohort size:** ~40–60
+- **Deadline:** July 15 (Winter), January 15 (Summer)
+- **Funding:** Tuition-free; €147/semester fees; DAAD scholarships available
+- **Tuition:** Tuition-free (€147/semester fees)
+- **Source:** https://www.fau.eu/degree-program/physics-m-sc/
+- **Last verified:** 2026-05-07
+- **Match:** Medium — strong in computational and materials physics; tuition-free reduces financial risk
+- **Notes:** English-taught program. Qualification assessment process. Good option for safe admission with research experience. QS top 100 in Physics.

@@ -1,0 +1,22 @@
+# Technical University of Munich — MSc Physics (Applied and Engineering Physics)
+
+- **Country:** Germany
+- **University:** Technical University of Munich (TUM)
+- **Program:** MSc Physics (Applied and Engineering Physics)
+- **Master type:** Academic/Research
+- **Duration:** 2 years (4 semesters)
+- **Research/thesis:** Yes (master's thesis required, 1-year research phase)
+- **Department:** Department of Physics
+- **Track:** Physics / Applied Physics / Engineering Physics
+- **GPA requirement:** Good Bachelor's degree in Physics or equivalent; aptitude assessment
+- **GRE requirement:** Not required
+- **TOEFL/IELTS:** English B2; TOEFL 72+ / IELTS 5.5+
+- **Prerequisites:** BSc in Physics or equivalent; core modules in experimental and theoretical physics
+- **Cohort size:** ~60–80
+- **Deadline:** May 31 (Winter), November 30 (Summer)
+- **Funding:** Tuition ~€2k–4k/semester (non-EU); €147/semester fees; DAAD scholarships available
+- **Tuition:** ~€2k–4k/semester (non-EU)
+- **Source:** https://www.tum.de/en/studies/degree-programs/detail/physics-applied-and-engineering-physics-master-of-science-msc
+- **Last verified:** 2026-05-07
+- **Match:** Medium — strong applied/computational physics; GPA below typical German BSc average but research may compensate
+- **Notes:** Research-oriented program. Can apply early with 130+ ECTS. German language not required for admission. QS top 30.

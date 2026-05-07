@@ -1,0 +1,22 @@
+# Karlsruhe Institute of Technology — MSc Physics
+
+- **Country:** Germany
+- **University:** Karlsruhe Institute of Technology (KIT)
+- **Program:** MSc Physics
+- **Master type:** Academic/Research
+- **Duration:** 2 years (4 semesters)
+- **Research/thesis:** Yes (master's thesis required in final year)
+- **Department:** Department of Physics
+- **Track:** Physics / Condensed Matter / Particle Physics / Astroparticle / Optics
+- **GPA requirement:** Good Bachelor's degree; admission committee evaluation (may include interview)
+- **GRE requirement:** Not required
+- **TOEFL/IELTS:** English B2; TOEFL 90+ / IELTS 6.5+
+- **Prerequisites:** BSc in Physics or equivalent; sufficient ECTS in experimental physics, theoretical physics, and lab courses
+- **Cohort size:** ~60–80
+- **Deadline:** July 15 (Winter, non-EU), January 15 (Summer, non-EU); Sep 30 / Mar 31 for EU
+- **Funding:** Tuition €1,500/semester (non-EU, Baden-Württemberg); €161/semester fees
+- **Tuition:** €1,500/semester (non-EU)
+- **Source:** https://www.physik.kit.edu/english/studies/master/physics.php
+- **Last verified:** 2026-05-07
+- **Match:** Medium — strong in particle physics, astroparticle, and computational methods; GPA may be at lower end
+- **Notes:** Program entirely in English. Specialization areas: condensed matter, particle physics, nanophysics, optics, astroparticle physics. QS top 100 in Physics.

@@ -1,0 +1,22 @@
+# Georgia Institute of Technology — MS Physics
+
+- **Country:** United States
+- **University:** Georgia Institute of Technology
+- **Program:** MS Physics
+- **Master type:** Academic/Research
+- **Duration:** 2 years
+- **Research/thesis:** Yes (thesis option with 6 credits of research)
+- **Department:** School of Physics
+- **Track:** Physics / Astrophysics
+- **GPA requirement:** Holistic review; no strict minimum
+- **GRE requirement:** Not required
+- **TOEFL/IELTS:** TOEFL 106 min / IELTS 7.5 min; waived if English-instruction degree
+- **Prerequisites:** BSc in Physics or related; intermediate courses in classical mechanics, E&M, QM, statistical physics
+- **Cohort size:** ~10–15 (MS-specific)
+- **Deadline:** December 15 for Fall admission
+- **Funding:** Self-funded for MS; no TA/RA guaranteed
+- **Tuition:** ~$30k–$40k/year (international)
+- **Source:** https://physics.gatech.edu/academics/graduate/admissions-info
+- **Last verified:** 2026-05-07
+- **Match:** Medium — strong computational/astro programs; GPA at lower end of typical admits
+- **Notes:** MS is a standalone degree; PhD is the primary graduate program at Georgia Tech Physics. BS/MS option available for GT students. QS top 100.

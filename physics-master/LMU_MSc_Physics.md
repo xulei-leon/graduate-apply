@@ -1,0 +1,22 @@
+# Ludwig-Maximilians-Universität München — MSc Physics
+
+- **Country:** Germany
+- **University:** Ludwig-Maximilians-Universität München (LMU Munich)
+- **Program:** MSc Physics
+- **Master type:** Academic/Research
+- **Duration:** 2 years (4 semesters)
+- **Research/thesis:** Yes (master's thesis required)
+- **Department:** Faculty of Physics
+- **Track:** Physics / Astrophysics / Computational Physics
+- **GPA requirement:** Good Bachelor's degree; aptitude assessment
+- **GRE requirement:** Required for non-EU applicants (Physics or Math GRE)
+- **TOEFL/IELTS:** English C1 recommended; no formal certificate required
+- **Prerequisites:** BSc in Physics, Astrophysics, or mathematical-scientific subject area; theoretical physics and math foundations
+- **Cohort size:** ~80–100
+- **Deadline:** July 15 (Winter), January 15 (Summer)
+- **Funding:** Tuition-free; €147/semester fees; scholarships available
+- **Tuition:** Tuition-free (€147/semester fees)
+- **Source:** https://www.physik.lmu.de/en/studies/study-programs/applying-to-a-masters-program/
+- **Last verified:** 2026-05-07
+- **Match:** Medium — strong in astrophysics and computational physics; GRE Physics may help Q166
+- **Notes:** GRE Physics or Math required for non-EU applicants. Comprehensive exam. Can apply twice maximum. QS top 55.
