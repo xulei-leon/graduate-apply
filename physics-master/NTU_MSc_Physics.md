@@ -3,6 +3,9 @@
 - **Country:** Singapore
 - **University:** Nanyang Technological University (NTU)
 - **Program:** MSc Physics (by Research)
+- **Master type:** Academic/Research
+- **Duration:** 1–2 years
+- **Research/thesis:** Yes (by research, thesis required)
 - **Department:** School of Physical and Mathematical Sciences (SPMS)
 - **Track:** Physics / Applied Physics
 - **GPA requirement:** BSc in Physics with at least Second-Upper Honours or equivalent

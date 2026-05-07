@@ -3,6 +3,9 @@
 - **Country:** Australia
 - **University:** University of New South Wales (UNSW Sydney)
 - **Program:** MSc Physics (by Research)
+- **Master type:** Academic/Research
+- **Duration:** 1–2 years
+- **Research/thesis:** Yes (by research, thesis required)
 - **Department:** School of Physics
 - **Track:** Physics / Computational Physics
 - **GPA requirement:** 4-year Bachelor with First or Upper Second Class Honours

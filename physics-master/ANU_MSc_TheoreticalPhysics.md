@@ -3,6 +3,9 @@
 - **Country:** Australia
 - **University:** Australian National University (ANU)
 - **Program:** Master of Science in Theoretical Physics
+- **Master type:** Academic/Research
+- **Duration:** 2 years
+- **Research/thesis:** Yes (thesis required)
 - **Department:** Research School of Physics
 - **Track:** Physics / Theoretical Physics
 - **GPA requirement:** Min GPA 5.0/7.0; 8 cognate courses min GPA 5.0/7.0

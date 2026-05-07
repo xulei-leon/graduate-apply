@@ -3,6 +3,9 @@
 - **Country:** United Kingdom
 - **University:** Imperial College London
 - **Program:** MSc Physics
+- **Master type:** Professional/授课型硕士
+- **Duration:** 1 year
+- **Research/thesis:** Yes (research project component)
 - **Department:** Department of Physics
 - **Track:** Physics
 - **GPA requirement:** First-class Honours degree in Physics or related

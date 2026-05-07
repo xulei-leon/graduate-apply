@@ -3,6 +3,9 @@
 - **Country:** Australia
 - **University:** University of Melbourne
 - **Program:** Master of Science (Physics)
+- **Master type:** Academic/Research
+- **Duration:** 2 years
+- **Research/thesis:** Yes (research project component)
 - **Department:** School of Physics, Faculty of Science
 - **Track:** Physics / Computational Physics
 - **GPA requirement:** Weighted Average Mark (WAM) of 65%+ (H3) or equivalent

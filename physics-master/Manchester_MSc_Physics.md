@@ -3,6 +3,9 @@
 - **Country:** United Kingdom
 - **University:** University of Manchester
 - **Program:** MSc by Research Physics
+- **Master type:** Academic/Research
+- **Duration:** 1 year
+- **Research/thesis:** Yes (purely research-based, thesis required)
 - **Department:** Department of Physics and Astronomy
 - **Track:** Physics / Computational Physics
 - **GPA requirement:** 2:1 Honours degree (US: ~3.0–3.3 equivalent)

@@ -3,6 +3,9 @@
 - **Country:** Hong Kong
 - **University:** Chinese University of Hong Kong (CUHK)
 - **Program:** MSc Physics
+- **Master type:** Professional/授课型硕士
+- **Duration:** 1 year
+- **Research/thesis:** Optional (dissertation option available)
 - **Department:** Department of Physics
 - **Track:** Physics
 - **GPA requirement:** Second Class Honours or B average or above

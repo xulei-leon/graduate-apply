@@ -3,6 +3,9 @@
 - **Country:** Canada
 - **University:** University of Toronto
 - **Program:** MSc Physics (Thesis)
+- **Master type:** Academic/Research
+- **Duration:** 2 years
+- **Research/thesis:** Yes (thesis required)
 - **Department:** Department of Physics
 - **Track:** Physics / Computational Physics
 - **GPA requirement:** Mid-B (approx. 3.0/4.0) minimum; competitive applicants typically higher

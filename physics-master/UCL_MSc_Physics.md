@@ -3,6 +3,9 @@
 - **Country:** United Kingdom
 - **University:** University College London (UCL)
 - **Program:** MSc Physics
+- **Master type:** Professional/授课型硕士
+- **Duration:** 1 year
+- **Research/thesis:** Yes (research project component)
 - **Department:** Department of Physics and Astronomy
 - **Track:** Physics
 - **GPA requirement:** Upper second-class (2:1) in a physics-based programme (US: ~3.0–3.3)

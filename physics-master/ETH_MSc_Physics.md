@@ -3,6 +3,9 @@
 - **Country:** Switzerland
 - **University:** ETH Zurich
 - **Program:** MSc Physics
+- **Master type:** Academic/Research
+- **Duration:** 2 years (4 semesters)
+- **Research/thesis:** Yes (master's thesis required, 6 months)
 - **Department:** Department of Physics
 - **Track:** Physics / Computational Physics / Astrophysics
 - **GPA requirement:** Strong BSc in Physics from a comparable university; holistic review

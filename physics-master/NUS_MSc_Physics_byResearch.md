@@ -3,6 +3,9 @@
 - **Country:** Singapore
 - **University:** National University of Singapore (NUS)
 - **Program:** MSc Physics by Research
+- **Master type:** Academic/Research
+- **Duration:** 1–2 years (max candidature 3 years)
+- **Research/thesis:** Yes (by research, thesis required)
 - **Department:** Department of Physics, Faculty of Science
 - **Track:** Physics
 - **GPA requirement:** Honours with Distinction or equivalent (4-year BSc)

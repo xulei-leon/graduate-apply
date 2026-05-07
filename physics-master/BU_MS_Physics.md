@@ -3,6 +3,9 @@
 - **Country:** United States
 - **University:** Boston University
 - **Program:** MS Physics
+- **Master type:** Both tracks (thesis and non-thesis available)
+- **Duration:** 1.5–2 years
+- **Research/thesis:** Optional (thesis and non-thesis tracks available)
 - **Department:** Department of Physics
 - **Track:** Physics
 - **GPA requirement:** 3.0/4.0 minimum recommended

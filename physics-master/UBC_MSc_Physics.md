@@ -3,6 +3,9 @@
 - **Country:** Canada
 - **University:** University of British Columbia
 - **Program:** MSc Physics (Thesis)
+- **Master type:** Academic/Research
+- **Duration:** 2 years
+- **Research/thesis:** Yes (thesis required)
 - **Department:** Physics & Astronomy
 - **Track:** Physics / Astrophysics
 - **GPA requirement:** 80%+ (B+ minimum, competitive well above)

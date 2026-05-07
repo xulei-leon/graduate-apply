@@ -3,6 +3,9 @@
 - **Country:** United Kingdom
 - **University:** King's College London
 - **Program:** MSc Physics
+- **Master type:** Professional/授课型硕士
+- **Duration:** 1 year
+- **Research/thesis:** No (taught coursework)
 - **Department:** Department of Physics
 - **Track:** Physics
 - **GPA requirement:** 2:1 Honours (US: ~3.0–3.3 equivalent)

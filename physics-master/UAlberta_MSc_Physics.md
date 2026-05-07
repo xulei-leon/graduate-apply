@@ -3,6 +3,9 @@
 - **Country:** Canada
 - **University:** University of Alberta
 - **Program:** MSc Physics (Thesis)
+- **Master type:** Academic/Research
+- **Duration:** 2 years
+- **Research/thesis:** Yes (thesis required)
 - **Department:** Department of Physics
 - **Track:** Physics
 - **GPA requirement:** Minimum 3.0/4.0 on last 60 units

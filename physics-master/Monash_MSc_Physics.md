@@ -3,6 +3,9 @@
 - **Country:** Australia
 - **University:** Monash University
 - **Program:** Master of Science (Physics)
+- **Master type:** Academic/Research
+- **Duration:** 1–2 years (depending on entry pathway)
+- **Research/thesis:** Yes (research pathway available)
 - **Department:** School of Physics and Astronomy, Faculty of Science
 - **Track:** Physics / Computational Physics
 - **GPA requirement:** 65% (high credit) average or equivalent

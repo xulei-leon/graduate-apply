@@ -3,6 +3,9 @@
 - **Country:** Singapore
 - **University:** National University of Singapore (NUS)
 - **Program:** MSc Physics for Technology (MPT)
+- **Master type:** Professional/授课型硕士
+- **Duration:** 1 year (Track 1) / 2 years (Track 2)
+- **Research/thesis:** No (coursework-based, no thesis)
 - **Department:** Department of Physics
 - **Track:** Applied Physics / Computational Physics
 - **GPA requirement:** Bachelor's (Honours) degree or 4-year BSc in Physics/Applied Physics

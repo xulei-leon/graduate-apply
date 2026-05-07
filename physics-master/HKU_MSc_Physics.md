@@ -3,6 +3,9 @@
 - **Country:** Hong Kong
 - **University:** University of Hong Kong (HKU)
 - **Program:** MSc in the field of Physics
+- **Master type:** Professional/授课型硕士
+- **Duration:** 1 year
+- **Research/thesis:** Optional (capstone project available)
 - **Department:** Department of Physics
 - **Track:** Physics / Computational Physics
 - **GPA requirement:** Bachelor's degree in a relevant science or engineering; no strict minimum

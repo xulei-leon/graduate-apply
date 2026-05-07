@@ -3,6 +3,9 @@
 - **Country:** United Kingdom
 - **University:** University of Edinburgh
 - **Program:** MSc Theoretical Physics / MSc Mathematical Physics
+- **Master type:** Professional/授课型硕士
+- **Duration:** 1 year
+- **Research/thesis:** No (taught coursework; dissertation optional in some tracks)
 - **Department:** School of Physics and Astronomy (Higgs Centre)
 - **Track:** Physics / Theoretical Physics
 - **GPA requirement:** UK 2:1 Honours (US: ~3.0–3.3 equivalent)

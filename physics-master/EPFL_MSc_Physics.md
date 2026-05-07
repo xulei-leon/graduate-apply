@@ -3,6 +3,9 @@
 - **Country:** Switzerland
 - **University:** EPFL (École Polytechnique Fédérale de Lausanne)
 - **Program:** MSc Physics
+- **Master type:** Academic/Research
+- **Duration:** 2 years (4 semesters)
+- **Research/thesis:** Yes (master's thesis required)
 - **Department:** School of Basic Sciences — Physics
 - **Track:** Physics
 - **GPA requirement:** Strong academic record; holistic review

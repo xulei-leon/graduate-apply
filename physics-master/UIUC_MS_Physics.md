@@ -3,6 +3,9 @@
 - **Country:** United States
 - **University:** University of Illinois Urbana-Champaign
 - **Program:** MS Physics
+- **Master type:** Academic/Research
+- **Duration:** 2 years
+- **Research/thesis:** Yes (thesis required)
 - **Department:** Department of Physics
 - **Track:** Physics / Computational Physics
 - **GPA requirement:** Minimum 3.0/4.0 (last 2 years)

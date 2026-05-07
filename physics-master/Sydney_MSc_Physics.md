@@ -3,6 +3,9 @@
 - **Country:** Australia
 - **University:** University of Sydney
 - **Program:** Master of Science (Physics)
+- **Master type:** Academic/Research
+- **Duration:** 1–2 years (depending on background)
+- **Research/thesis:** Yes (research project component)
 - **Department:** School of Physics, Faculty of Science
 - **Track:** Physics
 - **GPA requirement:** Australian equivalent of 65%+; varies by pathway

@@ -3,6 +3,9 @@
 - **Country:** United States
 - **University:** University of Texas at Austin
 - **Program:** MS Physics
+- **Master type:** Academic/Research
+- **Duration:** 2 years
+- **Research/thesis:** Yes (thesis required)
 - **Department:** Department of Physics
 - **Track:** Physics / Computational Physics
 - **GPA requirement:** No minimum but 3.0+ for funding eligibility

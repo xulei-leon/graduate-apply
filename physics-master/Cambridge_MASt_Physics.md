@@ -3,6 +3,9 @@
 - **Country:** United Kingdom
 - **University:** University of Cambridge
 - **Program:** Master of Advanced Study (MASt) in Physics
+- **Master type:** Professional/授课型硕士
+- **Duration:** 9 months
+- **Research/thesis:** No (taught coursework)
 - **Department:** Department of Physics
 - **Track:** Physics
 - **GPA requirement:** High II.i (US: ~3.3–3.5 equivalent); typical admitted: First

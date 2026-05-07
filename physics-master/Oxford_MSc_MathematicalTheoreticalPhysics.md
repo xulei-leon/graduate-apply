@@ -3,6 +3,9 @@
 - **Country:** United Kingdom
 - **University:** University of Oxford
 - **Program:** MSc Mathematical and Theoretical Physics
+- **Master type:** Professional/授课型硕士
+- **Duration:** 9 months
+- **Research/thesis:** Yes (dissertation required)
 - **Department:** Physics
 - **Track:** Theoretical Physics
 - **GPA requirement:** First-class degree (US: 3.7/4.0 equivalent)

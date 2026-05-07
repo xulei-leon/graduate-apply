@@ -3,6 +3,9 @@
 - **Country:** United States
 - **University:** University of Wisconsin–Madison
 - **Program:** MS Physics — Quantum Computing named option
+- **Master type:** Professional/授课型硕士
+- **Duration:** 1 year
+- **Research/thesis:** No (coursework-only, 30 credits, no thesis)
 - **Department:** Department of Physics
 - **Track:** Physics / Quantum Computing
 - **GPA requirement:** 3.0/4.0 minimum (last 60 semester hours)

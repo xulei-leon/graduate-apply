@@ -3,6 +3,9 @@
 - **Country:** United States
 - **University:** Cornell University
 - **Program:** MS Applied Physics
+- **Master type:** Academic/Research
+- **Duration:** 2 years
+- **Research/thesis:** Yes (research-oriented, thesis required)
 - **Department:** School of Applied and Engineering Physics
 - **Track:** Applied Physics / Computational Physics
 - **GPA requirement:** No minimum stated; holistic review

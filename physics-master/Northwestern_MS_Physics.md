@@ -3,6 +3,9 @@
 - **Country:** United States
 - **University:** Northwestern University
 - **Program:** MS Physics
+- **Master type:** Both tracks (Standard — Academic/Research; Broad — Professional)
+- **Duration:** 1 year (Standard), 15 months (Broad)
+- **Research/thesis:** Optional (thesis in Standard track, capstone in Broad track)
 - **Department:** Department of Physics and Astronomy
 - **Track:** Physics
 - **GPA requirement:** No strict minimum; holistic review

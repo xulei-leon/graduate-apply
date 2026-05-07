@@ -47,6 +47,9 @@ For every Master entry, capture these fields in the relevant folder README and i
 | Deadline | Main deadline and scholarship deadline if separate |
 | Funding | Tuition and any scholarship/TA/RA support |
 | Source | Official program URL |
+| Master type | Academic/Research Master or Professional/授课型硕士 |
+| Duration | Program length (e.g., 1 year, 2 years) |
+| Research/thesis | Whether the program requires a research project and thesis |
 | Match | High, medium, or low, with one-sentence reason |
 | Notes | Any caveats, including country-specific issues |
 
