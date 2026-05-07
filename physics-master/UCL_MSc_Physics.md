@@ -2,6 +2,7 @@
 
 - **Country:** United Kingdom
 - **University:** University College London (UCL)
+- **Ranking:** QS 9 / Physics 23
 - **Program:** MSc Physics
 - **Master type:** Professional/授课型硕士
 - **Duration:** 1 year

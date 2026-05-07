@@ -2,6 +2,7 @@
 
 - **Country:** United Kingdom
 - **University:** University of Birmingham
+- **Ranking:** QS 80
 - **Program:** MSc by Research (MSc Res) Physics and Astronomy
 - **Master type:** Academic/Research
 - **Duration:** 1 year (full-time)

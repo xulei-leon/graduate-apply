@@ -2,6 +2,7 @@
 
 - **Country:** Germany
 - **University:** Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
+- **Ranking:** QS 248
 - **Program:** MSc Physics
 - **Master type:** Academic/Research
 - **Duration:** 2 years (4 semesters)

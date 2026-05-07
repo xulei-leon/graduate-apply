@@ -2,6 +2,7 @@
 
 - **Country:** United States
 - **University:** Cornell University
+- **Ranking:** QS 16 / Physics 21
 - **Program:** MS Applied Physics
 - **Master type:** Academic/Research
 - **Duration:** 2 years

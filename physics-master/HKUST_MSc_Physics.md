@@ -2,6 +2,7 @@
 
 - **Country:** Hong Kong
 - **University:** Hong Kong University of Science and Technology (HKUST)
+- **Ranking:** QS 47
 - **Program:** MSc Physics
 - **Master type:** Professional/授课型硕士
 - **Duration:** 1 year

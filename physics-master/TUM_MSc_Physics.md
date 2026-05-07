@@ -2,6 +2,7 @@
 
 - **Country:** Germany
 - **University:** Technical University of Munich (TUM)
+- **Ranking:** QS 22 (2026) / Physics 23
 - **Program:** MSc Physics (Applied and Engineering Physics)
 - **Master type:** Academic/Research
 - **Duration:** 2 years (4 semesters)

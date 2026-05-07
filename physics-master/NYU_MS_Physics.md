@@ -2,6 +2,7 @@
 
 - **Country:** United States
 - **University:** New York University (NYU)
+- **Ranking:** QS 38
 - **Program:** MS Physics
 - **Master type:** Academic/Research
 - **Duration:** 2 years

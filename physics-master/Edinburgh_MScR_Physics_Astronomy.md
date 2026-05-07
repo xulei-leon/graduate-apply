@@ -2,6 +2,7 @@
 
 - **Country:** United Kingdom
 - **University:** University of Edinburgh
+- **Ranking:** QS 27 / Physics 20
 - **Program:** MSc by Research (MScR) Physics and Astronomy
 - **Master type:** Academic/Research
 - **Duration:** 1 year

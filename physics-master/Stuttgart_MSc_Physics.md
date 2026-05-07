@@ -2,6 +2,7 @@
 
 - **Country:** Germany
 - **University:** University of Stuttgart
+- **Ranking:** QS 285
 - **Program:** MSc Physics (PHYSICS International Master)
 - **Master type:** Academic/Research
 - **Duration:** 2 years (4 semesters)

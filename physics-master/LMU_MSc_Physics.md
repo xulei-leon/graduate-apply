@@ -2,6 +2,7 @@
 
 - **Country:** Germany
 - **University:** Ludwig-Maximilians-Universität München (LMU Munich)
+- **Ranking:** QS 54
 - **Program:** MSc Physics
 - **Master type:** Academic/Research
 - **Duration:** 2 years (4 semesters)

@@ -2,6 +2,7 @@
 
 - **Country:** United States
 - **University:** Georgia Institute of Technology
+- **Ranking:** QS 80 / Physics 34
 - **Program:** MS Physics
 - **Master type:** Academic/Research
 - **Duration:** 2 years

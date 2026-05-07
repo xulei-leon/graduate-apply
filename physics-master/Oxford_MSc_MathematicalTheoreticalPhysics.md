@@ -2,6 +2,7 @@
 
 - **Country:** United Kingdom
 - **University:** University of Oxford
+- **Ranking:** QS 4 (2026) / Physics 3
 - **Program:** MSc Mathematical and Theoretical Physics
 - **Master type:** Professional/授课型硕士
 - **Duration:** 9 months

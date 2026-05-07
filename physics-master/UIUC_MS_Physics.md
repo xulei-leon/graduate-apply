@@ -2,6 +2,7 @@
 
 - **Country:** United States
 - **University:** University of Illinois Urbana-Champaign
+- **Ranking:** QS 69 / Physics 23
 - **Program:** MS Physics
 - **Master type:** Academic/Research
 - **Duration:** 2 years

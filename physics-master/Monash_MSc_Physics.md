@@ -2,6 +2,7 @@
 
 - **Country:** Australia
 - **University:** Monash University
+- **Ranking:** QS 37
 - **Program:** Master of Science (Physics)
 - **Master type:** Academic/Research
 - **Duration:** 1–2 years (depending on entry pathway)

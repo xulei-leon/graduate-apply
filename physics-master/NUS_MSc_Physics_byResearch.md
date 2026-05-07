@@ -2,6 +2,7 @@
 
 - **Country:** Singapore
 - **University:** National University of Singapore (NUS)
+- **Ranking:** QS 8 (2026) / Physics 14
 - **Program:** MSc Physics by Research
 - **Master type:** Academic/Research
 - **Duration:** 1–2 years (max candidature 3 years)

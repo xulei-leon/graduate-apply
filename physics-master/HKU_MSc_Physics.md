@@ -2,6 +2,7 @@
 
 - **Country:** Hong Kong
 - **University:** University of Hong Kong (HKU)
+- **Ranking:** QS 17 (2026) / Physics 30
 - **Program:** MSc in the field of Physics
 - **Master type:** Professional/授课型硕士
 - **Duration:** 1 year

@@ -2,6 +2,7 @@
 
 - **Country:** Australia
 - **University:** University of Melbourne
+- **Ranking:** QS 15 (2026)
 - **Program:** Master of Science (Physics)
 - **Master type:** Academic/Research
 - **Duration:** 2 years

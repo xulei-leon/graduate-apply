@@ -2,6 +2,7 @@
 
 - **Country:** Australia
 - **University:** University of New South Wales (UNSW Sydney)
+- **Ranking:** QS 20 (2026)
 - **Program:** MSc Physics (by Research)
 - **Master type:** Academic/Research
 - **Duration:** 1–2 years

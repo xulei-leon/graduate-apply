@@ -2,6 +2,7 @@
 
 - **Country:** United Kingdom
 - **University:** Imperial College London
+- **Ranking:** QS 6 (2026) / Physics 11
 - **Program:** MSc Physics
 - **Master type:** Professional/授课型硕士
 - **Duration:** 1 year

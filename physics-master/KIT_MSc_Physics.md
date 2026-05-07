@@ -2,6 +2,7 @@
 
 - **Country:** Germany
 - **University:** Karlsruhe Institute of Technology (KIT)
+- **Ranking:** QS 102
 - **Program:** MSc Physics
 - **Master type:** Academic/Research
 - **Duration:** 2 years (4 semesters)

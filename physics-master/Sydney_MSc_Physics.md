@@ -2,6 +2,7 @@
 
 - **Country:** Australia
 - **University:** University of Sydney
+- **Ranking:** QS 25 (2026)
 - **Program:** Master of Science (Physics)
 - **Master type:** Academic/Research
 - **Duration:** 1–2 years (depending on background)

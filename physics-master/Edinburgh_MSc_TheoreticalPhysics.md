@@ -2,6 +2,7 @@
 
 - **Country:** United Kingdom
 - **University:** University of Edinburgh
+- **Ranking:** QS 27 / Physics 20
 - **Program:** MSc Theoretical Physics / MSc Mathematical Physics
 - **Master type:** Professional/授课型硕士
 - **Duration:** 1 year

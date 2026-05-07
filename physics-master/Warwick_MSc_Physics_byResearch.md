@@ -2,6 +2,7 @@
 
 - **Country:** United Kingdom
 - **University:** University of Warwick
+- **Ranking:** QS 69
 - **Program:** MSc by Research Physics
 - **Master type:** Academic/Research
 - **Duration:** 1 year (full-time)

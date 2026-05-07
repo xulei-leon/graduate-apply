@@ -2,6 +2,7 @@
 
 - **Country:** Australia
 - **University:** Australian National University (ANU)
+- **Ranking:** QS 30
 - **Program:** Master of Science in Theoretical Physics
 - **Master type:** Academic/Research
 - **Duration:** 2 years

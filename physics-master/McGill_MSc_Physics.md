@@ -2,6 +2,7 @@
 
 - **Country:** Canada
 - **University:** McGill University
+- **Ranking:** QS 29
 - **Program:** MSc Physics (Thesis)
 - **Master type:** Academic/Research
 - **Duration:** 2 years

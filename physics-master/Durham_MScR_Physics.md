@@ -2,6 +2,7 @@
 
 - **Country:** United Kingdom
 - **University:** Durham University
+- **Ranking:** QS 78
 - **Program:** MSc by Research (MScR) Physics
 - **Master type:** Academic/Research
 - **Duration:** 1 year (full-time)

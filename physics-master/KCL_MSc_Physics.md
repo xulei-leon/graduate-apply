@@ -2,6 +2,7 @@
 
 - **Country:** United Kingdom
 - **University:** King's College London
+- **Ranking:** QS 40
 - **Program:** MSc Physics
 - **Master type:** Professional/授课型硕士
 - **Duration:** 1 year

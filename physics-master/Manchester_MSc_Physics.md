@@ -2,6 +2,7 @@
 
 - **Country:** United Kingdom
 - **University:** University of Manchester
+- **Ranking:** QS 34 / Physics 49
 - **Program:** MSc by Research Physics
 - **Master type:** Academic/Research
 - **Duration:** 1 year

@@ -2,6 +2,7 @@
 
 - **Country:** Singapore
 - **University:** Nanyang Technological University (NTU)
+- **Ranking:** QS 15 (2026) / Physics 16
 - **Program:** MSc Physics (by Research)
 - **Master type:** Academic/Research
 - **Duration:** 1–2 years

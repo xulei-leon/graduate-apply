@@ -2,6 +2,7 @@
 
 - **Country:** United States
 - **University:** Northwestern University
+- **Ranking:** QS 50
 - **Program:** MS Physics
 - **Master type:** Both tracks (Standard — Academic/Research; Broad — Professional)
 - **Duration:** 1 year (Standard), 15 months (Broad)

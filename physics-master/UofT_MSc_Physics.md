@@ -2,6 +2,7 @@
 
 - **Country:** Canada
 - **University:** University of Toronto
+- **Ranking:** QS 21 / Physics 23
 - **Program:** MSc Physics (Thesis)
 - **Master type:** Academic/Research
 - **Duration:** 2 years

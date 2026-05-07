@@ -2,6 +2,7 @@
 
 - **Country:** United Kingdom
 - **University:** University of Glasgow
+- **Ranking:** QS 78
 - **Program:** MSc (Research) Physics & Astronomy
 - **Master type:** Academic/Research
 - **Duration:** 1–2 years (full-time)

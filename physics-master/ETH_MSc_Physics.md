@@ -2,6 +2,7 @@
 
 - **Country:** Switzerland
 - **University:** ETH Zurich
+- **Ranking:** QS 7 (2026) / Physics 8
 - **Program:** MSc Physics
 - **Master type:** Academic/Research
 - **Duration:** 2 years (4 semesters)
