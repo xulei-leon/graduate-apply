@@ -21,3 +21,7 @@
 - **Last verified:** 2026-05-06
 - **Match:** Medium — coursework-based; open to related disciplines
 - **Notes:** Rolling admissions. Classified as Match.
+
+---
+
+**Program profile:** 1-year coursework-based program. Courses in advanced physics plus elective modules. Rolling admissions. No thesis. Specializations: condensed matter, particle physics, astrophysics, nanoscience.

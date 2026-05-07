@@ -21,3 +21,7 @@
 - **Last verified:** 2026-05-06
 - **Match:** Medium — research-focused; alternative pathway via Postgraduate Diploma
 - **Notes:** If honours requirement not met, 1-year Postgraduate Diploma pathway available. Classified as Match.
+
+---
+
+**Program profile:** Research degree with thesis. Research areas: astrophysics, condensed matter, quantum physics, optics, materials science, biophysics. If honours requirement not met, 1-year PGDip pathway available.

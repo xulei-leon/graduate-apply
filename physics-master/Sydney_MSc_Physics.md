@@ -21,3 +21,7 @@
 - **Last verified:** 2026-05-06
 - **Match:** Medium — Australia is generally accessible for U of T grads
 - **Notes:** 1–2 year program depending on background. Classified as Match.
+
+---
+
+**Program profile:** 1–2 year pathway depending on background. Advanced coursework + research project. Research areas: astrophysics, condensed matter, quantum physics, photonics, particle physics, biophysics.

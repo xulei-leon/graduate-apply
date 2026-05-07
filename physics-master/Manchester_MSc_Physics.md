@@ -21,3 +21,7 @@
 - **Last verified:** 2026-05-06
 - **Match:** Medium — 2:1 requirement reachable; research-focused program suits applicant's background
 - **Notes:** 1-year research MSc. Must find a supervisor before applying. Interview required. Classified as Match.
+
+---
+
+**Program profile:** Research degree: 135-credit dissertation + 45-credit taught component. Embedded in one of the largest UK physics departments. Research themes: astrophysics, particle physics, condensed matter, photonics, nuclear physics.

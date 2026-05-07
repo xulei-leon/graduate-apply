@@ -21,3 +21,7 @@
 - **Last verified:** 2026-05-06
 - **Match:** Medium — safety option within Canada; GPA meets minimum
 - **Notes:** Three reference letters, statement of purpose, CV required. Classified as Match.
+
+---
+
+**Program profile:** Coursework and thesis research. Specializations: condensed matter, astrophysics, particle physics, geophysics, biophysics, energy systems.

@@ -21,3 +21,7 @@
 - **Last verified:** 2026-05-07
 - **Match:** Medium — strong program with computational/astro tracks; GPA at low end
 - **Notes:** Three completion options: Report (36 credits), Thesis (32 credits), Examination (32 credits). GRE not required. QS top 40 university.
+
+---
+
+**Program profile:** Three pathways: thesis (32 cr), report (36 cr), or exam (32 cr). Core courses in computational physics, E&M, QM, stat mech, advanced lab. Specializations: astrophysics/cosmology, condensed matter, particle theory, biophysics.

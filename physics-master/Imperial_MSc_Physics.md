@@ -21,3 +21,7 @@
 - **Last verified:** 2026-05-06
 - **Match:** Low — First-class equivalent requirement significantly above 3.0
 - **Notes:** Multiple application rounds. Classified as Reach.
+
+---
+
+**Program profile:** 1-year program: core + elective modules + 4-month research project. Streams: generic, quantum dynamics, fusion/plasma, extended research (2 yr). Specializations across five research communities.

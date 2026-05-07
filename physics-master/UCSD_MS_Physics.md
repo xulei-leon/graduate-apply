@@ -21,3 +21,7 @@
 - **Last verified:** 2026-05-07
 - **Match:** Medium — strong in astrophysics/cosmology; GPA meets minimum
 - **Notes:** Thesis and non-thesis tracks available. UCSD is strong in dark matter and astrophysics research. QS top 65.
+
+---
+
+**Program profile:** Thesis plan: courses + research + thesis. Comprehensive exam plan: courses + exam. Specializations: astrophysics/cosmology, condensed matter, plasma physics, particle physics, biophysics.

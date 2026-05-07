@@ -21,3 +21,7 @@
 - **Last verified:** 2026-05-07
 - **Match:** Medium — strong in particle physics, astroparticle, and computational methods; GPA may be at lower end
 - **Notes:** Program entirely in English. Specialization areas: condensed matter, particle physics, nanophysics, optics, astroparticle physics. QS top 100 in Physics.
+
+---
+
+**Program profile:** 2-year program: specialization modules + master's thesis. Specializations: condensed matter, particle physics, nanophysics, optics/photonics, astroparticle physics. Program entirely in English.

@@ -21,3 +21,7 @@
 - **Last verified:** 2026-05-06
 - **Match:** Medium — 2:1 is reachable; UCL is strong in physics
 - **Notes:** 1-year MSc. ATAS may be required. £90 application fee. 2 references required. Classified as Match.
+
+---
+
+**Program profile:** 180-credit program: 90 cr taught modules + 60 cr dissertation + 30 cr research essay. Research-led teaching. Specializations: particle physics, condensed matter, astrophysics, biophysics, photonics.

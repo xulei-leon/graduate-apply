@@ -21,3 +21,7 @@
 - **Last verified:** 2026-05-06
 - **Match:** Low — GPA 3.0 significantly below 3.7 typical requirement
 - **Notes:** 9-month program. Requires ATAS clearance. Classified as Reach.
+
+---
+
+**Program profile:** 9-month program: core courses in mathematical/theoretical physics + elective advanced topics + dissertation. Focus on mathematical methods, QFT, string theory, condensed matter theory. ATAS required.

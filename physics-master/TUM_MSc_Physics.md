@@ -21,3 +21,7 @@
 - **Last verified:** 2026-05-07
 - **Match:** Medium — strong applied/computational physics; GPA below typical German BSc average but research may compensate
 - **Notes:** Research-oriented program. Can apply early with 130+ ECTS. German language not required for admission. QS top 30.
+
+---
+
+**Program profile:** 2-year research-oriented program with 1-year research phase/thesis. Specializations: applied & engineering physics, quantum science, biophysics, photonics, condensed matter, particle physics.

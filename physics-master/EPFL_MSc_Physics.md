@@ -21,3 +21,7 @@
 - **Last verified:** 2026-05-06
 - **Match:** Low/Medium — similar to ETH in competitiveness
 - **Notes:** Holistic evaluation. Must apply for only one Master program per year. Classified as Reach.
+
+---
+
+**Program profile:** 2-year program: advanced physics courses + 1-year research project/thesis. Specializations: condensed matter, particle physics, astrophysics, photonics, biophysics, quantum engineering.

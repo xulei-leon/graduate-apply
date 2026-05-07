@@ -21,3 +21,7 @@
 - **Last verified:** 2026-05-06
 - **Match:** Medium — 2:1 is within reach for 3.0 GPA; research experience helps
 - **Notes:** Requires ATAS. 1-year taught program. Classified as Match.
+
+---
+
+**Program profile:** 1-year taught program: modules in particle physics, cosmology, biophysics, condensed matter, nanotech. Research project optional. ATAS required for some applicants.

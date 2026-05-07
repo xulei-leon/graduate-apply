@@ -21,3 +21,7 @@
 - **Last verified:** 2026-05-07
 - **Match:** Medium — strong in gravitational wave research, optics, and astronomy; 2:1 reachable
 - **Notes:** Part of SUPA. Research includes gravitational waves (LIGO), quantum imaging, particle physics (ATLAS, LHCb). QS top 80.
+
+---
+
+**Program profile:** Research degree under SUPA. Research groups: astronomy/astrophysics, extreme light, imaging, gravitational research, condensed matter, nuclear/hadron physics, optics, quantum theory, particle physics.

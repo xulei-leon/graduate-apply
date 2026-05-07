@@ -21,3 +21,7 @@
 - **Last verified:** 2026-05-06
 - **Match:** Medium — strong research fit possible; GPA at minimum
 - **Notes:** Encouraged to contact potential supervisor before applying. GRE not required but some supervisors value it. Classified as Match.
+
+---
+
+**Program profile:** Courses in core physics plus electives; thesis under supervisor. Specializations: astrophysics, high-energy physics, condensed matter, nanoscience, biophysics, physics education.

@@ -21,3 +21,7 @@
 - **Last verified:** 2026-05-06
 - **Match:** Medium — 65% equivalent likely within range
 - **Notes:** Multiple entry levels (1-year or 2-year pathway depending on background). Classified as Match.
+
+---
+
+**Program profile:** Research-focused program: 1-year or 2-year pathway depending on background. Advanced coursework + research project. Research areas: astrophysics, condensed matter, particle physics, biophysics, mathematical physics.

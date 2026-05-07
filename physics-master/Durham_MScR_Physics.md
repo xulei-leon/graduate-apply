@@ -21,3 +21,7 @@
 - **Last verified:** 2026-05-07
 - **Match:** Medium — strong in astronomy, cosmology, and particle theory; 2:2 MPhys threshold accessible
 - **Notes:** Research sections include Advanced Instrumentation, Astronomy, Condensed Matter, Elementary Particle Theory, Quantum Light and Matter. QS top 80.
+
+---
+
+**Program profile:** Research degree in one of five sections: Advanced Instrumentation, Astronomy, Condensed Matter, Elementary Particle Theory, Quantum Light & Matter. Thesis-based. Research proposal required.

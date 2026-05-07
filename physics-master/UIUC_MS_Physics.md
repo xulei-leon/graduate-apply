@@ -21,3 +21,7 @@
 - **Last verified:** 2026-05-06
 - **Match:** Medium — GPA meets minimum; programming requirement matches Python skills
 - **Notes:** Rolling admissions. Statement of purpose, 2 LoRs, resume required. Classified as Match.
+
+---
+
+**Program profile:** Advanced coursework in core physics plus electives; thesis option available. Specializations: astrophysics/cosmology, condensed matter, AMO, nuclear physics, biophysics, computational physics.

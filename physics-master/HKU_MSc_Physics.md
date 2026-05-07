@@ -21,3 +21,7 @@
 - **Last verified:** 2026-05-06
 - **Match:** Medium — programming prerequisite matches; physics background strong
 - **Notes:** Coursework + capstone project. Rolling admissions. Classified as Match.
+
+---
+
+**Program profile:** Coursework + capstone project. Courses in advanced physics, computational methods, and specialized topics. Rolling admissions. Specializations: astrophysics, condensed matter, particle physics, biophysics.

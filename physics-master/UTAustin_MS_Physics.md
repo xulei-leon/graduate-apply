@@ -21,3 +21,7 @@
 - **Last verified:** 2026-05-06
 - **Match:** Medium — holistic review; research experience valued
 - **Notes:** MS is less common here (PhD-focused dept). Apply early. Classified as Match/Reach.
+
+---
+
+**Program profile:** Core courses in QM, E&M, stat mech, classical mechanics plus electives; thesis required. Specializations: astrophysics, condensed matter, particle physics, AMO, plasma physics, cosmology.

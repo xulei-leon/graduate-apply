@@ -21,3 +21,7 @@
 - **Last verified:** 2026-05-06
 - **Match:** Medium — coursework-based; GPA likely meets B average threshold
 - **Notes:** 1-year full-time. Dissertation option available. Classified as Match.
+
+---
+
+**Program profile:** 1-year program: coursework plus optional dissertation. Courses in advanced physics topics. Flexible curriculum allows focus on astrophysics, condensed matter, particle physics, or quantum science.

@@ -21,3 +21,7 @@
 - **Last verified:** 2026-05-07
 - **Match:** Medium — strong in particle and nuclear physics; 2:1 within reach
 - **Notes:** QS 76 globally. Research themes: Particle & Nuclear Physics, Quantum Matter & Nanoscale Science, Astronomy & Experimental Gravity.
+
+---
+
+**Program profile:** Research degree. Research themes: particle & nuclear physics, quantum matter & nanoscale science, astronomy & experimental gravity. Thesis-based. Must find supervisor before applying.

@@ -21,3 +21,7 @@
 - **Last verified:** 2026-05-06
 - **Match:** Medium — home institution, GPA meets minimum, research experience helps
 - **Notes:** Application opens September 16. Two reference letters required. Direct-entry PhD also considered automatically. Classified as Match.
+
+---
+
+**Program profile:** Coursework in QM, E&M, stat mech, and computational methods; years 1–2 include research under supervisor. Specializations: astrophysics, particle physics, condensed matter, biophysics, quantum optics.

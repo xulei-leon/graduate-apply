@@ -21,3 +21,7 @@
 - **Last verified:** 2026-05-06
 - **Match:** Medium — 2:1 within reach; strong theoretical physics preparation
 - **Notes:** 1-year program. Part of Higgs Centre for Theoretical Physics. ATAS clearance may be required. Classified as Match.
+
+---
+
+**Program profile:** 1-year taught MSc with project. Courses in advanced theoretical physics, mathematical methods, and specialization electives. Higgs Centre for Theoretical Physics. ATAS may be required.

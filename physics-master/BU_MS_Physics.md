@@ -21,3 +21,7 @@
 - **Last verified:** 2026-05-06
 - **Match:** Medium — GPA meets threshold; research experience valued
 - **Notes:** Thesis and non-thesis tracks. Classified as Match.
+
+---
+
+**Program profile:** Thesis track: courses + research project. Non-thesis track: additional courses. Specializations: astronomy, condensed matter, particle physics, statistical physics, biophysics.

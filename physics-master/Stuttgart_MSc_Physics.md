@@ -21,3 +21,7 @@
 - **Last verified:** 2026-05-07
 - **Match:** Medium — strong research focus; collaboration with Max Planck Institute for Solid State Research
 - **Notes:** Highly competitive international program. Collaboration with Max Planck Institute. English-taught. QS top 100 in Physics.
+
+---
+
+**Program profile:** 2-year program: strong research focus with Max Planck Institute collaboration. Core physics courses + specialization + research thesis. Focus on solid state physics, computational physics, materials science.

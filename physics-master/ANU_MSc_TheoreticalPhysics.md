@@ -21,3 +21,7 @@
 - **Last verified:** 2026-05-06
 - **Match:** Medium — 5.0/7.0 ≈ 3.0/4.0; theoretical focus
 - **Notes:** 2-year program. Also available as Advanced (min GPA 5.5/7.0). Classified as Match.
+
+---
+
+**Program profile:** 2-year program: advanced theoretical physics coursework + research thesis. Focus on theoretical and mathematical physics. Research areas: cosmology, particle theory, condensed matter theory, quantum science.

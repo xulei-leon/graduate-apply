@@ -21,3 +21,7 @@
 - **Last verified:** 2026-05-07
 - **Match:** Medium — strong in astrophysics; GPA at minimum threshold
 - **Notes:** Terminal MS available. UCLA has strong dark matter and cosmology research groups. QS top 45.
+
+---
+
+**Program profile:** Terminal MS with thesis or comprehensive exam option. Coursework includes core physics plus electives. Specializations: astrophysics/cosmology, condensed matter, particle physics, plasma physics, QIS.

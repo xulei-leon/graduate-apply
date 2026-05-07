@@ -21,3 +21,7 @@
 - **Last verified:** 2026-05-06
 - **Match:** Medium — U of T brand recognized; less competitive than top US/UK
 - **Notes:** Max candidature 3 years. Must find a supervisor. Classified as Match.
+
+---
+
+**Program profile:** Research degree with thesis. Research focus areas: condensed matter physics, quantum information, optics & photonics, nanoscience, biophysics, particle physics. Max candidature 3 years.

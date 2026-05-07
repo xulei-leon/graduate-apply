@@ -21,3 +21,7 @@
 - **Last verified:** 2026-05-07
 - **Match:** Medium — strong in computational and materials physics; tuition-free reduces financial risk
 - **Notes:** English-taught program. Qualification assessment process. Good option for safe admission with research experience. QS top 100 in Physics.
+
+---
+
+**Program profile:** 2-year program: advanced modules + 1-year research phase/thesis. Qualification assessment required. Specializations: condensed matter, optics, particle physics, astrophysics, computational physics.

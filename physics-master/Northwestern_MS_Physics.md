@@ -21,3 +21,7 @@
 - **Last verified:** 2026-05-06
 - **Match:** Medium — GPA 3.0 meets likely threshold; thesis and non-thesis tracks
 - **Notes:** Two paths: Standard (thesis, 1 year) and Broad (non-thesis, 15 months). Classified as Match.
+
+---
+
+**Program profile:** Standard track: 9 courses + thesis (1 yr). Broad track: 12 courses + capstone (15 mo). No formal specializations but research areas include astrophysics, condensed matter, AMO, applied physics.

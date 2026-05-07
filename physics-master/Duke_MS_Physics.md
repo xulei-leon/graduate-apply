@@ -21,3 +21,7 @@
 - **Last verified:** 2026-05-07
 - **Match:** Medium — research-focused MS; GPA 3.0 at low end of typical profile
 - **Notes:** Small MS cohort; PhD-dominant department. QS top 60.
+
+---
+
+**Program profile:** Coursework in advanced physics plus thesis research. Small MS cohort embedded in PhD-heavy department. Specializations: astrophysics/cosmology, condensed matter, particle physics, QIS, biophysics.

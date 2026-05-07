@@ -21,3 +21,7 @@
 - **Last verified:** 2026-05-06
 - **Match:** Low — typical admitted grade is high First
 - **Notes:** 9-month program. Requires ATAS. Classified as Reach.
+
+---
+
+**Program profile:** 9-month advanced taught program. Core physics modules + elective courses. Directed towards PhD preparation. No thesis. Specializations across all major physics subfields.

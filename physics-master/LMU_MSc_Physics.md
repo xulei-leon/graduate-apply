@@ -21,3 +21,7 @@
 - **Last verified:** 2026-05-07
 - **Match:** Medium — strong in astrophysics and computational physics; GRE Physics may help Q166
 - **Notes:** GRE Physics or Math required for non-EU applicants. Comprehensive exam. Can apply twice maximum. QS top 55.
+
+---
+
+**Program profile:** 2-year program: advanced modules + research thesis. Expertise in astrophysics, particle physics, condensed matter, biophysics, quantum optics. GRE Physics required for non-EU applicants.

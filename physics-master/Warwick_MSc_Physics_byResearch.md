@@ -21,3 +21,7 @@
 - **Last verified:** 2026-05-07
 - **Match:** Medium — strong in theoretical and computational physics; 2:1 within reach
 - **Notes:** 1-year MSc by Research. Must find a supervisor. ATAS may be required. QS top 70.
+
+---
+
+**Program profile:** Pure research degree: independent project under supervisor + thesis. Must find a supervisor before applying. Research groups: condensed matter, particle physics, astrophysics, theoretical physics, QIS.

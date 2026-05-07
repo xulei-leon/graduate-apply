@@ -21,3 +21,7 @@
 - **Last verified:** 2026-05-06
 - **Match:** Low/Medium — U of T 3.0 is below typical admitted profile; strong course-match checking
 - **Notes:** Highly competitive. ESOP application deadline is November. No automatic funding for Master's. Classified as Reach.
+
+---
+
+**Program profile:** 2-year program: core courses, specialization modules, lab courses, 6-month thesis. Specializations: particle physics, condensed matter, astrophysics/cosmology, computational physics, QIS, biophysics.

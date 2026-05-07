@@ -21,3 +21,7 @@
 - **Last verified:** 2026-05-06
 - **Match:** Medium — 65% equivalent likely within range; research project component
 - **Notes:** Must contact a supervisor before applying. 2 years full-time. Classified as Match.
+
+---
+
+**Program profile:** 2-year research-intensive program: advanced coursework + substantial research project. Must contact supervisor before applying. Research areas: astrophysics, condensed matter, optics, particle physics, biophysics.

@@ -21,3 +21,7 @@
 - **Last verified:** 2026-05-06
 - **Match:** Medium — strong overlap with dark matter research at UBC
 - **Notes:** Students can transfer to PhD after 1 year with 85%+ avg. Three reference letters. Classified as Match/Reach.
+
+---
+
+**Program profile:** Coursework in advanced physics plus thesis research. Specializations: astronomy/astrophysics, particle physics, condensed matter, AMO, biophysics, climate physics.

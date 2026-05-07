@@ -21,3 +21,7 @@
 - **Last verified:** 2026-05-06
 - **Match:** Medium — strong program; no MS funding but GRE not required
 - **Notes:** 2-year research-oriented MS. Concentrations in optics, nanotechnology, biotechnology. Classified as Reach.
+
+---
+
+**Program profile:** Research-oriented MS with courses in applied physics, optics, nanotechnology, biotechnology. 2-year program with thesis. Concentrations: optics/photonics, nanotechnology, quantum engineering, biophysics.

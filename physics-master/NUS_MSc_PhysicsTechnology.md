@@ -21,3 +21,7 @@
 - **Last verified:** 2026-05-06
 - **Match:** High — computational/applied physics component aligns with skills
 - **Notes:** Coursework-based (no thesis). Two tracks available. Classified as Match.
+
+---
+
+**Program profile:** Coursework-based professional program. Track 1 (1 yr): 40 MC courses. Track 2 (2 yr): 40 MC courses + project. Focus on applied physics, semiconductor physics, optics, data analytics, materials science.

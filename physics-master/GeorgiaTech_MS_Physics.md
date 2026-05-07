@@ -21,3 +21,7 @@
 - **Last verified:** 2026-05-07
 - **Match:** Medium — strong computational/astro programs; GPA at lower end of typical admits
 - **Notes:** MS is a standalone degree; PhD is the primary graduate program at Georgia Tech Physics. BS/MS option available for GT students. QS top 100.
+
+---
+
+**Program profile:** 30-credit program: core courses (E&M, QM I/II, stat mech) + electives + 6 cr research. BS/MS option available. Specializations: astrophysics, condensed matter, nonlinear physics, optics, particle physics.

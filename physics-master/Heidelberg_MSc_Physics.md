@@ -21,3 +21,7 @@
 - **Last verified:** 2026-05-07
 - **Match:** Medium — strong in astrophysics and cosmology; oral selection interview may help demonstrate research strength
 - **Notes:** Selection procedure includes oral interview. Program taught entirely in English. QS top 90.
+
+---
+
+**Program profile:** 2-year program: 2 semesters advanced studies + 1-year research phase/thesis. Specializations: astrophysics, condensed matter, particle physics, environmental physics. Selection interview required.

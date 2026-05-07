@@ -21,3 +21,7 @@
 - **Last verified:** 2026-05-06
 - **Match:** Low/Medium — unique quantum computing focus; GPA meets minimum
 - **Notes:** 1-year accelerated professional Master's. 30 credits. No thesis. Classified as Match.
+
+---
+
+**Program profile:** 1-year accelerated professional program: 30 credits coursework only. No thesis. Focus on quantum computing theory, applications, and hardware. Interdisciplinary with CS and engineering.

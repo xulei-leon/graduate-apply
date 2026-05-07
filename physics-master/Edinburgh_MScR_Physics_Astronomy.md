@@ -21,3 +21,7 @@
 - **Last verified:** 2026-05-07
 - **Match:** Medium — strong in astrophysics, cosmology, and computational methods; 2:1 reachable
 - **Notes:** 1-year research degree under SUPA (Scottish Universities Physics Alliance). QS top 30 university.
+
+---
+
+**Program profile:** Pure research degree under SUPA; thesis-based. Research groups: astronomy/astrophysics, particle physics, condensed matter, nuclear physics, biophysics. Core training in research methods.

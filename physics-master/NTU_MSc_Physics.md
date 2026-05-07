@@ -21,3 +21,7 @@
 - **Last verified:** 2026-05-06
 - **Match:** Medium — GRE Q166 helps; research-oriented
 - **Notes:** Must find supervisor before applying. May need alternative evaluation if no GRE/GATE. Classified as Match.
+
+---
+
+**Program profile:** Research degree with thesis. Research areas: condensed matter physics, nanoscience, optics & photonics, quantum information, astrophysics, biophysics. Must find supervisor before applying.
