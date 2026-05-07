@@ -26,21 +26,21 @@ Research-oriented physics master programs requiring a thesis or substantial rese
 | 18 | UK | Durham University | 78 |  | MSc by Research Physics | Academic/Research | 1 year | Yes | Physics/Astro | 2:2 MPhys / 2:1 BSc | Not req | Dec 15 | ~£32k/yr | Medium | Match |
 | 19 | UK | University of Glasgow | 78 |  | MSc (Research) Physics | Academic/Research | 1–2 years | Yes | Physics/Astro | 2:1 | Not req | Rolling | ~£33k/yr | Medium | Match |
 | 20 | UK | University of Birmingham | 80 |  | MSc (Res) Physics & Astronomy | Academic/Research | 1 year | Yes | Physics/Particle | 2:1 | Not req | Rolling | ~£30k/yr | Medium | Match |
-| 21 | Switzerland | ETH Zurich | 7 (2026) |  | MSc Physics | Academic/Research | 2 years | Yes | Physics/Comp | Excellent BSc | Not req | Nov (window) | CHF 1,500/sem | Low/Med | Reach |
-| 22 | Switzerland | EPFL | 22 (2026) |  | MSc Physics | Academic/Research | 2 years | Yes | Physics | Strong record | Not req | Dec 15 / Mar 31 | CHF 1,500/sem | Low/Med | Reach |
-| 23 | Singapore | NUS | 8 (2026) |  | MSc Physics by Research | Academic/Research | 1–2 years | Yes | Research | Honours with Dist | Not req | Oct–Jan | SGD ~45k total | Medium | Match |
-| 24 | Singapore | NTU | 15 (2026) |  | MSc Physics | Academic/Research | 1–2 years | Yes | Research | 2nd Up Honours | Encouraged | Oct–Jan | SGD ~45k total | Medium | Match |
-| 25 | Germany | TU Munich | 22 (2026) |  | MSc Physics (AEP) | Academic/Research | 2 years | Yes | Physics/Applied | Good BSc | Not req | May 31 | ~€3k/sem | Medium | Reach |
-| 26 | Germany | LMU Munich | 54 |  | MSc Physics | Academic/Research | 2 years | Yes | Physics | Aptitude | GRE (non-EU) | Jul 15 | Tuition-free | Medium | Match |
-| 27 | Germany | Heidelberg University | 87 |  | MSc Physics | Academic/Research | 2 years | Yes | Physics/Astro | ≥2.9 German | Not req | Jul 15 | €1.5k/sem | Medium | Match |
-| 28 | Germany | KIT | 102 |  | MSc Physics | Academic/Research | 2 years | Yes | Physics/Particle | Good BSc | Not req | Jul 15 | €1.5k/sem | Medium | Match |
-| 29 | Germany | FAU Erlangen-Nürnberg | 248 |  | MSc Physics | Academic/Research | 2 years | Yes | Physics/Comp | ≥2.5 German | Not req | Jul 15 | Tuition-free | Medium | Match |
-| 30 | Germany | University of Stuttgart | 285 |  | MSc Physics | Academic/Research | 2 years | Yes | Physics/Comp | Above avg | Not req | Feb 15 | €1.5k/sem | Medium | Match |
-| 31 | Australia | University of Melbourne | 15 (2026) |  | MSc Physics | Academic/Research | 2 years | Yes | Physics | 65% WAM | Not req | Varies | AUD ~50k/yr | Medium | Match |
-| 32 | Australia | UNSW | 20 (2026) |  | MSc Physics by Research | Academic/Research | 1–2 years | Yes | Research | 1st/2:1 Honours | Not req | Multiple intakes | AUD ~50k/yr | Medium | Match |
-| 33 | Australia | University of Sydney | 25 (2026) |  | MSc Physics | Academic/Research | 1–2 years | Yes | Physics | 65%+ equiv | Not req | Varies | AUD ~50k/yr | Medium | Match |
-| 34 | Australia | Australian National University | 30 |  | MSc Theoretical Physics | Academic/Research | 2 years | Yes | Theoretical | 5.0/7.0 GPA | Not req | Varies | AUD ~56k/yr | Medium | Match |
-| 35 | Australia | Monash University | 37 |  | MSc Physics | Academic/Research | 1–2 years | Yes | Physics | 65% avg | Not req | Multiple intakes | AUD ~50k/yr | Medium | Match |
+| 21 | Australia | University of Melbourne | 15 (2026) |  | MSc Physics | Academic/Research | 2 years | Yes | Physics | 65% WAM | Not req | Varies | AUD ~50k/yr | Medium | Match |
+| 22 | Australia | UNSW | 20 (2026) |  | MSc Physics by Research | Academic/Research | 1–2 years | Yes | Research | 1st/2:1 Honours | Not req | Multiple intakes | AUD ~50k/yr | Medium | Match |
+| 23 | Australia | University of Sydney | 25 (2026) |  | MSc Physics | Academic/Research | 1–2 years | Yes | Physics | 65%+ equiv | Not req | Varies | AUD ~50k/yr | Medium | Match |
+| 24 | Australia | Australian National University | 30 |  | MSc Theoretical Physics | Academic/Research | 2 years | Yes | Theoretical | 5.0/7.0 GPA | Not req | Varies | AUD ~56k/yr | Medium | Match |
+| 25 | Australia | Monash University | 37 |  | MSc Physics | Academic/Research | 1–2 years | Yes | Physics | 65% avg | Not req | Multiple intakes | AUD ~50k/yr | Medium | Match |
+| 26 | Switzerland | ETH Zurich | 7 (2026) |  | MSc Physics | Academic/Research | 2 years | Yes | Physics/Comp | Excellent BSc | Not req | Nov (window) | CHF 1,500/sem | Low/Med | Reach |
+| 27 | Switzerland | EPFL | 22 (2026) |  | MSc Physics | Academic/Research | 2 years | Yes | Physics | Strong record | Not req | Dec 15 / Mar 31 | CHF 1,500/sem | Low/Med | Reach |
+| 28 | Germany | TU Munich | 22 (2026) |  | MSc Physics (AEP) | Academic/Research | 2 years | Yes | Physics/Applied | Good BSc | Not req | May 31 | ~€3k/sem | Medium | Reach |
+| 29 | Germany | LMU Munich | 54 |  | MSc Physics | Academic/Research | 2 years | Yes | Physics | Aptitude | GRE (non-EU) | Jul 15 | Tuition-free | Medium | Match |
+| 30 | Germany | Heidelberg University | 87 |  | MSc Physics | Academic/Research | 2 years | Yes | Physics/Astro | ≥2.9 German | Not req | Jul 15 | €1.5k/sem | Medium | Match |
+| 31 | Germany | KIT | 102 |  | MSc Physics | Academic/Research | 2 years | Yes | Physics/Particle | Good BSc | Not req | Jul 15 | €1.5k/sem | Medium | Match |
+| 32 | Germany | FAU Erlangen-Nürnberg | 248 |  | MSc Physics | Academic/Research | 2 years | Yes | Physics/Comp | ≥2.5 German | Not req | Jul 15 | Tuition-free | Medium | Match |
+| 33 | Germany | University of Stuttgart | 285 |  | MSc Physics | Academic/Research | 2 years | Yes | Physics/Comp | Above avg | Not req | Feb 15 | €1.5k/sem | Medium | Match |
+| 34 | Singapore | NUS | 8 (2026) |  | MSc Physics by Research | Academic/Research | 1–2 years | Yes | Research | Honours with Dist | Not req | Oct–Jan | SGD ~45k total | Medium | Match |
+| 35 | Singapore | NTU | 15 (2026) |  | MSc Physics | Academic/Research | 1–2 years | Yes | Research | 2nd Up Honours | Encouraged | Oct–Jan | SGD ~45k total | Medium | Match |
 
 ## Geographic distribution
 
@@ -49,10 +49,10 @@ Research-oriented physics master programs requiring a thesis or substantial rese
 | Canada | 4 | UofT, UBC, McGill, UAlberta |
 | USA | 10 | Duke, Northwestern, Cornell, UCLA, UCSD, UT Austin, NYU, Georgia Tech, UIUC, BU |
 | UK | 6 | Edinburgh, Manchester, Warwick, Durham, Glasgow, Birmingham |
-| Switzerland | 2 | ETH, EPFL |
-| Singapore | 2 | NUS (by Research), NTU |
-| Germany | 6 | TUM, LMU, Heidelberg, KIT, FAU, Stuttgart |
 | Australia | 5 | Melbourne, UNSW, Sydney, ANU, Monash |
+| Switzerland | 2 | ETH, EPFL |
+| Germany | 6 | TUM, LMU, Heidelberg, KIT, FAU, Stuttgart |
+| Singapore | 2 | NUS (by Research), NTU |
 
 **Total: 35 targets**
 
