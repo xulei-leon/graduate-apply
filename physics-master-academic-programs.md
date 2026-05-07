@@ -36,6 +36,11 @@ Research-oriented physics master programs requiring a thesis or substantial rese
 | 28 | Australia | Monash University | MSc Physics | Academic/Research | 1–2 years | Yes | Physics | 65% avg | Not req | Multiple intakes | AUD ~50k/yr | Medium | Match |
 | 29 | Australia | Australian National University | MSc Theoretical Physics | Academic/Research | 2 years | Yes | Theoretical | 5.0/7.0 GPA | Not req | Varies | AUD ~56k/yr | Medium | Match |
 | 30 | Australia | University of Sydney | MSc Physics | Academic/Research | 1–2 years | Yes | Physics | 65%+ equiv | Not req | Varies | AUD ~50k/yr | Medium | Match |
+| 31 | UK | University of Edinburgh | MScR Physics & Astronomy | Academic/Research | 1 year | Yes | Physics/Astro | 2:1 | Not req | Rolling | ~£38k/yr | Medium | Match |
+| 32 | UK | University of Warwick | MSc by Research Physics | Academic/Research | 1 year | Yes | Physics | 2:1 | Not req | Aug 2 | ~£30k/yr | Medium | Match |
+| 33 | UK | Durham University | MSc by Research Physics | Academic/Research | 1 year | Yes | Physics/Astro | 2:2 MPhys / 2:1 BSc | Not req | Dec 15 | ~£32k/yr | Medium | Match |
+| 34 | UK | University of Glasgow | MSc (Research) Physics | Academic/Research | 1–2 years | Yes | Physics/Astro | 2:1 | Not req | Rolling | ~£33k/yr | Medium | Match |
+| 35 | UK | University of Birmingham | MSc (Res) Physics & Astronomy | Academic/Research | 1 year | Yes | Physics/Particle | 2:1 | Not req | Rolling | ~£30k/yr | Medium | Match |
 
 ## Geographic distribution
 
@@ -43,20 +48,20 @@ Research-oriented physics master programs requiring a thesis or substantial rese
 |--------|-------|----------|
 | Canada | 4 | UofT, UBC, McGill, UAlberta |
 | USA | 10 | UIUC, Northwestern, Cornell, UT Austin, BU, NYU, Georgia Tech, Duke, UCSD, UCLA |
-| UK | 1 | Manchester |
+| UK | 6 | Manchester, Edinburgh, Warwick, Durham, Glasgow, Birmingham |
 | Switzerland | 2 | ETH, EPFL |
 | Singapore | 2 | NUS (by Research), NTU |
 | Germany | 6 | TUM, LMU, Heidelberg, KIT, Stuttgart, FAU |
 | Australia | 5 | Melbourne, UNSW, Monash, ANU, Sydney |
 
-**Total: 30 targets**
+**Total: 35 targets**
 
 ## Summary by difficulty
 
 | Difficulty | Count | Notes |
 |-----------|-------|-------|
 | Reach | 4 | Cornell, ETH, EPFL, TUM — GPA 3.0 significantly below expected profile |
-| Match | 24 | Within range with research experience to compensate |
+| Match | 29 | Within range with research experience to compensate |
 | Safe | 2 | UofT, UAlberta — GPA meets minimum, acceptance likely more accessible |
 
 ## Per-program files

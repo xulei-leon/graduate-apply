@@ -1,0 +1,22 @@
+# University of Birmingham — MSc (Res) Physics and Astronomy
+
+- **Country:** United Kingdom
+- **University:** University of Birmingham
+- **Program:** MSc by Research (MSc Res) Physics and Astronomy
+- **Master type:** Academic/Research
+- **Duration:** 1 year (full-time)
+- **Research/thesis:** Yes (pure research, thesis required)
+- **Department:** School of Physics and Astronomy
+- **Track:** Physics / Astronomy / Particle Physics / Nuclear Physics
+- **GPA requirement:** UK 2:1 Honours (US: ~3.0–3.3 equivalent)
+- **GRE requirement:** Not required
+- **TOEFL/IELTS:** IELTS 6.5 (min 6.0 each); TOEFL 88 (min 21 each); waived for English-instruction degrees
+- **Prerequisites:** BSc in Physics, Astronomy, or related discipline
+- **Cohort size:** ~10–20
+- **Deadline:** Rolling; apply early for scholarships
+- **Funding:** Limited; self-funded
+- **Tuition:** ~£28k–£32k/year (international)
+- **Source:** https://www.birmingham.ac.uk/study/postgraduate/subjects/physics-and-astronomy-courses/physics-astronomy-phd
+- **Last verified:** 2026-05-07
+- **Match:** Medium — strong in particle and nuclear physics; 2:1 within reach
+- **Notes:** QS 76 globally. Research themes: Particle & Nuclear Physics, Quantum Matter & Nanoscale Science, Astronomy & Experimental Gravity.

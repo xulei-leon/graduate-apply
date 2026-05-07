@@ -1,0 +1,22 @@
+# University of Glasgow — MSc (Research) Physics & Astronomy
+
+- **Country:** United Kingdom
+- **University:** University of Glasgow
+- **Program:** MSc (Research) Physics & Astronomy
+- **Master type:** Academic/Research
+- **Duration:** 1–2 years (full-time)
+- **Research/thesis:** Yes (pure research, thesis required)
+- **Department:** School of Physics & Astronomy
+- **Track:** Physics / Astronomy / Gravitational Research / Optics
+- **GPA requirement:** UK 2:1 Honours (US: ~3.0–3.3 equivalent)
+- **GRE requirement:** Not required
+- **TOEFL/IELTS:** IELTS 6.5 (min 6.0 each); TOEFL 90 (min R20/L19/S19/W21); waived for English-instruction
+- **Prerequisites:** BSc in Physics, Astronomy, or related discipline
+- **Cohort size:** ~15–25
+- **Deadline:** Rolling; apply early for scholarships
+- **Funding:** Limited; alumni discount (20%)
+- **Tuition:** ~£33k/year (international)
+- **Source:** https://www.gla.ac.uk/postgraduate/research/physicsastronomy/
+- **Last verified:** 2026-05-07
+- **Match:** Medium — strong in gravitational wave research, optics, and astronomy; 2:1 reachable
+- **Notes:** Part of SUPA. Research includes gravitational waves (LIGO), quantum imaging, particle physics (ATLAS, LHCb). QS top 80.

@@ -1,0 +1,22 @@
+# University of Warwick — MSc by Research Physics
+
+- **Country:** United Kingdom
+- **University:** University of Warwick
+- **Program:** MSc by Research Physics
+- **Master type:** Academic/Research
+- **Duration:** 1 year (full-time)
+- **Research/thesis:** Yes (pure research, thesis required)
+- **Department:** Department of Physics
+- **Track:** Physics / Computational Physics
+- **GPA requirement:** UK 2:1 Honours at BSc, MSci or MPhys (US: ~3.0–3.3 equivalent)
+- **GRE requirement:** Not required
+- **TOEFL/IELTS:** IELTS 6.5 (min 6.0 each); waived for English-instruction degrees
+- **Prerequisites:** BSc in Physics or related; strong research interest
+- **Cohort size:** ~10–20
+- **Deadline:** August 2 (visa students); rolling for others
+- **Funding:** Self-funded; limited scholarships
+- **Tuition:** ~£28k–£32k/year (international)
+- **Source:** https://warwick.ac.uk/study/postgraduate/courses/msc-physics-by-research
+- **Last verified:** 2026-05-07
+- **Match:** Medium — strong in theoretical and computational physics; 2:1 within reach
+- **Notes:** 1-year MSc by Research. Must find a supervisor. ATAS may be required. QS top 70.
