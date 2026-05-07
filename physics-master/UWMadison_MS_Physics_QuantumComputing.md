@@ -2,7 +2,7 @@
 
 - **Country:** United States
 - **University:** University of Wisconsin–Madison
-- **Ranking:** QS 125 / Physics 20
+- **Ranking:** QS QS 125 / Physics 20 / US NEWS 36
 - **Program:** MS Physics — Quantum Computing named option
 - **Master type:** Professional (taught)
 - **Duration:** 1 year

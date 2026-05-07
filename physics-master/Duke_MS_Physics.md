@@ -2,7 +2,7 @@
 
 - **Country:** United States
 - **University:** Duke University
-- **Ranking:** QS 57
+- **Ranking:** QS QS 57 / US NEWS 6
 - **Program:** MS Physics
 - **Master type:** Academic/Research
 - **Duration:** 2 years

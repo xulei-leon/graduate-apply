@@ -2,7 +2,7 @@
 
 - **Country:** United States
 - **University:** University of California Los Angeles (UCLA)
-- **Ranking:** QS 42 / Physics 14
+- **Ranking:** QS QS 42 / Physics 14 / US NEWS 15
 - **Program:** MS Physics
 - **Master type:** Academic/Research
 - **Duration:** 2 years

@@ -2,7 +2,7 @@
 
 - **Country:** United States
 - **University:** University of Texas at Austin
-- **Ranking:** QS 66 / Physics 36
+- **Ranking:** QS QS 66 / Physics 36 / US NEWS 30
 - **Program:** MS Physics
 - **Master type:** Academic/Research
 - **Duration:** 2 years
