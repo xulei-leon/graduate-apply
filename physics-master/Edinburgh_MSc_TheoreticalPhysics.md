@@ -4,7 +4,7 @@
 - **University:** University of Edinburgh
 - **Ranking:** QS 27 / Physics 20
 - **Program:** MSc Theoretical Physics / MSc Mathematical Physics
-- **Master type:** Professional/授课型硕士
+- **Master type:** Professional (taught)
 - **Duration:** 1 year
 - **Research/thesis:** No (taught coursework; dissertation optional in some tracks)
 - **Department:** School of Physics and Astronomy (Higgs Centre)

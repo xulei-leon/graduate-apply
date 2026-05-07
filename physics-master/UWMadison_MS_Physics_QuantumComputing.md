@@ -4,7 +4,7 @@
 - **University:** University of Wisconsin–Madison
 - **Ranking:** QS 125 / Physics 20
 - **Program:** MS Physics — Quantum Computing named option
-- **Master type:** Professional/授课型硕士
+- **Master type:** Professional (taught)
 - **Duration:** 1 year
 - **Research/thesis:** No (coursework-only, 30 credits, no thesis)
 - **Department:** Department of Physics

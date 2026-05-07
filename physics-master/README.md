@@ -7,7 +7,7 @@ Use this folder for physics-related master programs, especially computational ph
 Programs are split into two categories:
 
 - **[Academic / Research Programs](../physics-master-academic-programs.md)** — thesis-required, research-oriented (35 targets)
-- **[Professional / 授课型 Programs](../physics-master-professional-programs.md)** — coursework-oriented, no thesis or optional research (13 targets)
+- **[Professional / Taught Programs](../physics-master-professional-programs.md)** — coursework-oriented, no thesis or optional research (13 targets)
 
 ## Target regions
 
@@ -39,4 +39,4 @@ Programs are split into two categories:
 Navigation:
 
 - [Academic / Research Master Programs](../physics-master-academic-programs.md)
-- [Professional / 授课型硕士 Programs](../physics-master-professional-programs.md)
+- [Professional / Taught Master Programs](../physics-master-professional-programs.md)

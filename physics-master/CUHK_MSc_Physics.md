@@ -4,7 +4,7 @@
 - **University:** Chinese University of Hong Kong (CUHK)
 - **Ranking:** QS 36
 - **Program:** MSc Physics
-- **Master type:** Professional/授课型硕士
+- **Master type:** Professional (taught)
 - **Duration:** 1 year
 - **Research/thesis:** Optional (dissertation option available)
 - **Department:** Department of Physics

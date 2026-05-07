@@ -4,7 +4,7 @@
 - **University:** University of Cambridge
 - **Ranking:** QS 6 (2026) / Physics 5
 - **Program:** Master of Advanced Study (MASt) in Physics
-- **Master type:** Professional/授课型硕士
+- **Master type:** Professional (taught)
 - **Duration:** 9 months
 - **Research/thesis:** No (taught coursework)
 - **Department:** Department of Physics

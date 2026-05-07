@@ -4,7 +4,7 @@
 - **University:** National University of Singapore (NUS)
 - **Ranking:** QS 8 (2026) / Physics 14
 - **Program:** MSc Physics for Technology (MPT)
-- **Master type:** Professional/授课型硕士
+- **Master type:** Professional (taught)
 - **Duration:** 1 year (Track 1) / 2 years (Track 2)
 - **Research/thesis:** No (coursework-based, no thesis)
 - **Department:** Department of Physics
