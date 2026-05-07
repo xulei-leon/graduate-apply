@@ -64,7 +64,7 @@ Program-level fields:
 - Cohort size
 - Deadline, including fellowship-priority deadlines
 - Funding model, including whether self-funded study is accepted
-- Whether direct entry from bachelor's is accepted (本科直博)
+- Whether direct entry from bachelor's is accepted (direct-entry PhD)
 - Official URL
 
 Advisor-level fields:
@@ -156,7 +156,7 @@ Distribute targets across the agreed regions proportionally. For example, Physic
 #### Physics PhD (physics-phd/)
 
 - Search for programs at QS-100 / US NEWS-50 universities in the US and Singapore.
-- Only consider programs that accept direct entry from bachelor's (本科直博).
+- Only consider programs that accept direct entry from bachelor's (direct-entry PhD).
 - For every program, identify 1–3 potential advisors whose research overlaps with Bayesian inference, dark matter, galaxy dynamics, computational astrophysics, or PyMC-style methods.
 - Create one file per **advisor** (not per program). If multiple advisors at the same university fit, create separate files for each.
 - **Not every university needs an advisor file** — only create files for advisors whose research is a genuine match (high or medium).
