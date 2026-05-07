@@ -107,6 +107,7 @@ Do not use Safe/Match/Reach as a guarantee. These labels are only planning aids.
 - Add a last-verified date when a source is checked
 - Update contact status as soon as it changes
 - High-priority or deadline-nearing items should be visually marked in the summary table
+- All files must be written in English
 
 ## 7. Search prompts
 
