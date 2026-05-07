@@ -2,7 +2,8 @@
 
 - **Country:** United States
 - **University:** New York University (NYU)
-- **Ranking:** QS QS 38 / US NEWS 32
+- **Restrictions:** None (open to all qualified applicants)
+- **Ranking:** QS 38 / US NEWS 32
 - **Program:** MS Physics
 - **Master type:** Academic/Research
 - **Duration:** 2 years

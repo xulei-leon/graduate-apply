@@ -2,7 +2,8 @@
 
 - **Country:** United States
 - **University:** University of Illinois Urbana-Champaign
-- **Ranking:** QS QS 69 / Physics 23 / US NEWS 36
+- **Restrictions:** None (open to all qualified applicants)
+- **Ranking:** QS 69 / Physics 23 / US NEWS 36
 - **Program:** MS Physics
 - **Master type:** Academic/Research
 - **Duration:** 2 years

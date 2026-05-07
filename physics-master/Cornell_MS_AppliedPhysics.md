@@ -2,7 +2,8 @@
 
 - **Country:** United States
 - **University:** Cornell University
-- **Ranking:** QS QS 16 / Physics 21 / US NEWS 11
+- **Restrictions:** None (open to all qualified applicants)
+- **Ranking:** QS 16 / Physics 21 / US NEWS 11
 - **Program:** MS Applied Physics
 - **Master type:** Academic/Research
 - **Duration:** 2 years

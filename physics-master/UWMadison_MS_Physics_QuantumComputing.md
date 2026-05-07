@@ -2,7 +2,8 @@
 
 - **Country:** United States
 - **University:** University of Wisconsin–Madison
-- **Ranking:** QS QS 125 / Physics 20 / US NEWS 36
+- **Restrictions:** ⚠️ F-1 visa pending SEVP approval; international applicants not guaranteed
+- **Ranking:** QS 125 / Physics 20 / US NEWS 36
 - **Program:** MS Physics — Quantum Computing named option
 - **Master type:** Professional (taught)
 - **Duration:** 1 year

@@ -2,7 +2,8 @@
 
 - **Country:** United States
 - **University:** Boston University
-- **Ranking:** QS QS 93 / US NEWS 42
+- **Restrictions:** None (open to all qualified applicants)
+- **Ranking:** QS 93 / US NEWS 42
 - **Program:** MS Physics
 - **Master type:** Both tracks (thesis and non-thesis available)
 - **Duration:** 1.5–2 years

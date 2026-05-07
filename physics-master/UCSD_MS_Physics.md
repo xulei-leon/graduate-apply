@@ -2,7 +2,8 @@
 
 - **Country:** United States
 - **University:** University of California San Diego (UCSD)
-- **Ranking:** QS QS 62 / Physics 44 / US NEWS 29
+- **Restrictions:** None (open to all qualified applicants)
+- **Ranking:** QS 62 / Physics 44 / US NEWS 29
 - **Program:** MS Physics
 - **Master type:** Academic/Research
 - **Duration:** 2 years
