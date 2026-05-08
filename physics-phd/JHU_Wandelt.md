@@ -52,3 +52,8 @@
 - APS Fellow (2015); Gruber Prize (2018) as Planck core team member
 - Co-founder of Cosmology@Home distributed computing platform
 - Joint appointment in Physics, Astronomy, and Statistics
+
+## Sources
+
+- Official program page: https://physics-astronomy.jhu.edu/graduate-studies/
+- Faculty profile: https://physics-astronomy.jhu.edu/directory/benjamin-d-wandelt/

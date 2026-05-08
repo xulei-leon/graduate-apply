@@ -48,3 +48,8 @@
 - PhD from Harvard; postdoc at Institute for Advanced Study
 - Advised many prominent computational astrophysicists
 - Research spans from stars to cosmology with heavy simulation component
+
+## Sources
+
+- Official program page: https://web.astro.princeton.edu/graduate
+- Faculty profile: https://web.astro.princeton.edu/people/eliot-quataert

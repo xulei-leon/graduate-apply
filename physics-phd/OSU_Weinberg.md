@@ -52,3 +52,8 @@
 - Director of CCAPP (Center for Cosmology and AstroParticle Physics)
 - Co-authored seminal dark matter review "Cold dark matter: controversies on small scales"
 - Extensive use of large survey data (SDSS, DESI, HETDEX)
+
+## Sources
+
+- Official program page: https://astronomy.osu.edu/graduate
+- Faculty profile: https://astronomy.osu.edu/people/weinberg.21

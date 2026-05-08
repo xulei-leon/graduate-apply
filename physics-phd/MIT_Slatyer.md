@@ -55,3 +55,8 @@
 - Slatyer is among the world's leading dark matter theorists
 - Uses Bayesian inference for gamma-ray and CMB data analysis
 - Note: MIT Physics GRE recommended but not required for application
+
+## Sources
+
+- Official program page: https://physics.mit.edu/academic-programs/graduate-students/
+- Faculty profile: https://physics.mit.edu/faculty/tracy-slatyer/

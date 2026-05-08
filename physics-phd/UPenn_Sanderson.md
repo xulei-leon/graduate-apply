@@ -55,3 +55,8 @@
 - Uses Gaia mission data to map the Milky Way's dark matter distribution
 - Research program explicitly connects particle dark matter models to dynamical observations
 - Produces mock surveys of high-resolution cosmological simulations
+
+## Sources
+
+- Official program page: https://www.physics.upenn.edu/graduate/
+- Faculty profile: https://www.physics.upenn.edu/people/standing-faculty/robyn-sanderson

@@ -55,3 +55,8 @@
 - Uses N-body simulations and analytical methods to study dark matter substructure and dynamical friction
 - Yale is QS top 25, US NEWS top 5
 - Research group actively studying dark matter halo properties on multiple scales
+
+## Sources
+
+- Official program page: https://physics.yale.edu/graduate-studies
+- Faculty profile: https://astronomy.yale.edu/people/frank-van-den-bosch

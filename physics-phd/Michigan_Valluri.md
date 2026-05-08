@@ -52,3 +52,8 @@
 - Expert in galactic dynamics and dark matter halo structure
 - Studies orbital structure of stellar bars and their interaction with dark matter
 - Uses machine learning techniques for large N-body simulation analysis
+
+## Sources
+
+- Official program page: https://lsa.umich.edu/astro/graduate
+- Faculty profile: https://lsa.umich.edu/astro/people/core-faculty/mvalluri.html

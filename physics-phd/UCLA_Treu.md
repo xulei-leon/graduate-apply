@@ -55,3 +55,8 @@
 - Directly measures dark matter halo mass-concentration relation on sub-galactic scales
 - Recently published constraints on warm dark matter free-streaming length
 - UCLA is QS top 45, US NEWS top 15
+
+## Sources
+
+- Official program page: https://www.pa.ucla.edu/graduate-admissions.html
+- Faculty page: https://www.astro.ucla.edu/~tt/Welcome.html

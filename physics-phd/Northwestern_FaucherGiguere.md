@@ -48,3 +48,8 @@
 - Uses state-of-the-art numerical simulations on supercomputers
 - Research spans from star formation to cosmology
 - PhD from Harvard; Miller Fellow at UC Berkeley before Northwestern
+
+## Sources
+
+- Official program page: https://physics.northwestern.edu/graduate/
+- Faculty profile: https://physics.northwestern.edu/people/faculty/core-faculty/claude-andre-faucher-giguere.html

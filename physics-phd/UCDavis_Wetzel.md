@@ -55,3 +55,8 @@
 - Research focuses on connecting dark matter halo properties to observable stellar dynamics
 - Co-leads MW-6D and M31-6D surveys using Keck Telescope
 - QS ranking outside top 100 overall but US NEWS top 40; strong physics specific match
+
+## Sources
+
+- Official program page: https://physics.ucdavis.edu/graduate-program
+- Faculty profile: https://physics.ucdavis.edu/people/faculty/andrew-wetzel

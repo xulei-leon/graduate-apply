@@ -14,6 +14,7 @@ Use this folder for physics PhD programs and advisor records. A program entry sh
 - Create one markdown file per advisor using the existing naming convention in this folder.
 - Keep source URLs visible in both the per-program file and the index table.
 - Record fellowship-priority deadlines separately from the main deadline when the program distinguishes them.
+- Each advisor file should end with a `Sources` section that lists the official program page used to verify the record.
 
 ## Program index
 
@@ -37,10 +38,11 @@ Use this folder for physics PhD programs and advisor records. A program entry sh
 | 16 | USA | Georgia Tech | Physics PhD | Physics / AI4Science | PhD | 3.0 min | Not req | TOEFL 106 | ~20-25 | Dec 15 | Dec 15 | Fully funded | No | Yes | GeorgiaTech_Psaltis.md | | 2026-05-07 |
 | 17 | USA | University of Utah | Physics PhD (Astrophysics) | Physics & Astronomy | PhD | 3.0 min | Not req | TOEFL 80 | ~10-15 | Jan 15 | Jan 15 | Fully funded | No | Yes | Utah_Mao.md | | 2026-05-07 |
 | 18 | USA | University of Washington | Physics PhD | Physics | PhD | 3.0 min | Not req | TOEFL 92 | ~20-25 | Dec 15 | Dec 15 | Fully funded | No | Yes | UW_Baryakhtar.md | | 2026-05-07 |
-| 19 | USA | NYU | Physics PhD | Physics / NHETC | PhD | Holistic | Not req | TOEFL 100 | ~15-20 | Dec 15 | Dec 15 | Fully funded | No | Yes | NYU_Shih.md | | 2026-05-07 |
+| 19 | USA | Rutgers | Physics and Astronomy (PhD) | Physics & Astronomy / NHETC | PhD | 3.0 min | GRE optional/preferred | TOEFL/IELTS req | Not stated | Jan 1 / Nov 1 | Jan 1 / Nov 1 | Full support | No | Yes | Rutgers_Shih.md | | 2026-05-08 |
 | 20 | USA | UIUC | Physics PhD | Physics | PhD | 3.0 min | Not req | TOEFL 79 | ~25-30 | Dec 15 | Dec 15 | Fully funded | No | Yes | UIUC_Trickle.md | | 2026-05-07 |
-| 21 | Singapore | NUS | Physics PhD | Physics | PhD | Hons w/ Dist | GRE req | TOEFL 85 | ~20-30 | Oct–Jan | Early rec. | Research scholarship | Yes | Yes | NUS_PhysicsPhD.md | | 2026-05-07 |
-| 22 | Singapore | NTU | Physics PhD | Physics / SPMS | PhD | 2nd Up Hons | GRE/GATE req | IELTS/TOEFL req | ~15-20 | Oct–Jan | Early rec. | Research scholarship | Yes | Yes | NTU_PhysicsPhD.md | | 2026-05-07 |
+| 21 | USA | UT Austin | PhD in Astronomy | Astronomy / Weinberg Institute | PhD | 3.0 min | Not required | TOEFL/IELTS req | Not stated | Dec 1 | Dec 1 | TA/RA + fellowships | No | Yes | UTAustin_BoylanKolchin.md | | 2026-05-08 |
+| 22 | Singapore | NUS | Physics PhD | Physics | PhD | Hons w/ Dist | GRE req | TOEFL 85 | ~20-30 | Oct–Jan | Early rec. | Research scholarship | Yes | Yes | NUS_PhysicsPhD.md | | 2026-05-07 |
+| 23 | Singapore | NTU | Physics PhD | Physics / SPMS | PhD | 2nd Up Hons | GRE/GATE req | IELTS/TOEFL req | ~15-20 | Oct–Jan | Early rec. | Research scholarship | Yes | Yes | NTU_Schive.md | | 2026-05-08 |
 
 ## Advisor index
 
@@ -64,10 +66,11 @@ Use this folder for physics PhD programs and advisor records. A program entry sh
 | 16 | Georgia Tech | Dimitrios Psaltis | Professor | Physics / AI4Science | Computational astro, ML, HPC, black holes | AI4Science Center, EHT | Psaltis (2015, 2020) | Yes | Yes | High | Not contacted | GeorgiaTech_Psaltis.md | 2026-05-07 |
 | 17 | Utah | Yao-Yuan Mao | Asst. Prof. | Physics & Astronomy | DM halos, SAGA Survey | SAGA Survey, LSST/DESC | Mao et al. (2021, 2015) | Yes | Yes | High | Not contacted | Utah_Mao.md | 2026-05-07 |
 | 18 | UW | Masha Baryakhtar | Asst. Prof. | Physics | Dark matter theory, particle physics | Axion/DM searches, Sloan, DOE | Baryakhtar (2017, 2021) | Yes | Yes | Medium | Not contacted | UW_Baryakhtar.md | 2026-05-07 |
-| 19 | NYU | David Shih | Professor | Physics / NHETC | ML for astrophysics, dark matter | ML for physics, anomaly detection | Shih (2021, 2023) | Yes | Yes | Medium | Not contacted | NYU_Shih.md | 2026-05-07 |
+| 19 | Rutgers | David Shih | Professor | Physics & Astronomy / NHETC | ML for physics, dark matter, astronomy | ML/AI for collider and astronomy data | Shih (current publications not re-verified) | Unknown | Yes | Medium | Not contacted | Rutgers_Shih.md | 2026-05-08 |
 | 20 | UIUC | Tanner Trickle | Asst. Prof. | Physics | Dark matter phenomenology | Quantum sensors for DM, EFT | Trickle (2020, 2022) | Yes | Yes | Medium | Not contacted | UIUC_Trickle.md | 2026-05-07 |
-| 21 | NUS | TBD | — | Physics | No strong match identified | — | — | — | — | Low | Not contacted | NUS_PhysicsPhD.md | 2026-05-07 |
-| 22 | NTU | TBD | — | Physics / SPMS | No strong match identified | — | — | — | — | Low | Not contacted | NTU_PhysicsPhD.md | 2026-05-07 |
+| 21 | UT Austin | Mike Boylan-Kolchin | Samuel T. and Fern Yanagisawa Regents Professor in Astronomy | Astronomy / Weinberg Institute | Galaxy formation theory, dark matter halos, cosmology | Numerical simulations, analytic models, observations | Boylan-Kolchin (current publications not re-verified) | Unknown | Yes | High | Not contacted | UTAustin_BoylanKolchin.md | 2026-05-08 |
+| 22 | NUS | TBD | — | Physics | No strong match identified | — | — | — | — | Low | Not contacted | NUS_PhysicsPhD.md | 2026-05-07 |
+| 23 | NTU | Hsi-Yu Schive | Associate Professor | Department of Physics / Institute of Astrophysics | Computational astrophysics, dark matter models | CALab-NTU | See official faculty page publication list | Unknown | Yes | High | Not contacted | NTU_Schive.md | 2026-05-08 |
 
 ## Contact status values
 

@@ -48,3 +48,8 @@
 - Co-leads Via Project to detect smallest dark matter structures
 - Uses both observational and theoretical/computational tools
 - Maps dark matter distribution in the Milky Way
+
+## Sources
+
+- Official program page: https://astronomy.fas.harvard.edu/graduate
+- Faculty profile: https://astronomy.fas.harvard.edu/people/charlie-conroy

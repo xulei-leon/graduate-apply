@@ -48,3 +48,8 @@
 - Expertise in numerical simulation methodologies and ML
 - John and Maureen Hendricks Visiting Professor at IAS Princeton (2019)
 - PhD from Harvard (advisor: Lars Hernquist)
+
+## Sources
+
+- Official program page: https://www.astro.ucsc.edu/graduate/
+- Lab page: https://robertson.sites.ucsc.edu/about/

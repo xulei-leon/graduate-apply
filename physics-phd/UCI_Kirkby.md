@@ -48,3 +48,8 @@
 - Previously worked on BaBar and L3 particle physics experiments
 - Research focuses on data-intensive cosmology and computational methods
 - UCI has strong cosmology group with Center for Cosmology
+
+## Sources
+
+- Official program page: https://www.physics.uci.edu/graduate
+- Faculty profile: https://faculty.sites.uci.edu/dkirkby/

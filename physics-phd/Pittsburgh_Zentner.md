@@ -52,3 +52,8 @@
 - PhD from Ohio State; postdoc at Kavli Institute (UChicago)
 - Worked with Wechsler, Bullock, Kravtsov on dark matter halo modeling
 - Research program connects galaxy formation to dark matter physics
+
+## Sources
+
+- Official program page: https://www.physicsandastronomy.pitt.edu/graduate
+- Faculty profile: https://www.physicsandastronomy.pitt.edu/people/andrew-r-zentner

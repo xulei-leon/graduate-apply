@@ -53,3 +53,8 @@
 - PI of AI Universe project
 - Berger Fellowship; Miller Fellow (UC Berkeley)
 - Joint position at LBNL and BCCP
+
+## Sources
+
+- Official program page: https://physics.berkeley.edu/students/graduate
+- Lab page: https://sferraro.lbl.gov/

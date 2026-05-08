@@ -56,3 +56,8 @@
 - Developed statistical framework used for Higgs boson discovery (2012)
 - Primary focus on developing ML and inference methods for physics — not directly dark matter, but methods overlap is exceptional
 - QS overall rank outside top 100, but US NEWS top 40 and physics program is strong
+
+## Sources
+
+- Official program page: https://www.physics.wisc.edu/graduate/
+- Faculty profile: https://www.physics.wisc.edu/directory/cranmer-kyle/

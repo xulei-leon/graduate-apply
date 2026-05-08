@@ -53,3 +53,8 @@
 - Director of AI4Science Center at Georgia Tech (2022-present)
 - Uses hybrid HPC architectures for large-scale simulations
 - Works at intersection of ML algorithms and computational science
+
+## Sources
+
+- Official program page: https://physics.gatech.edu/academics/graduate
+- Faculty profile: https://physics.gatech.edu/user/dimitrios-psaltis

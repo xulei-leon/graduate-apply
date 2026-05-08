@@ -53,3 +53,8 @@
 - Dark Universe Science Center at UW
 - PhD from Stanford
 - UW joined the Simons Observatory and Rubin Observatory efforts
+
+## Sources
+
+- Official program page: https://phys.washington.edu/graduate-admissions
+- Faculty profile: https://phys.washington.edu/people/masha-baryakhtar

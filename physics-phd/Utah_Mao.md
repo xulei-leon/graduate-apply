@@ -55,3 +55,8 @@
 - LSST/DESC Management Team (2025-27 Deputy Computing Coordinator)
 - SAGA Survey is directly relevant to understanding dark matter halo-galaxy connection
 - Note: University of Utah is outside QS top 100 and US NEWS top 50 overall, but Physics subject ranking may qualify
+
+## Sources
+
+- Official program page: https://www.physics.utah.edu/graduate-program/
+- Faculty profile: https://profiles.faculty.utah.edu/u6039755

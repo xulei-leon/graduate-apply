@@ -55,3 +55,8 @@
 - PhD from Caltech (2022); postdoc at Fermilab
 - Works at intersection of theory and experiment for dark matter detection
 - Cross-appointment potential with condensed matter and quantum information groups
+
+## Sources
+
+- Official program page: https://physics.illinois.edu/academics/graduate/
+- Faculty profile: https://physics.illinois.edu/people/directory/profile/ttrickle

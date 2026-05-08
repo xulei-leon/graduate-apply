@@ -48,3 +48,8 @@
 - Pioneered numerical simulations of galaxy mergers and feedback
 - Over 100,000 citations; one of the most cited computational astrophysicists
 - PhD from Harvard; faculty at UC Berkeley before Harvard
+
+## Sources
+
+- Official program page: https://astronomy.fas.harvard.edu/graduate
+- Faculty profile: https://astronomy.fas.harvard.edu/people/lars-hernquist

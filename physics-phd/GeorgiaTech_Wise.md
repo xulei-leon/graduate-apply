@@ -53,3 +53,8 @@
 - Director of Center for Relativistic Astrophysics
 - Teaches Computational Physics (PHYS 3120/6260) and Cosmology & Galaxy Formation
 - Note: Group currently full — check for future openings or apply with external fellowship
+
+## Sources
+
+- Official program page: https://physics.gatech.edu/academics/graduate
+- Faculty profile: https://physics.gatech.edu/user/john-wise

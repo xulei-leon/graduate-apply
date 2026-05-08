@@ -55,3 +55,8 @@
 - Leads SAGA Survey characterizing satellite galaxies around Milky Way analogs
 - Member of LSST/DESC, DESI, Roman Space Telescope collaborations
 - Stanford is QS top 5, extremely competitive
+
+## Sources
+
+- Official program page: https://physics.stanford.edu/graduate/graduate-admissions
+- Faculty profile: https://kipac.stanford.edu/people/risa-wechsler

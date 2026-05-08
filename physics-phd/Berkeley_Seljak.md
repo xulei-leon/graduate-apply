@@ -52,3 +52,8 @@
 - National Academy of Sciences (2019); Gruber Prize (2021)
 - Develops methods for field-level Bayesian inference in cosmology
 - Strong method overlap with applicant's Bayesian/MCMC skill set
+
+## Sources
+
+- Official program page: https://physics.berkeley.edu/students/graduate
+- Faculty profile: https://astro.berkeley.edu/people/uros-seljak

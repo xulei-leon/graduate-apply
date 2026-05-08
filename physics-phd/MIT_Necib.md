@@ -52,3 +52,8 @@
 - 2024 Sloan Fellow, 2024 NSF CAREER, 2023 APS Valley Prize
 - Discovered Nyx stellar stream using Gaia data
 - Combines cosmological simulations (FIRE), ML, and observational data
+
+## Sources
+
+- Official program page: https://physics.mit.edu/academic-programs/graduate-students/
+- Faculty profile: https://physics.mit.edu/faculty/lina-necib/

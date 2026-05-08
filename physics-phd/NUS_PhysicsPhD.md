@@ -16,13 +16,13 @@
 | Field | Value |
 |-------|-------|
 | GPA requirement | Honours with Distinction or equivalent 4-year BSc |
-| GRE requirement | GRE General required for international applicants |
+| GRE requirement | Not mentioned |
 | TOEFL/IELTS | TOEFL 85 / IELTS 6.0; waived for English-instruction degrees |
 | Cohort size | ~20–30 |
 | Main deadline | October–January (August intake); June–July (January intake) |
 | Fellowship deadline | Early application recommended for research scholarships |
 | Funding model | Full funding via NUS Research Scholarship; limited availability for international students |
-| Self-funded accepted | Yes (self-funded international PhD possible) |
+| Self-funded accepted | Unclear; official pages emphasize scholarship-supported entry |
 | Direct-entry from BA/BS | Yes |
 | Official program URL | https://www.physics.nus.edu.sg/student/graduate-studies/ |
 | Last verified | 2026-05-07 |
@@ -46,7 +46,7 @@
 | Field | Value |
 |-------|-------|
 | Match level | Low |
-| Reason | NUS Physics research is primarily condensed matter, quantum computing, and biophysics; no identified advisor with dark matter halo / Bayesian inference / galaxy dynamics focus |
+| Reason | No current NUS Physics advisor with a verified dark matter halo / Bayesian inference / galaxy dynamics match was identified; program is feasible only as a fallback option |
 
 ## Notes
 
@@ -54,4 +54,10 @@
 - Astrophysics & High Energy Physics group is small (6 faculty members listed)
 - No faculty identified with direct dark matter / computational astrophysics overlap
 - Recommended to check NUS's Centre for Quantum Technologies for computational methods overlap
-- Applicant background meets admission requirements
+- Applicant is probably below the strongest-admission range; confirm with a supervisor before treating this as a practical target
+
+## Sources
+
+- Official program page: https://www.physics.nus.edu.sg/student/graduate-studies/
+- Faculty page: https://www.physics.nus.edu.sg/staff/faculty/
+- Research groups page: https://www.physics.nus.edu.sg/research-centers-groups/

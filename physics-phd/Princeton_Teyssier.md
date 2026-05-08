@@ -48,3 +48,8 @@
 - Previously at University of Zürich as director of Institute for Computational Science
 - Co-leads Euclid Consortium simulation efforts
 - Joint appointment in Astrophysical Sciences and Applied & Computational Mathematics
+
+## Sources
+
+- Official program page: https://web.astro.princeton.edu/graduate
+- Faculty profile: https://web.astro.princeton.edu/people/romain-teyssier
