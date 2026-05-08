@@ -157,7 +157,7 @@ Distribute targets across the agreed regions proportionally. For example, Physic
 
 - Search for programs in the US and Singapore (no ranking filter).
 - Only consider programs that accept direct entry from bachelor's (direct-entry PhD).
-- For every program, identify 1–3 potential advisors whose research overlaps with Bayesian inference, dark matter, galaxy dynamics, computational astrophysics, or PyMC-style methods.
+- For every program, identify 1–3 potential advisors whose research overlaps with computational physics broadly. Priority areas: computational astrophysics (dark matter, galaxy dynamics, cosmology) plus computational methods (Bayesian inference, MCMC, ML for physics, scientific computing, numerical simulations, data science).
 - Create one file per **advisor** (not per program). If multiple advisors at the same university fit, create separate files for each.
 - **Not every university needs an advisor file** — only create files for advisors whose research is a genuine match (high or medium).
 - Record the program-level info in the advisor file's header section. The program index table tracks which universities have one or more matched advisors.

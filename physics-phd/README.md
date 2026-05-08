@@ -33,12 +33,14 @@ Use this folder for physics PhD programs and advisor records. A program entry sh
 | 12 | USA | University of Pittsburgh | Physics PhD | Physics & Astronomy | PhD | 3.0 min | Not req | TOEFL 90 | ~10-15 | Dec 15 | Dec 15 | Fully funded | No | Yes | Pittsburgh_Zentner.md | | 2026-05-07 |
 | 13 | USA | Ohio State | Physics PhD (Astro/CCAPP) | Astronomy / CCAPP | PhD | 3.0 min | Not req | TOEFL 100 | ~15-20 | Dec 15 | Dec 15 | Fully funded | No | Yes | OSU_Weinberg.md | | 2026-05-07 |
 | 14 | USA | UW–Madison | Physics PhD | Physics | PhD | 3.0 min | Not req | TOEFL 92 | ~20-25 | Dec 15 | Dec 15 | Fully funded | No | Yes | UWMadison_Cranmer.md | | 2026-05-07 |
-| 15 | USA | University of Utah | Physics PhD (Astrophysics) | Physics & Astronomy | PhD | 3.0 min | Not req | TOEFL 80 | ~10-15 | Jan 15 | Jan 15 | Fully funded | No | Yes | Utah_Mao.md | | 2026-05-07 |
-| 16 | USA | University of Washington | Physics PhD | Physics | PhD | 3.0 min | Not req | TOEFL 92 | ~20-25 | Dec 15 | Dec 15 | Fully funded | No | Yes | UW_Baryakhtar.md | | 2026-05-07 |
-| 17 | USA | NYU | Physics PhD | Physics / NHETC | PhD | Holistic | Not req | TOEFL 100 | ~15-20 | Dec 15 | Dec 15 | Fully funded | No | Yes | NYU_Shih.md | | 2026-05-07 |
-| 18 | USA | UIUC | Physics PhD | Physics | PhD | 3.0 min | Not req | TOEFL 79 | ~25-30 | Dec 15 | Dec 15 | Fully funded | No | Yes | UIUC_Trickle.md | | 2026-05-07 |
-| 19 | Singapore | NUS | Physics PhD | Physics | PhD | Hons w/ Dist | GRE req | TOEFL 85 | ~20-30 | Oct–Jan | Early rec. | Research scholarship | Yes | Yes | NUS_PhysicsPhD.md | | 2026-05-07 |
-| 20 | Singapore | NTU | Physics PhD | Physics / SPMS | PhD | 2nd Up Hons | GRE/GATE req | IELTS/TOEFL req | ~15-20 | Oct–Jan | Early rec. | Research scholarship | Yes | Yes | NTU_PhysicsPhD.md | | 2026-05-07 |
+| 15 | USA | Georgia Tech | Physics PhD | Physics / CRA | PhD | 3.0 min | Not req | TOEFL 106 | ~20-25 | Dec 15 | Dec 15 | Fully funded | No | Yes | GeorgiaTech_Wise.md | | 2026-05-07 |
+| 16 | USA | Georgia Tech | Physics PhD | Physics / AI4Science | PhD | 3.0 min | Not req | TOEFL 106 | ~20-25 | Dec 15 | Dec 15 | Fully funded | No | Yes | GeorgiaTech_Psaltis.md | | 2026-05-07 |
+| 17 | USA | University of Utah | Physics PhD (Astrophysics) | Physics & Astronomy | PhD | 3.0 min | Not req | TOEFL 80 | ~10-15 | Jan 15 | Jan 15 | Fully funded | No | Yes | Utah_Mao.md | | 2026-05-07 |
+| 18 | USA | University of Washington | Physics PhD | Physics | PhD | 3.0 min | Not req | TOEFL 92 | ~20-25 | Dec 15 | Dec 15 | Fully funded | No | Yes | UW_Baryakhtar.md | | 2026-05-07 |
+| 19 | USA | NYU | Physics PhD | Physics / NHETC | PhD | Holistic | Not req | TOEFL 100 | ~15-20 | Dec 15 | Dec 15 | Fully funded | No | Yes | NYU_Shih.md | | 2026-05-07 |
+| 20 | USA | UIUC | Physics PhD | Physics | PhD | 3.0 min | Not req | TOEFL 79 | ~25-30 | Dec 15 | Dec 15 | Fully funded | No | Yes | UIUC_Trickle.md | | 2026-05-07 |
+| 21 | Singapore | NUS | Physics PhD | Physics | PhD | Hons w/ Dist | GRE req | TOEFL 85 | ~20-30 | Oct–Jan | Early rec. | Research scholarship | Yes | Yes | NUS_PhysicsPhD.md | | 2026-05-07 |
+| 22 | Singapore | NTU | Physics PhD | Physics / SPMS | PhD | 2nd Up Hons | GRE/GATE req | IELTS/TOEFL req | ~15-20 | Oct–Jan | Early rec. | Research scholarship | Yes | Yes | NTU_PhysicsPhD.md | | 2026-05-07 |
 
 ## Advisor index
 
@@ -58,12 +60,14 @@ Use this folder for physics PhD programs and advisor records. A program entry sh
 | 12 | Pittsburgh | Andrew Zentner | Professor | Physics & Astronomy | Dark matter halos, galaxy clustering | NSF/DOE funded; halo substructure | Zentner (2003, 2005) | Likely | Yes | High | Not contacted | Pittsburgh_Zentner.md | 2026-05-07 |
 | 13 | Ohio State | David Weinberg | Dist. Prof. | Astronomy / CCAPP | Galaxy formation, DM on small scales | SDSS/APOGEE, HETDEX, DESI | Weinberg et al. (2013, 2015) | Contact | Yes | High | Not contacted | OSU_Weinberg.md | 2026-05-07 |
 | 14 | UW–Madison | Kyle Cranmer | Professor | Physics / DSI | Bayesian inference, ML for physics | ATLAS, DSI, P5 panel | Cranmer et al. (2020) | Likely | Yes | High | Not contacted | UWMadison_Cranmer.md | 2026-05-07 |
-| 15 | Utah | Yao-Yuan Mao | Asst. Prof. | Physics & Astronomy | DM halos, SAGA Survey | SAGA Survey, LSST/DESC | Mao et al. (2021, 2015) | Yes | Yes | High | Not contacted | Utah_Mao.md | 2026-05-07 |
-| 16 | UW | Masha Baryakhtar | Asst. Prof. | Physics | Dark matter theory, particle physics | Axion/DM searches, Sloan, DOE | Baryakhtar (2017, 2021) | Yes | Yes | Medium | Not contacted | UW_Baryakhtar.md | 2026-05-07 |
-| 17 | NYU | David Shih | Professor | Physics / NHETC | ML for astrophysics, dark matter | ML for physics, anomaly detection | Shih (2021, 2023) | Yes | Yes | Medium | Not contacted | NYU_Shih.md | 2026-05-07 |
-| 18 | UIUC | Tanner Trickle | Asst. Prof. | Physics | Dark matter phenomenology | Quantum sensors for DM, EFT | Trickle (2020, 2022) | Yes | Yes | Medium | Not contacted | UIUC_Trickle.md | 2026-05-07 |
-| 19 | NUS | TBD | — | Physics | No strong match identified | — | — | — | — | Low | Not contacted | NUS_PhysicsPhD.md | 2026-05-07 |
-| 20 | NTU | TBD | — | Physics / SPMS | No strong match identified | — | — | — | — | Low | Not contacted | NTU_PhysicsPhD.md | 2026-05-07 |
+| 15 | Georgia Tech | John Wise | Professor | Physics / CRA | Computational astro, Enzo code, galaxy sims | Enzo code, HPC galaxy sims | Wise (2012, 2019) | Full (check) | Yes | High | Not contacted | GeorgiaTech_Wise.md | 2026-05-07 |
+| 16 | Georgia Tech | Dimitrios Psaltis | Professor | Physics / AI4Science | Computational astro, ML, HPC, black holes | AI4Science Center, EHT | Psaltis (2015, 2020) | Yes | Yes | High | Not contacted | GeorgiaTech_Psaltis.md | 2026-05-07 |
+| 17 | Utah | Yao-Yuan Mao | Asst. Prof. | Physics & Astronomy | DM halos, SAGA Survey | SAGA Survey, LSST/DESC | Mao et al. (2021, 2015) | Yes | Yes | High | Not contacted | Utah_Mao.md | 2026-05-07 |
+| 18 | UW | Masha Baryakhtar | Asst. Prof. | Physics | Dark matter theory, particle physics | Axion/DM searches, Sloan, DOE | Baryakhtar (2017, 2021) | Yes | Yes | Medium | Not contacted | UW_Baryakhtar.md | 2026-05-07 |
+| 19 | NYU | David Shih | Professor | Physics / NHETC | ML for astrophysics, dark matter | ML for physics, anomaly detection | Shih (2021, 2023) | Yes | Yes | Medium | Not contacted | NYU_Shih.md | 2026-05-07 |
+| 20 | UIUC | Tanner Trickle | Asst. Prof. | Physics | Dark matter phenomenology | Quantum sensors for DM, EFT | Trickle (2020, 2022) | Yes | Yes | Medium | Not contacted | UIUC_Trickle.md | 2026-05-07 |
+| 21 | NUS | TBD | — | Physics | No strong match identified | — | — | — | — | Low | Not contacted | NUS_PhysicsPhD.md | 2026-05-07 |
+| 22 | NTU | TBD | — | Physics / SPMS | No strong match identified | — | — | — | — | Low | Not contacted | NTU_PhysicsPhD.md | 2026-05-07 |
 
 ## Contact status values
 

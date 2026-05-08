@@ -20,27 +20,29 @@ Direct-entry PhD programs (accepting bachelor's directly) in the US and Singapor
 | 12 | USA | [University of Pittsburgh](physics-phd/Pittsburgh_Zentner.md) | Physics PhD | Andrew Zentner | Professor | Dark matter halos, galaxy clustering, cosmology | Yes | High | Not contacted |
 | 13 | USA | [Ohio State](physics-phd/OSU_Weinberg.md) | Physics PhD | David Weinberg | Distinguished Prof. | Galaxy formation, DM on small scales, CCAPP | Yes | High | Not contacted |
 | 14 | USA | [UW–Madison](physics-phd/UWMadison_Cranmer.md) | Physics PhD | Kyle Cranmer | Professor | Bayesian inference, ML for physics | Yes | High | Not contacted |
-| 15 | USA | [University of Utah](physics-phd/Utah_Mao.md) | Physics PhD | Yao-Yuan Mao | Asst. Prof. | DM halos, SAGA Survey | Yes | High | Not contacted |
-| 16 | USA | [University of Washington](physics-phd/UW_Baryakhtar.md) | Physics PhD | Masha Baryakhtar | Asst. Prof. | Dark matter theory, particle astrophysics | Yes | Medium | Not contacted |
-| 17 | USA | [NYU](physics-phd/NYU_Shih.md) | Physics PhD | David Shih | Professor | ML for astrophysics, dark matter | Yes | Medium | Not contacted |
-| 18 | USA | [UIUC](physics-phd/UIUC_Trickle.md) | Physics PhD | Tanner Trickle | Asst. Prof. | Dark matter phenomenology | Yes | Medium | Not contacted |
-| 19 | Singapore | [NUS](physics-phd/NUS_PhysicsPhD.md) | Physics PhD | TBD | — | No strong match | Yes | Low | Not contacted |
-| 20 | Singapore | [NTU](physics-phd/NTU_PhysicsPhD.md) | Physics PhD | TBD | — | No strong match | Yes | Low | Not contacted |
+| 15 | USA | [Georgia Tech](physics-phd/GeorgiaTech_Wise.md) | Physics PhD | John Wise | Professor | Computational astrophysics, Enzo code, HPC galaxy simulations | Yes | High | Not contacted |
+| 16 | USA | [Georgia Tech](physics-phd/GeorgiaTech_Psaltis.md) | Physics PhD | Dimitrios Psaltis | Professor | Computational astrophysics, ML, AI4Science, black holes | Yes | High | Not contacted |
+| 17 | USA | [University of Utah](physics-phd/Utah_Mao.md) | Physics PhD | Yao-Yuan Mao | Asst. Prof. | DM halos, SAGA Survey | Yes | High | Not contacted |
+| 18 | USA | [University of Washington](physics-phd/UW_Baryakhtar.md) | Physics PhD | Masha Baryakhtar | Asst. Prof. | Dark matter theory, particle astrophysics | Yes | Medium | Not contacted |
+| 19 | USA | [NYU](physics-phd/NYU_Shih.md) | Physics PhD | David Shih | Professor | ML for astrophysics, dark matter | Yes | Medium | Not contacted |
+| 20 | USA | [UIUC](physics-phd/UIUC_Trickle.md) | Physics PhD | Tanner Trickle | Asst. Prof. | Dark matter phenomenology | Yes | Medium | Not contacted |
+| 21 | Singapore | [NUS](physics-phd/NUS_PhysicsPhD.md) | Physics PhD | TBD | — | No strong match | Yes | Low | Not contacted |
+| 22 | Singapore | [NTU](physics-phd/NTU_PhysicsPhD.md) | Physics PhD | TBD | — | No strong match | Yes | Low | Not contacted |
 
 ## Geographic distribution
 
 | Region | Count | Universities |
 |--------|-------|-------------|
-| USA | 18 | MIT (x2), Stanford (x2), UC Berkeley (x2), UC Davis, UCLA, Michigan, UPenn, Yale, Johns Hopkins, Pittsburgh, Ohio State, UW–Madison, Utah, UW, NYU, UIUC |
+| USA | 20 | MIT (x2), Stanford (x2), UC Berkeley (x2), UC Davis, UCLA, Michigan, UPenn, Yale, Johns Hopkins, Pittsburgh, Ohio State, Georgia Tech (x2), UW–Madison, Utah, UW, NYU, UIUC |
 | Singapore | 2 | NUS, NTU |
 
-**Total: 20 targets**
+**Total: 22 targets**
 
 ## Summary by match
 
 | Match | Count | Notes |
 |-------|-------|-------|
-| High | 15 | Strong overlap with dark matter, galaxy dynamics, Bayesian inference, computational astrophysics |
+| High | 17 | Strong overlap with computational physics, dark matter, galaxy dynamics, Bayesian inference, computational astrophysics |
 | Medium | 3 | Topical overlap but focus differs (indirect detection / particle phenomenology / ML methods) |
 | Low | 2 | Singapore programs lack matching faculty |
 
