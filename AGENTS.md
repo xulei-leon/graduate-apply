@@ -145,7 +145,7 @@ Use the most recent published rankings. If a school does not meet this bar for M
 
 | Category | Number of targets |
 |----------|-------------------|
-| Physics PhD (programs + advisors) | 30 |
+| Physics PhD (programs + advisors) | 40 |
 | Physics Master | 30 |
 | Data Science Master | 15 |
 
