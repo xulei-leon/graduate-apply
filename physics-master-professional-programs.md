@@ -16,9 +16,10 @@ Coursework-oriented physics master programs (taught master's) with no thesis req
 | 8 | UK | [University of Edinburgh](physics-master/Edinburgh_MSc_TheoreticalPhysics.md) | 27 |  | MSc Theoretical Physics | Professional (taught) | 1 year | No | Theoretical | 2:1 | Not req | Rolling (rounds) | ~£30k/yr | Medium | Match |
 | 9 | UK | [King's College London](physics-master/KCL_MSc_Physics.md) | 40 |  | MSc Physics | Professional (taught) | 1 year | No | Physics | 2:1 | Not req | Mar 9 | ~£30k/yr | Medium | Match |
 | 10 | Singapore | [NUS](physics-master/NUS_MSc_PhysicsTechnology.md) | 8 (2026) |  | MSc Physics for Technology | Professional (taught) | 1–2 years | No | Applied/Comp | BSc(Hons) | Not req | Oct–Mar | SGD ~45k total | High | Safe |
-| 11 | Hong Kong | [HKU](physics-master/HKU_MSc_Physics.md) | 17 (2026) |  | MSc Physics | Professional (taught) | 1 year | Optional | Physics/Comp | BSc relevant | Not req | Apr 30 | HKD ~192k/yr | Medium | Safe |
-| 12 | Hong Kong | [CUHK](physics-master/CUHK_MSc_Physics.md) | 36 |  | MSc Physics | Professional (taught) | 1 year | Optional | Physics | 2nd Cls / B avg | Not req | May 15 | HKD ~192k/yr | Medium | Match |
-| 13 | Hong Kong | [HKUST](physics-master/HKUST_MSc_Physics.md) | 47 |  | MSc Physics | Professional (taught) | 1 year | No | Physics | Bachelor's | Not req | Jun 15 | HKD ~180k/yr | Medium | Match |
+| 11 | Australia | [University of Sydney](physics-master/Sydney_MasterOfMedicalPhysics.md) | 25 (2026) |  | Master of Medical Physics | Professional (taught) | 1.5 years full-time; 3 years part-time | No thesis; research project component | Medical Physics | Credit average (65%) | Not req | February intake | AUD unknown | Medium | Match |
+| 12 | Hong Kong | [HKU](physics-master/HKU_MSc_Physics.md) | 17 (2026) |  | MSc Physics | Professional (taught) | 1 year | Optional | Physics/Comp | BSc relevant | Not req | Apr 30 | HKD ~192k/yr | Medium | Safe |
+| 13 | Hong Kong | [CUHK](physics-master/CUHK_MSc_Physics.md) | 36 |  | MSc Physics | Professional (taught) | 1 year | Optional | Physics | 2nd Cls / B avg | Not req | May 15 | HKD ~192k/yr | Medium | Match |
+| 14 | Hong Kong | [HKUST](physics-master/HKUST_MSc_Physics.md) | 47 |  | MSc Physics | Professional (taught) | 1 year | No | Physics | Bachelor's | Not req | Jun 15 | HKD ~180k/yr | Medium | Match |
 
 ## Geographic distribution
 
@@ -27,16 +28,17 @@ Coursework-oriented physics master programs (taught master's) with no thesis req
 | USA | 3 | Northwestern, BU, UW Madison |
 | UK | 6 | Oxford, Cambridge, Imperial, UCL, Edinburgh, KCL |
 | Singapore | 1 | NUS (Physics for Technology) |
+| Australia | 1 | Sydney |
 | Hong Kong | 3 | HKU, CUHK, HKUST |
 
-**Total: 13 targets**
+**Total: 14 targets**
 
 ## Summary by difficulty
 
 | Difficulty | Count | Notes |
 |-----------|-------|-------|
 | Reach | 3 | Imperial, Cambridge, Oxford — GPA 3.0 significantly below expected profile |
-| Match | 8 | Within range with research experience to compensate |
+| Match | 9 | Within range with research experience to compensate |
 | Safe | 2 | NUS MPT, HKU — GPA meets minimum, acceptance likely more accessible |
 
 ## Per-program files

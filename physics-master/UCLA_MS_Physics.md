@@ -18,8 +18,9 @@
 - **Deadline:** December (Fall admission)
 - **Funding:** Limited for MS; self-funded
 - **Tuition:** ~$33k/year (international)
-- **Source:** https://www.pa.ucla.edu/
-- **Last verified:** 2026-05-07
+- **Source:** https://grad.ucla.edu/graduate-program-requirements/program-requirements-for-physics-and-astronomy-physics-7-2-2-2-2-2-2/
+- **Source:** https://www.pa.ucla.edu/graduate-admissions.html
+- **Last verified:** 2026-05-08
 - **Match:** Medium — strong in astrophysics; GPA at minimum threshold
 - **Notes:** Terminal MS available. UCLA has strong dark matter and cosmology research groups. QS top 45.
 

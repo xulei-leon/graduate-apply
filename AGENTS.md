@@ -4,6 +4,8 @@
 
 This repository tracks graduate school options for HY, a University of Toronto physics student targeting Fall 2027 admission. The primary job of any assistant working here is to transform scattered admissions facts into a reliable application database.
 
+Success means the database is complete enough to support real application decisions: every retained entry should have a verifiable source, a clear fit judgment, and an up-to-date status in both the per-program file and the summary table.
+
 ## 1. Applicant snapshot
 
 - University of Toronto, Physics, GPA 3.0/4.0, junior standing
@@ -26,6 +28,8 @@ Use sources in this order and stop as soon as the needed field is confirmed:
 6. Third-party aggregators only as backup context, never as the primary source
 
 If two sources disagree, keep both in the notes and prefer the newer official source.
+
+If the needed field cannot be confirmed from sources in this order, leave it unresolved rather than inferring.
 
 ## 3. Required data by program type
 
@@ -53,6 +57,14 @@ For every Master entry, capture these fields in the relevant folder README and i
 | Match | High, medium, or low, with one-sentence reason |
 | Notes | Any caveats, including country-specific issues |
 
+Required file pattern for each Master program:
+
+- Program header with university, degree, track, and region
+- Fact table covering the fields above
+- Source list with visible URLs
+- Last-verified date
+- Short fit note that explains the match level in one sentence
+
 ### 3.2 PhD programs and advisors
 
 For every PhD program, capture the program-level fields above plus advisor records.
@@ -66,6 +78,15 @@ Program-level fields:
 - Funding model, including whether self-funded study is accepted
 - Whether direct entry from bachelor's is accepted (direct-entry PhD)
 - Official URL
+
+Required file pattern for each PhD advisor file:
+
+- Program header with degree, department, and region
+- Program-level fact table
+- Advisor profile with research fit and current status
+- Source list with visible URLs
+- Last-verified date
+- Short outreach note if contact is needed or has happened
 
 Advisor-level fields:
 
@@ -89,6 +110,8 @@ Use this scale consistently across programs and advisors:
 
 If the evaluation depends on a single missing fact, mark it as unknown rather than upgrading the fit.
 
+When in doubt, choose the lower match level until the missing fact is verified.
+
 ## 5. Country and GPA interpretation
 
 - United States: GPA 3.0 is below the common PhD/master applicant average, so research and writing quality matter more than ranking alone
@@ -108,6 +131,8 @@ Do not use Safe/Match/Reach as a guarantee. These labels are only planning aids.
 - Update contact status as soon as it changes
 - High-priority or deadline-nearing items should be visually marked in the summary table
 - All files must be written in English
+- Do not mark an entry complete until the per-program file and the index row both exist and agree on the key facts
+- Keep summary counts, region totals, and target totals synchronized with the underlying files
 
 ## 7. Search prompts
 
@@ -149,6 +174,8 @@ Use the most recent published rankings. If a school does not meet this bar for M
 | Physics Master | 30 |
 | Data Science Master | 15 |
 
+Treat these as minimum coverage goals, not hard ceilings. If a category still lacks regional balance, a strong match, or enough verified entries, continue searching until the gap is closed or explicitly document why it cannot be.
+
 Distribute targets across the agreed regions proportionally. For example, Physics Master should cover all 7 regions, with more weight on the US and UK.
 
 ### 9.3 Per-category instructions
@@ -185,6 +212,8 @@ For each target program or advisor:
 4. Update the folder `README.md` index table with a summary row.
 5. Move to the next target.
 
+Before moving on, verify that the new file, the summary row, and any folder-level counts all match.
+
 ### 9.5 Step 2 — Summarise
 
 After all targets in a category have been captured:
@@ -195,6 +224,14 @@ After all targets in a category have been captured:
    - **Difficulty** (Safe / Match / Reach), using the definitions in section 5 and section 10 of the older guide (see `country-differences.md` for context)
    - **Deadline** — highlight any approaching deadlines
 3. Sort the table by priority: Reach items first (they need the most preparation), then Match, then Safe.
+
+Before closing a category, check that:
+
+- All target rows have live source URLs
+- Last-verified dates are present
+- Region totals add up
+- Match and difficulty labels are consistent with the evidence
+- No entry relies on a guessed or stale requirement
 
 ### 9.6 Diversity requirement
 

@@ -6,13 +6,13 @@ Use this folder for physics-related master programs, especially computational ph
 
 Programs are split into two categories:
 
-- **[Academic / Research Programs](../physics-master-academic-programs.md)** — thesis-required, research-oriented (32 targets)
-- **[Professional / Taught Programs](../physics-master-professional-programs.md)** — coursework-oriented, no thesis or optional research (13 targets)
+- **[Academic / Research Programs](../physics-master-academic-programs.md)** — thesis-required, research-oriented (31 targets)
+- **[Professional / Taught Programs](../physics-master-professional-programs.md)** — coursework-oriented, no thesis or optional research (14 targets)
 
 ## Target regions
 
 - Canada (4)
-- USA (11)
+- USA (10)
 - UK (12)
 - Switzerland (2)
 - Germany (3)
@@ -20,14 +20,14 @@ Programs are split into two categories:
 - Hong Kong (3)
 - Australia (5)
 
-**Total: 43 targets** (32 academic + 13 professional, 2 overlap)
+**Total: 42 targets** (30 academic + 14 professional, 2 overlap)
 
 ## Summary by difficulty
 
 | Difficulty | Count | Notes |
 |-----------|-------|-------|
 | Reach | 4 | GPA 3.0 significantly below expected profile |
-| Match | 35 | Within range with research experience to compensate |
+| Match | 34 | Within range with research experience to compensate |
 | Safe | 4 | GPA meets minimum, acceptance likely more accessible |
 
 ## File rules

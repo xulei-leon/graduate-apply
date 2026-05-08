@@ -17,8 +17,9 @@
 - **Deadline:** Multiple intakes
 - **Funding:** Limited
 - **Tuition:** AUD ~45k–55k/year (international)
-- **Source:** https://www.monash.edu/
-- **Last verified:** 2026-05-06
+- **Source:** https://www.monash.edu/science/schools/physics
+- **Source:** https://handbook.monash.edu/2024/courses/s6000
+- **Last verified:** 2026-05-08
 - **Match:** Medium — 65% equivalent likely within range
 - **Notes:** Multiple entry levels (1-year or 2-year pathway depending on background). Classified as Match.
 
