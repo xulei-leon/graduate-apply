@@ -132,14 +132,14 @@ Every entry should make the next model's job easier by answering four questions 
 
 ### 9.1 School ranking filter
 
-Only consider programs that meet at least one of these criteria:
+Applies only to Master programs. PhD programs have no ranking restriction.
 
-| Criterion | Details |
-|-----------|---------|
+| Criterion | Details (Master only) |
+|-----------|----------------------|
 | QS World University Rankings | Top 100 overall **or** top 100 in the relevant subject (Physics & Astronomy, Computer Science, Statistics, or Data Science) |
 | US NEWS Best National Universities (US only) | Top 50 overall **or** top 50 in the relevant subject (Physics, Computer Science, or Statistics) |
 
-Use the most recent published rankings. If a school does not meet this bar, do not add it.
+Use the most recent published rankings. If a school does not meet this bar for Master programs, do not add it.
 
 ### 9.2 Quantitative targets per category
 
@@ -155,7 +155,7 @@ Distribute targets across the agreed regions proportionally. For example, Physic
 
 #### Physics PhD (physics-phd/)
 
-- Search for programs at QS-100 / US NEWS-50 universities in the US and Singapore.
+- Search for programs in the US and Singapore (no ranking filter).
 - Only consider programs that accept direct entry from bachelor's (direct-entry PhD).
 - For every program, identify 1–3 potential advisors whose research overlaps with Bayesian inference, dark matter, galaxy dynamics, computational astrophysics, or PyMC-style methods.
 - Create one file per **advisor** (not per program). If multiple advisors at the same university fit, create separate files for each.
