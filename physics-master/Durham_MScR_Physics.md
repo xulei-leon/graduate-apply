@@ -19,7 +19,7 @@
 - **Tuition:** ~£30k–£35k/year (international)
 - **Source:** https://www.durham.ac.uk/departments/academic/physics/postgraduate-study/research-degrees/
 - **Last verified:** 2026-05-07
-- **Match:** Medium — strong in astronomy, cosmology, and particle theory; 2:2 MPhys threshold accessible
+- **Match:** Medium — strong in astronomy, cosmology, and particle theory, aligns with computational particle physics research; 2:2 MPhys threshold accessible
 - **Notes:** Research sections include Advanced Instrumentation, Astronomy, Condensed Matter, Elementary Particle Theory, Quantum Light and Matter. QS top 80.
 
 ---

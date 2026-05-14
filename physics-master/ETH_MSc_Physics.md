@@ -19,7 +19,7 @@
 - **Tuition:** CHF ~1,500/semester
 - **Source:** https://ethz.ch/en/studies/master/degree-programmes/natural-sciences-and-mathematics/physics.html
 - **Last verified:** 2026-05-06
-- **Match:** Low/Medium — U of T 3.0 is below typical admitted profile; strong course-match checking
+- **Match:** Medium — computational particle physics research improves fit; GPA 3.0 remains below typical admitted profile; strong course-match checking
 - **Notes:** Highly competitive. ESOP application deadline is November. No automatic funding for Master's. Classified as Reach.
 
 ---

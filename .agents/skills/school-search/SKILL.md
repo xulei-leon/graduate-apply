@@ -111,7 +111,7 @@ Use this scale consistently:
 
 | Level | Meaning |
 |---|---|
-| High | Strong overlap with dark matter, Bayesian inference, galaxy dynamics, computational astrophysics, or Python-based scientific computing |
+| High | Strong overlap with dark matter, Bayesian inference, galaxy dynamics, computational astrophysics, computational particle physics, or Python-based scientific computing |
 | Medium | Same broad area, but not a direct topic or method match |
 | Low | Weak topical and methodological overlap |
 

@@ -19,7 +19,7 @@
 - **Tuition:** ~£33k/year (international)
 - **Source:** https://www.gla.ac.uk/postgraduate/research/physicsastronomy/
 - **Last verified:** 2026-05-07
-- **Match:** Medium — strong in gravitational wave research, optics, and astronomy; 2:1 reachable
+- **Match:** Medium — strong in gravitational wave research, optics, astronomy, and particle physics (ATLAS, LHCb); 2:1 reachable
 - **Notes:** Part of SUPA. Research includes gravitational waves (LIGO), quantum imaging, particle physics (ATLAS, LHCb). QS top 80.
 
 ---

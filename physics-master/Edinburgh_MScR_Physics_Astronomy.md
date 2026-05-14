@@ -19,7 +19,7 @@
 - **Tuition:** ~£35k–£40k/year (international)
 - **Source:** https://study.ed.ac.uk/programmes/postgraduate-research/1147-physics-and-astronomy
 - **Last verified:** 2026-05-07
-- **Match:** Medium — strong in astrophysics, cosmology, and computational methods; 2:1 reachable
+- **Match:** Medium — strong in astrophysics, cosmology, computational methods, and particle physics; 2:1 reachable
 - **Notes:** 1-year research degree under SUPA (Scottish Universities Physics Alliance). QS top 30 university.
 
 ---

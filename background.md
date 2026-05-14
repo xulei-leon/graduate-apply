@@ -44,9 +44,10 @@
 |------|-------|
 | Mentor | UCL physics professor |
 | Start date | May 2026 |
-| Topic | Pending |
-| Status | Just started |
-| LoR strength | Unknown; depends on performance |
+| Topic | Particle physics (computational physics) |
+| Status | In progress |
+| Goal | Publication-quality paper |
+| LoR strength | Potentially strong; advisor is a domain expert and can supervise high-quality research |
 
 ## 5. Publications
 

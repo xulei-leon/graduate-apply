@@ -12,7 +12,7 @@ Success means the database is complete enough to support real application decisi
 - GRE 317, Q166
 - TOEFL/IELTS waived because the degree is from an English-instruction university
 - Research 1: Bayesian inference on the dark-matter halo c-M relation using MaNGA data and PyMC 5; first-author paper is ready for arXiv submission and later journal submission; LoR is likely weak because the project was a commercial class-project arrangement
-- Research 2: one-on-one project with a UCL physics professor, started in May 2026; topic and LoR strength remain uncertain
+- Research 2: one-on-one project with a UCL physics professor, started in May 2026; topic is particle physics (computational physics); advisor is a domain expert; aiming for publication-quality output; LoR likely strong
 - Skills: Python, PyMC 5, Bayesian MCMC
 - Targets: Physics PhD, Physics Master, Data Science Master
 
@@ -104,7 +104,7 @@ Use this scale consistently across programs and advisors:
 
 | Level | Meaning |
 |------|---------|
-| High | Strong overlap with dark matter, Bayesian inference, galaxy dynamics, computational astrophysics, or Python-based scientific computing |
+| High | Strong overlap with dark matter, Bayesian inference, galaxy dynamics, computational astrophysics, computational particle physics, or Python-based scientific computing |
 | Medium | Same broad area, but not a direct method or topic match |
 | Low | Weak topical and methodological overlap |
 

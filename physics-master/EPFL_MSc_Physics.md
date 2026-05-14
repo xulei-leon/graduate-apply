@@ -19,7 +19,7 @@
 - **Tuition:** CHF ~1,500/semester
 - **Source:** https://www.epfl.ch/education/admission/admission-2/master-admission/
 - **Last verified:** 2026-05-06
-- **Match:** Low/Medium — similar to ETH in competitiveness
+- **Match:** Medium — computational particle physics research improves fit; competitive admission; GPA 3.0 below typical profile
 - **Notes:** Holistic evaluation. Must apply for only one Master program per year. Classified as Reach.
 
 ---

@@ -20,7 +20,7 @@
 - **Source:** https://www.birmingham.ac.uk/about/college-of-engineering-and-physical-sciences/physics-and-astronomy/postgraduate-research
 - **Source:** https://www.birmingham.ac.uk/study/postgraduate/subjects/physics-and-astronomy-courses/physics-astronomy-phd
 - **Last verified:** 2026-05-08
-- **Match:** Medium — strong in particle and nuclear physics; 2:1 within reach
+- **Match:** Medium — strong in particle and nuclear physics, aligns with applicant's computational particle physics research; 2:1 within reach
 - **Notes:** QS 76 globally. Research themes: Particle & Nuclear Physics, Quantum Matter & Nanoscale Science, Astronomy & Experimental Gravity.
 
 ---
