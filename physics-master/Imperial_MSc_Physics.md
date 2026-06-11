@@ -19,7 +19,7 @@
 - **Tuition:** ~£35k/year (international)
 - **Source:** https://www.imperial.ac.uk/study/courses/postgraduate-taught/2026/physics/
 - **Last verified:** 2026-05-06
-- **Match:** Low — First-class equivalent requirement significantly above 3.0
+- **Match:** Reach — First-class equivalent requirement significantly above 3.0
 - **Notes:** Multiple application rounds. Classified as Reach.
 
 ---
