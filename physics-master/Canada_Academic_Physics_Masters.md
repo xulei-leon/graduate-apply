@@ -46,10 +46,10 @@ QS values below use the **QS World University Rankings 2026 (overall)** so that 
     </tr>
     <tr>
       <td>2</td><td>University of Toronto</td><td>多伦多<br>大学</td><td>Toronto, ON</td><td>MSc Physics</td><td>29</td>
-      <td>Direct overlap with dark-matter inference, astrophysics, particle physics and computational methods; home-department familiarity helps, but admission remains competitive.</td>
-      <td>Mid-B minimum; successful applicants commonly exceed the minimum.</td>
-      <td>Research MSc with thesis; departmental funding package is normally provided.</td>
-      <td><strong>Match/Reach</strong><br>Confirmed</td>
+      <td>Direct overlap with dark-matter inference, astrophysics, particle physics and computational methods; home-department access can produce stronger local research evidence, but there is no published internal-admission preference.</td>
+      <td>Official conflict: final-year mid-B in the SGS Calendar; B+ on the departmental qualifications page.</td>
+      <td>One-year MSc with a research report or project; guaranteed support currently stated as CAD 31,000 plus tuition.</td>
+      <td><strong>Reach</strong><br>Confirmed; GPA threshold needs clarification</td>
     </tr>
     <tr>
       <td>3</td><td>University of British Columbia</td><td>不列颠哥伦比亚<br>大学</td><td>Vancouver, BC</td><td>MSc Physics</td><td>40</td>

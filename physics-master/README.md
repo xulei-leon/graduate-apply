@@ -28,9 +28,9 @@ Programs are split into two categories:
 
 | Difficulty | Count | Notes |
 |-----------|-------|-------|
-| Reach | 8 | GPA 3.0 significantly below expected profile |
+| Reach | 9 | GPA 3.0 significantly below or near the expected profile |
 | Match | 37 | Within range with research experience to compensate |
-| Safe | 4 | GPA meets minimum, acceptance likely more accessible |
+| Safe | 3 | GPA meets minimum, acceptance likely more accessible |
 
 ## File rules
 

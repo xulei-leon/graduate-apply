@@ -54,7 +54,7 @@ When adding or updating entries:
 
 ## Consistency rules from AGENTS.md
 
-- All files must be written in English
+- Preserve original-source quotations, official program and policy names, and source-language terminology in English. Write synthesized reports, comparisons, recommendations, and analytical prose in Chinese.
 - Do not leave placeholders in final entries unless the source truly doesn't provide the field
 - Mark uncertain facts explicitly rather than inferring
 - When in doubt about match level, choose the lower level until verified

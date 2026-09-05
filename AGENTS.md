@@ -130,7 +130,7 @@ Do not use Safe/Match/Reach as a guarantee. These labels are only planning aids.
 - Add a last-verified date when a source is checked
 - Update contact status as soon as it changes
 - High-priority or deadline-nearing items should be visually marked in the summary table
-- All files must be written in English
+- Preserve original-source quotations, official program and policy names, and source-language terminology in English. Write synthesized reports, comparisons, recommendations, and analytical prose in Chinese.
 - Do not mark an entry complete until the per-program file and the index row both exist and agree on the key facts
 - Keep summary counts, region totals, and target totals synchronized with the underlying files
 
