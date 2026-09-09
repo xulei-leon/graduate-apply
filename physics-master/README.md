@@ -8,6 +8,9 @@ Programs are split into two categories:
 
 - **[Academic / Research Programs](../physics-master-academic-programs.md)** thesis-required, research-oriented (37 targets)
 - **[Professional / Taught Programs](../physics-master-professional-programs.md)** coursework-oriented, no thesis or optional research (12 targets)
+- **[Canada Physics Master's Applications](Canada_Academic_Physics_Masters.md)** Canada-only shortlist, priorities, and Ontario-focused strategy
+
+Canadian universities are exempt from the repository's QS/US News ranking filter. Evaluate them by GPA eligibility, research fit, supervisor availability, funding, and application value.
 
 `*` marks schools that are professional agency recommended.
 
@@ -40,5 +43,6 @@ Programs are split into two categories:
 
 Navigation:
 
+- [Canada Physics Master's Applications](Canada_Academic_Physics_Masters.md)
 - [Academic / Research Master Programs](../physics-master-academic-programs.md)
 - [Professional / Taught Master Programs](../physics-master-professional-programs.md)

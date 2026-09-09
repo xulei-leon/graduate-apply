@@ -1,153 +1,96 @@
-# Canada Academic Physics Master's Application Shortlist
+# Canada Physics Master's Applications
 
 **Applicant:** HY, University of Toronto Physics  
 **Intended entry:** Fall 2027  
-**Scope:** Confirmed Canadian applications plus the additional research-oriented programs identified during the Canadian MSc review. This is an application shortlist, not a list of every physics MSc offered in Canada.  
-**Last verified:** 2026-08-28
+**Scope:** Canadian physics and astronomy master's programs, with separate Ontario priorities. This is the primary Canada-specific planning file.
+**Last updated:** 2026-09-10
 
-## Comparison table
+## Screening policy
 
-QS values below use the **QS World University Rankings 2026 (overall)** so that all universities are compared using the same edition. Subject strength and applicant fit are evaluated separately; a university outside the overall top 100 may still have an excellent physics group.
+Canadian universities are **not subject to the repository's QS or US News ranking filter**. Rankings do not determine whether a Canadian program is retained or prioritized.
 
-<table style="table-layout: fixed; width: 100%;">
-  <colgroup>
-    <col style="width: 3%;">
-    <col style="width: 10%;">
-    <col style="width: 8%;">
-    <col style="width: 8%;">
-    <col style="width: 9%;">
-    <col style="width: 5%;">
-    <col style="width: 23%;">
-    <col style="width: 13%;">
-    <col style="width: 13%;">
-    <col style="width: 8%;">
-  </colgroup>
-  <thead>
-    <tr>
-      <th>#</th>
-      <th>University</th>
-      <th>中文名称</th>
-      <th>City</th>
-      <th>Program</th>
-      <th>QS 2026</th>
-      <th>Match explanation</th>
-      <th>GPA requirement</th>
-      <th>Research / funding</th>
-      <th>Difficulty / status</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td><td>McGill University</td><td>麦吉尔<br>大学</td><td>Montreal, QC</td><td>MSc Physics</td><td>27</td>
-      <td>Astrophysics, high-energy physics and cosmology offer a strong route for either the dark-matter project or computational particle physics; final fit depends on the selected supervisor.</td>
-      <td>Minimum 3.0/4.0; competitive applicants may be stronger.</td>
-      <td>Two-year thesis MSc; TA/RA and supervisor funding vary.</td>
-      <td><strong>Match/Reach</strong><br>Confirmed</td>
-    </tr>
-    <tr>
-      <td>2</td><td>University of Toronto</td><td>多伦多<br>大学</td><td>Toronto, ON</td><td>MSc Physics</td><td>29</td>
-      <td>Direct overlap with dark-matter inference, astrophysics, particle physics and computational methods; home-department access can produce stronger local research evidence, but there is no published internal-admission preference.</td>
-      <td>Official conflict: final-year mid-B in the SGS Calendar; B+ on the departmental qualifications page.</td>
-      <td>One-year MSc with a research report or project; guaranteed support currently stated as CAD 31,000 plus tuition.</td>
-      <td><strong>Reach</strong><br>Confirmed; GPA threshold needs clarification</td>
-    </tr>
-    <tr>
-      <td>3</td><td>University of British Columbia</td><td>不列颠哥伦比亚<br>大学</td><td>Vancouver, BC</td><td>MSc Physics</td><td>40</td>
-      <td>Excellent dark-matter, astrophysics, cosmology and TRIUMF-linked particle-physics environment, with strong methodological overlap with HY's two research projects.</td>
-      <td>Normally at least 80% in upper-level study; the competitive level can be higher.</td>
-      <td>Two-year thesis MSc; funding normally combines RA/TA/awards.</td>
-      <td><strong>Reach</strong><br>Confirmed</td>
-    </tr>
-    <tr>
-      <td>4</td><td>University of Alberta</td><td>阿尔伯塔<br>大学</td><td>Edmonton, AB</td><td>MSc Physics</td><td>94</td>
-      <td>Particle physics, astrophysics and cosmology provide a balanced match for computational astrophysics or computational particle physics, while the formal GPA floor is attainable.</td>
-      <td>At least 3.0/4.0 over the last 60 units.</td>
-      <td>Thesis-based MSc, normally two years; TA/RA and awards may be available.</td>
-      <td><strong>Match</strong><br>Strongly recommended</td>
-    </tr>
-    <tr>
-      <td>5</td><td>University of Waterloo</td><td>滑铁卢<br>大学</td><td>Waterloo, ON</td><td>MSc Physics (thesis)</td><td>119</td>
-      <td>Strong computational, astrophysics and cosmology environment; fit depends heavily on securing an astrophysics, cosmology or particle-theory supervisor willing to advise the project.</td>
-      <td>At least 75% in an honours bachelor's degree or equivalent.</td>
-      <td>Original-research thesis; supervisor required; typically CAD 21,000+ per year after tuition and fees for six terms.</td>
-      <td><strong>Reach</strong><br>Recommended</td>
-    </tr>
-    <tr>
-      <td>6</td><td>Western University</td><td>西安大略<br>大学</td><td>London, ON</td><td>MSc Physics / Astronomy</td><td>151</td>
-      <td>A particularly practical match for Python, computation and astrostatistics; the department explicitly values programming, statistics and prior research experience.</td>
-      <td>At least 70%/B across third- and fourth-year courses.</td>
-      <td>Research master's degree; rolling review makes early application advantageous.</td>
-      <td><strong>Match</strong><br>Portfolio balance</td>
-    </tr>
-    <tr>
-      <td>7</td><td>McMaster University</td><td>麦克马斯特<br>大学</td><td>Hamilton, ON</td><td>MSc Physics &amp; Astronomy</td><td>173</td>
-      <td>Astrophysics and elementary-particle physics fit both research themes, but the gap between HY's GPA and the department's typical admitted average makes this a high-risk application.</td>
-      <td>Minimum B+ in the final year; admitted applicants typically have A- or higher.</td>
-      <td>Thesis MSc, normally 12–24 months; full financial support is guaranteed to admitted students.</td>
-      <td><strong>High Reach</strong><br>Optional</td>
-    </tr>
-    <tr>
-      <td>8</td><td>Queen's University</td><td>皇后<br>大学</td><td>Kingston, ON</td><td>MSc Physics</td><td>191</td>
-      <td>One of the most direct matches: the McDonald Institute and SNOLAB network cover dark matter, neutrino physics, cosmology, astroparticle physics and computational particle research.</td>
-      <td>Minimum second-class standing; no precise GPA conversion is stated by the department.</td>
-      <td>Two-year research thesis; guaranteed minimum stipend of CAD 31,000/year for two years.</td>
-      <td><strong>Match/Reach</strong><br>Strongly recommended</td>
-    </tr>
-    <tr>
-      <td>9</td><td>University of Victoria</td><td>维多利亚<br>大学</td><td>Victoria, BC</td><td>MSc Physics / Astronomy</td><td>358</td>
-      <td>Astronomy, cosmology and particle physics can match either research direction, with useful national-laboratory connections; the main drawback is the lower overall QS rank.</td>
-      <td>Honours degree or equivalent; exact numerical requirement must be confirmed in the portal.</td>
-      <td>Two-year thesis MSc; a supervisor need not be named on the initial application.</td>
-      <td><strong>Match</strong><br>Optional</td>
-    </tr>
-    <tr>
-      <td>10</td><td>Perimeter / Waterloo</td><td>圆周理论物理研究所<br>／滑铁卢大学</td><td>Waterloo, ON</td><td>PSI MSc</td><td>119*</td>
-      <td>Exceptional theoretical-physics, cosmology and numerical-methods training, but less directly aligned with observational Bayesian work; strongest fit only with excellent theory and mathematics preparation.</td>
-      <td>No public numerical minimum; admission is highly selective and holistic.</td>
-      <td>Intensive ten-month MSc with advanced coursework and a supervised research essay; scholarship consideration is integrated into admission.</td>
-      <td><strong>Very High Reach</strong><br>Special program</td>
-    </tr>
-  </tbody>
-</table>
+Evaluate Canadian programs using:
 
-<small>* PSI is delivered by Perimeter Institute and the degree is awarded by the University of Waterloo; the ranking shown is Waterloo's QS rank.</small>
+1. Whether HY satisfies the published GPA and course prerequisites.
+2. Fit with dark matter, Bayesian inference, computational astrophysics, computational particle physics, or scientific computing.
+3. Availability of an appropriate research supervisor.
+4. Funding, tuition, and international-student conditions.
+5. Value as preparation for a later Physics PhD or as an employment pathway.
 
-## Recommended application set
+Count programs by admissions unit: separately admitted Physics and Astronomy master's programs receive separate rows and separate files. A Physics MSc that merely offers an Astronomy concentration remains one application.
 
-The balanced Canadian portfolio is:
+## Application priorities
 
-1. **Confirmed core:** University of Toronto, UBC and McGill.
-2. **Best additions:** University of Alberta, Queen's University and University of Waterloo.
-3. **Portfolio-balancing addition:** Western University.
-4. **Optional high-risk or specialist applications:** McMaster, University of Victoria and PSI.
+### Ontario focus
 
-If the QS top-100 rule is treated as an absolute cutoff, the eligible conventional universities in this expanded list are Toronto, McGill, UBC and Alberta. Waterloo, Queen's, McMaster and Western are retained because their research environments can be stronger than their overall QS positions suggest.
+| Priority | University | Program | GPA requirement | Fit and rationale | Difficulty | Status |
+|---|---|---|---|---|---|---|
+| 1A | **[Western University](Western_MSc_Astronomy.md)** | MSc Astronomy | At least 70% (B) across third- and fourth-year courses | Independent Astronomy MSc. Best Ontario balance for the MaNGA, dark-matter, computation, and astrostatistics narrative. | Match | **Core target** |
+| 1B | **[Western University](Western_MSc_Physics.md)** | MSc Physics | At least 70% (B) across third- and fourth-year courses | Independent Physics MSc. Stronger route for computational particle physics and scientific computing; supervisor fit determines priority. | Match | **Core target** |
+| 2 | **[York University](York_MSc_Physics_Astronomy.md)** | MSc Physics & Astronomy | Exact Fall 2027 program-level threshold remains to be confirmed from the current official calendar | Offers astronomy and astrophysics, high-energy and particle physics, and theoretical/computational research. Strong topic fit, but the GPA threshold and supervisor availability must be confirmed before promotion to final list. | Match/Reach | **Priority target; verification needed** |
+| 3 | **[University of Ottawa](UOttawa_MSc_Physics.md)** | MSc Physics | Standard thesis stream: minimum 70% (B); willing supervisor and funding evidence required | More attainable formal threshold. Research is concentrated in photonics, quantum science, materials, and biophysics, so it is a portfolio-balancing option rather than the closest dark-matter match. | Match | **Core/backup target** |
+| 4 | Queen's University | MSc Physics | Minimum second-class standing; precise U of T conversion is not stated on the department page | Excellent dark-matter, neutrino, cosmology, astroparticle, McDonald Institute, and SNOLAB connections. Strong fit but likely more competitive than the minimum suggests. | Match/Reach | Strong additional target |
+| 5 | University of Waterloo | MSc Physics (thesis) | At least 75% in an honours bachelor's degree or equivalent | Strong computational, astrophysics, cosmology, and theory environment. The academic threshold makes it less suitable as a core GPA-balancing application. | Reach | Additional target |
+| 6A | [University of Toronto](UofT_MSc_Physics.md) | MSc Physics | Department states B+; SGS material has also stated a final-year mid-B threshold | Physics and Astronomy & Astrophysics are separate graduate units and applications. The Physics MSc remains a reach because its department describes the B+ minimum as firm. | Reach | Low-effort stretch application |
+| 6B | **[University of Toronto](UofT_MSc_Astronomy_Astrophysics.md)** | MSc Astronomy and Astrophysics | Department requires “high academic standing”; SGS general MSc floor is at least mid-B in the final year or senior courses | Independent Astronomy and Astrophysics admission. Excellent research fit, but the MSc is offered only in some cases as a preliminary phase before the PhD and has no separately published application deadline. | High Reach | **Confirm Fall 2027 MSc intake before applying** |
+| 7 | McMaster University | MSc Physics & Astronomy | Minimum B+ in the final year; admitted applicants are typically stronger | Relevant astrophysics and particle physics, but the GPA profile makes this a high-risk application. | High Reach | Optional |
+| 8 | Perimeter Institute / Waterloo | PSI MSc | No public numerical minimum; highly selective and holistic | Exceptional theory training, but strongest only with outstanding mathematics and theoretical-physics preparation. | Very High Reach | Specialist option |
+
+**Ontario allocation:** Count each independently admitted program as one application. At Western, Astronomy MSc and Physics MSc are two applications; at the University of Toronto, Physics MSc and Astronomy and Astrophysics MSc are also two applications. If only two additional Ontario universities are selected beyond Toronto, prioritize Western and York, then choose the specific Western program(s) according to supervisor fit. Add Ottawa next; Queen's follows when budget permits.
+
+### Other Canadian programs
+
+| Priority | University | Province | Program | GPA requirement | Fit and rationale | Difficulty | Status |
+|---|---|---|---|---|---|---|---|
+| 1 | **University of Alberta** | Alberta | MSc Physics | At least 3.0/4.0 over the last 60 units | Strong balance of attainable formal eligibility, particle physics, astrophysics, and cosmology. | Match | **Core target** |
+| 2 | **McGill University** | Quebec | MSc Physics | Minimum 3.0/4.0; competitive applicants may be stronger | Astrophysics, cosmology, and high-energy physics can support either research narrative. | Match/Reach | Existing core target |
+| 3 | University of British Columbia | British Columbia | MSc Physics | Normally at least 80% in upper-level study | Excellent dark-matter, cosmology, and TRIUMF-linked particle physics, but the grade threshold is difficult. | Reach | Existing stretch target |
+| 4 | University of Victoria | British Columbia | MSc Physics (Astronomy concentration available) | Honours degree or equivalent; precise numerical conversion remains unresolved | This is one Physics MSc application with an Astronomy concentration, not a separately admitted Astronomy MSc. Astronomy, cosmology, particle physics, and national-laboratory links remain useful. | Match | Verification needed |
+
+## Recommended Canadian portfolio
+
+For a balanced Canada-only set, prioritize:
+
+1. **Core:** Western Astronomy MSc, Western Physics MSc, University of Alberta, York, and Ottawa.
+2. **Strong additions:** McGill and Queen's.
+3. **Reach applications:** University of Toronto Physics MSc, University of Toronto Astronomy and Astrophysics MSc, UBC, and Waterloo.
+4. **Optional:** University of Victoria, McMaster, and PSI.
+
+Final promotion to the application list requires an official Fall 2027 deadline, an eligible GPA calculation, and at least one viable research supervisor for thesis-based programs.
 
 ## Research-institute interpretation
 
 - **Perimeter Institute** has a directly applicable master's route through PSI; the degree is awarded by the University of Waterloo.
-- **TRIUMF** does not independently award an MSc. Access is normally through a university supervisor, particularly at UBC, UVic or another member university.
-- **McDonald Institute and SNOLAB** do not independently award this MSc. Queen's is the most direct university route for the relevant astroparticle and dark-matter research network.
+- **TRIUMF** does not independently award an MSc. Access is normally through a university supervisor, particularly at UBC, UVic, or another member university.
+- **McDonald Institute and SNOLAB** do not independently award this MSc. Queen's is the most direct university route into the relevant astroparticle and dark-matter network.
+- **Ottawa-Carleton Institute for Physics** allows uOttawa physics graduate students to access courses and research connections across uOttawa and Carleton, but admission and degree requirements remain university-specific.
 
 ## Official program sources
 
-- University of Toronto: https://www.physics.utoronto.ca/graduate/prospective-students/graduate-admissions-department-physics/
+- University of Toronto Physics: https://www.physics.utoronto.ca/graduate/prospective-students/graduate-admissions-department-physics/
+- University of Toronto Astronomy and Astrophysics MSc: https://sgs.calendar.utoronto.ca/astronomy-and-astrophysics-astronomy-and-astrophysics-msc
+- University of Toronto Astronomy and Astrophysics program overview: https://www.sgs.utoronto.ca/programs/astronomy-and-astrophysics/
 - University of British Columbia: https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics
 - McGill University: https://www.mcgill.ca/gradapplicants/program/physics-msc
 - University of Alberta: https://www.ualberta.ca/en/graduate-programs/master-of-science-physics.html
 - University of Waterloo MSc programs: https://uwaterloo.ca/physics-astronomy/graduate-studies/msc-programs
 - University of Waterloo application process: https://uwaterloo.ca/physics-astronomy/graduate-studies/how-apply
-- McMaster University: https://physics.mcmaster.ca/graduate-studies/how-to-apply/
+- Western University admissions requirements: https://physics.uwo.ca/graduate/future_students/admission_requirements.html
+- Western University graduate program directory: https://grad.uwo.ca/admissions/programs/index.cfm
+- York University program: https://www.yorku.ca/gradstudies/physics-astronomy/
+- York University application information: https://www.yorku.ca/gradstudies/physics-astronomy/future-students/how-to-apply/
+- University of Ottawa MSc requirements: https://catalogue.uottawa.ca/en/graduate/master-science-physics/
+- University of Ottawa Physics graduate programs: https://www.uottawa.ca/faculty-science/physics/graduate
 - Queen's University MSc overview: https://www.queensu.ca/physics/grad-studies/msc-degree-overview
 - Queen's University admission requirements: https://www.queensu.ca/physics/grad-studies/admission-requirements
-- Western University: https://physics.uwo.ca/graduate/future_students/admission_requirements.html
-- University of Victoria: https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/physics-and-astronomy-cred/physics-msc.php
+- McMaster University: https://physics.mcmaster.ca/graduate-studies/how-to-apply/
+- University of Victoria Physics MSc (including Astronomy concentration): https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/physics-and-astronomy-cred/physics-msc.php
 - Perimeter Scholars International: https://perimeterinstitute.ca/training/masters-program
 - PSI financial support: https://perimeterinstitute.ca/training/masters-program/psi-financial-support
 
-## Ranking source and caveats
+## Verification notes
 
-- Ranking edition: QS World University Rankings 2026, https://www.topuniversities.com/world-university-rankings
-- Rankings change annually and should not be treated as a proxy for supervisor quality.
-- Fall 2027 deadlines are not entered until the departments publish the relevant admissions cycle. Historical deadlines must not be assumed to carry forward.
-- Funding amounts are departmental descriptions or minimum packages, not estimates of disposable income; tuition and mandatory fees must be checked separately.
+- University of Toronto Astronomy and Astrophysics, Western, York, uOttawa, and UVic official pages were checked on 2026-09-10.
+- Other entries retain facts from the Canadian MSc review completed on 2026-08-28 and should be rechecked when Fall 2027 application pages are published.
+- Fall 2027 deadlines are unresolved unless the official page explicitly labels that admission cycle. Historical deadlines must not be carried forward as confirmed dates.
+- Funding packages are not equivalent to disposable income; tuition and mandatory fees must be checked separately.

@@ -43,7 +43,9 @@ If sources conflict, keep both in the notes and prefer the newer official source
 
 ## Ranking Filter
 
-Only include programs that meet at least one of these filters:
+Do not apply a ranking filter to Canadian universities. Screen Canadian programs by academic eligibility, research fit, supervisor availability, funding, and application value.
+
+For master's programs outside Canada, only include programs that meet at least one of these filters:
 
 | Criterion | Requirement |
 |---|---|
