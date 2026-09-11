@@ -34,6 +34,11 @@ Research-oriented physics master programs requiring a thesis or substantial rese
 | # | Country | University | QS rank | US NEWS | Program | Type | Duration | Thesis | Track | GPA req | GRE req | Deadline | Tuition (intl) | Match | Difficulty |
 |---|---------|-----------|--------|--------|---------|------|----------|-------|-------|---------|---------|----------|----------------|-------|------------|
 | 4 | Canada | [University of Alberta](physics-master/UAlberta_MSc_Physics.md) | 111 |  | MSc Physics | Academic/Research | 2 years | Yes | Physics | 3.0 min | Not req | Rolling | ~$10k CAD/yr | Medium | Safe |
+| 38 | Canada | [University of Toronto](physics-master/UofT_MSc_Astronomy_Astrophysics.md) | 29 (2026) |  | MSc Astronomy and Astrophysics | Academic/Research | 3 sessions | Yes | Astronomy/Astrostatistics | High academic standing | N/A | Unresolved | Unresolved | High | Reach |
+| 39 | Canada | [York University](physics-master/York_MSc_Physics_Astronomy.md) |  |  | MSc Physics & Astronomy | Academic/Research | Unresolved | Research confirmed | Astro/Particle/Computational | Unresolved | Not mentioned | Jan 15 | Funding offered; amount unresolved | High | Reach |
+| 40 | Canada | [University of Ottawa](physics-master/UOttawa_MSc_Physics.md) |  |  | MSc Physics | Both tracks | 12–24 months | Thesis or project by option | Physics/Comp | 70% min | Not mentioned | Unresolved | Funding requires supervisor support | Medium | Match |
+| 41 | Canada | [Western University](physics-master/Western_MSc_Astronomy.md) |  |  | MSc Astronomy | Academic/Research | Unresolved | Research/thesis/project | Astronomy/Comp/Astrostatistics | 70% in 3rd/4th year | Not req | Unresolved | Supervisor-linked; amount unresolved | High | Match |
+| 42 | Canada | [Western University](physics-master/Western_MSc_Physics.md) |  |  | MSc Physics | Academic/Research | Unresolved | Research/thesis/project | Physics/Computational | 70% in 3rd/4th year | Not req | Unresolved | Supervisor-linked; amount unresolved | High | Match |
 | 7 | USA | [Cornell University](physics-master/Cornell_MS_AppliedPhysics.md) | 16 | 11 | MS Applied Physics | Academic/Research | 2 years | Yes | Applied/Comp | Holistic | Not req | Dec 15 | ~$56k/yr | Medium | Reach |
 | 8 | USA | [UCLA](physics-master/UCLA_MS_Physics.md) | 42 | 15 | MS Physics | Academic/Research | 2 years | Yes | Physics/Astro | 3.0 min | Not req | Dec | ~$33k/yr | Medium | Match |
 | 5 | USA | [Duke University](physics-master/Duke_MS_Physics.md) | 57 | 6 | MS Physics | Academic/Research | 2 years | Yes | Physics | Holistic | Not req | Dec 15 | ~$60k/yr | Medium | Match |
@@ -57,7 +62,7 @@ Research-oriented physics master programs requiring a thesis or substantial rese
 
 | Region | Count | Professional Agency Recommendations | Programs |
 |--------|-------|------------------------------------|----------|
-| Canada | 4 | 3 | UofT, McGill, UBC, UAlberta |
+| Canada | 9 | 3 | UofT Physics, UofT Astronomy, McGill, UBC, UAlberta, York, Ottawa, Western Astronomy, Western Physics |
 | USA | 12 | 6 | WUSTL, NYU, Columbia, Northwestern, Brown, Georgia Tech, Cornell, UCLA, Duke, UT Austin, UIUC, BU |
 | UK | 7 | 1 | Imperial, Edinburgh, Manchester, Warwick, Durham, Glasgow, Birmingham |
 | Australia | 4 | 2 | Melbourne, ANU, UNSW, Monash |
@@ -65,14 +70,14 @@ Research-oriented physics master programs requiring a thesis or substantial rese
 | Germany | 3 | 0 | TUM, LMU, Heidelberg |
 | Singapore | 3 | 2 | NUS (by Research), NUS (coursework), NTU |
 
-**Total: 37 targets**
+**Total: 42 targets**
 
 ## Summary by difficulty
 
 | Difficulty | Count | Notes |
 |-----------|-------|-------|
-| Reach | 7 | UofT, Cornell, Columbia, ETH, EPFL, TUM, Imperial — GPA 3.0 is below or near the published competitive threshold |
-| Match | 29 | Within range with research experience to compensate |
+| Reach | 9 | UofT Physics, UofT Astronomy, York, Cornell, Columbia, ETH, EPFL, TUM, Imperial — GPA 3.0 is below or near the published competitive threshold |
+| Match | 32 | Within range with research experience to compensate |
 | Safe | 1 | UAlberta — GPA meets the published minimum and admission may be more accessible |
 
 ## Per-program files

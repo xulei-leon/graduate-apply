@@ -8,7 +8,6 @@ Coursework-oriented physics master programs (taught master's) with no thesis req
 
 | # | Country | University | QS rank | US NEWS | Program | Type | Duration | Thesis | Track | GPA req | GRE req | Deadline | Tuition (intl) | Match | Difficulty |
 |---|---------|-----------|--------|--------|---------|------|----------|-------|-------|---------|---------|----------|----------------|-------|------------|
-| 2 | USA | [Boston University](physics-master/BU_MS_Physics.md) | 93 | 42 | MS Physics | Both tracks | 1.5–2 yr | Optional | Physics | 3.0 rec | Not req | Rolling | ~$55k/yr | Medium | Match |
 | 3 | USA | [UW Madison](physics-master/UWMadison_MS_Physics_QuantumComputing.md) ⚠️ | 125 | 36 | MS Physics (QC) | Professional (taught) | 1 year | No | Quantum Comp | 3.0 min | Not req | Mar 15 | ~$40k/yr | Low/Med | Match |
 | 4 | UK | [University of Oxford](physics-master/Oxford_MSc_MathematicalTheoreticalPhysics.md) | 4 (2026) |  | MSc Math & Theor Phys | Professional (taught) | 9 months | Yes | Theoretical | First (3.7) | Not req | Jan 28 | ~£35k/yr | Low | Reach |
 | 5 | UK | [University of Cambridge](physics-master/Cambridge_MASt_Physics.md) | 6 (2026) |  | MASt Physics | Professional (taught) | 9 months | No | Physics | High II.i/First | Not req | Dec 3 (funding) | ~£35k/yr | Low | Reach |
@@ -25,20 +24,20 @@ Coursework-oriented physics master programs (taught master's) with no thesis req
 
 | Region | Count | Programs |
 |--------|-------|----------|
-| USA | 2 | BU, UW Madison |
+| USA | 1 | UW Madison |
 | UK | 5 | Oxford, Cambridge, UCL, Edinburgh, KCL |
 | Singapore | 1 | NUS (Physics for Technology) |
 | Australia | 1 | Sydney |
 | Hong Kong | 3 | HKU, CUHK, HKUST |
 
-**Total: 12 targets**
+**Total: 11 targets**
 
 ## Summary by difficulty
 
 | Difficulty | Count | Notes |
 |-----------|-------|-------|
 | Reach | 2 | Cambridge, Oxford |
-| Match | 8 | Within range with research experience to compensate |
+| Match | 7 | Within range with research experience to compensate |
 | Safe | 2 | NUS MPT, HKU — GPA meets minimum, acceptance likely more accessible |
 
 ## Per-program files

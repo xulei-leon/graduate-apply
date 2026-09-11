@@ -6,8 +6,8 @@ Use this folder for physics-related master programs, especially computational ph
 
 Programs are split into two categories:
 
-- **[Academic / Research Programs](../physics-master-academic-programs.md)** thesis-required, research-oriented (37 targets)
-- **[Professional / Taught Programs](../physics-master-professional-programs.md)** coursework-oriented, no thesis or optional research (12 targets)
+- **[Academic / Research Programs](../physics-master-academic-programs.md)** thesis-required, research-oriented (42 targets)
+- **[Professional / Taught Programs](../physics-master-professional-programs.md)** coursework-oriented, no thesis or optional research (11 targets)
 - **[Canada Physics Master's Applications](Canada_Academic_Physics_Masters.md)** Canada-only shortlist, priorities, and Ontario-focused strategy
 
 Canadian universities are exempt from the repository's QS/US News ranking filter. Evaluate them by GPA eligibility, research fit, supervisor availability, funding, and application value.
@@ -16,8 +16,8 @@ Canadian universities are exempt from the repository's QS/US News ranking filter
 
 ## Target regions
 
-- Canada (4)
-- USA (14)
+- Canada (9)
+- USA (13)
 - UK (12)
 - Switzerland (4)
 - Germany (3)
@@ -25,14 +25,14 @@ Canadian universities are exempt from the repository's QS/US News ranking filter
 - Hong Kong (3)
 - Australia (5)
 
-**Total: 49 targets** (37 academic + 12 professional)
+**Total: 53 targets** (42 academic + 11 professional; BU appears only once)
 
 ## Summary by difficulty
 
 | Difficulty | Count | Notes |
 |-----------|-------|-------|
-| Reach | 9 | GPA 3.0 significantly below or near the expected profile |
-| Match | 37 | Within range with research experience to compensate |
+| Reach | 11 | GPA 3.0 significantly below or near the expected profile |
+| Match | 39 | Within range with research experience to compensate |
 | Safe | 3 | GPA meets minimum, acceptance likely more accessible |
 
 ## File rules
