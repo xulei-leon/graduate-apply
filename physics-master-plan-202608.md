@@ -32,6 +32,8 @@
 - [ ] 一份基础版 Statement of Academic Purpose / 研究陈述。
 - [ ] 一页 MaNGA 暗物质项目摘要。
 - [ ] 一页 UCL 计算粒子物理项目摘要。
+- [x] MaNGA 暗物质项目主页：https://hyi03.github.io/manga-dm/ 。优先放入 CV 和申请系统的 website/portfolio/supplementary-material 栏；文书允许链接时只引用一次。
+- [ ] UCL 项目完成后制作同类主页；公开前由 UCL 导师确认未泄露未发表结果、合作信息、受限数据或代码。
 - [ ] 论文上传后，加入准确的论文状态描述和 arXiv 链接。
 - [ ] 推荐人材料包：CV、成绩单、申请项目、截止日期、研究摘要和建议强调事项。
 - [ ] 只有申请系统要求时，再补充英语授课证明。
@@ -48,6 +50,8 @@
 | 已接收 | “Accepted by [journal]” |
 
 论文正式发表前，不得将手稿描述为“已发表”。
+
+项目主页属于可核查的研究作品，不等同于论文发表。即使在 Personal Statement 或 Statement of Purpose 中提供主页，正文仍必须独立说明研究问题、本人贡献、方法和结论，不能假设评审会打开外部链接。
 
 ## 四、推荐信方案
 
