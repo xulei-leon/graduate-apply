@@ -36,6 +36,7 @@
 | Sample size | 620 nearby late-type disk galaxies |
 | Result | Posterior estimates for log10 c0, alpha, and intrinsic scatter; alpha 95% ETI is fully negative |
 | Publication status | First-author paper ready for arXiv submission, then journal submission |
+| Project homepage | https://hyi03.github.io/manga-dm/ — public research overview, methods, contribution, diagnostics, selected artifacts, and implementation status |
 | LoR strength | Likely weak, because the project was arranged as a commercial class project |
 
 ### 4.2 UCL one-on-one project
@@ -47,6 +48,7 @@
 | Topic | Particle physics (computational physics) |
 | Status | In progress |
 | Goal | Publication-quality paper |
+| Project homepage | Planned after project completion, following the MaNGA project-homepage format; public scope should be approved by the UCL supervisor |
 | LoR strength | Potentially strong; advisor is a domain expert and can supervise high-quality research |
 
 ## 5. Publications

@@ -130,7 +130,7 @@ Do not use Safe/Match/Reach as a guarantee. These labels are only planning aids.
 - Add a last-verified date when a source is checked
 - Update contact status as soon as it changes
 - High-priority or deadline-nearing items should be visually marked in the summary table
-- All files must be written in English
+- Preserve original-source quotations, official program and policy names, and source-language terminology in English. Write synthesized reports, comparisons, recommendations, and analytical prose in Chinese.
 - Do not mark an entry complete until the per-program file and the index row both exist and agree on the key facts
 - Keep summary counts, region totals, and target totals synchronized with the underlying files
 
@@ -159,12 +159,14 @@ Every entry should make the next model's job easier by answering four questions 
 
 Applies only to Master programs. PhD programs have no ranking restriction.
 
+**Canada exception:** Do not apply the QS or US News ranking filter to Canadian universities. Canadian Physics Master and Data Science Master programs should be screened by academic eligibility, research fit, supervisor availability, funding, and applicant strategy instead of institutional rank.
+
 | Criterion | Details (Master only) |
 |-----------|----------------------|
 | QS World University Rankings | Top 100 overall **or** top 100 in the relevant subject (Physics & Astronomy, Computer Science, Statistics, or Data Science) |
 | US NEWS Best National Universities (US only) | Top 50 overall **or** top 50 in the relevant subject (Physics, Computer Science, or Statistics) |
 
-Use the most recent published rankings. If a school does not meet this bar for Master programs, do not add it.
+For countries other than Canada, use the most recent published rankings. If a non-Canadian school does not meet this bar for Master programs, do not add it.
 
 ### 9.2 Quantitative targets per category
 

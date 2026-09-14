@@ -4,6 +4,11 @@
 
 Use this folder for data science or data analytics master programs that plausibly accept physics or other quantitative-STEM backgrounds.
 
+Country strategy:
+
+- **[Canada Data Science Master's Applications](Canada_Data_Science_Masters.md)** — Canada-only analysis, prerequisite audit, and recommended application portfolio
+- Canadian universities are exempt from the repository's QS/US News ranking filter.
+
 ## Target regions
 
 - Canada

@@ -10,7 +10,7 @@ Research-oriented physics master programs requiring a thesis or substantial rese
 
 | # | Country | University | QS rank | US NEWS | Program | Type | Duration | Thesis | Track | GPA req | GRE req | Deadline | Tuition (intl) | Match | Difficulty |
 |---|---------|-----------|--------|--------|---------|------|----------|-------|-------|---------|---------|----------|----------------|-------|------------|
-| 1 | Canada | [University of Toronto](physics-master/UofT_MSc_Physics.md) * | 21 |  | MSc Physics | Academic/Research | 2 years | Yes | Physics | Mid-B (~3.0) | Not req | Dec 12 | ~$15k CAD/yr | Medium | Safe |
+| 1 | Canada | [University of Toronto](physics-master/UofT_MSc_Physics.md) * | 29 (2026) |  | MSc Physics | Academic/Research | 3 sessions (1 year) | Research report/project | Physics / Comp / Dark Matter | Mid-B final-year (SGS) / B+ (department) | Not req | Dec 11 | Funded: $31k + tuition (2024 level) | High | Reach |
 | 2 | Canada | [McGill University](physics-master/McGill_MSc_Physics.md) * | 29 |  | MSc Physics | Academic/Research | 2 years | Yes | Physics | 3.0 min | Optional | Dec 15 | ~$20k CAD/yr | Medium | Match |
 | 3 | Canada | [UBC](physics-master/UBC_MSc_Physics.md) * | 38 |  | MSc Physics | Academic/Research | 2 years | Yes | Physics/Astro | 80%+ | Not req | Dec 1 | ~$10k CAD/yr | Medium | Match |
 | 34 | USA | [Washington University in St. Louis](physics-master/WUSTL_MA_Physics.md) * |  | 21 | Physics, MA | Academic/Research | 2 years | No | Physics | 3.0 min | Optional | Fall only | Not stated | Match | Match |
@@ -34,6 +34,11 @@ Research-oriented physics master programs requiring a thesis or substantial rese
 | # | Country | University | QS rank | US NEWS | Program | Type | Duration | Thesis | Track | GPA req | GRE req | Deadline | Tuition (intl) | Match | Difficulty |
 |---|---------|-----------|--------|--------|---------|------|----------|-------|-------|---------|---------|----------|----------------|-------|------------|
 | 4 | Canada | [University of Alberta](physics-master/UAlberta_MSc_Physics.md) | 111 |  | MSc Physics | Academic/Research | 2 years | Yes | Physics | 3.0 min | Not req | Rolling | ~$10k CAD/yr | Medium | Safe |
+| 38 | Canada | [University of Toronto](physics-master/UofT_MSc_Astronomy_Astrophysics.md) | 29 (2026) |  | MSc Astronomy and Astrophysics | Academic/Research | 3 sessions | Yes | Astronomy/Astrostatistics | High academic standing | N/A | Unresolved | Unresolved | High | Reach |
+| 39 | Canada | [York University](physics-master/York_MSc_Physics_Astronomy.md) |  |  | MSc Physics & Astronomy | Academic/Research | Unresolved | Research confirmed | Astro/Particle/Computational | Unresolved | Not mentioned | Jan 15 | Funding offered; amount unresolved | High | Reach |
+| 40 | Canada | [University of Ottawa](physics-master/UOttawa_MSc_Physics.md) |  |  | MSc Physics | Both tracks | 12–24 months | Thesis or project by option | Physics/Comp | 70% min | Not mentioned | Unresolved | Funding requires supervisor support | Medium | Match |
+| 41 | Canada | [Western University](physics-master/Western_MSc_Astronomy.md) |  |  | MSc Astronomy | Academic/Research | Unresolved | Research/thesis/project | Astronomy/Comp/Astrostatistics | 70% in 3rd/4th year | Not req | Unresolved | Supervisor-linked; amount unresolved | High | Match |
+| 42 | Canada | [Western University](physics-master/Western_MSc_Physics.md) |  |  | MSc Physics | Academic/Research | Unresolved | Research/thesis/project | Physics/Computational | 70% in 3rd/4th year | Not req | Unresolved | Supervisor-linked; amount unresolved | High | Match |
 | 7 | USA | [Cornell University](physics-master/Cornell_MS_AppliedPhysics.md) | 16 | 11 | MS Applied Physics | Academic/Research | 2 years | Yes | Applied/Comp | Holistic | Not req | Dec 15 | ~$56k/yr | Medium | Reach |
 | 8 | USA | [UCLA](physics-master/UCLA_MS_Physics.md) | 42 | 15 | MS Physics | Academic/Research | 2 years | Yes | Physics/Astro | 3.0 min | Not req | Dec | ~$33k/yr | Medium | Match |
 | 5 | USA | [Duke University](physics-master/Duke_MS_Physics.md) | 57 | 6 | MS Physics | Academic/Research | 2 years | Yes | Physics | Holistic | Not req | Dec 15 | ~$60k/yr | Medium | Match |
@@ -48,8 +53,8 @@ Research-oriented physics master programs requiring a thesis or substantial rese
 | 19 | UK | [University of Birmingham](physics-master/Birmingham_MScRes_Physics_Astronomy.md) | 80 |  | MSc (Res) Physics & Astronomy | Academic/Research | 1 year | Yes | Physics/Particle | 2:1 | Not req | Rolling | ~£30k/yr | Medium | Match |
 | 21 | Australia | [UNSW](physics-master/UNSW_Physics_MRes.md) | 20 (2026) |  | Physics (MRes) | Academic/Research | 2 years | Yes | Research | 1st/2:1 Honours | Not req | Rolling | AUD ~50k/yr | Medium | Match |
 | 23 | Australia | [Monash University](physics-master/Monash_MSc_Physics.md) | 37 |  | MSc Physics | Academic/Research | 1–2 years | Yes | Physics | 65% avg | Not req | Multiple intakes | AUD ~50k/yr | Medium | Match |
-| 26 | Germany | [TU Munich](physics-master/TUM_MSc_Physics.md) | 22 (2026) |  | MSc Physics (AEP) | Academic/Research | 2 years | Yes | Physics/Applied | Good BSc | Not req | May 31 | ~€3k/sem | Medium | Reach |
-| 27 | Germany | [LMU Munich](physics-master/LMU_MSc_Physics.md) | 54 |  | MSc Physics | Academic/Research | 2 years | Yes | Physics | Aptitude | GRE (non-EU) | Jul 15 | Tuition-free | Medium | Match |
+| 26 | Germany | [TU Munich](physics-master/TUM_MSc_Physics.md) | 22 (2026) |  | MSc Physics (AEP) | Academic/Research | 2 years | Yes | Physics/Applied | Curriculum + aptitude | Not req | May 31 (Jan 15 early target) | €6k/sem | Medium | Reach |
+| 27 | Germany | [LMU Munich](physics-master/LMU_MSc_Physics.md) | 54 |  | MSc Physics | Academic/Research | 2 years | Yes | Physics | Aptitude; no numeric min | Physics/Math GRE (non-EU degree) | Jul 15 | No tuition | Medium | Match |
 | 28 | Germany | [Heidelberg University](physics-master/Heidelberg_MSc_Physics.md) | 87 |  | MSc Physics | Academic/Research | 2 years | Yes | Physics/Astro | ≥2.9 German | Not req | Jul 15 | €1.5k/sem | Medium | Match |
 | 30 | Singapore | [NTU](physics-master/NTU_MSc_Physics.md) | 15 (2026) |  | MSc Physics | Academic/Research | 1–2 years | Yes | Research | 2nd Up Honours | Encouraged | Oct–Jan | SGD ~45k total | Medium | Match |
 
@@ -57,7 +62,7 @@ Research-oriented physics master programs requiring a thesis or substantial rese
 
 | Region | Count | Professional Agency Recommendations | Programs |
 |--------|-------|------------------------------------|----------|
-| Canada | 4 | 3 | UofT, McGill, UBC, UAlberta |
+| Canada | 9 | 3 | UofT Physics, UofT Astronomy, McGill, UBC, UAlberta, York, Ottawa, Western Astronomy, Western Physics |
 | USA | 12 | 6 | WUSTL, NYU, Columbia, Northwestern, Brown, Georgia Tech, Cornell, UCLA, Duke, UT Austin, UIUC, BU |
 | UK | 7 | 1 | Imperial, Edinburgh, Manchester, Warwick, Durham, Glasgow, Birmingham |
 | Australia | 4 | 2 | Melbourne, ANU, UNSW, Monash |
@@ -65,15 +70,15 @@ Research-oriented physics master programs requiring a thesis or substantial rese
 | Germany | 3 | 0 | TUM, LMU, Heidelberg |
 | Singapore | 3 | 2 | NUS (by Research), NUS (coursework), NTU |
 
-**Total: 37 targets**
+**Total: 42 targets**
 
 ## Summary by difficulty
 
 | Difficulty | Count | Notes |
 |-----------|-------|-------|
-| Reach | 6 | Cornell, Columbia, ETH, EPFL, TUM, Imperial — GPA 3.0 significantly below expected profile |
-| Match | 29 | Within range with research experience to compensate |
-| Safe | 2 | UofT, UAlberta — GPA meets minimum, acceptance likely more accessible |
+| Reach | 9 | UofT Physics, UofT Astronomy, York, Cornell, Columbia, ETH, EPFL, TUM, Imperial — GPA 3.0 is below or near the published competitive threshold |
+| Match | 32 | Within range with research experience to compensate |
+| Safe | 1 | UAlberta — GPA meets the published minimum and admission may be more accessible |
 
 ## Per-program files
 

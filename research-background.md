@@ -1,6 +1,6 @@
 # Research Background
 
-Last updated: 2026-06-22
+Last updated: 2026-09-11
 
 ## Core Narrative
 
@@ -37,6 +37,18 @@ Together, they show that the applicant can:
 - implement statistical and ML workflows in Python;
 - evaluate models with uncertainty, metrics, and controlled comparisons;
 - move across physical scales while keeping a consistent computational research focus.
+
+## Public Research Evidence
+
+The MaNGA dark-matter project has a public project homepage:
+
+- https://hyi03.github.io/manga-dm/
+
+It documents the research question, the applicant's contribution, the Python/PyMC 5 workflow, sample-selection milestones, posterior diagnostics, selected reproducible artifacts, and known implementation limits. Treat this as a verifiable research artifact, not as a substitute for an arXiv preprint or journal publication.
+
+For applications, place the homepage prominently in the CV research entry and in any application field intended for a personal website, portfolio, or supplementary material. Mention it once in a Personal Statement or SOP only when links are permitted; the surrounding sentence must still state the research question, contribution, and result because reviewers may not open external links.
+
+After the UCL particle-physics project is complete, create a parallel homepage using the same evidence structure. Before publishing it, obtain supervisor approval for public descriptions, figures, code, data, collaboration details, and results that may be unpublished or embargoed.
 
 ## Second Project: Accurate Description
 
@@ -113,6 +125,7 @@ Dark matter project:
 - Implemented MCMC-based posterior inference and uncertainty quantification for galaxy-level and population-level model parameters.
 - Analyzed late-type disk galaxy kinematics and interpreted inferred halo parameters in the context of dark matter structure formation.
 - Prepared a first-author manuscript for arXiv submission and subsequent journal submission.
+- Published a project homepage with an auditable research overview, methods, posterior diagnostics, selected artifacts, and implementation limitations: https://hyi03.github.io/manga-dm/
 
 Jet foundation model project:
 
@@ -149,4 +162,3 @@ The profile may look scattered if it is organized by field: astrophysics plus HE
 Final short profile:
 
 > Computational physics applicant with experience in Bayesian inference, MCMC, machine learning, feature ablation, and data-driven modeling across astrophysics and high-energy physics.
-
