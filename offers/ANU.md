@@ -23,6 +23,13 @@ This directory records offers already received. Private identifiers, addresses, 
 | Source | ANU conditional-offer letter dated 17 July 2026, stored privately in `var/` and intentionally not linked here. |
 | Last verified | 23 July 2026 |
 
+### GPA conversion note
+
+For ANU's Canada 4.0-point GPA table, assuming a pass mark (PM) of **1.85/4.0**, the conditional-offer threshold of **ANU GPA 5.0/7.0** corresponds to **2.57/4.0**. The related Master of Science (Advanced) in Astronomy and Astrophysics threshold of **ANU GPA 5.5/7.0** corresponds to **2.92/4.0** under the same assumption. This is indicative only; ANU makes the final conversion using the issuing institution's grading scale and transcript.
+
+- Source: https://study.anu.edu.au/apply/postgraduate-program-indicative-entry-requirements/canada
+- Last verified: 4 August 2026
+
 ### Application status
 
 ANU has issued its single available offer. Per the applicant's instruction, all further ANU application activity is closed; do not initiate, amend, or pursue another ANU application unless this decision is explicitly reopened.
