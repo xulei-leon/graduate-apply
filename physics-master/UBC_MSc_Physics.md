@@ -20,7 +20,7 @@
 - **Source:** https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics
 - **Last verified:** 2026-05-06
 - **Match:** Medium — strong overlap with dark matter research at UBC
-- **Notes:** Students can transfer to PhD after 1 year with 85%+ avg. Three reference letters. Classified as Match/Reach.
+- **Notes:** Students can transfer to PhD after 1 year with 85%+ avg. Three reference letters. Classified as Reach under the 2026-09-16 GPA 3.0 strategy; historical requirements above were not reverified in this planning update.
 
 ---
 

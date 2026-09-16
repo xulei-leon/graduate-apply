@@ -31,6 +31,15 @@ Use this repo to collect, verify, and compare graduate programs and advisors for
 | [targets.md](targets.md) | Target regions and program prioritization |
 | [AGENTS.md](AGENTS.md) | Operating rules for search, evaluation, and file updates |
 
+## 加拿大硕士当前申请规划
+
+分析前提：国际学生、GPA 按 3.0/4.0、接受自费、预算不作为限制，目标为至少取得一个加拿大硕士 offer。
+
+- [物理、天文及 Applied Physics 申请规划](physics-master/Canada_Academic_Physics_Masters.md)
+- [DS、数据分析、统计方向及计算科学等其他硕士申请规划](ds-master/Canada_Data_Science_Masters.md)
+
+两份文档分别维护申请路径和优先级；候选不等于已核实资格或已完成正式项目建档。
+
 ## Working rules
 
 1. Use official program, admissions, and lab sources first.

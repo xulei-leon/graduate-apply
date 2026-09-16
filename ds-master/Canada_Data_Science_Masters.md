@@ -1,120 +1,103 @@
-# 加拿大数据科学硕士申请分析
+# 加拿大 DS、数据分析与其他相邻硕士申请规划 — Fall 2027
 
-**申请人：** HY，University of Toronto Physics  
-**申请入学：** Fall 2027  
-**范围：** 加拿大 Data Science、Data Science and Analytics 及高度相关的专业硕士  
-**最后核验：** 2026-09-09
+更新日期：2026-09-16。沿用原文件路径，作为加拿大非 Physics 学位申请线的统一入口；物理、天文及 Applied Physics 见 [加拿大物理申请规划](../physics-master/Canada_Academic_Physics_Masters.md)。
 
-## 结论
+## 1. 目标与筛选前提
 
-加拿大 DS 申请不使用 QS 或 US News 排名门槛。根据 HY 目前约 3.0/4.0 的 GPA、物理本科、Python、PyMC 5、Bayesian MCMC 和两段计算研究经历，建议把项目分成三组：
+- HY：University of Toronto Physics 本科，国际学生；累计、最近两年及高年级成绩均按约 3.0/4.0 分析。
+- 第一目标：取得至少一个加拿大硕士 offer。接受自费，忽略预算限制，不设学校排名门槛。
+- 范围：Data Science、Data Analytics、Applied Statistics、Statistical Computing、Scientific Computing / Computational Science，以及确实接受定量本科的相邻专业硕士。
+- 优先考虑接受 Physics / Science 本科、无需录取前落实研究导师的路径；研究型计算科学单独标记，不能混称为免导师保险。
+- 各校成绩量表和计算区间不同。保留官方口径，不把 U of T 3.0/4.0 线性换算为 75%、77% 或另一量表的 3.0。
+- 自费不能代替成绩、先修课或技术面试。High / Medium 表示匹配度；Match / Reach 仅作规划标签，所有项目均不标 Safe。
 
-1. **核心申请：Toronto Metropolitan University、University of Calgary、University of Guelph。**
-2. **合理冲刺：UBC Master of Data Science。**
-3. **高风险冲刺：University of Waterloo MDSAI、University of Toronto MScAC Data Science。**
+## 2. 当前投入顺序
 
-Trent University 适合作为条件型补充，但其公开最低要求为 77%（B+），不能因为学校整体竞争度较低就将其视为保底。
+**先准备 Calgary MDSA 与 TMU；同步核实 Saint Mary's 的定量学位等效并准备技术面试；Guelph 以成绩和课程资格确认作为推进条件。**
 
-目前没有能够负责任地标为 Safe 的加拿大 DS 项目。TMU 和 Calgary 的最低门槛与 HY 最接近，但满足最低要求不等于录取。
+Ontario Tech 是导师依赖的计算科学补充；TRU 的课程与入学时间限制须先解决。UBC、Waterloo、U of T 和 Trent 暂不承担保障性申请任务。
 
-## 项目比较
-
-| 优先级 | University / Program | 类型与时长 | 官方学术门槛 | 物理背景与先修课 | 费用 / funding | 判断 |
+| 层级 | University / Program | 类型与时长 | 官方成绩 / 背景要求 | 导师与关键风险 | 匹配 / 规划难度 | 核验日期 |
 |---|---|---|---|---|---|---|
-| 1 | **Toronto Metropolitan University — MSc Data Science and Analytics** | MRP：全日制1年或非全日制2年；Thesis：全日制2年 | 四年制 Engineering、Science、Business、Economics 或相关学位；最近两年最低 3.00/4.33（B） | Physics 明确属于可接受的 Science。需证明 statistics、data structures and algorithms、databases、R/Python 的工作知识；可用指定等效课程补齐 | 项目页提示可申请 TA、奖学金和 stipend，但没有保证金额 | **High fit / Match。加拿大 DS 第一优先级** |
-| 2 | **University of Calgary — Master of Data Science and Analytics** | 12个月授课型；含 professional 或 research internship | 最近两年最低 3.0/4.0；四年制本科学位 | 需以至少 B 完成 programming、statistics，以及 calculus 或 linear algebra。Physics 与现有 Python/统计背景高度适配 | 课程型项目，未见保证 funding；需核对国际生总费用 | **High fit / Match。正式课程证明是关键** |
-| 3 | **University of Guelph — Master of Data Science** | 12–16个月，course-based；可选 faculty-supervised project | 最近四个学期最低 75%（B）；低于75%原则上只在存在特殊情况时考虑 | 官网明确列出 Physics 为该项目吸引的本科背景。需相关专业，或用正式课程证明 regression/statistics 与 intermediate programming 能力 | Self-funded；Vector Scholarship in AI 为 CAD 17,500，竞争性获得 | **High fit / Match–Reach，取决于最近四学期百分制平均** |
-| 4 | **UBC — Master of Data Science** | 10个月、30学分、non-thesis professional degree；含 capstone | 项目须满足 UBC 硕士一般录取要求；已核验页面未给出一个可直接用于 HY 的单一 GPA 数字 | 项目明确面向非 Computer Science / Statistics 本科生。需完成 programming、probability/statistics，以及 calculus 或 linear algebra；同时修过 calculus 和 linear algebra 更理想 | 当前官网列示国际生项目学费约 CAD 59,767.92；专业型项目通常不提供稳定 funding | **High fit / Reach。匹配很好，但 GPA、费用和竞争压力较高** |
-| 5 | **University of Waterloo — Master of Data Science and Artificial Intelligence** | Professional、coursework；页面列示36个月，可全日制或非全日制 | Honours bachelor's；最低 overall average 78% | 本科须为 data science、CS、statistics、mathematics 或 related field，并在 senior level 至少具备 CS 或 statistics 之一。仅有编程项目可能不足以替代正式高年级课程 | Funding 未确认；Vector-recognized | **Medium–High fit / Reach。78%和高年级先修课是双重风险** |
-| 6 | **University of Toronto — MScAC, Data Science concentration** | 专业型；6门研究生课程加8个月 applied-research internship | 本科最后一年最低 B+ | Data Science 同时要求 statistics 与 computer science 训练。Physics、Bayesian research 和 Python 有叙事优势，但不能代替 B+ 硬门槛或缺失的 CS 课程 | 学费和 funding 本轮未核验 | **High fit / High Reach。只做低投入冲刺** |
-| 7 | **Trent University — MSc Data Science and Analytics** | 12个月 course-based；最后一学期 research practicum | 通常要求 77% 或更高（Trent B+）的 honours BSc/BA 或等值学历 | 建模、统计、计算、R、data mining 与物理背景相容；具体先修课仍需向项目确认 | Funding 和国际生学费未核验 | **Medium–High fit / Reach。达到77%才保留** |
+| **A：优先准备** | University of Calgary — Master of Data Science and Analytics (MDSA) [S1] | Course-based；设计为 12 个月，含 research 或 professional internship | 最近两年、至少 60 units，3.0/4.0；四年制本科；编程、统计、微积分或线性代数三类课程分别至少 B | 每届配 Academic Coordinator；官网明确国际生直接申请 Master's。需正式先修课证明；不是 Physics MSc 的 3.3 门槛 | High：定量研究和 Python 背景匹配 / Match，非保底 | 2026-09-16 |
+| **A：优先准备** | Toronto Metropolitan University — MSc Data Science and Analytics [S2] | MRP 或 Thesis；旧档时长为全日制 MRP 1 年、Thesis 2 年，最新时长待复核 | 最近两年 3.00/4.33（B）；接受 Science、Engineering 等；要求统计、数据结构/算法、数据库及 R 等工作知识，官网列对应课程 | 优先评估 MRP；录取前导师匹配要求待确认，不能直接归为已证实免导师。Python 科研不能默认替代课程 | High：统计建模与数据方法匹配 / Match，非保底 | 2026-09-16（资格与先修课） |
+| **A：先确认资格** | Saint Mary's University — MSc Computing and Data Analytics [S3] | 16 个月专业硕士；课程与工作实践 | 通常为四年制 CS 学位或 equivalent in a quantitative field；研究生院一般要求最近 60 credit hours 3.0/4.3，项目可有更高要求 | 必须通过技术面试；Physics 是否满足等效和项目具体 GPA 要求尚未确认；已查页面未要求预先落实研究导师 | Medium：数据分析匹配，CS 深度待证明 / Match–Reach，取决于资格与面试 | 2026-09-16 |
+| **B：条件候选** | University of Guelph — Master of Data Science [S4] | Course-based，12–16 个月；可选 faculty-supervised project | 最近四学期至少 75%（B）；官网列 Physics 生源；相关专业，或证明 Applied Regression、Intermediate Programming 等课程能力 | 明确无需导师；3.0 不能直接证明达到 75%；可选 project 不等于保证 internship/co-op | High：统计建模与物理定量背景匹配 / Match–Reach，资格待核 | 2026-09-16 |
+| **B：导师条件型** | Ontario Tech University — MSc Modelling and Computational Science [S5] | 研究型计算科学；具体时长与路径待核 | 数学、理科、工程 Honours 或等效学位；总体及最近两年 B（官网列 3.0/4.3 或 73–76%）；数值方法、线性代数、微分方程及计算基础 | 录取明确依赖导师；适合计算物理，但不是 Physics 学位，也不是授课型免导师备选 | High：数值方法与科学计算直接匹配 / Match，须满足导师条件 | 2026-09-16 |
+| **C：先解决限制** | Thompson Rivers University — MSc Data Science [S6] | Project / Course Based 或 Thesis；课程结构和适用入学批次另核 | 最近 60 credits：Project B（3.00/4.33），Thesis B+（3.33/4.33）；要求多门扎实统计和 CS 课程 | 官网明确仅达到最低条件者不太可能录取。当前显示 Winter January 2027，每年一次；不能当作已确认 Fall 2027 项目。毕业后的适用批次待核 | Medium：方法相关，但课程深度和时间风险突出 / Reach，暂不计有效申请 | 2026-09-16 |
 
-## 为什么前三所最适合
+这些是工作候选，不代表已完成逐校建档或获得招生资格确认。第一批推进 3 项、条件候选 2 项、受限候选 1 项，共 6 项；暂不人为设定必须投满的数量。
 
-### 1. Toronto Metropolitan University
+## 3. 历史候选：暂不分配保障性名额
 
-TMU 同时解决了三个问题：正式接受 Science 背景，最低门槛接近 HY 当前 GPA，并允许在 MRP 和 Thesis 路径之间选择。课程中还包括 Bayesian Statistics and Machine Learning，能够自然承接 PyMC 和 Bayesian MCMC 经历。
+下列事实来自仓库 2026-09-09 记录，本次未重新打开全部官方页面，可能已变；保留来源便于后续核实，不把历史资料当作最新要求。
 
-最大风险不是专业名称，而是先修课证明。申请前需要把 U of T 成绩单上的统计、编程、算法和数据库课程逐项映射到 TMU 要求；如果缺数据库或数据结构，应优先补正式课程。
+| 项目 | 历史信息与当前处理 | 来源 |
+|---|---|---|
+| UBC — Master of Data Science | 接受非 CS/Statistics 背景，但 HY 对应成绩资格未确认；原有 Reach 标签不代表 3.0 已符合要求。先核资格，再决定是否冲刺 | https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-data-science |
+| Waterloo — Master of Data Science and Artificial Intelligence | 旧档最低 overall 78%，并要求高年级 CS 或 Statistics 准备；3.0 不能证明满足，暂缓 | https://uwaterloo.ca/future-graduate-students/programs/by-faculty/math/data-science-and-artificial-intelligence-master-data-science |
+| U of T — MScAC, Data Science concentration | 旧档最后一年 B+，同时要求 CS 和 Statistics 准备；本次不假设最后一年高于 3.0，暂缓 | https://www.sgs.utoronto.ca/programs/applied-computing/ ; https://mscac.utoronto.ca/concentrations/ds/ |
+| Trent — MSc Data Science and Analytics | 旧档 77%（B+）；不能因学校整体排名较低而当保底，确认资格前暂缓 | https://www.trentu.ca/amod/program/data-science-and-analytics-msc ; https://www.trentu.ca/amod/program/admission-requirements |
 
-### 2. University of Calgary
+合计 10 个讨论候选（6 个本会话核验候选 + 4 个历史候选），不是 10 个建议直接付费申请的项目，也不等于正式数据库条目数。
 
-Calgary 的 3.0/4.0 门槛、Physics 的定量背景和 12 个月 internship 结构，对就业导向申请较友好。其要求非常具体：programming、statistics、calculus/linear algebra 必须有正式课程且成绩至少 B。因此，只要课程记录完整，它比依赖“整体潜力解释”的项目更可预测。
+## 4. 统计、数据分析与科学计算的扩展规则
 
-### 3. University of Guelph
+当前还没有完成独立 Applied Statistics / Statistical Computing 硕士的逐校核验，不能把 DS 项目冒充为完整统计硕士覆盖。下一轮扩展优先查：
 
-Guelph 官网明确将 Physics 列为典型生源，这是本清单中最强的“非 CS 背景适配”证据之一。课程涵盖 statistical modelling、machine learning、spatial-temporal data 和可选项目，与科研数据分析经历匹配。
+1. **Applied Statistics / Statistical Computing**：接受物理或数学背景；明确概率论、数理统计、回归先修课与 B / 3.0 成绩口径；区分授课型与导师依赖型。
+2. **Data Analytics**：优先接受非 CS 的 STEM 本科；检查 SQL、数据库、算法及编程要求；不默认商学院项目没有工作经验或 GMAT 条件。
+3. **Scientific Computing / Computational Science**：检查数值方法、微分方程、计算课程与导师要求；Ontario Tech 是已核实的导师条件型示例。
+4. **CS / AI**：只保留正式接受相关定量背景且课程可满足的项目；不把科研 Python 等同于完整 CS 本科训练。
 
-风险在于 75% 要按最近四个学期计算，不能直接用 3.0/4.0 粗略代替。官网同一页面目前还出现 March 31、February 13 两种申请截止信息；Fall 2027 开放后应以申请系统和项目确认结果为准，并以更早日期准备。
+新项目必须通过国际生资格、成绩、先修课、导师时点和招生批次五项筛查，才进入最终申请组合。目标为逐步形成约 4–6 个有依据的非物理申请，与物理线并行；这是工作目标，不是已完成名单或成功率承诺。
 
-## 申请组合与精力分配
+## 5. 先修课与材料任务
 
-建议申请 5–6 个加拿大 DS 项目：
-
-| 组合 | 项目 | DS 申请精力 |
-|---|---|---:|
-| 核心 | TMU、Calgary、Guelph | 60% |
-| 合理冲刺 | UBC | 15% |
-| 高风险冲刺 | Waterloo、U of T MScAC 二选一或都投 | 15% |
-| 条件型补充 | Trent，仅在核算平均分达到77%后保留 | 10% |
-
-如果只申请四所，建议选择 **TMU、Calgary、Guelph、UBC**。Waterloo 与 U of T 不应挤占前三所的先修课补齐和定制文书时间。
-
-## 成绩与先修课审计
-
-申请前必须分别计算以下口径，不能只写 cumulative GPA 3.0：
-
-- 最近两年 GPA：用于 TMU 和 Calgary。
-- 最近四个学期百分制平均：用于 Guelph。
-- 本科 overall percentage：用于 Waterloo 的 78% 判断。
-- 本科最后一年平均：用于 U of T MScAC 的 B+ 判断。
-
-同时建立正式课程映射表：
-
-| 能力 | 应提供的证据 |
+| 项目 / 能力 | 应准备的证据或动作 |
 |---|---|
-| Programming | U of T 正式编程课程；Python 科研代码只能作为补充材料 |
-| Statistics / probability | 正式概率统计、回归、数据分析课程；PyMC 项目作为能力强化证据 |
-| Calculus / linear algebra | U of T 数学课程及成绩 |
-| Algorithms / data structures | 正式课程最有说服力；缺失时优先补修 |
-| Databases / SQL | TMU 的明显风险项；如无正式课程，应在申请前补齐 |
+| Calgary | 编程、统计、微积分或线性代数的正式课程及成绩，分别满足 B；按学校要求填写 GPA worksheet 与 prerequisite proof |
+| TMU | 按官网 CIND 123、CIND 110、CIND 830 等要求建立课程对应。CIND 830 自 Fall 2020 替代旧 CCPS 305；不要仅凭课程名称把算法或数据库要求自行删去。缺项先确认认可的补修课程 |
+| Saint Mary's | 确认 Physics 定量学位等效；按官方 Programming Guide 准备技术面试；三位推荐人；不要把一般 3.0 门槛当作项目最终资格结论 |
+| Guelph | 核算最近四学期百分制口径，证明回归与进阶编程能力；项目明确不预评个人资格，最终由完整申请审查 |
+| Ontario Tech | 数值方法、线性代数、微分方程、计算课程与研究摘要；定向联系匹配导师 |
+| TRU | 完成 Knowledge Mapping，证明多门统计与 CS 课程；先确认毕业后可申请批次，未解决不投入正式申请 |
 
-HY 的研究经历能显著改善 fit 和 SOP，但多数项目把先修课写成正式课程要求，研究代码不能被默认视为等效课程。
+科研代码、PyMC/MCMC 和项目主页作为能力补强，不能默认替代正式先修课。补修应针对实际缺项，而不是为了申请无差别增加课程。
 
-## 文书定位
+文书主线：从物理研究中的推断和计算问题出发，说明已经掌握的方法、本人贡献和证据，再说明希望通过目标硕士补齐的统计、计算或数据工程能力。不要夸大论文状态或尚未完成的实验。
 
-加拿大 DS 文书不应写成“放弃物理转行”。更好的主线是：
+Calgary 当前 MDSA 页面列推荐信 None；Saint Mary's 要求 3 份推荐材料；TMU 为 2 封；Guelph 为 2 封且至少 1 封学术推荐。按各项目实际要求准备，不统一臆定材料数量。
 
-> 从物理研究中的真实推断问题出发，已经使用 Python、Bayesian inference、MCMC 和观测／模拟数据完成研究，现在希望系统补齐 machine learning、data engineering、algorithms 和 production analytics，将科研级建模能力扩展到更广泛的数据问题。
+## 6. 时间表与截止日期
 
-两段研究可以分工：
+| 阶段 | 工作结果 |
+|---|---|
+| 2026-09 下旬 | 完成 Calgary/TMU 课程映射；核实 Saint Mary's 学位等效和项目 GPA；定位 Guelph 75% 的实际资格问题 |
+| 2026-10 | 补齐可补的课程证明，准备技术面试、CV、陈述和推荐人材料；核实导师依赖型计算科学路径 |
+| 2026-11 | 第一批材料齐全后尽早提交；继续扩展真正满足条件的 Applied Statistics / Data Analytics 项目 |
+| 2026-11 中旬 | 与物理线共同复盘；研究型无实质进展时加大本线投入，但不降低资格筛查标准 |
+| 2026-12 至各项目截止前 | 跟进申请完整性、面试与决定；不把未完成或不合资格申请计作保障 |
 
-- MaNGA + PyMC 项目证明 Bayesian modelling、uncertainty quantification、科研数据处理和独立产出。
-- UCL computational particle physics 项目证明 scientific computing、复杂模型实现、与领域专家协作及强推荐信潜力。
+- **Saint Mary's Fall 2027 已明确**：2026-09-08 开放；2027-05-01 网上申请及申请费截止；2027-05-31 材料截止。满额可能提前停止接收，不应等到五月才准备。
+- **Calgary MDSA**：当前页面列 September 1 开放、国际生 March 1 截止，但未明确标出批次年份；Fall 2027 以申请系统确认。
+- **Guelph**：当前页面同时出现 March 31 与 February 13，并混有 Fall 2026 内容；Fall 2027 截止未确认。提前准备，不能擅自选择较晚日期。
+- **TMU / Ontario Tech**：Fall 2027 精确截止尚未核实。
+- **TRU**：目前显示 Winter January 2027；不能据此推断 Fall 2027 或下一年一月的日期。
+- U of T 英语授课学位的豁免按项目规则办理，不把国际学生身份与英语豁免混为一谈。
 
-GRE 317/Q166 可以作为定量能力的辅助信息，但这些项目大多不要求 GRE，不值得为加拿大 DS 重新备考。
+## 7. 官方来源与记录边界
 
-## 截止日期与待确认事项
+S1–S6 均于本会话 2026-09-16 打开核对；本次整理使用上述已核验结果，不声称重新核验了所有页面、费用或导师名额。
 
-- Waterloo 当前页面列示 September 入学截止日为 January 15。
-- Calgary 当前页面列示国际生 Fall admission 截止日为 March 1。
-- Guelph 当前页面存在 February 13 与 March 31 两种信息，并列示 Vector Scholarship 需在 December 15 前完成；Fall 2027 必须重新确认。
-- TMU、UBC、U of T MScAC 和 Trent 的 Fall 2027 确切截止日期本轮未确认。
-- U of T 英语授课学位通常有利于获得英语测试豁免，但应按每个项目的正式政策逐校确认。Guelph 明确允许符合条件的英语授课加拿大大学学位申请 waiver，最终仍需项目批准。
+- S1 Calgary MDSA: https://grad.ucalgary.ca/future-students/graduate/discover-opportunities/explore-programs/data-science-and-analytics-mdsa-course
+- S2 TMU MSc Data Science and Analytics: https://www.torontomu.ca/graduate/programs/data-science-analytics/
+- S3 Saint Mary's MSc Computing and Data Analytics: https://www.smu.ca/academics/msc-in-computing-and-data-analytics.html
+- S3 Saint Mary's graduate admission regulations: https://smu-ca-public.courseleaf.com/graduate/academic-regulations/admissions/
+- S3 Saint Mary's technical interview guide directory: https://cs-smu.ca/cda-info/
+- S4 Guelph Master of Data Science: https://www.uoguelph.ca/programs/master-of-data-science
+- S5 Ontario Tech MSc Modelling and Computational Science: https://gradstudies.ontariotechu.ca/future_students/programs/masters_programs/modelling_and_computational_science/index.php
+- S6 TRU MSc Data Science: https://www.tru.ca/science/programs/mscds.html
+- S6 TRU admission requirements: https://www.tru.ca/science/programs/mscds/admission/admission-requirements.html
 
-## 官方来源
-
-- Toronto Metropolitan University — Data Science and Analytics (MSc): https://www.torontomu.ca/graduate/programs/data-science-analytics/
-- University of Calgary — Master of Data Science and Analytics: https://grad.ucalgary.ca/future-students/graduate/discover-opportunities/explore-programs/data-science-and-analytics-mdsa-course
-- University of Guelph — Master of Data Science: https://www.uoguelph.ca/programs/master-of-data-science
-- UBC Graduate School — Master of Data Science: https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-data-science
-- UBC Academic Calendar — Data Science (M.D.S.): https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/professional-masters-degrees/data-science-mds
-- University of Waterloo — Master of Data Science and Artificial Intelligence: https://uwaterloo.ca/future-graduate-students/programs/by-faculty/math/data-science-and-artificial-intelligence-master-data-science
-- University of Toronto SGS — Applied Computing: https://www.sgs.utoronto.ca/programs/applied-computing/
-- University of Toronto MScAC — Data Science concentration: https://mscac.utoronto.ca/concentrations/ds/
-- Trent University — MSc Data Science and Analytics: https://www.trentu.ca/amod/program/data-science-and-analytics-msc
-- Trent University — Admission Requirements: https://www.trentu.ca/amod/program/admission-requirements
-
-## 状态
-
-这是加拿大 DS 的策略性短名单，不代表所有项目已经进入最终申请清单。下一轮应先完成成绩口径和先修课审计，再为最终保留的项目建立逐校档案并更新 `ds-master/README.md` 索引表。
+本文件是申请规划，不把候选标为已完成正式建档。招生人数、未查明的学费/资金、2027 截止及导师空缺保持未确认；预算按用户要求不参与排序。最终保留项目须先建立独立档案，再更新 ds-master/README.md 索引和数量。本次未发送邮件、提交申请或改变联系状态。

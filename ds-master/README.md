@@ -6,7 +6,7 @@ Use this folder for data science or data analytics master programs that plausibl
 
 Country strategy:
 
-- **[Canada Data Science Master's Applications](Canada_Data_Science_Masters.md)** — Canada-only analysis, prerequisite audit, and recommended application portfolio
+- **[加拿大 DS、数据分析与其他相邻硕士申请规划](Canada_Data_Science_Masters.md)** — 国际学生、GPA 3.0、自费；含统计方向扩展、计算科学候选、先修课与时间表（2026-09-16）
 - Canadian universities are exempt from the repository's QS/US News ranking filter.
 
 ## Target regions

@@ -8,7 +8,7 @@ Programs are split into two categories:
 
 - **[Academic / Research Programs](../physics-master-academic-programs.md)** thesis-required, research-oriented (42 targets)
 - **[Professional / Taught Programs](../physics-master-professional-programs.md)** coursework-oriented, no thesis or optional research (11 targets)
-- **[Canada Physics Master's Applications](Canada_Academic_Physics_Masters.md)** Canada-only shortlist, priorities, and Ontario-focused strategy
+- **[Canada Physics Master's Applications](Canada_Academic_Physics_Masters.md)** 加拿大当前物理申请规划：国际学生、GPA 3.0、自费；优先级、导师条件与时间表（2026-09-16）
 
 Canadian universities are exempt from the repository's QS/US News ranking filter. Evaluate them by GPA eligibility, research fit, supervisor availability, funding, and application value.
 
@@ -31,9 +31,9 @@ Canadian universities are exempt from the repository's QS/US News ranking filter
 
 | Difficulty | Count | Notes |
 |-----------|-------|-------|
-| Reach | 11 | GPA 3.0 significantly below or near the expected profile |
-| Match | 39 | Within range with research experience to compensate |
-| Safe | 3 | GPA meets minimum, acceptance likely more accessible |
+| Reach | 13 | GPA 3.0 significantly below or near the expected profile |
+| Match | 38 | Planning label; eligibility and supervisor conditions still require verification |
+| Safe | 2 | Historical non-Canadian taught-program labels; no Canadian program is classified as Safe |
 
 ## File rules
 

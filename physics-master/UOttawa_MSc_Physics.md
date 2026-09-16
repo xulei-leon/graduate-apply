@@ -20,12 +20,12 @@
 | Funding | Thesis applicants must meet funding requirements and identify a professor willing to supervise; international applicants must show supervisor stipend and/or other qualifying support |
 | Match | **Medium** — accessible academic threshold and useful computation, but current departmental strengths emphasize photonics, quantum science, materials, and biophysics rather than dark matter |
 | Difficulty | **Match**, assuming the relevant average is at least 70% and a funded supervisor is secured |
-| Status | Core/backup Ontario target |
-| Last verified | 2026-09-09 |
+| Status | 导师条件型候选；Applied Physics 课程路径的国际生招生与导师要求待核，不能标为免导师保底 |
+| Last verified | 2026-09-16（Standard stream 资格、导师/资金条件和 Applied Physics 课程结构）；其余字段保留旧记录 |
 
 ## Fit note
 
-Ottawa is valuable for portfolio balance because the formal threshold is attainable and both thesis and applied options exist. Supervisor fit should determine whether HY uses it as a research route or a professional backup.
+Standard thesis 的 70%（B）门槛与计算研究方向值得评估，但必须有愿意指导的教授，且申请时要求导师姓名。Applied Physics Option 虽存在 course/project 结构，Fall 2027 国际生适用性、是否沿用导师/资金条件尚未确认；Co-op 条款亦需项目方解释，不能承诺可用。
 
 ## Sources
 

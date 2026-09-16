@@ -11,8 +11,8 @@ Research-oriented physics master programs requiring a thesis or substantial rese
 | # | Country | University | QS rank | US NEWS | Program | Type | Duration | Thesis | Track | GPA req | GRE req | Deadline | Tuition (intl) | Match | Difficulty |
 |---|---------|-----------|--------|--------|---------|------|----------|-------|-------|---------|---------|----------|----------------|-------|------------|
 | 1 | Canada | [University of Toronto](physics-master/UofT_MSc_Physics.md) * | 29 (2026) |  | MSc Physics | Academic/Research | 3 sessions (1 year) | Research report/project | Physics / Comp / Dark Matter | Mid-B final-year (SGS) / B+ (department) | Not req | Dec 11 | Funded: $31k + tuition (2024 level) | High | Reach |
-| 2 | Canada | [McGill University](physics-master/McGill_MSc_Physics.md) * | 29 |  | MSc Physics | Academic/Research | 2 years | Yes | Physics | 3.0 min | Optional | Dec 15 | ~$20k CAD/yr | Medium | Match |
-| 3 | Canada | [UBC](physics-master/UBC_MSc_Physics.md) * | 38 |  | MSc Physics | Academic/Research | 2 years | Yes | Physics/Astro | 80%+ | Not req | Dec 1 | ~$10k CAD/yr | Medium | Match |
+| 2 | Canada | [McGill University](physics-master/McGill_MSc_Physics.md) * | 29 |  | MSc Physics | Academic/Research | 2 years | Yes | Physics | 3.0 university minimum; department pending | Optional | Dec 15 (cycle pending) | ~$20k CAD/yr (old estimate) | Medium | Reach |
+| 3 | Canada | [UBC](physics-master/UBC_MSc_Physics.md) * | 38 |  | MSc Physics | Academic/Research | 2 years | Yes | Physics/Astro | 80%+ | Not req | Dec 1 | ~$10k CAD/yr | Medium | Reach |
 | 34 | USA | [Washington University in St. Louis](physics-master/WUSTL_MA_Physics.md) * |  | 21 | Physics, MA | Academic/Research | 2 years | No | Physics | 3.0 min | Optional | Fall only | Not stated | Match | Match |
 | 10 | USA | [New York University](physics-master/NYU_MS_Physics.md) * | 38 | 32 | MS Physics | Academic/Research | 2 years | Yes | Physics/Astro | Holistic | Not req | Jan 5 | ~$60k/yr | Medium | Match |
 | 33 | USA | [Columbia University](physics-master/Columbia_MS_AppliedPhysics.md) * | 38 (2026) |  | MS in Applied Physics | Academic/Research | Not explicitly stated; 30 points | No explicit thesis | Applied Physics | 3.0 min | Optional | Feb 15 / Oct 15 | Limited MS-only funding | Reach | Reach |
@@ -33,9 +33,9 @@ Research-oriented physics master programs requiring a thesis or substantial rese
 
 | # | Country | University | QS rank | US NEWS | Program | Type | Duration | Thesis | Track | GPA req | GRE req | Deadline | Tuition (intl) | Match | Difficulty |
 |---|---------|-----------|--------|--------|---------|------|----------|-------|-------|---------|---------|----------|----------------|-------|------------|
-| 4 | Canada | [University of Alberta](physics-master/UAlberta_MSc_Physics.md) | 111 |  | MSc Physics | Academic/Research | 2 years | Yes | Physics | 3.0 min | Not req | Rolling | ~$10k CAD/yr | Medium | Safe |
+| 4 | Canada | [University of Alberta](physics-master/UAlberta_MSc_Physics.md) | 111 |  | MSc Physics | Academic/Research | 2 years | Yes | Physics | 3.0 last 60 units (recheck pending) | Not req | Unresolved | Old estimate; recheck | Medium | Match |
 | 38 | Canada | [University of Toronto](physics-master/UofT_MSc_Astronomy_Astrophysics.md) | 29 (2026) |  | MSc Astronomy and Astrophysics | Academic/Research | 3 sessions | Yes | Astronomy/Astrostatistics | High academic standing | N/A | Unresolved | Unresolved | High | Reach |
-| 39 | Canada | [York University](physics-master/York_MSc_Physics_Astronomy.md) |  |  | MSc Physics & Astronomy | Academic/Research | Unresolved | Research confirmed | Astro/Particle/Computational | Unresolved | Not mentioned | Jan 15 | Funding offered; amount unresolved | High | Reach |
+| 39 | Canada | [York University](physics-master/York_MSc_Physics_Astronomy.md) |  |  | MSc Physics & Astronomy | Academic/Research | 6 terms | Thesis/project; coursework closed to international students | Astro/Particle/Computational | B+ | Not mentioned | Jan 15, 2027 | Funding offered; amount unresolved | High | Reach |
 | 40 | Canada | [University of Ottawa](physics-master/UOttawa_MSc_Physics.md) |  |  | MSc Physics | Both tracks | 12–24 months | Thesis or project by option | Physics/Comp | 70% min | Not mentioned | Unresolved | Funding requires supervisor support | Medium | Match |
 | 41 | Canada | [Western University](physics-master/Western_MSc_Astronomy.md) |  |  | MSc Astronomy | Academic/Research | Unresolved | Research/thesis/project | Astronomy/Comp/Astrostatistics | 70% in 3rd/4th year | Not req | Unresolved | Supervisor-linked; amount unresolved | High | Match |
 | 42 | Canada | [Western University](physics-master/Western_MSc_Physics.md) |  |  | MSc Physics | Academic/Research | Unresolved | Research/thesis/project | Physics/Computational | 70% in 3rd/4th year | Not req | Unresolved | Supervisor-linked; amount unresolved | High | Match |
@@ -76,9 +76,9 @@ Research-oriented physics master programs requiring a thesis or substantial rese
 
 | Difficulty | Count | Notes |
 |-----------|-------|-------|
-| Reach | 9 | UofT Physics, UofT Astronomy, York, Cornell, Columbia, ETH, EPFL, TUM, Imperial — GPA 3.0 is below or near the published competitive threshold |
-| Match | 32 | Within range with research experience to compensate |
-| Safe | 1 | UAlberta — GPA meets the published minimum and admission may be more accessible |
+| Reach | 11 | UofT Physics, UofT Astronomy, York, McGill, UBC, Cornell, Columbia, ETH, EPFL, TUM, Imperial — GPA 3.0 is below or near the published competitive threshold |
+| Match | 31 | Planning label only; eligibility, prerequisites and supervisor capacity must be checked |
+| Safe | 0 | No research MSc is classified as Safe from minimum GPA alone |
 
 ## Per-program files
 
