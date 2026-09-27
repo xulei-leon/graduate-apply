@@ -20,7 +20,7 @@
 - **Source:** https://www.tum.de/en/studies/degree-programs/detail/physics-applied-and-engineering-physics-master-of-science-msc
 - **Last verified:** 2026-09-04
 - **Match:** Medium — strong applied/computational physics; GPA below typical German BSc average but research may compensate
-- **Notes:** TUMonline and a TUM-specific uni-assist VPD are required for a U of T degree. Stage 1 scores curriculum (60), converted grades (20), and motivation (20): ≥66 passes, 55–65 proceeds to interview, <55 fails. German is not required for AEP admission, but conditional bachelor's modules are generally taught in German. See [the detailed application analysis](../application-materials/tum-physics-msc-application-analysis.md).
+- **Notes:** TUMonline and a TUM-specific uni-assist VPD are required for a U of T degree. Stage 1 scores curriculum (60), converted grades (20), and motivation (20): ≥66 passes, 55–65 proceeds to interview, <55 fails. German is not required for AEP admission, but conditional bachelor's modules are generally taught in German. See [the detailed application analysis](../graduate-application-planning/tum-physics-msc-application-analysis.md).
 
 ---
 

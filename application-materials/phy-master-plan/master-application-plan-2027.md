@@ -37,7 +37,7 @@
 ### 第一优先级：核心申请
 
 - Western MSc Astronomy：与MaNGA、暗物质、Python、Bayesian inference和astrostatistics叙事最吻合，正式开放后尽早提交。
-- Western MSc Physics：以 UCL 的模拟 Higgs 四轻子事件分析承接计算粒子物理、机器学习分类和信号强度推断方向；个人贡献须核实。
+- Western MSc Physics：以 UCL 的模拟 Higgs 四轻子事件分析承接计算粒子物理、机器学习分类和信号强度推断方向；用户已确认本人负责该项目文档所述技术工作，作者顺序仍待确认。
 - McGill MSc Physics：正式最低GPA与当前背景相容，但需要用研究经历、论文和推荐信提高竞争力。
 - York MSc Physics & Astronomy：方向覆盖天体、粒子和计算研究；在确认数字GPA要求后保留为核心项目。
 - University of Geneva和UZH MSc Physics：重视本科课程匹配，适合作为瑞士项目中的相对务实选择。
@@ -82,7 +82,7 @@
 ## 材料准备清单
 
 - 中英文正式成绩单及学位/在读证明。
-- 学术CV：分别列出 MaNGA 暗物质晕 Bayesian MCMC 项目及模拟 Higgs 四轻子运动学特征归因项目。第二项可写研究问题、MLP、pyhf profile likelihood、Shapley、MC bootstrap 与覆盖率诊断，以及已有探索性草稿；个人动作动词须按核实后的分工选择。
+- 学术CV：分别列出 MaNGA 暗物质晕 Bayesian MCMC 项目及模拟 Higgs 四轻子运动学特征归因项目。第二项可写研究问题、MLP、pyhf profile likelihood、Shapley、MC bootstrap 与覆盖率诊断，以及已有探索性草稿；用户已确认个人技术工作，可概括为模拟事件及 MLP 特征组合比较、似然推断及归因与可靠性诊断两项。
 - Physics/Astrophysics主文书：以物理参数推断、计算方法和不确定性评估连接两段经历。MaNGA 对暗物质/星系动力学导师提供直接主题证据；Higgs 项目对 collider ML 和统计粒子物理导师提供直接方法证据。
 - Data Science主文书：强调物理训练、Python、概率建模、MCMC、ML 分类评估、特征消融和可复现数据分析；明确两课题所用推断范式不同。
 - 研究摘要：两项研究分别准备约150字和约300字版本。Higgs 摘要应说明模拟样本、15个特征组合、推断指标、探索性结果及 MC/覆盖率限制；列出个人具体任务前先核实。

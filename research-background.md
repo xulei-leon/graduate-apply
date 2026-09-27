@@ -1,6 +1,6 @@
 # 科研背景与申请叙事
 
-最后核对：2026-09-27。第二课题依据 2026-09-26 论文草稿及 test05 证据索引更新；本次未重新运行实验或独立验证统计结论。
+最后核对：2026-09-27。第二课题依据 2026-09-26 论文草稿、test05 证据索引及 `D:/code/HiggsML/docs` 更新；个人分工由用户于 2026-09-27 确认。本次未重新运行实验或独立验证统计结论。
 
 ## 两段科研的共同主线
 
@@ -29,7 +29,7 @@
 | 推断与归因 | pyhf 0.7.6、T1 有限模板统计近似、Asimov 68% profile-likelihood interval width W68；exact Shapley decomposition、24 个条件交互和 105 对非空子集比较 |
 | 可复现设计 | 按物理事件组划分 training / validation / calibration / template / assessment；固定结果快照、产物身份及哈希；signed yields 与优化用绝对权重分开处理 |
 | 评估 | 五个种子共享 MC；200 次 event-group bootstrap 固定已训练网络；model-self、assessment 和 T2 条件 pseudo-experiment 覆盖率诊断 |
-| 稿件状态 | 2026-09-26 草稿已有方法、结果、图表及证据索引；作者排序、个人任务分工、投稿/接收状态未确认，永久外部归档待完成 |
+| 稿件状态 | 2026-09-26 草稿已有方法、结果、图表及证据索引；个人任务分工已由用户确认，作者排序和投稿/接收状态未确认，永久外部归档待完成 |
 
 旧档案中的 JetClass top tagging、PET / OmniLearn、jet foundation models 属于此前记录，不能继续充当当前论文的课题、数据或模型描述；本稿也不支持将数据效率、迁移学习或基础模型训练列为已完成成果。
 
@@ -62,17 +62,17 @@ BC 和 AC 在五个同种子比较中均比 ABCD 的名义区间更窄。Exact S
 
 硕士申请宜强调希望系统加强数值方法、统计建模、科学机器学习与研究实践；博士申请需围绕导师的具体问题说明方法联系。暗物质/星系动力学方向以第一课题为主要证据；collider ML、统计粒子物理和 inference-aware evaluation 方向以第二课题为主要证据。对纯理论暗物质模型、量子方向或生成模型的匹配不能仅凭“计算粒子物理”标签升级。
 
-以下英文可作为 SOP 的课题级描述；个人贡献须另行确认，不能把论文全部方法自动归为申请人独立完成：
+以下英文可作为 SOP 的课题级描述；其中个人工作按用户确认的分工补充，仍需区分已完成的技术工作与未确认的作者顺序和投稿状态：
 
 > Since May 2026, I have worked one-on-one with a University College London physics professor on a computational particle-physics project studying kinematic feature attribution for signal-strength inference in simulated H → ZZ* → 2e2μ events. The current manuscript compares all fifteen nonempty combinations of four physically motivated feature groups using five MLP training seeds per combination, a common profile-likelihood analysis in pyhf, and exact Shapley attribution. Compact inputs yield narrower nominal intervals in the reported comparison, but finite-Monte-Carlo uncertainty and coverage diagnostics do not establish a calibrated precision gain. This project connects machine-learning evaluation with the reliability of physical parameter inference.
 
-可用于 CV 的课题级要点（使用个人动作动词前核实分工）：
+可用于 CV 的个人工作要点（依据用户对 `D:/code/HiggsML/docs` 工作归属的确认）：
 
-- Research project: kinematic feature attribution for Higgs signal-strength inference using ATLAS open simulated samples.
-- Methods: exhaustive feature-group comparisons with MLP classifiers, profile-likelihood intervals in pyhf, exact Shapley attribution, and event-group bootstrap and conditional coverage diagnostics.
+- Processed ATLAS open simulated 2e2μ events, organized 19 kinematic variables into four groups, and trained and compared MLP classifiers for 15 nonempty group combinations across five seeds.
+- Built a common pyhf profile-likelihood signal-strength inference workflow and used exact Shapley attribution, event-group bootstrap, and conditional coverage diagnostics to assess feature contributions and interval reliability.
 - Output: manuscript draft with exploratory numerical results; authorship order and submission status to be confirmed.
 
-提交前仍需确认：申请人亲自完成的 2–3 项任务、导师姓名、作者顺序、导师对公开材料的许可及推荐意愿。不能由现有草稿推断第一作者身份、独立完成全部分析、已投稿或强推荐已落实。
+提交前仍需确认：导师姓名、作者顺序、导师对公开材料的许可及推荐意愿。个人技术工作由用户确认；不能由此推断第一作者身份、已投稿或强推荐已落实。
 
 ## 研究作品与来源
 
@@ -86,4 +86,4 @@ BC 和 AC 在五个同种子比较中均比 ABCD 的名义区间更窄。Exact S
 - [固定快照身份](D:/code/HiggsML/paper/selected-snapshot.json)
 - [构建与归档状态说明](D:/code/HiggsML/paper/README.md)
 
-这些来源支持课题内容与草稿报告的结果；UCL 指导关系和开始时间来自既有申请档案，MaNGA 课题状态本次未重新核实。
+这些来源支持课题内容与草稿报告的结果；个人技术工作归属来自用户于 2026-09-27 的直接确认，UCL 指导关系和开始时间来自既有申请档案，MaNGA 课题状态本次未重新核实。

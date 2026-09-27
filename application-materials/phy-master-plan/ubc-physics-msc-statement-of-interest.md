@@ -1,6 +1,6 @@
 # UBC Physics MSc — Statement of Interest
 
-科研背景同步：2026-09-27，依据 [第二课题草稿与证据汇总](../research-background.md)。以下项目招生要求未在本次重新核实；个人贡献占位符仍需补齐。
+科研背景同步：2026-09-27，依据 [第二课题草稿与证据汇总](../../research-background.md) 及用户对个人技术工作的确认。以下项目招生要求未在本次重新核实；作者顺序仍需确认。
 
 最后更新：2026-08-28
 
@@ -54,7 +54,7 @@
 - 物理问题：模拟 H → ZZ* → 2e2μ 中运动学输入对信号强度 μ 推断的影响。
 - 方法：ATLAS open MC、15 个特征组合 × 5 个 MLP 种子、pyhf profile likelihood、exact Shapley、MC bootstrap 与覆盖率诊断。
 - 进展：已有完整计算和论文草稿；紧凑输入的名义区间更窄，但未建立统计显著或已校准的精度提升。
-- 待确认：申请人实际承担的 2–3 项任务、作者顺序、投稿状态和导师允许公开的范围。
+- 个人技术工作已由用户确认；作者顺序、投稿状态和导师允许公开的范围仍待确认。
 
 该段需要证明：
 
@@ -96,7 +96,7 @@ As a Physics student at the University of Toronto, I have developed a foundation
 
 My first substantial research project examined the concentration–mass relation of dark-matter haloes using data from the Mapping Nearby Galaxies at Apache Point Observatory survey. I used PyMC 5 to implement Bayesian models and Markov chain Monte Carlo inference, with the aim of quantifying the relationship between halo properties while retaining the uncertainty associated with the data and model assumptions. This work required me to examine prior choices, posterior distributions, sampling convergence, and the distinction between numerical convergence and physically meaningful parameter constraints. It also taught me that a statistically sophisticated result is useful only when its assumptions and physical interpretation are made explicit. I am currently preparing a first-author manuscript from this project for submission to arXiv.
 
-Since May 2026, I have also worked one-on-one with a University College London physics professor on kinematic feature attribution for signal-strength inference in simulated H → ZZ* → 2e2μ events. Using ATLAS open simulated samples, the study compares fifteen nonempty combinations of four kinematic feature groups with five MLP training seeds per combination, a common profile-likelihood analysis in pyhf, and exact Shapley attribution. The current manuscript identifies compact inputs with narrower nominal signal-strength intervals, while finite-Monte-Carlo uncertainty and conditional coverage diagnostics leave calibrated precision gains unestablished. My responsibilities include **[confirm two or three tasks personally completed]**. This project has strengthened my interest in connecting machine-learning evaluation with reliable physical parameter inference.
+Since May 2026, I have also worked one-on-one with a University College London physics professor on kinematic feature attribution for signal-strength inference in simulated H → ZZ* → 2e2μ events. Using ATLAS open simulated samples, the study compares fifteen nonempty combinations of four kinematic feature groups with five MLP training seeds per combination, a common profile-likelihood analysis in pyhf, and exact Shapley attribution. The current manuscript identifies compact inputs with narrower nominal signal-strength intervals, while finite-Monte-Carlo uncertainty and conditional coverage diagnostics leave calibrated precision gains unestablished. I processed the simulated 2e2μ events and trained the MLP feature-group comparisons; I also built the pyhf inference and attribution, bootstrap, and coverage evaluation workflow. This project has strengthened my interest in connecting machine-learning evaluation with reliable physical parameter inference.
 
 Together, these experiences have shaped my interest in computational and statistical inference across astrophysical and particle-physics settings. The MaNGA project showed me how dark matter can be constrained through its gravitational influence on galaxies, whereas my UCL work studies how learned kinematic summaries affect Higgs signal-strength inference in simulation. Although the physical scales are different, both projects require careful model construction, uncertainty analysis, numerical validation, and a clear connection between computation and physical interpretation. In graduate study, I hope to deepen this combination of statistical inference and computational physics rather than treating computation as a separate technical skill.
 
@@ -108,7 +108,7 @@ During the MSc, I hope to strengthen my knowledge of particle physics and statis
 
 - [x] 按当前 Higgs 草稿补充 UCL 项目的物理问题与探索性结果。
 - [x] 补充 MLP、pyhf、Shapley 和 MC/覆盖率评估方法。
-- [ ] 填写实际承担的 2–3 项研究任务。
+- [x] 根据用户确认，填写两项核心个人技术工作。
 - [ ] 核对 MaNGA 手稿的实际状态。
 - [ ] 阅读 Alison Lister 的近期论文，并将匹配描述具体到研究问题或方法。
 - [ ] 阅读 Christopher Hearty 的近期论文，并将匹配描述具体到研究问题或方法。

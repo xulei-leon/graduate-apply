@@ -1,6 +1,6 @@
 # McGill Physics MSc 申请材料
 
-科研背景同步：2026-09-27，依据 [第二课题草稿与证据汇总](../research-background.md)。以下项目招生要求未在本次重新核实；个人贡献占位符仍需补齐。
+科研背景同步：2026-09-27，依据 [第二课题草稿与证据汇总](../../research-background.md) 及用户对个人技术工作的确认。以下项目招生要求未在本次重新核实；作者顺序仍需确认。
 
 最后核实：2026-08-28
 
@@ -101,7 +101,7 @@ GPA结论：3.0/4.0达到McGill公开最低门槛，但处在下沿。McGill没�
 - 物理问题：模拟 H → ZZ* → 2e2μ 中运动学输入对信号强度 μ 推断的影响。
 - 方法：ATLAS open MC、15 个特征组合 × 5 个 MLP 种子、pyhf profile likelihood、exact Shapley、MC bootstrap 与覆盖率诊断。
 - 进展：已有完整计算和论文草稿；紧凑输入的名义区间更窄，但未建立统计显著或已校准的精度提升。
-- 待确认：申请人实际承担的 2–3 项任务、作者顺序、投稿状态和导师允许公开的范围。
+- 个人技术工作已由用户确认；作者顺序、投稿状态和导师允许公开的范围仍待确认。
 
 ### 第五段：McGill匹配
 
@@ -125,7 +125,7 @@ As a Physics student at the University of Toronto, I have built a foundation in 
 
 My first substantial research project investigated the concentration–mass relation of dark-matter haloes using data from the Mapping Nearby Galaxies at Apache Point Observatory survey. I used PyMC 5 to implement Bayesian models and Markov chain Monte Carlo inference, with the goal of quantifying relationships between halo properties while propagating uncertainty from both the data and the model assumptions. The project required me to examine prior choices, posterior distributions, sampling convergence, and the difference between numerical convergence and physically informative constraints. It also taught me that statistical inference is most valuable when its assumptions are connected clearly to the underlying physics. I am currently preparing a first-author manuscript from this work for submission to arXiv.
 
-Since May 2026, I have also worked one-on-one with a University College London physics professor on kinematic feature attribution for signal-strength inference in simulated H → ZZ* → 2e2μ events. Using ATLAS open simulated samples, the study compares fifteen nonempty combinations of four kinematic feature groups with five MLP training seeds per combination, a common profile-likelihood analysis in pyhf, and exact Shapley attribution. The current manuscript identifies compact inputs with narrower nominal signal-strength intervals, while finite-Monte-Carlo uncertainty and conditional coverage diagnostics leave calibrated precision gains unestablished. My responsibilities include **[confirm two or three tasks personally completed]**. This project has strengthened my interest in connecting machine-learning evaluation with reliable physical parameter inference.
+Since May 2026, I have also worked one-on-one with a University College London physics professor on kinematic feature attribution for signal-strength inference in simulated H → ZZ* → 2e2μ events. Using ATLAS open simulated samples, the study compares fifteen nonempty combinations of four kinematic feature groups with five MLP training seeds per combination, a common profile-likelihood analysis in pyhf, and exact Shapley attribution. The current manuscript identifies compact inputs with narrower nominal signal-strength intervals, while finite-Monte-Carlo uncertainty and conditional coverage diagnostics leave calibrated precision gains unestablished. I processed the simulated 2e2μ events and trained the MLP feature-group comparisons; I also built the pyhf inference and attribution, bootstrap, and coverage evaluation workflow. This project has strengthened my interest in connecting machine-learning evaluation with reliable physical parameter inference.
 
 The two projects have exposed me to complementary methods of physical parameter inference. The MaNGA work uses the gravitational influence of dark matter on galaxies to constrain halo properties, while the UCL project studies Higgs signal-strength inference using learned kinematic summaries of simulated events. Despite their different physical settings, both require careful model construction, uncertainty analysis, numerical validation, and an explicit connection between computation and physical interpretation. At McGill, I hope to deepen these skills through thesis-based research and advanced graduate coursework.
 
@@ -138,7 +138,7 @@ During the MSc, I hope to strengthen my knowledge of particle physics, cosmology
 - [x] 按当前 Higgs 草稿补充 UCL 项目的具体问题。
 - [x] 补充 MLP、pyhf、Shapley 和 MC/覆盖率评估方法。
 - [ ] 填写自己承担的2–3项具体任务。
-- [x] 补充草稿已有探索性结果与统计限制；个人贡献、作者顺序及投稿状态仍待确认。
+- [x] 补充草稿已有探索性结果与统计限制，以及用户确认的个人技术工作；作者顺序及投稿状态仍待确认。
 - [ ] 将Katelin Schutz和Jim Cline的近期论文各加入一个具体匹配点。
 - [ ] 确认两位首选导师是否预计接收2027年MSc学生。
 - [ ] 申请系统开放后确认是否需要单独上传CV、SOP或研究陈述。

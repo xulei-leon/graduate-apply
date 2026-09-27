@@ -20,7 +20,7 @@
 - **Source:** https://www.physik.lmu.de/en/studies/study-programs/applying-to-a-masters-program/
 - **Last verified:** 2026-09-04
 - **Match:** Medium — strong in astrophysics and computational physics; GRE Physics may help Q166
-- **Notes:** The faculty requires a CV, transcript/degree, ≤1,000-word essay, subject GRE for a non-EU first degree, and portal questionnaire. The essay is reviewed by two assessors; disagreement leads to an approximately 30-minute interview. International applicants normally also apply to the LMU International Office. Can apply twice maximum. See [the detailed application analysis](../application-materials/lmu-physics-msc-application-analysis.md).
+- **Notes:** The faculty requires a CV, transcript/degree, ≤1,000-word essay, subject GRE for a non-EU first degree, and portal questionnaire. The essay is reviewed by two assessors; disagreement leads to an approximately 30-minute interview. International applicants normally also apply to the LMU International Office. Can apply twice maximum. See [the detailed application analysis](../graduate-application-planning/lmu-physics-msc-application-analysis.md).
 
 ---
 

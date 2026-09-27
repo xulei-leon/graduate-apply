@@ -44,7 +44,7 @@ Being enrolled at U of T does not convert an international applicant into a dome
 ### Strengths
 
 - The MaNGA project provides a coherent dark-matter research question and concrete Bayesian methods: PyMC 5, MCMC, priors, posteriors, convergence checks, and uncertainty analysis.
-- UCL 第二课题已有模拟 Higgs 四轻子特征归因与信号强度推断草稿，涉及 MLP、pyhf、Shapley 和 MC/覆盖率诊断；结果属探索性，个人贡献及推荐强度仍需确认。依据：[科研背景，2026-09-27 核对](../research-background.md)。
+- UCL 第二课题已有模拟 Higgs 四轻子特征归因与信号强度推断草稿，涉及 MLP、pyhf、Shapley 和 MC/覆盖率诊断；结果属探索性。用户已确认本人负责 `D:/code/HiggsML/docs` 所述技术工作，推荐强度仍需确认。依据：[科研背景，2026-09-27 核对](../../research-background.md)。
 - The combination of astrophysical dark-matter inference and particle-physics computation fits several U of T groups without requiring an artificial change of direction.
 - A first-author manuscript, once uploaded to arXiv, would give the committee a verifiable research output.
 - Current access to U of T faculty makes it possible to add a department-based project and reference before or during the application cycle.
@@ -100,7 +100,7 @@ Prof. Kahn's group works on dark-matter direct detection, axions, collider/beam-
 
 1. Identify yourself as a fourth-year U of T Physics student and name the exact research direction from the faculty member's current page.
 2. Describe the MaNGA Bayesian dark-matter project in one sentence, including PyMC 5/MCMC and the actual manuscript status.
-3. 用一句话介绍 UCL Higgs 模拟课题、MLP 与 profile-likelihood 方法及已有探索性草稿；个人分工和作者顺序仍需确认。
+3. 用一句话介绍 UCL Higgs 模拟课题、MLP 与 profile-likelihood 方法及已有探索性草稿；个人技术工作已由用户确认，作者顺序仍需确认。
 4. Propose one plausible task relevant to the group.
 5. Ask whether the professor would be open to a 15–20 minute meeting about a PHY37x/PHY47x project this term and possible Fall 2027 graduate research fit.
 

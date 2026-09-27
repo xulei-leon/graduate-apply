@@ -1,6 +1,6 @@
 # University of Toronto — MSc in Physics
 
-Detailed applicant-specific plan: [U of T Physics MSc application analysis](../application-materials/uoft-physics-msc-application-analysis.md)
+Detailed applicant-specific plan: [U of T Physics MSc application analysis](../graduate-application-planning/uoft-physics-msc-application-analysis.md)
 
 ## Program facts
 

@@ -1,6 +1,6 @@
 # 申请人背景
 
-第二课题最后核对：2026-09-27；来源为 2026-09-26 论文草稿，详细证据与表述边界见 [科研背景](research-background.md)。其他个人信息沿用原记录。
+第二课题最后核对：2026-09-27；来源为 2026-09-26 论文草稿，详细证据与表述边界见 [科研背景](research-background.md)。本科入学与预计毕业时间于 2026-09-27 由用户直接确认；其他个人信息沿用原记录。
 
 ## 1. 基本信息
 
@@ -15,7 +15,7 @@
 
 | Level | Institution | Program | GPA | Timing |
 |------|-------------|---------|-----|--------|
-| Undergraduate | University of Toronto | Physics | 3.0/4.0 | Fall 2024 - Spring 2028, currently junior |
+| Undergraduate | University of Toronto | Physics | 3.0/4.0 | September 2023 - June 2027 (expected); user-confirmed 2026-09-27 |
 
 ## 3. Standardized tests
 
@@ -53,7 +53,7 @@
 | Analysis scope | 无真实碰撞数据；分类器无显式 m4ℓ 输入；105–140 GeV 单质量箱，非空组合两个 score 类别，未证明质量去相关 |
 | Results | BC/AC/ABCD 的 W68 中位数为 1.51162/1.51524/1.53593；BC/AC 相对 constant-score reference 的名义缩减为 9.14%/8.92%；80/80 nominal、36/36 evaluation units、200/200 bootstrap replicas 数值有效 |
 | Limitations | 探索性结果；紧凑输入与全输入的 MC 宽度差范围跨零；覆盖率与选择后校准、独立验证尚未完成，不能宣称显著或已校准的精度提升 |
-| Individual contribution | 论文可确认课题方法与结果，但个人具体分工、作者顺序及导师姓名仍待确认 |
+| Individual contribution | 用户于 2026-09-27 确认 `D:/code/HiggsML/docs` 中记录的工作均由本人负责完成。申请材料归纳为两项：① 2e2μ 模拟事件处理、19 变量四组划分及 15 个非空组合 × 5 种子的 MLP 训练比较；② pyhf profile-likelihood 推断、exact Shapley 归因、event-group bootstrap 与条件覆盖率诊断。作者顺序及导师姓名仍待确认 |
 | Status | 已有 2026-09-26 论文草稿及固定 test05 结果；仍在完善验证；投稿、接收与公开归档状态未确认 |
 | Goal | 完善独立验证、作者信息及论文定稿，达到可投稿质量 |
 | Source | [论文草稿](D:/code/HiggsML/paper/latex/main.tex)；[结果证据索引](D:/code/HiggsML/paper/result-evidence.md) |
@@ -80,7 +80,7 @@
 |------|--------|
 | Programming | Python; 2 courses with GPA 4.0 |
 | Statistical computing | PyMC 5、Bayesian MCMC；第二课题涉及 pyhf profile likelihood、Asimov intervals、MC bootstrap 与覆盖率诊断 |
-| Scientific ML | 第二课题涉及 MLP 分类、特征组消融、exact Shapley attribution 和可复现评估；各工具个人掌握程度须结合任务分工确认 |
+| Scientific ML | 用户确认本人负责第二课题文档所述工作，包括 MLP 特征组比较、exact Shapley attribution 和可复现评估；不据此推断超出项目范围的工具熟练程度 |
 | Language | Chinese native; English in English-medium university |
 
 ## 8. Application direction
@@ -95,5 +95,5 @@
 ## 9. Notes for evaluation
 
 - GPA 3.0 should be treated as a constraint, not a blocker.
-- 科研证据包括 MaNGA 第一作者手稿，以及 Higgs 课题已有的探索性结果和草稿；第二课题个人贡献及作者顺序仍需确认。
+- 科研证据包括 MaNGA 第一作者手稿，以及 Higgs 课题已有的探索性结果和草稿；第二课题个人分工已由用户确认，作者顺序仍待确认。
 - Recommendation strength should be tracked separately from topic fit.
