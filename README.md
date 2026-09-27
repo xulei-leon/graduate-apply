@@ -15,8 +15,8 @@ Use this repo to collect, verify, and compare graduate programs and advisors for
 | GRE | 317 (Q 166) |
 | English test | Waived by English-instruction university |
 | Research | Dark matter c–M relation, Bayesian MCMC + PyMC 5, first-author paper in progress |
-| Current collaboration | 1-on-1 with UCL physics professor, started May 2026 |
-| Skills | Python, PyMC 5, Bayesian inference |
+| Current collaboration | 2026 年 5 月起与 UCL 教授一对一合作；模拟 Higgs 四轻子事件的运动学特征归因与信号强度推断；已有 2026-09-26 草稿，探索性结果，作者顺序和投稿状态待确认 |
+| Skills | Python、PyMC 5、Bayesian inference；第二课题涉及 MLP、pyhf profile likelihood、Shapley attribution、MC bootstrap 与覆盖率诊断 |
 | Targets | Physics PhD, Physics Master, Data Science Master |
 
 ## Repository map
@@ -28,6 +28,7 @@ Use this repo to collect, verify, and compare graduate programs and advisors for
 | [ds-master/](ds-master/) | Data Science Master programs |
 | [guides/](guides/) | Search heuristics and country comparisons |
 | [background.md](background.md) | Full applicant profile |
+| [research-background.md](research-background.md) | 科研内容、草稿来源、结果边界及 CV/SOP 表述；第二课题核对于 2026-09-27 |
 | [targets.md](targets.md) | Target regions and program prioritization |
 | [AGENTS.md](AGENTS.md) | Operating rules for search, evaluation, and file updates |
 

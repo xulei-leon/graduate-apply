@@ -31,7 +31,7 @@ All faculty below are listed as current **Graduate Faculty** by the David A. Dun
 HY has **two research projects**:
 
 - **Research 1:** Bayesian inference on the dark-matter halo c-M relation using MaNGA data, PyMC 5, and MCMC.
-- **Research 2:** A one-to-one computational particle-physics project with a UCL professor. Machine learning is part of this same project, not a separate research experience. The exact ML model, dataset or simulation, individual contribution, validation method, and output should be stated once documented.
+- **Research 2（2026-09-27 同步）：** UCL 教授一对一指导的模拟 Higgs 四轻子运动学特征归因与信号强度推断。使用 ATLAS open MC、MLP、pyhf profile likelihood、exact Shapley、event-group bootstrap 和条件覆盖率诊断，已有探索性结果草稿。个人分工、作者顺序及投稿状态仍待确认，详见 [科研背景](../research-background.md)。机器学习属于这一课题的方法。
 
 | Priority | Faculty member | Current direction | Fit for HY | Recruiting / outreach status |
 |---|---|---|---|---|

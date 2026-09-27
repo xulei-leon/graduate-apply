@@ -8,6 +8,8 @@ Graduate school application research workspace for HY, a University of Toronto p
 
 **Targets:** Physics PhD (40), Physics Master (30), Data Science Master (15)
 
+申请人科研背景以 [background.md](background.md) 和 [research-background.md](research-background.md) 为准。2026-09-27 已按第二课题草稿更新为模拟 Higgs 四轻子事件的特征归因与信号强度推断（MLP、pyhf、Shapley、MC bootstrap/覆盖率诊断）；已有探索性结果，不得沿用 JetClass 基础模型叙述，也不得推断第一作者身份、已投稿或已验证的精度提升。
+
 ## Repository architecture
 
 ```

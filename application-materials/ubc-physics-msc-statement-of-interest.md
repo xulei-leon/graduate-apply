@@ -1,5 +1,7 @@
 # UBC Physics MSc — Statement of Interest
 
+科研背景同步：2026-09-27，依据 [第二课题草稿与证据汇总](../research-background.md)。以下项目招生要求未在本次重新核实；个人贡献占位符仍需补齐。
+
 最后更新：2026-08-28
 
 状态：初稿。申请系统开放后，需要根据正式题目和字数限制调整。
@@ -8,7 +10,7 @@
 
 核心主线：
 
-> 以暗物质为科学问题，以贝叶斯推断和计算方法为技术主线，将 MaNGA 天体物理研究与 UCL 计算粒子物理研究连接起来。
+> 以数据驱动的物理参数推断为主线，连接 MaNGA 暗物质晕贝叶斯建模与 UCL Higgs 四轻子模拟分析，强调统计方法、机器学习和不确定性评估。
 
 申请目标：University of British Columbia — Master of Science in Physics。
 
@@ -47,12 +49,12 @@
 
 ### 4. UCL 计算粒子物理项目
 
-提交前需要补充：
+已按 2026-09-26 草稿补充：
 
-- 具体研究问题。
-- 使用的数值方法、软件或模拟框架。
-- 当前完成的可验证成果。
-- 申请人实际承担的 2–3 项任务。
+- 物理问题：模拟 H → ZZ* → 2e2μ 中运动学输入对信号强度 μ 推断的影响。
+- 方法：ATLAS open MC、15 个特征组合 × 5 个 MLP 种子、pyhf profile likelihood、exact Shapley、MC bootstrap 与覆盖率诊断。
+- 进展：已有完整计算和论文草稿；紧凑输入的名义区间更窄，但未建立统计显著或已校准的精度提升。
+- 待确认：申请人实际承担的 2–3 项任务、作者顺序、投稿状态和导师允许公开的范围。
 
 该段需要证明：
 
@@ -94,9 +96,9 @@ As a Physics student at the University of Toronto, I have developed a foundation
 
 My first substantial research project examined the concentration–mass relation of dark-matter haloes using data from the Mapping Nearby Galaxies at Apache Point Observatory survey. I used PyMC 5 to implement Bayesian models and Markov chain Monte Carlo inference, with the aim of quantifying the relationship between halo properties while retaining the uncertainty associated with the data and model assumptions. This work required me to examine prior choices, posterior distributions, sampling convergence, and the distinction between numerical convergence and physically meaningful parameter constraints. It also taught me that a statistically sophisticated result is useful only when its assumptions and physical interpretation are made explicit. I am currently preparing a first-author manuscript from this project for submission to arXiv.
 
-Since May 2026, I have also worked one-on-one with a University College London physics professor on a computational particle-physics project concerning **[insert the specific physical question]**. In this project, I use **[insert the principal numerical method, software, or simulation framework]** to study **[insert the observable, process, or model being investigated]**. My responsibilities have included **[insert two or three concrete tasks, such as deriving the numerical formulation, implementing the calculation, validating the code, analysing simulated data, or comparing the results with an analytical prediction]**. Working closely with a specialist in the field has helped me become more systematic in translating a physical question into a reproducible computational workflow. We are developing the project toward publication-quality output.
+Since May 2026, I have also worked one-on-one with a University College London physics professor on kinematic feature attribution for signal-strength inference in simulated H → ZZ* → 2e2μ events. Using ATLAS open simulated samples, the study compares fifteen nonempty combinations of four kinematic feature groups with five MLP training seeds per combination, a common profile-likelihood analysis in pyhf, and exact Shapley attribution. The current manuscript identifies compact inputs with narrower nominal signal-strength intervals, while finite-Monte-Carlo uncertainty and conditional coverage diagnostics leave calibrated precision gains unestablished. My responsibilities include **[confirm two or three tasks personally completed]**. This project has strengthened my interest in connecting machine-learning evaluation with reliable physical parameter inference.
 
-Together, these experiences have shaped my interest in computational approaches to dark matter across astrophysical and particle-physics settings. The MaNGA project showed me how dark matter can be constrained through its gravitational influence on galaxies, whereas my UCL work has exposed me to the computational study of fundamental particles and interactions. Although the physical scales are different, both projects require careful model construction, uncertainty analysis, numerical validation, and a clear connection between computation and physical interpretation. In graduate study, I hope to deepen this combination of statistical inference and computational physics rather than treating computation as a separate technical skill.
+Together, these experiences have shaped my interest in computational and statistical inference across astrophysical and particle-physics settings. The MaNGA project showed me how dark matter can be constrained through its gravitational influence on galaxies, whereas my UCL work studies how learned kinematic summaries affect Higgs signal-strength inference in simulation. Although the physical scales are different, both projects require careful model construction, uncertainty analysis, numerical validation, and a clear connection between computation and physical interpretation. In graduate study, I hope to deepen this combination of statistical inference and computational physics rather than treating computation as a separate technical skill.
 
 UBC is especially attractive to me because its thesis-based MSc combines advanced coursework with sustained research and provides access to a broad community spanning the Department of Physics and Astronomy and TRIUMF. I am interested in Professor Alison Lister’s work on ATLAS searches for physics beyond the Standard Model, including dark matter and long-lived particles, as well as the use of machine-learning methods in experimental particle physics. Her research is closely connected to my interest in extracting weak physical signals from complex data while controlling modelling and reconstruction uncertainties. I am also interested in Professor Christopher Hearty’s research on dark sectors and dark-matter signatures with the Belle II experiment. His group’s work provides a compelling connection between the unresolved astrophysical evidence for dark matter and direct experimental searches for new particles. Subject to faculty availability, I would welcome the opportunity to explore how my background in Bayesian inference, Python, and computational particle physics could contribute to research in these areas.
 
@@ -104,8 +106,8 @@ During the MSc, I hope to strengthen my knowledge of particle physics and statis
 
 ## 四、提交前必须完成
 
-- [ ] 填写 UCL 项目的具体物理问题。
-- [ ] 填写数值方法、软件或模拟框架。
+- [x] 按当前 Higgs 草稿补充 UCL 项目的物理问题与探索性结果。
+- [x] 补充 MLP、pyhf、Shapley 和 MC/覆盖率评估方法。
 - [ ] 填写实际承担的 2–3 项研究任务。
 - [ ] 核对 MaNGA 手稿的实际状态。
 - [ ] 阅读 Alison Lister 的近期论文，并将匹配描述具体到研究问题或方法。

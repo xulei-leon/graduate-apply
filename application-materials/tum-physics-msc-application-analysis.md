@@ -224,7 +224,7 @@ Current master's-supervision availability is unknown. Before naming an individua
 | Research motivation | 70–90 words | Computation and inference as tools for dark-matter and particle-physics questions |
 | Academic eligibility | 120–150 words | Map the strongest theory, experiment, math, lab, and computing preparation to the TUM prerequisites |
 | MaNGA research | 130–160 words | Bayesian model, PyMC 5, MCMC, uncertainty, data interpretation, manuscript status |
-| UCL research | 120–150 words | Exact computational particle problem, numerical method, individual contribution, validation, output |
+| UCL research | 120–150 words | Higgs 四轻子模拟、MLP 特征组比较、pyhf 信号强度推断、Shapley 与覆盖率诊断；已有探索性草稿，个人任务和作者顺序待确认。见 [科研背景（2026-09-27）](../research-background.md) |
 | Why AEP at TUM | 150–190 words | High-energy specialization, computational/data-analysis/Monte Carlo content, named research environment, and intended research phase |
 | Goal | 40–60 words | Research master's training leading toward computational particle/astroparticle or dark-matter PhD work |
 

@@ -12,8 +12,8 @@ Success means the database is complete enough to support real application decisi
 - GRE 317, Q166
 - TOEFL/IELTS waived because the degree is from an English-instruction university
 - Research 1: Bayesian inference on the dark-matter halo c-M relation using MaNGA data and PyMC 5; first-author paper is ready for arXiv submission and later journal submission; LoR is likely weak because the project was a commercial class-project arrangement
-- Research 2: one-on-one project with a UCL physics professor, started in May 2026; topic is particle physics (computational physics); advisor is a domain expert; aiming for publication-quality output; LoR likely strong
-- Skills: Python, PyMC 5, Bayesian MCMC
+- Research 2（2026-09-27 核对）：2026 年 5 月起与 UCL 物理教授一对一合作；当前草稿研究模拟 H → ZZ* → 2e2μ 的运动学特征归因与信号强度推断，使用 ATLAS open MC、MLP、pyhf profile likelihood、exact Shapley attribution、MC bootstrap 与覆盖率诊断。已有 2026-09-26 草稿和完整 test05 计算，结论仍属探索性；个人分工、作者顺序、投稿状态待确认；潜在强推荐尚未落实。详见 [research-background.md](research-background.md)，不再使用旧 JetClass/PET/OmniLearn 叙述。
+- Skills: Python、PyMC 5、Bayesian MCMC；第二课题涉及 MLP、likelihood inference、特征归因与可复现统计评估，个人工具掌握程度依具体分工确认
 - Targets: Physics PhD, Physics Master, Data Science Master
 
 ## 2. Source priority

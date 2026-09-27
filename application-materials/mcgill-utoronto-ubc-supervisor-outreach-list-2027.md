@@ -9,7 +9,7 @@
 | 导师与基本信息 | 研究课题、论文链接 |
 |---|---|
 | **首选** [Katelin Schutz](https://katelinschutz.com/)<br>Assistant Professor；CRC | 暗物质、再电离；MaNGA 晕的 Bayesian 推断<br>① [数值再电离模拟](https://doi.org/10.1103/8ck8-3t9f) (2026)<br>② [轴子信号搜索](https://doi.org/10.3847/1538-4357/adde48) (2025) |
-| **首选** [Jim Cline](https://www.physics.mcgill.ca/~jcline/)<br>Professor；High Energy Theory | 暗物质模型、暗光子；UCL 计算粒子物理<br>① [惰性中微子暗物质](https://doi.org/10.1088/1475-7516/2026/07/079) (2026)<br>② [暗光子与中微子振荡](https://doi.org/10.1140/epjc/s10052-025-14336-1) (2025) |
+| **首选** [Jim Cline](https://www.physics.mcgill.ca/~jcline/)<br>Professor；High Energy Theory | 暗物质模型、暗光子；HY 暗物质兴趣，Higgs 课题提供统计计算方法联系<br>① [惰性中微子暗物质](https://doi.org/10.1088/1475-7516/2026/07/079) (2026)<br>② [暗光子与中微子振荡](https://doi.org/10.1140/epjc/s10052-025-14336-1) (2025) |
 | **备选** [Adrian Liu](https://sites.google.com/view/acliu/home)<br>Professor；Physics / Trottier | 21 cm 宇宙学、射电阵列模拟与统计分析<br>① [射电阵列可见度模拟](https://doi.org/10.1093/rasti/rzaf001) (2025)<br>② [21 cm 缺失数据校正](https://doi.org/10.3847/1538-4357/ad9b91) (2025) |
 
 三位均未联系，2027 MSc 名额未确认。Jim Cline 的主页说明接收学生受经费制约，申请仍须通过 McGill 项目。
@@ -74,7 +74,7 @@
 
 | 导师与基本信息 | 研究课题、论文链接 |
 |---|---|
-| **初选** [Alison Lister](https://www.grad.ubc.ca/researcher/14742-lister)<br>Professor；ATLAS | 对撞机暗物质、jet ML；UCL JetClass 项目<br>① [jet flavour tagging](https://doi.org/10.1038/s41467-025-65059-6) (2026)<br>② [弱监督异常检测](https://doi.org/10.1103/2yq5-vj59) (2025) |
+| **初选** [Alison Lister](https://www.grad.ubc.ca/researcher/14742-lister)<br>Professor；ATLAS | 对撞机暗物质、jet ML；HY 的 Higgs 模拟分类与似然推断提供方法联系<br>① [jet flavour tagging](https://doi.org/10.1038/s41467-025-65059-6) (2026)<br>② [弱监督异常检测](https://doi.org/10.1103/2yq5-vj59) (2025) |
 | **初选** [Christopher Hearty](https://www.grad.ubc.ca/researcher/14720-hearty)<br>Professor；Belle II | dark sector、暗 Higgs；似然分析与计算粒子物理<br>① [模型无关似然](https://doi.org/10.1103/pr66-sd36) (2025)<br>② [暗 Higgs 搜索](https://doi.org/10.1103/37w5-glpp) (2025) |
 
 两位均未联系，Fall 2027 MSc 名额与可接课题待确认。表中论文分别为 ATLAS、Belle II 合作成果；发信前应核对导师本人负责的具体方向。

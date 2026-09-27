@@ -1,5 +1,7 @@
 # McGill Physics MSc 申请材料
 
+科研背景同步：2026-09-27，依据 [第二课题草稿与证据汇总](../research-background.md)。以下项目招生要求未在本次重新核实；个人贡献占位符仍需补齐。
+
 最后核实：2026-08-28
 
 项目：McGill University — Master of Science in Physics (Thesis)
@@ -39,7 +41,7 @@ GPA结论：3.0/4.0达到McGill公开最低门槛，但处在下沿。McGill没�
 
 - 职称：McGill Physics High Energy Theory Professor。
 - 研究方向：粒子物理与宇宙学交叉、暗物质模型构建、非MSSM暗物质、直接探测、暗物质湮灭、电弱重子生成。
-- 匹配判断：High。与HY的计算粒子物理项目和暗物质兴趣最直接相关。
+- 匹配判断：Medium。暗物质兴趣与统计计算方法有联系，但当前 UCL 课题是 Higgs 模拟推断，不能作为暗物质理论模型构建的直接经历。
 - 招生状态：个人主页明确表示，优秀学生在经费允许的情况下始终受到欢迎；同时说明不能直接接收学生，申请必须通过McGill研究生项目。
 - 套磁重点：UCL计算粒子物理项目、暗物质贝叶斯推断、Python科学计算，以及希望研究粒子物理—宇宙学交叉问题。
 - 官方主页：https://www.physics.mcgill.ca/~jcline/
@@ -48,7 +50,7 @@ GPA结论：3.0/4.0达到McGill公开最低门槛，但处在下沿。McGill没�
 
 - 职称：McGill Physics及Trottier Space Institute教授。
 - 研究方向：21厘米宇宙学、宇宙黎明、第一代恒星和星系、射电望远镜数据、数据驱动宇宙学。
-- 匹配判断：Medium。与MaNGA数据分析、统计推断和计算方法有较强方法重合，但与暗物质晕和计算粒子物理的主题匹配不如Schutz或Cline直接。
+- 匹配判断：Medium。与MaNGA数据分析、统计推断和计算方法有较强方法重合，与暗物质晕的主题匹配不如 Schutz 直接；不能仅凭粒子物理标签认定 Cline 更匹配。
 - 招生状态：研究组主页展示2025–2026年持续的学生论文和项目进展，但没有明确说明2027年MSc招生名额。
 - 套磁重点：大规模天体物理数据、统计方法、科学计算和从观测数据中提取宇宙学信息。
 - 官方主页：https://sites.google.com/view/acliu/home
@@ -56,7 +58,7 @@ GPA结论：3.0/4.0达到McGill公开最低门槛，但处在下沿。McGill没�
 ### 导师联系顺序
 
 1. Katelin Schutz：暗物质天体物理与结构形成的直接匹配。
-2. Jim Cline：暗物质模型和计算粒子物理的直接匹配，并有明确的学生招收表述。
+2. Jim Cline：暗物质方向兴趣与计算方法的延伸候选；需补充理论准备度证据，并核实当年名额。
 3. Adrian Liu：作为数据驱动宇宙学和科学计算方向的备选。
 
 建议先联系前两位，再决定是否联系第三位。每位教师只发送个性化邮件，不群发。
@@ -94,12 +96,12 @@ GPA结论：3.0/4.0达到McGill公开最低门槛，但处在下沿。McGill没�
 
 ### 第四段：UCL项目
 
-必须补充具体信息：
+已按 2026-09-26 草稿补充：
 
-- 物理问题；
-- 数值方法或软件；
-- 自己承担的任务；
-- 当前结果或可验证进展。
+- 物理问题：模拟 H → ZZ* → 2e2μ 中运动学输入对信号强度 μ 推断的影响。
+- 方法：ATLAS open MC、15 个特征组合 × 5 个 MLP 种子、pyhf profile likelihood、exact Shapley、MC bootstrap 与覆盖率诊断。
+- 进展：已有完整计算和论文草稿；紧凑输入的名义区间更窄，但未建立统计显著或已校准的精度提升。
+- 待确认：申请人实际承担的 2–3 项任务、作者顺序、投稿状态和导师允许公开的范围。
 
 ### 第五段：McGill匹配
 
@@ -123,9 +125,9 @@ As a Physics student at the University of Toronto, I have built a foundation in 
 
 My first substantial research project investigated the concentration–mass relation of dark-matter haloes using data from the Mapping Nearby Galaxies at Apache Point Observatory survey. I used PyMC 5 to implement Bayesian models and Markov chain Monte Carlo inference, with the goal of quantifying relationships between halo properties while propagating uncertainty from both the data and the model assumptions. The project required me to examine prior choices, posterior distributions, sampling convergence, and the difference between numerical convergence and physically informative constraints. It also taught me that statistical inference is most valuable when its assumptions are connected clearly to the underlying physics. I am currently preparing a first-author manuscript from this work for submission to arXiv.
 
-Since May 2026, I have also worked one-on-one with a physics professor at University College London on a computational particle-physics project concerning **[insert the specific physical question]**. In this project, I use **[insert the numerical method, software, or simulation framework]** to study **[insert the observable, process, or model]**. My responsibilities include **[insert two or three concrete tasks]**, and the project is being developed toward publication-quality output. This experience has helped me become more systematic in translating a physical question into a reproducible computational workflow and has strengthened my interest in the connection between particle physics and cosmology.
+Since May 2026, I have also worked one-on-one with a University College London physics professor on kinematic feature attribution for signal-strength inference in simulated H → ZZ* → 2e2μ events. Using ATLAS open simulated samples, the study compares fifteen nonempty combinations of four kinematic feature groups with five MLP training seeds per combination, a common profile-likelihood analysis in pyhf, and exact Shapley attribution. The current manuscript identifies compact inputs with narrower nominal signal-strength intervals, while finite-Monte-Carlo uncertainty and conditional coverage diagnostics leave calibrated precision gains unestablished. My responsibilities include **[confirm two or three tasks personally completed]**. This project has strengthened my interest in connecting machine-learning evaluation with reliable physical parameter inference.
 
-The two projects have exposed me to complementary ways of studying dark matter. The MaNGA work uses the gravitational influence of dark matter on galaxies to constrain halo properties, while the UCL project approaches fundamental physics through computational modelling at the particle scale. Despite their different physical settings, both require careful model construction, uncertainty analysis, numerical validation, and an explicit connection between computation and physical interpretation. At McGill, I hope to deepen these skills through thesis-based research and advanced graduate coursework.
+The two projects have exposed me to complementary methods of physical parameter inference. The MaNGA work uses the gravitational influence of dark matter on galaxies to constrain halo properties, while the UCL project studies Higgs signal-strength inference using learned kinematic summaries of simulated events. Despite their different physical settings, both require careful model construction, uncertainty analysis, numerical validation, and an explicit connection between computation and physical interpretation. At McGill, I hope to deepen these skills through thesis-based research and advanced graduate coursework.
 
 I am particularly interested in Professor Katelin Schutz’s research on astrophysical and laboratory probes of dark matter, cosmological structure formation, and galactic dynamics. This research connects directly with my experience modelling dark-matter haloes and with my broader interest in using data to test theories beyond the Standard Model. I am also interested in Professor Jim Cline’s work at the interface of particle physics and cosmology, including dark-matter model building, direct detection, and possible dark-matter signals in the galaxy. His research provides a natural setting in which I could connect my computational particle-physics experience with my background in Bayesian inference. Subject to faculty availability, I would welcome the opportunity to discuss whether my preparation could support an MSc thesis in one of these areas. I am also interested in Professor Adrian Liu’s work on data-driven cosmology and large-scale astronomical observations, particularly the methodological challenge of extracting physical information from complex data.
 
@@ -133,10 +135,10 @@ During the MSc, I hope to strengthen my knowledge of particle physics, cosmology
 
 ## 六、提交前必须修改
 
-- [ ] 填写UCL项目的具体研究问题。
-- [ ] 填写UCL项目使用的数值方法、软件或模拟框架。
+- [x] 按当前 Higgs 草稿补充 UCL 项目的具体问题。
+- [x] 补充 MLP、pyhf、Shapley 和 MC/覆盖率评估方法。
 - [ ] 填写自己承担的2–3项具体任务。
-- [ ] 加入UCL项目的可验证阶段性成果。
+- [x] 补充草稿已有探索性结果与统计限制；个人贡献、作者顺序及投稿状态仍待确认。
 - [ ] 将Katelin Schutz和Jim Cline的近期论文各加入一个具体匹配点。
 - [ ] 确认两位首选导师是否预计接收2027年MSc学生。
 - [ ] 申请系统开放后确认是否需要单独上传CV、SOP或研究陈述。

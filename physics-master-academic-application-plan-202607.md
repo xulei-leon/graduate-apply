@@ -2,6 +2,8 @@
 
 Last verified: 2026-06-28
 
+科研进展补记（2026-09-27）：UCL 第二课题已有 2026-09-26 Higgs 四轻子模拟分析论文草稿和探索性结果，详见 [科研背景](research-background.md)。下表八月完成初稿的表述是历史计划；当前联系材料应使用已存在的草稿状态，不能据此推定八月已完成、已投稿或第一作者身份。招生政策本次未重新核实。
+
 Applicant constraint: HY can only start after late June 2027. This plan therefore excludes March 2027 / Semester 1 2027 starts and focuses only on suitable mid-year or later intakes.
 
 ## Key application facts
