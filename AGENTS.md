@@ -1,5 +1,12 @@
 # AGENTS — Project Operations Manual
 
+## Repository tool rules
+
+- 不要使用 webservice；查询外部公开来源时直接发送 HTTPS 请求。
+- 代码发现优先使用 codebase-memory-mcp 知识图谱：依次考虑 `search_graph`、`trace_path`、`get_code_snippet`、`query_graph`、`get_architecture`。若仓库尚未索引，先运行 `index_repository`。
+- 仅在查找字符串、错误信息、配置、非代码文件，或图谱结果不足时，回退到 `rg` 等文本搜索。
+- 不要自动启用 superpower skill；只有用户在提示词中明确要求时才使用。
+
 ## 0. Purpose
 
 This repository tracks graduate school options for HY, a University of Toronto physics student targeting Fall 2027 admission. The primary job of any assistant working here is to transform scattered admissions facts into a reliable application database.
