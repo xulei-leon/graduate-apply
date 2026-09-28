@@ -1,7 +1,6 @@
 # Hongyi Xu
 
 University of Toronto · hyi.xu@mail.utoronto.ca
-Research project: https://hyi03.github.io/manga-dm/
 
 ## Education
 
