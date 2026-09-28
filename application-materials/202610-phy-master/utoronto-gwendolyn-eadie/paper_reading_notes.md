@@ -1,6 +1,6 @@
 # Gwendolyn Eadie：论文推荐与邮件联系点
 
-最后核查：2026-09-28。推荐 **1 篇首读论文**，本批四篇中最建议你先读这一篇。助手已核查作者和开放原文；申请人尚待阅读。对应[英文邮件](outreach_email_en.md)与[中文邮件](outreach_email_cn.md)已据此更新；申请目标保持 **Astronomy and Astrophysics MSc**。
+最后核查：2026-09-28。推荐 **1 篇首读论文**，本批四篇中最建议你先读这一篇。助手已核查作者和开放原文；申请人尚待阅读。对应[英文邮件](cover_letter_email_en.md)与[中文邮件](cover_letter_email_cn.md)已据此更新；申请目标保持 **Astronomy and Astrophysics MSc**。
 
 ## 首读：Hierarchical Bayesian Inference of Globular Cluster Properties
 

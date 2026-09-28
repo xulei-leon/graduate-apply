@@ -6,8 +6,8 @@
 
 | 文件 | 用途 |
 |---|---|
-| [CV_cn.md](CV_cn.md) / [CV_en.md](CV_en.md) | 中文核对稿 / 英文 CV 草稿；突出层级推断、参数简并、先验敏感性 |
-| [outreach_email_cn.md](outreach_email_cn.md) / [outreach_email_en.md](outreach_email_en.md) | 面向 Eadie 的中英文 MSc 研究机会咨询信 |
+| [CV_cn.md](../../CV/CV_astro_cn.md) / [CV_en.md](../../CV/CV_astro_en.md) | 中文核对稿 / 英文 CV 草稿；突出层级推断、参数简并、先验敏感性 |
+| [cover_letter_email_cn.md](cover_letter_email_cn.md) / [cover_letter_email_en.md](cover_letter_email_en.md) | 面向 Eadie 的中英文 MSc 研究机会咨询信 |
 | [msc_route_inquiry_en.md](msc_route_inquiry_en.md) | 向院系确认 Fall 2027 硕士申请路径的英文邮件草稿 |
 | [paper_reading_notes.md](paper_reading_notes.md) | 1 篇推荐论文、重点图表与方法、邮件联系点 |
 
@@ -57,4 +57,4 @@
 - MSc Calendar：https://sgs.calendar.utoronto.ca/astronomy-and-astrophysics-astronomy-and-astrophysics-msc （同日读取，2026–27 版本）
 - 院系申请页：https://www.astro.utoronto.ca/academics/graduate-studies/prospective-students/how-to-apply/ （同日读取，正文仍为 2026 admissions）
 - [既有 MSc 档案](../../../physics-master/UofT_MSc_Astronomy_Astrophysics.md)
-- [申请人中文天体 CV](../../CV_astro_cn.md)、[已确认事实与待办](../../follow-up-questions.md)
+- [申请人中文天体 CV](../../CV/CV_astro_cn.md)、[已确认事实与待办](../../follow-up-questions.md)

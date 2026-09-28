@@ -7,8 +7,8 @@
 | 文件 | 用途 |
 |---|---|
 | [CV_astro_cn.md](../../CV/CV_astro_cn.md) / [CV_astro_en.md](../../CV/CV_astro_en.md) | 共享的天体物理版中文 / 英文 CV；MaNGA 为主，Higgs 作为计算推断补充 |
-| [旧版英文打印稿](../../CV/CV_astro_en_legacy_print.html) | 较早的双页 A4 排版稿，内容尚未同步至当前英文 CV |
-| [outreach_email_cn.md](outreach_email_cn.md) / [outreach_email_en.md](outreach_email_en.md) | 中英文 MSc 研究机会咨询信 |
+| 旧版英文打印稿（当前路径已不存在） | 较早的双页 A4 排版稿，内容尚未同步至当前英文 CV |
+| [cover_letter_email_cn.md](cover_letter_email_cn.md) / [cover_letter_email_en.md](cover_letter_email_en.md) | 中英文 MSc 研究机会咨询信 |
 | [paper_reading_notes.md](paper_reading_notes.md) | 1 篇推荐论文、原文定位、阅读顺序与邮件联系点 |
 
 当前是导师咨询材料包；不是已满足申请系统全部要求的正式申请。信中写“可以提供 CV”，实际附上排版后的 CV 时再改为已附上。内部说明不随信发送。
@@ -54,4 +54,4 @@ Jim Cline 属原名单两位首选之一，其主页确认研究集中于 partic
 - Schutz 当前岗位说明：https://katelinschutz.com/contact （同日读取）
 - Liu 当前招生说明：https://sites.google.com/view/acliu/home （同日读取）
 - [原始导师名单](../../phy-master-plan/mcgill-utoronto-ubc-supervisor-outreach-list-2027.md)
-- [申请人中文天体 CV](../../CV_astro_cn.md)、[已确认事实与待办](../../follow-up-questions.md)
+- [申请人中文天体 CV](../../CV/CV_astro_cn.md)、[已确认事实与待办](../../follow-up-questions.md)

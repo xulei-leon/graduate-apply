@@ -1,13 +1,15 @@
-# UBC — Alison Lister 定制材料
+# UBC — Alison Lister 备选材料
 
 整理与官方页面核查：2026-09-28。地区：Canada。目标：Fall 2027 **Master of Science in Physics (MSc)**，The University of British Columbia，Department of Physics & Astronomy。草稿未发送；未见既往联系记录，须由申请人确认。
+
+2026-09-29 用户将 UBC 目标导师改为 [Ludovic Van Waerbeke](../ubc-ludovic-van-waerbeke/README.md)，本目录加 `-backup` 后缀，保留作为 Physics MSc 粒子物理方向备选；原招生核查日期不变。
 
 ## 材料
 
 | 文件 | 用途 |
 |---|---|
-| [CV_cn.md](CV_cn.md) / [CV_en.md](CV_en.md) | 中文核对稿 / 英文 CV 草稿；Higgs 在前、MaNGA 在后 |
-| [outreach_email_cn.md](outreach_email_cn.md) / [outreach_email_en.md](outreach_email_en.md) | 中英文 MSc 研究机会咨询信 |
+| [粒子方向中文 CV](../../CV/CV_particle_cn.md) | 当前集中保存的 CV；Higgs 在前、MaNGA 在后。本目录目前无独立英文 CV |
+| [cover_letter_email_cn.md](cover_letter_email_cn.md) / [cover_letter_email_en.md](cover_letter_email_en.md) | 中英文 MSc 研究机会咨询信 |
 | [paper_reading_notes.md](paper_reading_notes.md) | 1 篇首读 + 1 篇选读，含原文位置和方法边界 |
 
 当前材料包用于导师咨询，未宣称完成 UBC portal 的全部材料要求。正式申请时另需按系统题目准备 Statement of Interest、成绩单与推荐信。
@@ -53,5 +55,5 @@ Higgs 仅列项目仓库 https://github.com/hyi03/HiggsML ，本轮确认公开�
 - Physics MSc：https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics （同日读取）
 - 院系个人页尝试：https://phas.ubc.ca/users/alison-lister （同日被站点拦截，未作为事实依据）
 - 项目作品：https://github.com/hyi03/HiggsML （同日确认可访问）
-- [申请人中文粒子 CV](../../CV_particle_cn.md)、[已确认事实与待办](../../follow-up-questions.md)
+- [申请人中文粒子 CV](../../CV/CV_particle_cn.md)、[已确认事实与待办](../../follow-up-questions.md)
 - [原 UBC 文书规划](../../phy-master-plan/ubc-physics-msc-statement-of-interest.md)仅供历史结构参考；当前项目状态以已确认事实和本包为准。

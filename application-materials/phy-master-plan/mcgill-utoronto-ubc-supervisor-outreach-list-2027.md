@@ -1,8 +1,8 @@
 # McGill、University of Toronto、UBC 套磁导师汇总（Fall 2027 规划）
 
-**名单与论文核验：2026-09-26；部分招生与主页更新：2026-09-28。** 本表汇总现有档案中的 17 位候选导师：McGill 3 位、University of Toronto Physics 4 位、University of Toronto Astronomy and Astrophysics 8 位、UBC 2 位。导师链接指向学校档案或导师主页；每位附两篇 2023–2026 年计算、建模、统计推断或数据分析相关论文的 DOI 链接。表内论文使用短标签，完整英文题名列在各表下方；CRC 指 Canada Research Chair。大型实验合作论文仅说明该导师参与署名，不能当作其独立课题或可提供 MSc 名额的证据。所有人均**未见已联系记录**；Fall 2027 招生意向须直接确认。
+**名单与论文核验：2026-09-26；部分招生与主页更新：2026-09-28；新增 Van Waerbeke 核查：2026-09-29。** 本表现有 18 位候选导师：McGill 3 位、University of Toronto Physics 4 位、University of Toronto Astronomy and Astrophysics 8 位、UBC 3 位。既有导师各附两篇、新增 Van Waerbeke 附一篇近期论文。表内使用短标签，完整英文题名列在各表下方；CRC 指 Canada Research Chair。合作署名不能当作独立课题职责或 MSc 名额的证据。所有人均**未见已联系记录**；Fall 2027 招生意向须直接确认。
 
-2026-09-28 用户指定三校各选一位、UT 选择天文系并明确申请硕士。本批选定 **Jim Cline、Gwendolyn Eadie、Alison Lister**，已创建[三套中英文硕士咨询材料](../202610-phy-master/README.md)，尚未发送。按用户进一步要求，已为三位分别推荐 1、1、2 篇论文，核查相关原文并将三篇首读内容写入邮件，申请人后续阅读。本轮不改变候选总数；Schutz、Liu 保留为历史候选并更新当前限制，其余论文未全部重新核查。
+2026-09-29 用户将 UBC 目标改为 **Ludovic Van Waerbeke**，原 **Alison Lister** 加 `-backup` 后缀保留。当前三校目标为 **Jim Cline、Gwendolyn Eadie、Ludovic Van Waerbeke**，均按硕士申请；UT 选择天文系。[本批材料](../202610-phy-master/README.md)包含三位目标及一位备选，共推荐 5 篇论文，四位各一篇论文的具体内容已写入中英文邮件，申请人后续阅读。新增 Van Waerbeke 六份材料，邮件均未发送。Schutz、Liu 保留为历史候选；其他旧论文未全部重新核查。
 
 ## 1. McGill University — Physics MSc
 
@@ -70,19 +70,21 @@
 - Renée Hložek：① *Toward Characterizing Dark Matter Subhalo Perturbations in Stellar Streams with Graph Neural Networks*；② *Cosmological simulations of mixed ultralight dark matter*。
 - Anupam Mazumdar：① *Spin-dependent force and inverted harmonic potential for rapid creation of macroscopic quantum superpositions*；② *Inertial torsion noise in matter-wave interferometers for gravity experiments*。
 
-## 4. The University of British Columbia — Physics MSc
+## 4. The University of British Columbia — Astronomy MSc / Physics MSc
 
-目前只有以下两位进入 Statement of Interest 草稿；原计划的“先筛 5–6 位、再选 2–3 位”尚未完成。因此这是**已有双人短名单**，不是最终覆盖充分的套磁名单。申请前联系导师受到鼓励，但公开要求未规定必须先获得导师承诺。
+2026-09-29 新增 **Astronomy MSc 目标 Van Waerbeke**，Lister 改为 Physics MSc 备选，Hearty 保留候选。既有 Statement of Interest 为 Physics MSc 历史草稿，不自动代表新的天文申请。Astronomy MSc 鼓励联系导师，申请前不要求取得承诺；项目预期大三、大四课程均分至少 80%，2027 截止、个人名额及经费尚待核实。详见[Van Waerbeke 项目与材料说明](../202610-phy-master/ubc-ludovic-van-waerbeke/README.md)。
 
 | 导师与基本信息 | 研究课题、论文链接 |
 |---|---|
-| **初选** [Alison Lister](https://www.grad.ubc.ca/researcher/14742-lister)<br>Professor；ATLAS | 对撞机暗物质、jet ML；HY 的 Higgs 模拟分类与似然推断提供方法联系<br>① [jet flavour tagging](https://doi.org/10.1038/s41467-025-65059-6) (2026)<br>② [弱监督异常检测](https://doi.org/10.1103/2yq5-vj59) (2025) |
+| **目标 · Astronomy MSc** [Ludovic Van Waerbeke](https://www.grad.ubc.ca/researcher/13409-van-waerbeke)<br>Professor | High：暗物质晕、弱透镜质量分解与统计推断；MaNGA 参数简并及模型敏感性可迁移<br>① [UNIONS 卫星子晕质量](https://doi.org/10.1093/mnras/stag1318) (2026)；[阅读说明](../202610-phy-master/ubc-ludovic-van-waerbeke/paper_reading_notes.md) |
+| **备选 · Physics MSc** [Alison Lister](https://www.grad.ubc.ca/researcher/14742-lister)<br>Professor；ATLAS | 对撞机暗物质、jet ML；HY 的 Higgs 模拟分类与似然推断提供方法联系<br>① [jet flavour tagging](https://doi.org/10.1038/s41467-025-65059-6) (2026)<br>② [弱监督异常检测](https://doi.org/10.1103/2yq5-vj59) (2025) |
 | **初选** [Christopher Hearty](https://www.grad.ubc.ca/researcher/14720-hearty)<br>Professor；Belle II | dark sector、暗 Higgs；似然分析与计算粒子物理<br>① [模型无关似然](https://doi.org/10.1103/pr66-sd36) (2025)<br>② [暗 Higgs 搜索](https://doi.org/10.1103/37w5-glpp) (2025) |
 
-两位均未联系，Fall 2027 MSc 名额与可接课题待确认。表中论文分别为 ATLAS、Belle II 合作成果；发信前应核对导师本人负责的具体方向。
+三位均未见既往联系记录，Fall 2027 MSc 名额与可接课题待确认。Van Waerbeke 的共同署名与 MSc 指导资格已于 2026-09-29 核实；Lister、Hearty 论文为 ATLAS、Belle II 合作成果，署名不代表具体子分析职责。
 
 论文完整题名（对应表中的①、②）：
 
+- Ludovic Van Waerbeke：① *Measuring satellite galaxy subhalo masses in redMaPPer clusters with UNIONS weak lensing data*。
 - Alison Lister：① *Transforming jet flavour tagging at ATLAS*；② *Weakly supervised anomaly detection for resonant new physics in the dijet final state using proton-proton collisions at 13 TeV with the ATLAS detector*。
 - Christopher Hearty：① *Model-agnostic likelihood for the reinterpretation of the B+→K+νν̄ measurement at Belle II*；② *Search for a Dark Higgs Boson Produced in Association with Inelastic Dark Matter at the Belle II Experiment*。
 
@@ -91,13 +93,14 @@
 1. 本科时间已于 2026-09-27 经用户确认：2023 年 9 月入学，预计 2027 年 6 月毕业，与 Fall 2027 申请目标相容；发信时使用这一时间线。
 2. 按本批用户指定流程，先由助手核查论文并写出具体研究问题或方法联系，申请人随后阅读并调整；草稿不声称已经精读或复现。合作论文不代表导师本人负责该子分析。
 3. 向导师询问 **Fall 2027 MSc** 的接收意向、可指导课题与经费，不把公开主页或论文署名当作名额确认。
-4. U of T Astronomy and Astrophysics 先核实是否接受外部 MSc 申请；UBC 需补足候选覆盖，再决定是否扩展首轮邮件。
+4. U of T Astronomy and Astrophysics 先核实是否接受外部 MSc 申请；UBC 当前按用户指定优先 Van Waerbeke，Lister 保留备选。
 
 ## 项目与名单来源
 
 - [McGill Physics MSc](https://www.mcgill.ca/gradapplicants/program/physics-msc)；[既有 McGill 导师与材料分析](mcgill-physics-msc-application-materials.md)。
 - [University of Toronto Physics admissions](https://www.physics.utoronto.ca/graduate/prospective-students/graduate-admissions-department-physics/)；[既有 Physics 联系策略](uoft-physics-msc-application-analysis.md)。
-- [University of Toronto Astronomy and Astrophysics Graduate Faculty](https://www.astro.utoronto.ca/people/faculty/)；[既有 Astronomy and Astrophysics MSc 档案](../physics-master/UofT_MSc_Astronomy_Astrophysics.md)。
+- [University of Toronto Astronomy and Astrophysics Graduate Faculty](https://www.astro.utoronto.ca/people/faculty/)；[既有 Astronomy and Astrophysics MSc 档案](../../physics-master/UofT_MSc_Astronomy_Astrophysics.md)。
+- [UBC Astronomy MSc](https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-astronomy)；[Van Waerbeke 官方资料](https://www.grad.ubc.ca/researcher/13409-van-waerbeke)；[UNIONS 论文全文](https://arxiv.org/html/2607.14207v1)，2026-09-29 直接 HTTPS 核查。
 - [UBC Physics MSc](https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics)；[既有 UBC Statement of Interest](ubc-physics-msc-statement-of-interest.md)。
 
 论文 DOI 指向出版方的原文入口；论文题名、发表年份及导师署名于 2026-09-26 根据出版记录和论文索引核对。论文选择服务于套磁阅读，不代表项目方承诺招收或资助。

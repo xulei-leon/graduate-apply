@@ -1,6 +1,6 @@
 # Alison Lister：论文推荐与邮件联系点
 
-最后核查：2026-09-28。推荐 **1 篇首读 + 1 篇选读**。两篇都是 ATLAS Collaboration 成果，均核对到 Alison Lister 署名；这不能确定她本人负责哪部分，也不是组内课题或名额承诺。申请人计划后续阅读，当前不标记为已读。已更新[英文邮件](outreach_email_en.md)与[中文邮件](outreach_email_cn.md)，首封只引用第一篇，保持主题集中。
+最后核查：2026-09-28。推荐 **1 篇首读 + 1 篇选读**。两篇都是 ATLAS Collaboration 成果，均核对到 Alison Lister 署名；这不能确定她本人负责哪部分，也不是组内课题或名额承诺。申请人计划后续阅读，当前不标记为已读。已更新[英文邮件](cover_letter_email_en.md)与[中文邮件](cover_letter_email_cn.md)，首封只引用第一篇，保持主题集中。
 
 ## 首读：Weakly supervised anomaly detection for resonant new physics in the dijet final state using proton-proton collisions at √s = 13 TeV with the ATLAS detector
 

@@ -1,10 +1,10 @@
-# UBC Physics MSc — Statement of Interest
+# UBC MSc — Statement of Interest 规划与导师记录
 
-科研背景同步：2026-09-27，依据 [第二课题草稿与证据汇总](../../research-background.md) 及用户对个人技术工作的确认。以下项目招生要求未在本次重新核实；作者顺序仍需确认。
+导师与路径更新：2026-09-29。新增 Ludovic Van Waerbeke 与 Allison Man 的研究方向、MaNGA 匹配、论文和招生记录。当前 UBC 目标为 Van Waerbeke 的 **Astronomy MSc** 路径；Allison Man 为新增天文候选；Alison Lister 保留 Physics MSc 备选。
 
-最后更新：2026-08-28
+科研背景以[最新确认清单](../follow-up-questions.md)为准：MaNGA 第一作者手稿已完成但未投稿；Higgs 由 Mario Campanelli 指导，第一作者手稿仍需人工修订。第三节保留原 Physics MSc 英文草稿供后续改写，其研究状态、课程表述与导师段不能直接作为当前提交版本。
 
-状态：初稿。申请系统开放后，需要根据正式题目和字数限制调整。
+最后更新：2026-09-29。状态：规划稿；当前导师咨询材料见 [Van Waerbeke 定制目录](../202610-phy-master/ubc-ludovic-van-waerbeke/README.md)。申请系统开放后，需按具体项目、正式题目和字数限制改写 Statement of Interest。
 
 ## 一、文书定位
 
@@ -12,7 +12,7 @@
 
 > 以数据驱动的物理参数推断为主线，连接 MaNGA 暗物质晕贝叶斯建模与 UCL Higgs 四轻子模拟分析，强调统计方法、机器学习和不确定性评估。
 
-申请目标：University of British Columbia — Master of Science in Physics。
+当前主目标：The University of British Columbia — **Master of Science in Astronomy (MSc)**，导师 Ludovic Van Waerbeke。Physics MSc 保留为粒子物理备选路径。两位新增天文导师的官方资料均列有 Astronomy MSc 与 Physics MSc 指导资格，但本轮天文研究材料按 Astronomy MSc 准备，不能直接套用原 Physics MSc 英文稿中的项目名称、TRIUMF 和 BSM 主线。
 
 ## 二、文书大纲
 
@@ -37,7 +37,7 @@
 - 使用 MaNGA 数据。
 - 使用 PyMC 5 建立贝叶斯模型并运行 MCMC。
 - 处理先验、后验、收敛性和参数不确定性。
-- 第一作者手稿正在准备上传 arXiv。
+- 第一作者手稿已完成，尚未投稿；不把计划上传写成已经提交。
 - 从项目中认识到统计推断必须服务于物理解释。
 
 不得写成：
@@ -54,7 +54,7 @@
 - 物理问题：模拟 H → ZZ* → 2e2μ 中运动学输入对信号强度 μ 推断的影响。
 - 方法：ATLAS open MC、15 个特征组合 × 5 个 MLP 种子、pyhf profile likelihood、exact Shapley、MC bootstrap 与覆盖率诊断。
 - 进展：已有完整计算和论文草稿；紧凑输入的名义区间更窄，但未建立统计显著或已校准的精度提升。
-- 个人技术工作已由用户确认；作者顺序、投稿状态和导师允许公开的范围仍待确认。
+- 个人贡献以最新确认清单为准：本人确定目标、选择样本并设计比较方案，AI 参与指标建议和代码实现；指导教授为 Mario Campanelli，第一作者手稿目前为未经人工修订的 AI 初稿，结果仍属探索性。可发送的正式研究附件需另核对。
 
 该段需要证明：
 
@@ -66,19 +66,46 @@
 
 重点包括：
 
-- 论文制 MSc。
-- UBC Physics & Astronomy 与 TRIUMF 的研究环境。
-- 暗物质、Beyond the Standard Model 和 dark sector 研究。
-- 数据分析、机器学习和计算方法。
+- 论文制 MSc 与系统的物理建模、统计推断训练。
+- 对 Van Waerbeke：从 MaNGA 晕参数推断延伸至弱透镜质量建模，突出多分量模型、参数简并及系统误差。
+- 对 Allison Man：从 MaNGA 空间分辨速度场延伸至气体运动学、星系形成与演化，突出可迁移的数据分析经验。
+- TRIUMF、BSM 和 dark sector 实验研究保留用于 Physics MSc 粒子方向，不作为两位天文导师的主要匹配理由。
 
 当前潜在导师：
 
-| 教师 | 官方研究方向 | 匹配点 | 官方主页 |
+| 教师与当前定位 | 研究方向 | MaNGA / Higgs 匹配 | MSc 状态与官方来源 |
 |---|---|---|---|
-| Alison Lister | ATLAS、暗物质、超出标准模型、机器学习、长寿命粒子 | 暗物质、复杂数据分析、计算粒子物理 | https://www.grad.ubc.ca/researcher/14742-lister |
-| Christopher Hearty | Belle II、dark sector、暗物质、超出标准模型 | 暗物质、暗光子、实验粒子物理 | https://www.grad.ubc.ca/researcher/14720-hearty |
+| **Ludovic Van Waerbeke — 已选目标**；Professor，Department of Physics & Astronomy | 弱引力透镜、暗物质分布、星系与结构形成 | **High**：MaNGA 晕质量推断、质量—浓度简并及模型敏感性可迁移至透镜质量建模；需要补学弱透镜 | 官方列 Astronomy MSc / Physics MSc 指导资格；2027 名额、经费未确认。https://www.grad.ubc.ca/researcher/13409-van-waerbeke |
+| **Allison Man — 新增天文候选**；Associate Professor，Department of Physics & Astronomy | Cosmology and extragalactic astronomy；galaxy formation and evolution；近期工作涉及气体分布与运动学 | **High（空间分辨星系运动学）**；与暗物质 c–M 主题的直接重合有限，不能据此认定有相同课题 | 官方列 Astronomy MSc / Physics MSc，并明确招收 Master's students；2027 具体名额、经费仍待问。https://www.grad.ubc.ca/researcher/20350-man |
+| Alison Lister — Physics MSc 备选 | ATLAS、暗物质、超出标准模型、机器学习、长寿命粒子 | Higgs 模拟分类、似然推断与不确定性评估 | [备选材料](../202610-phy-master/ubc-alison-lister-backup/README.md)；https://www.grad.ubc.ca/researcher/14742-lister |
+| Christopher Hearty — 既有 Physics MSc 候选 | Belle II、dark sector、暗物质、超出标准模型 | 似然分析与计算粒子物理；现有经历不等于 Belle II 分析经验 | 本轮未重新核查招生；https://www.grad.ubc.ca/researcher/14720-hearty |
 
-提交前必须阅读两位教师的近期论文，并确认其 2027 年是否可能接收 MSc 学生。不得暗示已经取得导师同意。
+两位新增导师的信息与论文核查日期为 **2026-09-29**；采用直接 HTTPS 读取官方资料及 arXiv。联系状态均为“未见既往联系记录，本轮未发送”，不等同申请人已确认从未联系。导师邮箱尚未核实，不猜写。公开指导资格或招聘偏好不代表已经获得同意。
+
+#### Ludovic Van Waerbeke：暗物质晕与观测推断
+
+- **近期研究证据：** 参与合著 UNIONS 卫星子晕质量研究；官方资料亦记录弱透镜、星系团及多种大尺度结构示踪量的研究指导。具体项目分工、现有科研经费和拟招 MSc 课题未确认。
+- **推荐首读：** *Measuring satellite galaxy subhalo masses in redMaPPer clusters with UNIONS weak lensing data*（2026）。作者为 Roman Akhmetshyn 等，Van Waerbeke 为共同作者。arXiv 记录注明 2026-07-13 被 MNRAS 接收。
+- **论文入口：** https://arxiv.org/abs/2607.14207 ；全文 https://arxiv.org/html/2607.14207v1 ；期刊 DOI https://doi.org/10.1093/mnras/stag1318 。
+- **具体联系：** §2 将透镜信号分解为宿主晕、卫星子晕及恒星项；§2.2 处理星系团中心偏移；§5–6 讨论子晕质量、宿主晕缩放和偏移尺度的拟合及模型局限。对应你在 MaNGA 中对参数简并、几何假设和推断稳健性的关注。
+- **适合写入文书的方向：** 希望把已有贝叶斯晕推断训练延伸至弱透镜质量建模，研究观测和模型假设怎样影响质量恢复。邮件已提出模拟轮廓中“纳入或忽略中心偏移”的比较，作为未实施、待讨论的学习任务。
+- **边界：** 论文采用 c–M 关系假设，不是独立测量你的 MaNGA c–M 关系；弱透镜与旋转曲线观测不同，不增加 UNIONS、ShapePipe 或 dsigma 的已有熟练度。共同署名不代表导师负责全部分析。
+- **材料：** [六份定制材料与项目核查](../202610-phy-master/ubc-ludovic-van-waerbeke/README.md)；[阅读顺序、图表和问题](../202610-phy-master/ubc-ludovic-van-waerbeke/paper_reading_notes.md)。
+
+#### Allison Man：空间分辨星系观测与气体运动学
+
+- **研究与指导证据：** 官方研究方向为星系形成与演化；已指导研究包括利用 MUSE 积分视场光谱研究高红移宁静星系外流，以及结合 JWST、MUSE、ALMA 研究星系团中心星系的多相气体。这支持观测方法的联系，不能据此写成有 MaNGA 专项招生。
+- **公开招生：** 官方 Recruitment 栏明确列出 Master's students、Doctoral students、Postdoctoral Fellows，Desired start dates 为 Any time / year round。该偏好不等于 Fall 2027 保证有名额；资金、可接课题和申请条件仍需直接核实。
+- **推荐首读：** *TRICEPS. I. Tracing cold gas, dust, and stars at sub-kpc scales in massive star-forming galaxies at z = 4–5*（2026-09-24 arXiv v1）。Federico Lelli 等，Allison W. S. Man 为共同作者。https://arxiv.org/abs/2609.30375 。本轮核查作者表、摘要和版本信息，未核查全文全部方法；记录注明回应审稿意见的版本，不将其称为已接收或正式发表。
+- **具体联系：** 研究 16 个高红移大质量星系，以 ALMA [CII] 发射描绘冷气体分布和速度场，并结合尘埃、恒星分布等观测。摘要报告规则旋转，以及相互作用星系中相对更扰动的运动学。你可从 MaNGA 速度场分析出发，关注空间分辨率、非规则运动与动力学解释之间的关系。
+- **适合写入文书的方向：** 希望将空间分辨运动学分析经验扩展到气体与恒星的多波段观测，进一步学习星系演化。初读重点是“如何识别旋转、扰动怎样影响解释、不同气体示踪量有何差别”，不预先声称全文解决了这些问题。
+- **边界与材料状态：** 与 c–M 关系的主题重合弱于 Van Waerbeke；高红移 [CII] 与 MaNGA 光学积分视场数据不能直接等同。Allison Man 与 Alison Lister 是不同导师。本轮仅记录候选信息，尚无独立定制材料或联系结果。
+
+#### Astronomy MSc 路径说明
+
+两位导师均列在相关 MSc 指导记录中；本轮以 Astronomy MSc 作为天文研究路径。官方项目页说明：申请前不要求导师承诺，但鼓励联系；先修为物理或天文 B.Sc.，预期大三、大四课程总平均至少 **80%**，GRE 不要求。当前页面尚未配置 upcoming intake 的申请开放与截止时间。累计 GPA 3.0/4.0 不能直接判断是否满足该口径，成绩单核对按用户要求暂缓；2027 经费与名额均未确认，不套用 Physics MSc 的资助承诺。
+
+官方来源：https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-astronomy （2026-09-29 核查）。详细项目事实见 [Van Waerbeke README](../202610-phy-master/ubc-ludovic-van-waerbeke/README.md)。
 
 ### 6. 未来目标
 
@@ -86,7 +113,9 @@
 - 完成独立论文研究。
 - 为计算粒子物理、暗物质或相关方向的 PhD 做准备。
 
-## 三、英文草稿
+## 三、原 Physics MSc 英文草稿（历史版本，待按目标路径改写）
+
+以下英文保留原文供参考，仍以 Lister / Hearty、粒子物理和 TRIUMF 为主；**尚未改写为 Van Waerbeke 或 Allison Man 的 Astronomy MSc 版本，不宜直接提交**。当前可用的 Van Waerbeke 导师咨询邮件见[英文材料](../202610-phy-master/ubc-ludovic-van-waerbeke/cover_letter_email_en.md)。
 
 ### Statement of Interest
 
@@ -109,10 +138,14 @@ During the MSc, I hope to strengthen my knowledge of particle physics and statis
 - [x] 按当前 Higgs 草稿补充 UCL 项目的物理问题与探索性结果。
 - [x] 补充 MLP、pyhf、Shapley 和 MC/覆盖率评估方法。
 - [x] 根据用户确认，填写两项核心个人技术工作。
-- [ ] 核对 MaNGA 手稿的实际状态。
-- [ ] 阅读 Alison Lister 的近期论文，并将匹配描述具体到研究问题或方法。
-- [ ] 阅读 Christopher Hearty 的近期论文，并将匹配描述具体到研究问题或方法。
-- [ ] 确认两位教师是否可能接收 2027 年 MSc 学生。
+- [x] 同步 MaNGA 最新状态：第一作者手稿完成，尚未投稿。
+- [x] 记录 Van Waerbeke 与 Allison Man 的研究方向、论文及公开 MSc 状态；Van Waerbeke 为已选目标，Man 为新增候选。
+- [x] 完成 Van Waerbeke 的论文依据版中英文咨询邮件，申请人随后阅读。
+- [ ] 阅读 Van Waerbeke 的 UNIONS 子晕论文，用自己的理解调整邮件和未来文书。
+- [ ] 如继续考虑 Allison Man，阅读 TRICEPS 并核查全文方法后定制研究联系段。
+- [ ] 确认拟联系导师的 Fall 2027 MSc 名额、可接课题与经费，不把公开招聘偏好当作承诺。
+- [ ] 采用 Astronomy MSc 路径时，改写第三节项目名、UBC 匹配及未来目标；同时按最新事实检查手稿状态、个人贡献和已修课程。
+- [ ] 如启用粒子方向备选，再按 Lister / Hearty 的具体论文调整 Physics MSc 文书。
 - [ ] 根据 UBC 申请系统的正式题目和字数限制压缩或调整。
 - [ ] 检查全文是否准确区分已完成、正在进行和未来计划。
 
@@ -130,6 +163,11 @@ During the MSc, I hope to strengthen my knowledge of particle physics and statis
 
 ## 六、官方参考来源
 
+- Ludovic Van Waerbeke：https://www.grad.ubc.ca/researcher/13409-van-waerbeke （2026-09-29 核查）
+- Allison Man：https://www.grad.ubc.ca/researcher/20350-man （2026-09-29 核查）
+- UBC MSc Astronomy：https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-astronomy （2026-09-29 核查）
+- Van Waerbeke 共同署名论文：https://arxiv.org/abs/2607.14207 ；https://arxiv.org/html/2607.14207v1 （2026-09-29 作者及全文核查）
+- Man 共同署名论文：https://arxiv.org/abs/2609.30375 （2026-09-29 作者、摘要及版本核查）
 - UBC MSc Physics：https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics
 - UBC Statement of Interest Guidance：https://www.grad.ubc.ca/prospective-students/application-admission/statement-interest
 - UBC Physics Prospective Students：https://phas.ubc.ca/graduate-program-prospective-students
