@@ -1,6 +1,6 @@
 # 申请材料与硕士申请规划
 
-更新日期：2026-09-28。本目录集中保存天体物理、粒子物理两个方向的中文套磁信与配套 CV 草稿，以及物理和数据科学硕士申请规划。套磁信模板面向 McGill、University of Toronto 和 UBC 的潜在导师；当前尚未生成逐位导师的邮件，也未发送邮件。
+更新日期：2026-09-28。本目录集中保存天体物理、粒子物理两个方向的中文套磁信与配套 CV 草稿，以及物理和数据科学硕士申请规划。已为 McGill 的 Jim Cline、University of Toronto 天文系的 Gwendolyn Eadie、UBC 的 Alison Lister 建立逐位导师的中英文 CV 与咨询信；三者均按 Fall 2027 硕士准备，尚未发送邮件。
 
 ## 文件
 
@@ -10,7 +10,9 @@
 | [天体物理 CV](CV_astro_cn.md) | MaNGA 项目优先，突出星系动力学与贝叶斯推断 |
 | [粒子物理咨询信](cover_letter_particle_cn.md) | 以 Higgs 为主，MaNGA 简述；教授专属信息保留空位 |
 | [粒子物理 CV](CV_particle_cn.md) | Higgs 项目优先，突出特征比较、似然推断与可靠性诊断 |
+| [McGill 英文 CV 打印版](CV/CV_en.html) | A4 HTML，可在浏览器中打印为 PDF |
 | [后续待确认问题](follow-up-questions.md) | 已确认事实、待用户回答的问题与后续核查事项 |
+| [2026 年 10 月硕士导师定制材料](202610-phy-master/README.md) | 3 校 × 1 位导师；每位中英文 CV、咨询信与论文阅读说明，共推荐 4 篇；UT 另有 MSc 入口咨询草稿 |
 | [物理硕士申请规划](phy-master-plan/master-application-plan-2027.md) | 申请时间线、项目分析、导师名单与 UBC statement 草稿 |
 | [数据科学硕士申请规划](ds-master-plan/README.md) | 数据科学及相关硕士项目的索引与规划 |
 
@@ -19,6 +21,8 @@
 ## 套磁信如何使用
 
 模板确认后，为每位导师新建一封独立邮件，建议使用英文文件名，例如 `McGill_Katelin_Schutz_Outreach_Email_CN.md`。以下步骤用于后续定制，不表示论文已经读过或招生已经确认。
+
+2026-09-28 用户进一步指定本批采用“助手先推荐并核查论文、抽取内容写进邮件，申请人随后阅读”的流程。[本批六封邮件](202610-phy-master/README.md)已完成论文依据版，没有声称申请人已精读；以下模板中的实际阅读段在本人后续阅读后再据实调整，不阻塞草稿准备。
 
 1. 填入学校和项目正式名称。用户已确认 2023 年 9 月入学、2027 年 6 月本科毕业，模板沿用项目 Fall 2027 的硕士申请目标。邮件统一询问 MSc 研究机会；若联系本校本科 supervised project，应另改联系目的、时间和结尾请求，不能混用。
 2. 邮件主题填入导师课题或论文的具体关键词。开头先写一篇真正读过的近期论文、其中值得继续追问的具体问题，以及与本人研究经历的真实连接；这一段应在研究经历之前，让导师预览邮件时就能看到发信缘由。没有证据的相似性不写；仅因同为“暗物质”或“机器学习”不足以构成具体方法匹配。
@@ -29,13 +33,13 @@
 
 ## 17 位导师的联系侧重点
 
-下表依据指定的 [导师汇总文档](phy-master-plan/mcgill-utoronto-ubc-supervisor-outreach-list-2027.md)，用于调整套磁信的叙述侧重点。按具体研究方向选用[天体物理 CV](CV_astro_cn.md)或[粒子物理 CV](CV_particle_cn.md)。导师课题、近期论文及招生情况本轮未做新的网页核验。
+下表依据指定的 [导师汇总文档](phy-master-plan/mcgill-utoronto-ubc-supervisor-outreach-list-2027.md)，用于调整套磁信的叙述侧重点。按具体研究方向选用[天体物理 CV](CV_astro_cn.md)或[粒子物理 CV](CV_particle_cn.md)。2026-09-28 已重新核查 McGill 三位候选、Eadie、Lister 的相关主页及三个目标项目；其余导师与论文未全部重核。最新选择与招生限制见[本批说明](202610-phy-master/README.md)。
 
 | 学校与项目 | 导师 | 联系侧重点 | 后续定制时的连接与边界 |
 |---|---|---|---|
-| McGill Physics MSc | Katelin Schutz | 天体物理 | 暗物质及统计建模；须落实到实际论文问题，不能泛称已经做过再电离模拟 |
+| McGill Physics MSc | Katelin Schutz | 天体物理 | 暗物质及统计建模；2026-09-28 contact 页显示当前无学生研究岗位，本批未选 |
 | McGill Physics MSc | Jim Cline | 物理 | 暗物质兴趣与计算推断训练；现有经历不构成暗物质模型构建或高能理论经验 |
-| McGill Physics MSc | Adrian Liu | 天体物理 | 数据质量、统计分析与正向建模；21 cm 和射电分析属于待学习领域 |
+| McGill Physics MSc | Adrian Liu | 天体物理 | 数据质量、统计分析与正向建模；2026-09-28 组页明确因已满及 2027–2028 sabbatical 暂停招收研究生，本批未选 |
 | U of T Physics MSc | Ziqing Hong | 物理 | 模型拟合、模拟验证与不确定性；不声称已有 SuperCDMS 或探测器响应建模经验 |
 | U of T Physics MSc | Miriam Diamond | 物理 | 计算与统计分析；不将公开模拟数据使用写成 Geant4 开发或探测器经验 |
 | U of T Physics MSc | David Curtin | 天体物理 | 优先由星系暗物质与质量建模切入；若具体课题偏粒子物理，则从计算粒子物理方法切入 |

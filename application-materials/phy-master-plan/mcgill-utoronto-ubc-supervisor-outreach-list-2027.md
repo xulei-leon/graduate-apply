@@ -1,18 +1,20 @@
 # McGill、University of Toronto、UBC 套磁导师汇总（Fall 2027 规划）
 
-**最后核验：2026-09-26。** 本表汇总现有档案中的 17 位候选导师：McGill 3 位、University of Toronto Physics 4 位、University of Toronto Astronomy and Astrophysics 8 位、UBC 2 位。导师链接指向学校档案或导师主页；每位附两篇 2023–2026 年计算、建模、统计推断或数据分析相关论文的 DOI 链接。表内论文使用短标签，完整英文题名列在各表下方；CRC 指 Canada Research Chair。大型实验合作论文仅说明该导师参与署名，不能当作其独立课题或可提供 MSc 名额的证据。所有人均**未见已联系记录**；Fall 2027 招生意向须直接确认。
+**名单与论文核验：2026-09-26；部分招生与主页更新：2026-09-28。** 本表汇总现有档案中的 17 位候选导师：McGill 3 位、University of Toronto Physics 4 位、University of Toronto Astronomy and Astrophysics 8 位、UBC 2 位。导师链接指向学校档案或导师主页；每位附两篇 2023–2026 年计算、建模、统计推断或数据分析相关论文的 DOI 链接。表内论文使用短标签，完整英文题名列在各表下方；CRC 指 Canada Research Chair。大型实验合作论文仅说明该导师参与署名，不能当作其独立课题或可提供 MSc 名额的证据。所有人均**未见已联系记录**；Fall 2027 招生意向须直接确认。
+
+2026-09-28 用户指定三校各选一位、UT 选择天文系并明确申请硕士。本批选定 **Jim Cline、Gwendolyn Eadie、Alison Lister**，已创建[三套中英文硕士咨询材料](../202610-phy-master/README.md)，尚未发送。按用户进一步要求，已为三位分别推荐 1、1、2 篇论文，核查相关原文并将三篇首读内容写入邮件，申请人后续阅读。本轮不改变候选总数；Schutz、Liu 保留为历史候选并更新当前限制，其余论文未全部重新核查。
 
 ## 1. McGill University — Physics MSc
 
-物理系建议申请前联系潜在导师；名单已分出两位首选、一位备选。近期论文和具体课题应在发信前精读，不应把研究主题匹配写成导师承诺。
+物理系建议申请前联系潜在导师。2026-09-28 更新后本轮选择 Jim Cline；Schutz 与 Liu 的公开岗位限制如下。近期论文和具体课题应在发信前精读，不应把研究主题匹配写成导师承诺。
 
 | 导师与基本信息 | 研究课题、论文链接 |
 |---|---|
-| **首选** [Katelin Schutz](https://katelinschutz.com/)<br>Assistant Professor；CRC | 暗物质、再电离；MaNGA 晕的 Bayesian 推断<br>① [数值再电离模拟](https://doi.org/10.1103/8ck8-3t9f) (2026)<br>② [轴子信号搜索](https://doi.org/10.3847/1538-4357/adde48) (2025) |
+| **暂缓：当前无学生岗位** [Katelin Schutz](https://katelinschutz.com/)<br>Assistant Professor；CRC | 暗物质、再电离；MaNGA 晕的 Bayesian 推断<br>① [数值再电离模拟](https://doi.org/10.1103/8ck8-3t9f) (2026)<br>② [轴子信号搜索](https://doi.org/10.3847/1538-4357/adde48) (2025) |
 | **首选** [Jim Cline](https://www.physics.mcgill.ca/~jcline/)<br>Professor；High Energy Theory | 暗物质模型、暗光子；HY 暗物质兴趣，Higgs 课题提供统计计算方法联系<br>① [惰性中微子暗物质](https://doi.org/10.1088/1475-7516/2026/07/079) (2026)<br>② [暗光子与中微子振荡](https://doi.org/10.1140/epjc/s10052-025-14336-1) (2025) |
-| **备选** [Adrian Liu](https://sites.google.com/view/acliu/home)<br>Professor；Physics / Trottier | 21 cm 宇宙学、射电阵列模拟与统计分析<br>① [射电阵列可见度模拟](https://doi.org/10.1093/rasti/rzaf001) (2025)<br>② [21 cm 缺失数据校正](https://doi.org/10.3847/1538-4357/ad9b91) (2025) |
+| **暂缓：暂停招收研究生** [Adrian Liu](https://sites.google.com/view/acliu/home)<br>Professor；Physics / Trottier | 21 cm 宇宙学、射电阵列模拟与统计分析；组页说明已满及计划 2027–2028 sabbatical<br>① [射电阵列可见度模拟](https://doi.org/10.1093/rasti/rzaf001) (2025)<br>② [21 cm 缺失数据校正](https://doi.org/10.3847/1538-4357/ad9b91) (2025) |
 
-三位均未联系，2027 MSc 名额未确认。Jim Cline 的主页说明接收学生受经费制约，申请仍须通过 McGill 项目。
+三位均未见已联系记录，2027 MSc 名额未确认。2026-09-28 直接 HTTPS 核查：[Schutz contact 页](https://katelinschutz.com/contact)明确当前无学生研究岗位；[Liu 组页](https://sites.google.com/view/acliu/home)明确因组内已满及计划 2027–2028 学年休假，目前不招收研究生或博士后。[Jim Cline 主页](https://www.physics.mcgill.ca/~jcline/)欢迎在经费允许时接收学生，申请仍须通过 McGill 项目。这些是公开状态，不是联系后的拒绝或录取承诺。
 
 论文完整题名（对应表中的①、②）：
 
@@ -55,7 +57,7 @@
 | **主题备选** [Renée Hložek](https://www.astro.utoronto.ca/people/faculty/name/renee-hlozek/)<br>Associate Professor | 宇宙学模拟、超轻暗物质与 ML<br>① [星流暗子晕图神经网络](https://doi.org/10.3847/1538-4357/add698) (2025)<br>② [超轻暗物质宇宙学模拟](https://doi.org/10.1103/physrevd.109.043507) (2024) |
 | **条件备选** [Anupam Mazumdar](https://www.astro.utoronto.ca/people/faculty/name/anupam-mazumdar/)<br>Professor；CITA | 量子引力、粒子宇宙学；须有理论交集<br>① [宏观量子叠加建模](https://doi.org/10.1103/physreva.111.052207) (2025)<br>② [物质波干涉噪声](https://doi.org/10.1103/physrevd.111.064004) (2025) |
 
-八位均未联系，Fall 2027 的外部 MSc intake 和个人指导名额待确认。Josh Speagle、Ting Li 的个人网站欢迎潜在研究生咨询，不代表已有名额。
+八位均未见已联系记录，Fall 2027 MSc intake、申请人作为本校本科生的申请类别和个人指导名额待确认。2026-09-28 已为 Eadie 建立[硕士材料与路径咨询信](../202610-phy-master/utoronto-gwendolyn-eadie/README.md)：SGS 仍描述部分情况下可录取 MSc，院系 how-to-apply 仍列 2026 周期并以直博为默认入口，不能当作 2027 独立 MSc 已开放；申请目标保持 MSc。Josh Speagle、Ting Li 的个人网站欢迎潜在研究生咨询，不代表已有名额。
 
 论文完整题名（对应表中的①、②）：
 
@@ -87,7 +89,7 @@
 ## 使用前核查
 
 1. 本科时间已于 2026-09-27 经用户确认：2023 年 9 月入学，预计 2027 年 6 月毕业，与 Fall 2027 申请目标相容；发信时使用这一时间线。
-2. 每封邮件只引用已读过的论文，写清与自己的研究问题、方法或数据处理工作的一个具体连接；合作论文不代表导师本人负责该子分析。
+2. 按本批用户指定流程，先由助手核查论文并写出具体研究问题或方法联系，申请人随后阅读并调整；草稿不声称已经精读或复现。合作论文不代表导师本人负责该子分析。
 3. 向导师询问 **Fall 2027 MSc** 的接收意向、可指导课题与经费，不把公开主页或论文署名当作名额确认。
 4. U of T Astronomy and Astrophysics 先核实是否接受外部 MSc 申请；UBC 需补足候选覆盖，再决定是否扩展首轮邮件。
 
