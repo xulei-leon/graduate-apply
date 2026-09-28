@@ -1,21 +1,29 @@
 # Hongyi Xu
 
-Academic CV  
-University of Toronto · hyi.xu@mail.utoronto.ca  
+University of Toronto · hyi.xu@mail.utoronto.ca
 Research project: https://hyi03.github.io/manga-dm/
 
 ## Education
 
-**University of Toronto · Physics Specialist (undergraduate)**  
+**University of Toronto · Physics Specialist (undergraduate)**
 September 2023–present; expected graduation: June 2027
 
 Completed coursework: Advanced Classical Mechanics; Quantum Mechanics I; Electricity & Magnetism; Thermal Physics; Practical Physics I / II; Advanced Calculus; Linear Algebra I / II; Ordinary Differential Equations; Introduction to Computer Programming; Introduction to Computer Science.
+
+## Research Interests
+
+My primary research interest is computational physics, particularly the use of numerical methods and statistical inference to test physical models and constrain their parameters. Specific interests include:
+
+- Dark matter and cosmology: numerical modelling of dark-matter halos and observational constraints on them.
+- Particle physics: analysis of simulated data, statistical inference, and uncertainty assessment.
+
+I hope to deepen my training in computational methods and the relevant physics theory during a master's program.
 
 ## Research Experience
 
 ### MaNGA Galaxy Kinematics and Dark-Matter Halo Parameter Inference
 
-2025–2026 (approximately one year); independently conducted the research analysis
+2025–2026; independently conducted the research analysis
 
 - In decomposing galaxy rotation curves, found that adding a dark-matter component could yield different parameter combinations from different initial values while producing similar fitted curves. This showed that a single optimum from numerical optimization does not adequately capture the degeneracy and uncertainty in halo mass and concentration.
 - Learned and applied PyMC Bayesian modelling and MCMC posterior sampling to characterize the relationship between halo mass and concentration. Repeatedly performed prior predictive checks, prior-sensitivity tests, and sampling diagnostics to assess how parameter constraints depend on the data and priors.
@@ -27,7 +35,7 @@ Completed coursework: Advanced Classical Mechanics; Quantum Mechanics I; Electri
 
 May 2026–present; supervised by Professor Mario Campanelli, University College London
 
-- Independently defined the research objective, selected publicly available ATLAS simulated samples, and designed a feature-group comparison plan. Used AI-assisted coding to carry out pyhf likelihood inference and Shapley attribution, then assessed the comparison plan using the resulting analyses.
+- Independently defined the research objective, selected publicly available ATLAS simulated samples, and designed a feature-group comparison plan. Carried out pyhf likelihood inference and Shapley attribution, then assessed the comparison plan using the resulting analyses.
 - Used bootstrap and conditional coverage diagnostics to assess the effects of finite simulated samples and the reliability of intervals. Current results are insufficient to establish a reliable improvement in precision.
 - Project code: https://github.com/hyi03/HiggsML
 - First-author manuscript (in progress): Kinematic feature attribution for signal-strength inference in simulated H → ZZ* → 2e2μ events.
@@ -38,9 +46,8 @@ May 2026–present; supervised by Professor Mario Campanelli, University College
 
 - Used Python to fit mentor-provided Milky Way kinematic data by least squares and compared NFW, Einasto, and Isothermal halo models using rotation-curve RMSE.
 
-## Additional Information
+## Professional Skills
 
-- Research interests: dark matter at the interface of particle physics and cosmology; numerical tests of physical models and parameter constraints. Seeking to strengthen the relevant theoretical background during master's study.
 - Scientific computing: Python data processing and visualization, curve fitting, and residual analysis; PyMC, Bayesian MCMC, and posterior and parameter-uncertainty analysis.
 - Machine learning: learned and applied MLP classification, feature-group comparison, and exact Shapley attribution through the Higgs simulation project.
 - Research writing: developed and repeatedly revised the MaNGA manuscript outline, using AI assistance for wording and editing; wrote LaTeX lab reports and technical documentation.
