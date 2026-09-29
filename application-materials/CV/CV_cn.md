@@ -13,24 +13,12 @@ University of Toronto · hyi.xu@mail.utoronto.ca
 
 以计算物理为主要研究兴趣，关注数值方法与统计推断在物理模型检验和参数约束中的应用。具体兴趣包括：
 
-- 暗物质与宇宙学：暗物质晕的数值建模及其观测约束。
 - 粒子物理：运动学特征分析、统计推断与不确定性评估。
+- 暗物质与宇宙学：暗物质晕的数值建模及其观测约束。
 
 希望在硕士阶段进一步学习计算物理方法，并加强相关物理理论训练。
 
 ## 项目经历
-
-### MaNGA 星系运动学与暗物质晕参数推断
-
-2025—2026 年；个人独立完成项目
-
-**使用贝叶斯建模与群体推断，研究 MaNGA 盘星系暗物质晕的质量—浓度关系。**
-
-- 在旋转曲线质量分解中发现，仅用优化方法求取单个最优解，难以体现晕质量与浓度之间的简并及参数不确定性。
-- 围绕这一问题，学习并应用 PyMC 贝叶斯建模与 MCMC 后验采样，刻画晕质量与浓度的相关性；检查先验预测、先验敏感性与采样诊断，评估参数约束对数据和先验的依赖。
-- 对筛选后的 620 个盘星系开展群体分析，通过先验校正的重要性采样，将单星系联合后验样本用于推断 concentration–mass relation 的斜率、归一化与内禀散布；结合倾角敏感性检验与 PSIS 诊断，评估模型假设和重加权稳定性对结果的限制。
-- 项目主页：https://hyi03.github.io/manga-dm。
-- 第一作者手稿（已完成）：[Bayesian Hierarchical Inference of the Dark Matter Halo Concentration–Mass Relation from MaNGA Disk Galaxy Rotation Curves](https://hyi03.github.io/manga-dm/paper-preview)
 
 ### 模拟 Higgs 四轻子事件的特征归因与信号强度推断
 
@@ -43,6 +31,18 @@ University of Toronto · hyi.xu@mail.utoronto.ca
 - 进一步开展 200 次 event-group bootstrap 和条件覆盖率诊断，检查有限模拟样本带来的不确定性与区间校准。
 - 项目代码：https://github.com/hyi03/HiggsML
 - 第一作者手稿（正在写作）：Kinematic feature attribution for signal-strength inference in simulated H → ZZ* → 2e2μ events。
+
+### MaNGA 星系运动学与暗物质晕参数推断
+
+2025—2026 年；个人独立完成项目
+
+**使用贝叶斯建模与群体推断，研究 MaNGA 盘星系暗物质晕的质量—浓度关系。**
+
+- 在旋转曲线质量分解中发现，仅用优化方法求取单个最优解，难以体现晕质量与浓度之间的简并及参数不确定性。
+- 围绕这一问题，学习并应用 PyMC 贝叶斯建模与 MCMC 后验采样，刻画晕质量与浓度的相关性；检查先验预测、先验敏感性与采样诊断，评估参数约束对数据和先验的依赖。
+- 对筛选后的 620 个盘星系开展群体分析，通过先验校正的重要性采样，将单星系联合后验样本用于推断 concentration–mass relation 的斜率、归一化与内禀散布；结合倾角敏感性检验与 PSIS 诊断，评估模型假设和重加权稳定性对结果的限制。
+- 项目主页：https://hyi03.github.io/manga-dm。
+- 第一作者手稿（已完成）：[Bayesian Hierarchical Inference of the Dark Matter Halo Concentration–Mass Relation from MaNGA Disk Galaxy Rotation Curves](https://hyi03.github.io/manga-dm/paper-preview)
 
 ### 银河系暗物质晕模型比较
 
