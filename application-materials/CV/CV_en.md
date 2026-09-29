@@ -5,7 +5,7 @@ University of Toronto · hyi.xu@mail.utoronto.ca
 ## Education
 
 **University of Toronto · Physics Specialist (undergraduate)**
-September 2023–present; expected graduation: June 2027
+Sep 2023–present; expected graduation: June 2027
 
 Completed coursework: Advanced Classical Mechanics; Quantum Mechanics I; Electricity & Magnetism; Thermal Physics; Practical Physics II; Introduction to Computer Programming; Introduction to Computer Science.
 
