@@ -2,9 +2,9 @@
 
 创建：2026-09-28；UBC 目标与索引更新：2026-09-29。其他导师核查日期见各自说明。目录名按用户要求为 `202610-phy-master`，目标入学为 **Fall 2027**，不是 2026 年入学。
 
-共 **3 所加拿大大学、3 位目标导师及 1 位备选导师**，本目录合计 **20 个 Markdown 文件**。目标导师为 Jim Cline、Gwendolyn Eadie、Ludovic Van Waerbeke；Alison Lister 保留为备选。UT 按 **Astronomy and Astrophysics MSc**、UBC 主目标按 **Astronomy MSc** 准备。
+共 **3 所加拿大大学、3 位目标导师及 1 位备选导师**，本目录合计 **18 个 Markdown 文件**。目标导师为 Jim Cline、Gwendolyn Eadie、Ludovic Van Waerbeke；Alison Lister 保留为备选。UT 按 **Astronomy and Astrophysics MSc**、UBC 主目标按 **Astronomy MSc** 准备。
 
-Van Waerbeke 目录含独立中英文 CV、中英文咨询信、论文阅读说明与项目核查；其他既有导师目录保留邮件与阅读说明，CV 入口按当前集中保存结构列在各自 README。Eadie 另有院系 MSc 入口咨询信。所有邮件均未发送，正式申请未提交。
+四位导师目录均含中英文咨询信、论文阅读说明与项目核查；CV 使用[最新英文天体物理版](../CV/CV_astro_en.md)，中文核对稿见[中文天体物理版](../CV/CV_astro_cn.md)。Eadie 另有院系 MSc 入口咨询信。所有邮件均未发送，正式申请未提交。
 
 ## 本轮人选
 
@@ -43,8 +43,8 @@ Van Waerbeke 目录含独立中英文 CV、中英文咨询信、论文阅读说�
 ## 共同事实与编辑边界
 
 - 姓名 Hongyi Xu；邮箱 hyi.xu@mail.utoronto.ca；U of T Physics Specialist 本科在读，2023 年 9 月入学，预计 2027 年 6 月毕业；累计 GPA 3.0/4.0。正式学位名称仍未确认，CV 不补写 Honours 等称谓。
-- MaNGA：2025–2026，研究分析独立完成；当前基础 CV 已写 620 个筛选后盘星系，本包沿用这一口径，不沿用旧 statement 中约 400 的口径。第一作者手稿完成但未投稿；本人拟定大纲、AI 辅助措辞与润色、反复人工修订。
-- Higgs：2026 年 5 月起由 UCL 的 Mario Campanelli 指导；本人确定目标、选择样本及设计特征组比较，AI 辅助指标探索与代码实现；第一作者手稿仍为未经人工修订的 AI 初稿；结果探索性，不宣称已建立可靠精度提升。
+- MaNGA：2025–2026，项目独立完成；对 620 个筛选后盘星系开展群体分析，通过先验校正的重要性采样推断浓度—质量关系的斜率、归一化与内禀散布，并做倾角敏感性和 PSIS 诊断。本人写作的第一作者手稿已完成、尚未投稿；链接指向手稿预览，不沿用旧 statement 中约 400 的口径。
+- Higgs：2026 年 5 月起由 UCL 的 Mario Campanelli 指导；处理公开 ATLAS 模拟 H → ZZ* → 2e2μ 样本，比较 19 个变量构成的四组特征、15 种非空组合和五个随机种子；用 pyhf、exact Shapley、200 次 event-group bootstrap 和条件覆盖率诊断。第一作者手稿正在写作；结果探索性，不宣称已建立可靠精度提升。
 - 项目经历不等同于在 UCL 任职或 ATLAS 合作组成员资格。未确认的推荐承诺、成绩趋势、专业 GPA、获奖、学位称谓和工具熟练程度均不增补。
 - 申请人计划随后阅读。本版邮件已按助手核查的论文原文加入具体兴趣点，使用“该论文中的问题／方法引起兴趣”及“希望进一步理解”的措辞，不声称已经精读、复现或讨论。导师合著关系已核查；ATLAS 合作署名不等于导师负责相应子分析。
 - 初次联系语气是草稿假设，仓库“未见联系记录”并非申请人已确认从未联系。
@@ -63,17 +63,17 @@ Higgs 公共仓库 README 当前使用 test01 标签，而本地科研背景曾�
 
 ## 后续逐项推进
 
-问题 1 已完成并于 2026-09-29 更新：三校各一位目标导师，UBC 改为 Van Waerbeke；Lister 目录加 `-backup` 后缀保留备选。
+问题 1 已完成并于 2026-09-29 更新：三校各一位目标导师，UBC 改为 Van Waerbeke；Lister 目录保留备选。
 
 问题 2 已按用户新安排完成助手部分：推荐 5 篇、核查相关原文、写好阅读说明，并将四位导师各一篇论文的具体内容加入八封中英文邮件（含 Lister 备选）。申请人后续阅读，再用自己的理解补充或调整，不需要先提供已读论文才能完成草稿。
 
-其余事项继续保留：既往联系记录、Higgs 人工审阅与 PDF、正式学位名称、推荐人承诺；成绩单核对继续按用户要求暂缓。UT 先使用[硕士路径咨询草稿](utoronto-gwendolyn-eadie/msc_route_inquiry_en.md)核实硕士入口，目标保持 MSc。
+其余事项继续保留：既往联系记录、Higgs 手稿可用版本、正式学位名称、推荐人承诺；成绩单核对继续按用户要求暂缓。UT 先使用[硕士路径咨询草稿](utoronto-gwendolyn-eadie/msc_route_inquiry_en.md)核实硕士入口，目标保持 MSc。
 
 ## 本地事实来源
 
 - [已确认事实与待确认问题](../follow-up-questions.md)
-- [天体 CV 基础稿](../CV/CV_astro_cn.md)与[粒子 CV 基础稿](../CV/CV_particle_cn.md)
+- [最新英文天体物理 CV](../CV/CV_astro_en.md)与[中文天体物理 CV](../CV/CV_astro_cn.md)
 - [原导师推荐名单](../phy-master-plan/mcgill-utoronto-ubc-supervisor-outreach-list-2027.md)
 - [科研背景](../../research-background.md)：用于方法与结果边界；如时间、导师、作者状态与较新已确认事实冲突，以前述 CV / 问题清单为准。
 
-共同事实以后更改时，同步两版基础 CV、两版基础咨询信及本批目标及备选材料。本轮未新增申请人事实，基础模板保留；招生更新已注明核验日期，不将整份历史名单追溯标成全部重新核验。
+共同事实以后更改时，同步相关 CV、咨询信及本批目标与备选材料。招生更新已注明核验日期，不将整份历史名单追溯标成全部重新核验。

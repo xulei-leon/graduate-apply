@@ -7,7 +7,6 @@
 | 文件 | 用途 |
 |---|---|
 | [CV_astro_cn.md](../../CV/CV_astro_cn.md) / [CV_astro_en.md](../../CV/CV_astro_en.md) | 共享的天体物理版中文 / 英文 CV；MaNGA 为主，Higgs 作为计算推断补充 |
-| 旧版英文打印稿（当前路径已不存在） | 较早的双页 A4 排版稿，内容尚未同步至当前英文 CV |
 | [cover_letter_email_cn.md](cover_letter_email_cn.md) / [cover_letter_email_en.md](cover_letter_email_en.md) | 中英文 MSc 研究机会咨询信 |
 | [paper_reading_notes.md](paper_reading_notes.md) | 1 篇推荐论文、原文定位、阅读顺序与邮件联系点 |
 
@@ -44,7 +43,7 @@ Jim Cline 属原名单两位首选之一，其主页确认研究集中于 partic
 
 已按用户安排推荐 *Dark photon distortions of NOνA and T2K neutrino oscillations*，https://arxiv.org/abs/2407.13817 ，并核查开放原文的 Methodology、Results 和结论。邮件已加入多实验约束与参数简并的联系，申请人后续阅读；没有“我已精读／复现”之类主张。详见[阅读说明](paper_reading_notes.md)。原名单另一篇关于 inflationary reheating 的论文不列为本批必读。
 
-共同待确认项见[批次说明](../README.md)：联系历史、Higgs 人工审阅与 PDF、学位名称、推荐人；成绩单按用户要求暂缓。当前优先采用两版中文 CV 与 follow-up-questions 中较新的已确认事实，不沿用旧规划中“作者顺序和导师姓名尚未知”的表述。
+共同待确认项见[批次说明](../README.md)：联系历史、Higgs 手稿可用版本、学位名称、推荐人；成绩单按用户要求暂缓。申请人经历以[最新英文天体物理 CV](../../CV/CV_astro_en.md)为本批措辞依据，不沿用旧规划中“作者顺序和导师姓名尚未知”的表述。
 
 ## 来源
 
@@ -54,4 +53,4 @@ Jim Cline 属原名单两位首选之一，其主页确认研究集中于 partic
 - Schutz 当前岗位说明：https://katelinschutz.com/contact （同日读取）
 - Liu 当前招生说明：https://sites.google.com/view/acliu/home （同日读取）
 - [原始导师名单](../../phy-master-plan/mcgill-utoronto-ubc-supervisor-outreach-list-2027.md)
-- [申请人中文天体 CV](../../CV/CV_astro_cn.md)、[已确认事实与待办](../../follow-up-questions.md)
+- [申请人英文天体物理 CV](../../CV/CV_astro_en.md)、[已确认事实与待办](../../follow-up-questions.md)

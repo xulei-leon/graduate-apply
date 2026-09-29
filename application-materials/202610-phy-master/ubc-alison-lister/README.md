@@ -2,13 +2,13 @@
 
 整理与官方页面核查：2026-09-28。地区：Canada。目标：Fall 2027 **Master of Science in Physics (MSc)**，The University of British Columbia，Department of Physics & Astronomy。草稿未发送；未见既往联系记录，须由申请人确认。
 
-2026-09-29 用户将 UBC 目标导师改为 [Ludovic Van Waerbeke](../ubc-ludovic-van-waerbeke/README.md)，本目录加 `-backup` 后缀，保留作为 Physics MSc 粒子物理方向备选；原招生核查日期不变。
+2026-09-29 用户将 UBC 目标导师改为 [Ludovic Van Waerbeke](../ubc-ludovic-van-waerbeke/README.md)，本目录保留作为 Physics MSc 粒子物理方向备选；原招生核查日期不变。
 
 ## 材料
 
 | 文件 | 用途 |
 |---|---|
-| [粒子方向中文 CV](../../CV/CV_particle_cn.md) | 当前集中保存的 CV；Higgs 在前、MaNGA 在后。本目录目前无独立英文 CV |
+| [最新英文天体物理 CV](../../CV/CV_astro_en.md) / [中文天体物理 CV](../../CV/CV_astro_cn.md) | 当前集中保存的 CV；邮件以 Higgs 方法为切入点 |
 | [cover_letter_email_cn.md](cover_letter_email_cn.md) / [cover_letter_email_en.md](cover_letter_email_en.md) | 中英文 MSc 研究机会咨询信 |
 | [paper_reading_notes.md](paper_reading_notes.md) | 1 篇首读 + 1 篇选读，含原文位置和方法边界 |
 
@@ -47,7 +47,7 @@
 
 已完成[两篇推荐及阅读说明](paper_reading_notes.md)：首读 ATLAS 弱监督双喷注异常检测（https://arxiv.org/abs/2502.09770），选读 *Transforming jet flavour tagging at ATLAS*（https://arxiv.org/abs/2505.19689）。本轮核查第一篇出版版全文中 §V 的方法和验证，以及第二篇 arXiv v2 的网络、生成器稳健性与碰撞数据校准内容。首封中英文邮件只用第一篇作为联系点，申请人后续阅读；不声称已精读或复现，也不推断 Lister 的具体子分析职责。
 
-Higgs 仅列项目仓库 https://github.com/hyi03/HiggsML ，本轮确认公开页面可访问；未将仓库中的构建说明当作已有人工审阅 PDF。保留 AI 参与指标探索、代码实现及初稿生成的实际边界，不声称精度提升已验证。
+Higgs 仅列项目仓库 https://github.com/hyi03/HiggsML ，本轮确认公开页面可访问；未将仓库中的构建说明当作已有可发送论文 PDF。邮件采用最新英文 CV 的“第一作者手稿正在写作”表述，不声称精度提升已验证。
 
 ## 来源
 
@@ -55,5 +55,5 @@ Higgs 仅列项目仓库 https://github.com/hyi03/HiggsML ，本轮确认公开�
 - Physics MSc：https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics （同日读取）
 - 院系个人页尝试：https://phas.ubc.ca/users/alison-lister （同日被站点拦截，未作为事实依据）
 - 项目作品：https://github.com/hyi03/HiggsML （同日确认可访问）
-- [申请人中文粒子 CV](../../CV/CV_particle_cn.md)、[已确认事实与待办](../../follow-up-questions.md)
+- [申请人英文天体物理 CV](../../CV/CV_astro_en.md)、[已确认事实与待办](../../follow-up-questions.md)
 - [原 UBC 文书规划](../../phy-master-plan/ubc-physics-msc-statement-of-interest.md)仅供历史结构参考；当前项目状态以已确认事实和本包为准。

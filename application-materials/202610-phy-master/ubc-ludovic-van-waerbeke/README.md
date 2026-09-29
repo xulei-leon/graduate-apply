@@ -2,13 +2,13 @@
 
 整理与最后核查：2026-09-29。地区：Canada。目标：Fall 2027 **Master of Science in Astronomy (MSc)**，The University of British Columbia，Department of Physics & Astronomy。
 
-**本批 UBC 目标导师。** 用户指定以 MaNGA 项目为主要申请依据；Alison Lister 保留为[粒子物理备选](../ubc-alison-lister-backup/README.md)。这是导师咨询材料包，邮件未发送，正式申请未提交；既往联系记录仍待申请人确认。
+**本批 UBC 目标导师。** 用户指定以 MaNGA 项目为主要申请依据；Alison Lister 保留为[粒子物理备选](../ubc-alison-lister/README.md)。这是导师咨询材料包，邮件未发送，正式申请未提交；既往联系记录仍待申请人确认。
 
 ## 材料
 
 | 文件 | 用途 |
 |---|---|
-| [CV_cn.md](CV_cn.md) / [CV_en.md](CV_en.md) | 中英文定制 CV，以 MaNGA、晕参数推断和模型检验为主 |
+| [CV_astro_cn.md](../../CV/CV_astro_cn.md) / [CV_astro_en.md](../../CV/CV_astro_en.md) | 集中保存的中英文天体物理 CV，以 MaNGA、晕参数推断和模型检验为主 |
 | [cover_letter_email_cn.md](cover_letter_email_cn.md) / [cover_letter_email_en.md](cover_letter_email_en.md) | Fall 2027 Astronomy MSc 研究机会咨询邮件 |
 | [paper_reading_notes.md](paper_reading_notes.md) | 1 篇首读论文、全文位置、阅读问题及已写入邮件的联系点 |
 
@@ -48,9 +48,9 @@ Van Waerbeke 为 UBC Professor，官方导师资料列明 Astronomy MSc 和 Phys
 
 推荐论文的作者表及开放全文已核查，申请人后续阅读。英文邮件使用兴趣与拟议学习任务的语气，没有声称已精读或复现。论文中采用的 concentration–mass relation 是模型假设之一，不能把该文写成独立测量 c–M relation 的工作。
 
-CV 依据当前[中文天体 CV](../../CV/CV_astro_cn.md)及[英文基础 CV](../../CV/CV_astro_en.md)形成，保留项目时间、620 个筛选后盘星系、个人贡献、手稿状态和已修课程；研究兴趣针对晕建模与观测约束调整。基础中文 CV 的现有修改保持原样。未新增弱透镜软件熟练度、推荐承诺、成绩趋势或正式学位称谓。
+本批邮件依据[最新英文天体物理 CV](../../CV/CV_astro_en.md)撰写，保留项目时间、620 个筛选后盘星系、独立完成项目、本人写作 MaNGA 手稿、Higgs 方法与手稿状态；研究兴趣针对晕建模与观测约束调整。未新增弱透镜软件熟练度、推荐承诺、成绩趋势或正式学位称谓。
 
-MaNGA 手稿完成未投稿，链接为预览；Higgs 工作及精度改善仍属探索性，手稿仍需人工审阅。CV 未补入未确认的论文发表、实验合作组成员或正式 UCL 任职信息。按照当前基础 CV 的呈现方式，新 CV 不列 GPA；资格核对所需的已知累计 GPA 仍在本说明中保留，不表示成绩要求已经满足。
+MaNGA 手稿完成未投稿，链接为预览；Higgs 工作及精度改善仍属探索性，第一作者手稿正在写作。CV 未补入未确认的论文发表、实验合作组成员或正式 UCL 任职信息。当前英文 CV 不列 GPA；资格核对所需的已知累计 GPA 仍在本说明中保留，不表示成绩要求已经满足。
 
 ## 来源
 

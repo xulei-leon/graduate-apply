@@ -6,7 +6,7 @@
 
 | 文件 | 用途 |
 |---|---|
-| [CV_cn.md](../../CV/CV_astro_cn.md) / [CV_en.md](../../CV/CV_astro_en.md) | 中文核对稿 / 英文 CV 草稿；突出层级推断、参数简并、先验敏感性 |
+| [CV_astro_cn.md](../../CV/CV_astro_cn.md) / [CV_astro_en.md](../../CV/CV_astro_en.md) | 中文核对稿 / 最新英文 CV；突出群体推断、参数简并、先验敏感性 |
 | [cover_letter_email_cn.md](cover_letter_email_cn.md) / [cover_letter_email_en.md](cover_letter_email_en.md) | 面向 Eadie 的中英文 MSc 研究机会咨询信 |
 | [msc_route_inquiry_en.md](msc_route_inquiry_en.md) | 向院系确认 Fall 2027 硕士申请路径的英文邮件草稿 |
 | [paper_reading_notes.md](paper_reading_notes.md) | 1 篇推荐论文、重点图表与方法、邮件联系点 |
@@ -48,7 +48,7 @@
 
 已推荐 *Hierarchical Bayesian Inference of Globular Cluster Properties*（https://arxiv.org/abs/2311.03704），并核查 §3、§4.2、§5 及相关图注。两版邮件已用联合处理测量误差和未知星团中心、Fig. 8 的距离—质量简并建立联系，结尾收窄为模拟星团的距离处理比较；申请人计划随后阅读。详见[阅读说明](paper_reading_notes.md)。这不是暗物质晕测量论文，不将两种动力学问题等同。
 
-原名单另一篇 Poisson cluster process 论文不列为本批必读。CV 保留 3.0/4.0 累计 GPA；不编写高年级平均分、成绩趋势或正式学位名称。
+原名单另一篇 Poisson cluster process 论文不列为本批必读。最新英文 CV 未列 GPA；本说明保留已知的 3.0/4.0 累计 GPA 用于资格核对，不编写高年级平均分、成绩趋势或正式学位名称。
 
 ## 来源
 
@@ -57,4 +57,4 @@
 - MSc Calendar：https://sgs.calendar.utoronto.ca/astronomy-and-astrophysics-astronomy-and-astrophysics-msc （同日读取，2026–27 版本）
 - 院系申请页：https://www.astro.utoronto.ca/academics/graduate-studies/prospective-students/how-to-apply/ （同日读取，正文仍为 2026 admissions）
 - [既有 MSc 档案](../../../physics-master/UofT_MSc_Astronomy_Astrophysics.md)
-- [申请人中文天体 CV](../../CV/CV_astro_cn.md)、[已确认事实与待办](../../follow-up-questions.md)
+- [申请人英文天体物理 CV](../../CV/CV_astro_en.md)、[已确认事实与待办](../../follow-up-questions.md)
