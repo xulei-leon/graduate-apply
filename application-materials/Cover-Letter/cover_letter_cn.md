@@ -12,7 +12,7 @@
 
 我对您在【论文英文题名与年份，或具体项目名称】中研究的【具体问题或方法】很感兴趣。这与我在 Higgs 模拟分析中【一项有证据的方法联系】的经历相关；我希望将已有的分析经验用于【范围明确的特征比较、似然建模或不确定性评估任务】，进一步研究【该任务对应的物理问题】。
 
-自 2026 年 5 月起，我在 University College London 的 Mario Campanelli 教授指导下，研究模拟 H → ZZ* → 2e2μ 事件的运动学输入如何影响信号强度推断。我处理 ATLAS 公开模拟样本，设计并开展 MLP 特征组比较，构建统一的 pyhf profile-likelihood 推断流程，并用 bootstrap 与条件覆盖率诊断评估区间可靠性。现有结果仍属探索性，尚未确立经校准的精度提升；第一作者手稿准备中，项目代码：https://github.com/hyi03/HiggsML 。此前，我独立完成了 MaNGA 暗物质晕项目的研究分析，积累了 PyMC/MCMC 与群体推断经验，相关第一作者手稿已完成，尚未投稿。
+自 2026 年 5 月起，我在 University College London 的 Mario Campanelli 教授指导下，研究模拟 H → ZZ* → 2e2μ 事件的运动学输入如何影响信号强度推断。我处理 ATLAS 公开模拟样本，设计并开展 MLP 特征组比较，构建统一的 pyhf profile-likelihood 推断流程，并用 bootstrap 与条件覆盖率诊断评估区间可靠性。现有结果仍属探索性，尚未确立经校准的精度提升；第一作者手稿准备中，项目代码：https://github.com/hyi03/HiggsML 。此前，我独立完成了 MaNGA 暗物质晕项目的研究分析，积累了 PyMC/MCMC 与群体推断经验，相关第一作者手稿已完成，尚未投稿；论文 PDF：https://hyi03.github.io/manga-dm/paper/Local_Concentration__Mass_Relation_from_MaNGA.pdf 。
 
 随信附上我的 CV，供您了解研究经历。请问您是否考虑招收 2027 年秋季入学的硕士生，以及是否有适合上述背景的研究课题？如果方便，我也很愿意通过简短线上交流进一步介绍工作、了解课题。感谢您的时间与考虑。
 

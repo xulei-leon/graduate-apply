@@ -30,7 +30,7 @@ University of Toronto · hyi.xu@mail.utoronto.ca
 - 对筛选后的 620 个盘星系开展群体分析，通过先验校正的重要性采样，将单星系联合后验样本用于推断浓度—质量关系的斜率、归一化与内禀散布。
 - 通过先验预测检查、先验敏感性检验与采样诊断评估参数约束；结合倾角敏感性检验和 PSIS 诊断，检查模型假设及后验重加权稳定性对群体推断的影响。
 
-第一作者手稿（已完成，尚未投稿）：[Bayesian Hierarchical Inference of the Dark Matter Halo Concentration–Mass Relation from MaNGA Disk Galaxy Rotation Curves](https://hyi03.github.io/manga-dm/paper-preview)（手稿预览）
+第一作者手稿（已完成，尚未投稿）：[Bayesian Hierarchical Inference of the Dark Matter Halo Concentration–Mass Relation from MaNGA Disk Galaxy Rotation Curves](https://hyi03.github.io/manga-dm/paper/Local_Concentration__Mass_Relation_from_MaNGA.pdf)（PDF）
 
 项目主页：https://hyi03.github.io/manga-dm/
 

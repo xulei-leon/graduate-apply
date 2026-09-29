@@ -44,7 +44,7 @@ Project code: https://github.com/hyi03/HiggsML
 - Analysed 620 selected disk galaxies at the population level, using prior-corrected importance sampling of individual-galaxy joint posterior samples to infer the slope, normalization, and intrinsic scatter of the concentration–mass relation.
 - Assessed parameter constraints through prior predictive checks, prior-sensitivity tests, and sampling diagnostics; used inclination-sensitivity tests and PSIS diagnostics to examine the effects of model assumptions and reweighting stability on population inference.
 
-First-author manuscript (completed; not yet submitted): [Bayesian Hierarchical Inference of the Dark Matter Halo Concentration–Mass Relation from MaNGA Disk Galaxy Rotation Curves](https://hyi03.github.io/manga-dm/paper-preview) (manuscript preview)
+First-author manuscript (completed; not yet submitted): [Bayesian Hierarchical Inference of the Dark Matter Halo Concentration–Mass Relation from MaNGA Disk Galaxy Rotation Curves](https://hyi03.github.io/manga-dm/paper/Local_Concentration__Mass_Relation_from_MaNGA.pdf) (PDF)
 
 Project website: https://hyi03.github.io/manga-dm/
 
