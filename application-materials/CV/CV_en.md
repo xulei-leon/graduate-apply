@@ -13,24 +13,12 @@ Completed coursework: Advanced Classical Mechanics; Quantum Mechanics I; Electri
 
 My primary research interest is computational physics, particularly the use of numerical methods and statistical inference to test physical models and constrain their parameters. Specific interests include:
 
-- Dark matter and cosmology: numerical modelling of dark-matter halos and their observational constraints.
 - Particle physics: kinematic feature analysis, statistical inference, and uncertainty assessment.
+- Dark matter and cosmology: numerical modelling of dark-matter halos and their observational constraints.
 
 I hope to deepen my training in computational methods and the relevant physics theory during a master's program.
 
 ## Research Experience
-
-### MaNGA Galaxy Kinematics and Dark-Matter Halo Parameter Inference
-
-2025–2026; completed the project independently
-
-**Used Bayesian modelling and population inference to study the mass–concentration relation of dark-matter halos in MaNGA disk galaxies.**
-
-- In rotation-curve mass decomposition, found that obtaining a single optimum by numerical optimization could not adequately capture the degeneracy and uncertainty in halo mass and concentration.
-- Learned and applied PyMC Bayesian modelling and MCMC posterior sampling to characterize the relationship between halo mass and concentration; used prior predictive checks, prior-sensitivity tests, and sampling diagnostics to assess how parameter constraints depend on the data and priors.
-- Conducted a population analysis of 620 selected disk galaxies. Used prior-corrected importance sampling to infer the slope, normalization, and intrinsic scatter of the concentration–mass relation from individual-galaxy joint posterior samples; used inclination-sensitivity checks and PSIS diagnostics to assess limitations arising from model assumptions and reweighting stability.
-- Project website: https://hyi03.github.io/manga-dm/
-- First-author manuscript (completed): [Bayesian Hierarchical Inference of the Dark Matter Halo Concentration–Mass Relation from MaNGA Disk Galaxy Rotation Curves](https://hyi03.github.io/manga-dm/paper-preview)
 
 ### Feature Attribution and Signal-Strength Inference in Simulated Higgs Four-Lepton Events
 
@@ -43,6 +31,18 @@ May 2026–present; supervised by Professor Mario Campanelli, University College
 - Conducted 200 event-group bootstrap replicates and conditional coverage diagnostics to examine uncertainty from finite simulated samples and interval calibration.
 - Project code: https://github.com/hyi03/HiggsML
 - First-author manuscript (in progress): Kinematic feature attribution for signal-strength inference in simulated H → ZZ* → 2e2μ events.
+
+### MaNGA Galaxy Kinematics and Dark-Matter Halo Parameter Inference
+
+2025–2026; completed the project independently
+
+**Used Bayesian modelling and population inference to study the mass–concentration relation of dark-matter halos in MaNGA disk galaxies.**
+
+- In rotation-curve mass decomposition, found that obtaining a single optimum by numerical optimization could not adequately capture the degeneracy and uncertainty in halo mass and concentration.
+- Learned and applied PyMC Bayesian modelling and MCMC posterior sampling to characterize the relationship between halo mass and concentration; used prior predictive checks, prior-sensitivity tests, and sampling diagnostics to assess how parameter constraints depend on the data and priors.
+- Conducted a population analysis of 620 selected disk galaxies. Used prior-corrected importance sampling to infer the slope, normalization, and intrinsic scatter of the concentration–mass relation from individual-galaxy joint posterior samples; used inclination-sensitivity checks and PSIS diagnostics to assess limitations arising from model assumptions and reweighting stability.
+- Project website: https://hyi03.github.io/manga-dm/
+- First-author manuscript (completed): [Bayesian Hierarchical Inference of the Dark Matter Halo Concentration–Mass Relation from MaNGA Disk Galaxy Rotation Curves](https://hyi03.github.io/manga-dm/paper-preview)
 
 ### Comparison of Milky Way Dark-Matter Halo Models
 

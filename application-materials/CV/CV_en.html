@@ -148,8 +148,8 @@
         <div class="entry-body">
           <p>My primary research interest is computational physics, particularly the use of numerical methods and statistical inference to test physical models and constrain their parameters. Specific interests include:</p>
           <ul>
-            <li><strong>Dark matter and cosmology:</strong> numerical modelling of dark-matter halos and observational constraints on them.</li>
             <li><strong>Particle physics:</strong> kinematic feature analysis, statistical inference, and uncertainty assessment.</li>
+            <li><strong>Dark matter and cosmology:</strong> numerical modelling of dark-matter halos and observational constraints on them.</li>
           </ul>
           <p>I hope to deepen my training in computational methods and the relevant physics theory during a master's program.</p>
         </div>
@@ -159,18 +159,18 @@
         <h2 id="research-one">Research Experience</h2>
         <div class="entry">
           <div class="entry-head">
-            <span class="date">2025–2026</span>
-            <h3>MaNGA Galaxy Kinematics and Dark-Matter Halo Parameter Inference</h3>
+            <span class="date">May 2026–present</span>
+            <h3>Feature Attribution and Signal-Strength Inference in Simulated Higgs Four-Lepton Events</h3>
           </div>
           <div class="entry-body">
-            <p class="entry-note">Completed the project independently</p>
-            <p><strong>Used Bayesian modelling and population inference to study the mass–concentration relation of dark-matter halos in MaNGA disk galaxies.</strong></p>
+            <p class="entry-note">Supervised by Professor Mario Campanelli, University College London</p>
+            <p><strong>Used MLP classification, likelihood inference, and feature attribution to study how kinematic inputs affect signal-strength constraints in simulated Higgs four-lepton events.</strong></p>
             <ul>
-              <li>In rotation-curve mass decomposition, found that obtaining a single optimum by numerical optimization could not adequately capture the degeneracy and uncertainty in halo mass and concentration.</li>
-              <li>Learned and applied PyMC Bayesian modelling and MCMC posterior sampling to characterize the relationship between halo mass and concentration; used prior predictive checks, prior-sensitivity tests, and sampling diagnostics to assess how parameter constraints depend on the data and priors.</li>
-              <li>Conducted a population analysis of 620 selected disk galaxies. Used prior-corrected importance sampling to infer the slope, normalization, and intrinsic scatter of the concentration–mass relation from individual-galaxy joint posterior samples; used inclination-sensitivity checks and PSIS diagnostics to assess limitations arising from model assumptions and reweighting stability.</li>
-              <li>Project website: <a href="https://hyi03.github.io/manga-dm/">https://hyi03.github.io/manga-dm/</a></li>
-              <li>First-author manuscript (completed): <a href="https://hyi03.github.io/manga-dm/paper-preview"><em>Bayesian Hierarchical Inference of the Dark Matter Halo Concentration–Mass Relation from MaNGA Disk Galaxy Rotation Curves</em></a></li>
+              <li>Designed a feature-group comparison: processed public ATLAS simulated H → ZZ* → 2e2μ signal and background samples, divided 19 kinematic variables into four groups, split data by physical event group, and trained and compared MLP classifiers for all 15 nonempty feature-group combinations across five random seeds.</li>
+              <li>Built a common pyhf profile-likelihood inference workflow, compared inputs using nominal 68% signal-strength interval widths, and used exact Shapley attribution to decompose the contributions of the four feature groups to interval width.</li>
+              <li>Conducted 200 event-group bootstrap replicates and conditional coverage diagnostics to examine uncertainty from finite simulated samples and interval calibration.</li>
+              <li>Project code: <a href="https://github.com/hyi03/HiggsML">https://github.com/hyi03/HiggsML</a></li>
+              <li>First-author manuscript (in progress): <em>Kinematic feature attribution for signal-strength inference in simulated H → ZZ* → 2e2μ events</em>.</li>
             </ul>
           </div>
         </div>
@@ -186,18 +186,18 @@
         <h2 id="research-two">Research Experience</h2>
         <div class="entry">
           <div class="entry-head">
-            <span class="date">May 2026–present</span>
-            <h3>Feature Attribution and Signal-Strength Inference in Simulated Higgs Four-Lepton Events</h3>
+            <span class="date">2025–2026</span>
+            <h3>MaNGA Galaxy Kinematics and Dark-Matter Halo Parameter Inference</h3>
           </div>
           <div class="entry-body">
-            <p class="entry-note">Supervised by Professor Mario Campanelli, University College London</p>
-            <p><strong>Used MLP classification, likelihood inference, and feature attribution to study how kinematic inputs affect signal-strength constraints in simulated Higgs four-lepton events.</strong></p>
+            <p class="entry-note">Completed the project independently</p>
+            <p><strong>Used Bayesian modelling and population inference to study the mass–concentration relation of dark-matter halos in MaNGA disk galaxies.</strong></p>
             <ul>
-              <li>Designed a feature-group comparison: processed public ATLAS simulated H → ZZ* → 2e2μ signal and background samples, divided 19 kinematic variables into four groups, split data by physical event group, and trained and compared MLP classifiers for all 15 nonempty feature-group combinations across five random seeds.</li>
-              <li>Built a common pyhf profile-likelihood inference workflow, compared inputs using nominal 68% signal-strength interval widths, and used exact Shapley attribution to decompose the contributions of the four feature groups to interval width.</li>
-              <li>Conducted 200 event-group bootstrap replicates and conditional coverage diagnostics to examine uncertainty from finite simulated samples and interval calibration.</li>
-              <li>Project code: <a href="https://github.com/hyi03/HiggsML">https://github.com/hyi03/HiggsML</a></li>
-              <li>First-author manuscript (in progress): <em>Kinematic feature attribution for signal-strength inference in simulated H → ZZ* → 2e2μ events</em>.</li>
+              <li>In rotation-curve mass decomposition, found that obtaining a single optimum by numerical optimization could not adequately capture the degeneracy and uncertainty in halo mass and concentration.</li>
+              <li>Learned and applied PyMC Bayesian modelling and MCMC posterior sampling to characterize the relationship between halo mass and concentration; used prior predictive checks, prior-sensitivity tests, and sampling diagnostics to assess how parameter constraints depend on the data and priors.</li>
+              <li>Conducted a population analysis of 620 selected disk galaxies. Used prior-corrected importance sampling to infer the slope, normalization, and intrinsic scatter of the concentration–mass relation from individual-galaxy joint posterior samples; used inclination-sensitivity checks and PSIS diagnostics to assess limitations arising from model assumptions and reweighting stability.</li>
+              <li>Project website: <a href="https://hyi03.github.io/manga-dm/">https://hyi03.github.io/manga-dm/</a></li>
+              <li>First-author manuscript (completed): <a href="https://hyi03.github.io/manga-dm/paper-preview"><em>Bayesian Hierarchical Inference of the Dark Matter Halo Concentration–Mass Relation from MaNGA Disk Galaxy Rotation Curves</em></a></li>
             </ul>
           </div>
         </div>

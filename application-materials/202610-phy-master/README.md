@@ -13,7 +13,7 @@ Van Waerbeke 目录含独立中英文 CV、中英文咨询信、论文阅读说�
 | McGill — Master of Science (M.Sc.) in Physics (Thesis) | [Jim Cline](mcgill-jim-cline/README.md) | Medium / Reach | MaNGA 参数简并、先验与数值约束；希望补足粒子物理—宇宙学理论基础 | 名额及经费待问；https://www.physics.mcgill.ca/~jcline/ |
 | University of Toronto — Astronomy and Astrophysics MSc | [Gwendolyn Eadie](utoronto-gwendolyn-eadie/README.md) | High / Reach | 层级贝叶斯、暗物质晕、单星系后验向群体不确定性传播 | **先确认 MSc 入口**，个人指导容量待问；https://www.astro.utoronto.ca/people/faculty/name/gwendolyn-eadie/ |
 | **UBC — Master of Science in Astronomy (MSc)** | **目标：[Ludovic Van Waerbeke](ubc-ludovic-van-waerbeke/README.md)** | High（晕与统计推断）/ Reach | MaNGA 质量—浓度简并、模型敏感性，延伸至弱透镜子晕质量与中心偏移 | 指导资格明确，2027 名额、经费及成绩资格待核实；https://www.grad.ubc.ca/researcher/13409-van-waerbeke |
-| UBC — Master of Science in Physics (MSc)，备选 | **备选**：[Alison Lister](ubc-alison-lister-backup/README.md) | High（方法）/ Reach | Higgs open-MC、MLP 输入比较、pyhf 和有限 MC / 覆盖率诊断 | 指导资格明确，2027 名额待问；https://www.grad.ubc.ca/researcher/14742-lister |
+| UBC — Master of Science in Physics (MSc)，备选 | **备选**：[Alison Lister](ubc-alison-lister/README.md) | High（方法）/ Reach | Higgs open-MC、MLP 输入比较、pyhf 和有限 MC / 覆盖率诊断 | 指导资格明确，2027 名额待问；https://www.grad.ubc.ca/researcher/14742-lister |
 
 以上是研究契合与准备难度判断，非录取概率。地域计数：Canada 3 所学校；导师 4 位（目标 3、备选 1）。正式项目门槛、截止、资助与未解决事项见各目录 README。
 
@@ -26,7 +26,7 @@ Van Waerbeke 目录含独立中英文 CV、中英文咨询信、论文阅读说�
 | Jim Cline | [Dark photon distortions of NOνA and T2K neutrino oscillations](https://arxiv.org/abs/2407.13817)（2025） | 联合实验如何打破新物理与标准振荡参数之间的简并；提出简化数值约束比较 | [章节与问题](mcgill-jim-cline/paper_reading_notes.md) |
 | Gwendolyn Eadie | [Hierarchical Bayesian Inference of Globular Cluster Properties](https://arxiv.org/abs/2311.03704)（2023） | 测量误差、未知中心与距离—质量简并；提出固定距离和联合推断距离的模拟比较 | [章节与问题](utoronto-gwendolyn-eadie/paper_reading_notes.md) |
 | Ludovic Van Waerbeke | [Measuring satellite galaxy subhalo masses in redMaPPer clusters with UNIONS weak lensing data](https://arxiv.org/abs/2607.14207)（2026） | 子晕质量、宿主晕贡献与中心偏移；提出模拟轮廓的质量恢复检验 | [章节与问题](ubc-ludovic-van-waerbeke/paper_reading_notes.md) |
-| Alison Lister（备选） | 首读：[ATLAS weakly supervised dijet anomaly detection](https://arxiv.org/abs/2502.09770)（2025）；选读：[Transforming jet flavour tagging at ATLAS](https://arxiv.org/abs/2505.19689)（2026） | 首封用第一篇的分类器选择、pyhf 拟合和背景偏差验证；GN2 作为后续稳健性与校准阅读 | [章节与问题](ubc-alison-lister-backup/paper_reading_notes.md) |
+| Alison Lister（备选） | 首读：[ATLAS weakly supervised dijet anomaly detection](https://arxiv.org/abs/2502.09770)（2025）；选读：[Transforming jet flavour tagging at ATLAS](https://arxiv.org/abs/2505.19689)（2026） | 首封用第一篇的分类器选择、pyhf 拟合和背景偏差验证；GN2 作为后续稳健性与校准阅读 | [章节与问题](ubc-alison-lister/paper_reading_notes.md) |
 
 本轮先读 Van Waerbeke，再读 Eadie 与 Cline；Lister 两篇留作备选方向阅读。这一顺序依据已有 Bayesian MCMC、pyhf 和特征比较经验判断。论文的物理问题不同，阅读说明明确区分可迁移方法与尚未掌握的领域知识。
 
