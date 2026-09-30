@@ -46,7 +46,7 @@
 | Calgary course-based MSc Physics and Astronomy | 最近两年最低 3.3/4.0；导师不必开学前确定，并不消除成绩门槛。不要与 3.0 门槛的 MDSA 混淆 [S10]。 |
 | Queen's MASc | 要求 Engineering 或 Applied Science 本科学位；现有 Physics BSc 背景不计作合资格路径 [S5]。 |
 | U of T Physics、UBC Physics、McMaster、Waterloo、PSI | 不分配保障性名额。旧档的 B+、80%、75% 或高度选择性要求，不能由 3.0 直接证明满足；资格获确认且出现具体学术支持时再评估。当前要求未在本次全面重查。 |
-| U of T Astronomy and Astrophysics | Fall 2027 独立 MSc 招生路径待确认，不计入有效申请数量。 |
+| U of T Astronomy and Astrophysics | **已移除（2026-09-30）**：硕士不开放独立招生；直博最后两年 A− 门槛不满足。详见 [取消记录](UofT_MSc_Astronomy_Astrophysics.md)。 |
 
 ## 5. 导师与材料工作
 

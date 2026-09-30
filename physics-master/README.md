@@ -6,7 +6,7 @@ Use this folder for physics-related master programs, especially computational ph
 
 Programs are split into two categories:
 
-- **[Academic / Research Programs](../physics-master-academic-programs.md)** thesis-required, research-oriented (42 targets)
+- **[Academic / Research Programs](../physics-master-academic-programs.md)** thesis-required, research-oriented (41 targets)
 - **[Professional / Taught Programs](../physics-master-professional-programs.md)** coursework-oriented, no thesis or optional research (11 targets)
 - **[Canada Physics Master's Applications](Canada_Academic_Physics_Masters.md)** 加拿大当前物理申请规划：国际学生、GPA 3.0、自费；优先级、导师条件与时间表（2026-09-16）
 
@@ -16,7 +16,7 @@ Canadian universities are exempt from the repository's QS/US News ranking filter
 
 ## Target regions
 
-- Canada (9)
+- Canada (8)
 - USA (13)
 - UK (12)
 - Switzerland (4)
@@ -25,13 +25,13 @@ Canadian universities are exempt from the repository's QS/US News ranking filter
 - Hong Kong (3)
 - Australia (5)
 
-**Total: 53 targets** (42 academic + 11 professional; BU appears only once)
+**Total: 52 targets** (41 academic + 11 professional; BU appears only once)
 
 ## Summary by difficulty
 
 | Difficulty | Count | Notes |
 |-----------|-------|-------|
-| Reach | 13 | GPA 3.0 significantly below or near the expected profile |
+| Reach | 12 | GPA 3.0 significantly below or near the expected profile |
 | Match | 38 | Planning label; eligibility and supervisor conditions still require verification |
 | Safe | 2 | Historical non-Canadian taught-program labels; no Canadian program is classified as Safe |
 

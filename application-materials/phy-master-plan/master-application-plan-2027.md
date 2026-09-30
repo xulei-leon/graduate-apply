@@ -17,20 +17,28 @@
 |---:|---|---|---|---|---|---|---|---|---|
 | 1 | 加拿大 | University of British Columbia（UBC） | MSc Physics | 预计2026年9月中旬 | **2026年12月1日**；支持材料通常12月15日前齐全 | 物理、天文或相关四年制本科；高年级成绩通常至少约80%（B+）；需有量子力学、电磁学和统计力学基础 | 不要求 | **3封** | Reach |
 | 2 | 加拿大 | University of Toronto | Master of Science in Physics | **2026年9月16日** | **2026年12月11日 23:59 ET** | 物理荣誉学士或同等严格背景；院系页面要求B+或以上，SGS日历通用门槛为末年mid-B，按B+准备 | 不要求 | **恰好2封** | Reach |
-| 3 | 加拿大 | University of Toronto | MSc Astronomy and Astrophysics | 待确认 | 待公布；须先确认2027年是否接受外部MSc申请 | 物理、数学或天文学本科；要求“high academic standing”；未公布院系数字线，SGS通用门槛为末年或高年级课程至少mid-B | 不要求 | 待确认 | High Reach；研究匹配度高 |
-| 4 | 加拿大 | McGill University | MSc Physics（Thesis） | 通常2026年9月开放 | **2026年12月15日** | 物理或相关本科；最低累计3.0/4.0，或最近两年3.2/4.0；实际录取可能更高 | 不要求；可自愿提交 | 通常**2封**，开放后复核 | Match/Reach |
-| 5 | 加拿大 | Western University | MSc Physics | 预计2026年秋季 | **待公布**；当前页面称先到先审 | 四年制物理、天文、工程或相关本科；大三、大四课程平均至少70%（B） | 不要求；海外或工程学位申请人被强烈建议提交Physics GRE | 通常**3封**，开放后复核 | Match |
-| 6 | 加拿大 | Western University | MSc Astronomy | 预计2026年秋季 | **待公布**；当前页面称先到先审 | 四年制物理、天文、工程或相关本科；大三、大四课程平均至少70%（B）；无需天文学本科 | 与Western Physics相同 | 通常**3封**，开放后复核 | Match；研究匹配度高 |
-| 7 | 加拿大 | York University | MSc Physics & Astronomy | 预计2026年10月 | **2027年1月15日**（国际申请人） | 物理、天文或相近专业；当前公开页未确认数字线，申请前须核对2027 Calendar | 未提及 | 预计**3封**，开放后复核 | Match/Reach |
-| 8 | 加拿大 | Queen’s University | MSc Physics | 预计2026年9月 | 预计**2027年1月15日**，待新周期确认 | 物理或相关四年制荣誉本科；至少second-class standing；精确U of T换算未公布 | 通常不要求 | 通常**2封**，开放后复核 | Match/Reach |
-| 9 | 澳大利亚 | University of Melbourne | Master of Science（Physics） | 2027年第二学期申请开放状态待核实 | 既有专项计划记录 July 2027 intake 截止为**2027年5月31日**；新周期仍须核实，内部目标为2026年末前完成导师与材料准备 | 物理、数学物理或相关本科；相当于WAM 65%或以上；要求足够的二、三年级量子力学及高阶物理背景；申请前须联系研究项目导师并提交 Supervisor Form | 不要求 | 标准申请通常不要求传统推荐信；导师确认与 Supervisor Form 是申请关键条件 | Match；导师路径优先 |
-| 10 | 澳大利亚 | University of Melbourne | Master of Data Science | 2027年第二学期是否开放待确认 | 第二学期截止日期待确认；原表2027年第一学期10月31日日期不适用本计划 | 相关本科，通常至少WAM 65%；需满足大学阶段编程、微积分和线性代数等定量先修要求 | 不要求 | 标准授课型申请通常不要求 | 条件保留：确认第二学期开学和先修课后再投入申请 |
-| 11 | 德国 | Heidelberg University | MSc Physics | 冬季学期预计2027年4月开放 | **2027年7月15日** | 物理或相关本科；至少50%课程为物理相关；德国成绩通常需2.9或更好；可能有选拔面试 | 不要求 | 常规材料通常不要求，门户开放后复核 | Match |
-| 12 | 德国 | Technical University of Munich（TUM） | MSc Physics（Applied and Engineering Physics） | 预计**2027年1月1日** | 建议**2027年1月15日**前提交以争取早审；常规最终截止日预计**2027年5月31日** | 研究导向的物理本科或同等学历；无公开最低GPA；通过课程等同性和aptitude assessment评分，重点审查实验物理、理论物理、数学、实验课、高阶物理和本科研究/论文能力 | **不要求** | 当前材料清单不要求 | Reach；课程匹配风险较高 |
-| 13 | 瑞士 | ETH Zurich | MSc Physics | 预计**2026年11月1日** | 国际本科学位申请人预计**2026年11月30日** | 物理本科或高度等同学位；无公开最低GPA；课程匹配与成绩要求很高 | Physics项目通常不要求；以项目和国家材料清单为准 | 通常**2封学术推荐信** | High Reach |
-| 14 | 瑞士 | EPFL | MSc Physics | 第一轮预计2026年11月中旬 | **2026年12月15日**第一轮；**2027年3月31日**第二轮；需签证者宜第一轮 | 物理或相关本科；要求优秀成绩及充分的核心物理、数学背景；无公开数字线 | 不要求 | 填写**3位学术推荐人**；通常至少收到**2封**才处理 | Reach |
-| 15 | 瑞士 | University of Geneva | Master in Physics | 预计2027年1月中旬 | 需签证者**2027年2月28日**；其他申请人通常**2027年4月30日** | 物理本科或等同学历；无数字GPA线；境外学位逐项审查等同性和课程 | 未提及 | 未见项目统一强制要求；开放后复核 | Match |
-| 16 | 瑞士 | University of Zurich（UZH） | MSc Physics | 预计**2027年1月1日** | 需签证的国际申请人通常**2027年2月28日**；无需签证者通常至**2027年4月30日** | 物理本科或相当学历；无公开数字线；可能按课程差距附加补修要求 | 未提及 | 通常无统一强制要求；开放后复核 | Match |
+| 3 | 加拿大 | McGill University | MSc Physics（Thesis） | 通常2026年9月开放 | **2026年12月15日** | 物理或相关本科；最低累计3.0/4.0，或最近两年3.2/4.0；实际录取可能更高 | 不要求；可自愿提交 | 通常**2封**，开放后复核 | Match/Reach |
+| 4 | 加拿大 | Western University | MSc Physics | 预计2026年秋季 | **待公布**；当前页面称先到先审 | 四年制物理、天文、工程或相关本科；大三、大四课程平均至少70%（B） | 不要求；海外或工程学位申请人被强烈建议提交Physics GRE | 通常**3封**，开放后复核 | Match |
+| 5 | 加拿大 | Western University | MSc Astronomy | 预计2026年秋季 | **待公布**；当前页面称先到先审 | 四年制物理、天文、工程或相关本科；大三、大四课程平均至少70%（B）；无需天文学本科 | 与Western Physics相同 | 通常**3封**，开放后复核 | Match；研究匹配度高 |
+| 6 | 加拿大 | York University | MSc Physics & Astronomy | 预计2026年10月 | **2027年1月15日**（国际申请人） | 物理、天文或相近专业；当前公开页未确认数字线，申请前须核对2027 Calendar | 未提及 | 预计**3封**，开放后复核 | Match/Reach |
+| 7 | 加拿大 | Queen’s University | MSc Physics | 预计2026年9月 | 预计**2027年1月15日**，待新周期确认 | 物理或相关四年制荣誉本科；至少second-class standing；精确U of T换算未公布 | 通常不要求 | 通常**2封**，开放后复核 | Match/Reach |
+| 8 | 澳大利亚 | University of Melbourne | Master of Science（Physics） | 2027年第二学期申请开放状态待核实 | 既有专项计划记录 July 2027 intake 截止为**2027年5月31日**；新周期仍须核实，内部目标为2026年末前完成导师与材料准备 | 物理、数学物理或相关本科；相当于WAM 65%或以上；要求足够的二、三年级量子力学及高阶物理背景；申请前须联系研究项目导师并提交 Supervisor Form | 不要求 | 标准申请通常不要求传统推荐信；导师确认与 Supervisor Form 是申请关键条件 | Match；导师路径优先 |
+| 9 | 澳大利亚 | University of Melbourne | Master of Data Science | 2027年第二学期是否开放待确认 | 第二学期截止日期待确认；原表2027年第一学期10月31日日期不适用本计划 | 相关本科，通常至少WAM 65%；需满足大学阶段编程、微积分和线性代数等定量先修要求 | 不要求 | 标准授课型申请通常不要求 | 条件保留：确认第二学期开学和先修课后再投入申请 |
+| 10 | 德国 | Heidelberg University | MSc Physics | 冬季学期预计2027年4月开放 | **2027年7月15日** | 物理或相关本科；至少50%课程为物理相关；德国成绩通常需2.9或更好；可能有选拔面试 | 不要求 | 常规材料通常不要求，门户开放后复核 | Match |
+| 11 | 德国 | Technical University of Munich（TUM） | MSc Physics（Applied and Engineering Physics） | 预计**2027年1月1日** | 建议**2027年1月15日**前提交以争取早审；常规最终截止日预计**2027年5月31日** | 研究导向的物理本科或同等学历；无公开最低GPA；通过课程等同性和aptitude assessment评分，重点审查实验物理、理论物理、数学、实验课、高阶物理和本科研究/论文能力 | **不要求** | 当前材料清单不要求 | Reach；课程匹配风险较高 |
+| 12 | 瑞士 | ETH Zurich | MSc Physics | 预计**2026年11月1日** | 国际本科学位申请人预计**2026年11月30日** | 物理本科或高度等同学位；无公开最低GPA；课程匹配与成绩要求很高 | Physics项目通常不要求；以项目和国家材料清单为准 | 通常**2封学术推荐信** | High Reach |
+| 13 | 瑞士 | EPFL | MSc Physics | 第一轮预计2026年11月中旬 | **2026年12月15日**第一轮；**2027年3月31日**第二轮；需签证者宜第一轮 | 物理或相关本科；要求优秀成绩及充分的核心物理、数学背景；无公开数字线 | 不要求 | 填写**3位学术推荐人**；通常至少收到**2封**才处理 | Reach |
+| 14 | 瑞士 | University of Geneva | Master in Physics | 预计2027年1月中旬 | 需签证者**2027年2月28日**；其他申请人通常**2027年4月30日** | 物理本科或等同学历；无数字GPA线；境外学位逐项审查等同性和课程 | 未提及 | 未见项目统一强制要求；开放后复核 | Match |
+| 15 | 瑞士 | University of Zurich（UZH） | MSc Physics | 预计**2027年1月1日** | 需签证的国际申请人通常**2027年2月28日**；无需签证者通常至**2027年4月30日** | 物理本科或相当学历；无公开数字线；可能按课程差距附加补修要求 | 未提及 | 通常无统一强制要求；开放后复核 | Match |
+
+## 已移除项目
+
+**2026-09-30：已从 Fall 2027 申请计划移除。** 原因：硕士停招（准确口径：系里当前不开放独立 MSc 招生，SGS 学位目录仍保留 MSc）；本科直博要求最后两年平均成绩达到 University of Toronto A− 或以上，申请人确认 GPA 不满足条件。不再联系导师或准备该系 MSc / PhD 申请。多大 Physics MSc 不受此决定影响。
+
+官方依据（2026-09-30 核验）：
+- FAQ：https://www.astro.utoronto.ca/academics/graduate-studies/prospective-students/how-to-apply/faqs/
+- 2027 招生：https://www.astro.utoronto.ca/academics/graduate-studies/prospective-students/how-to-apply/
+- MSc / PhD 学位与直博成绩要求：https://sgs.calendar.utoronto.ca/degree/Astronomy-and-Astrophysics
 
 ## 申请策略
 
@@ -48,7 +56,6 @@
 
 - UBC MSc Physics：高年级成绩要求较高，但暗物质、宇宙学和TRIUMF相关方向值得保留。
 - University of Toronto MSc Physics：按院系B+门槛规划；本校背景不能抵消成绩门槛。
-- University of Toronto MSc Astronomy and Astrophysics：研究匹配度很高，但外部MSc招生并不稳定，只有在系里确认2027 intake后再投入完整申请成本。
 - Queen’s MSc Physics：McDonald Institute、SNOLAB、暗物质和astroparticle physics匹配度突出，但竞争强于最低门槛所显示的水平。
 - ETH Zurich和EPFL MSc Physics：无公开GPA底线不代表录取宽松，均按高难度冲刺处理。
 
@@ -61,7 +68,7 @@
 
 | 时间 | 主要任务 | 预期产出 |
 |---|---|---|
-| **2026年9月27日—10月7日** | 优先核对实际本科毕业时间与2027入学资格；再核对16个项目的新周期开放时间、截止日期、推荐信与英语豁免；确认多大天体外部MSc招生；完成欧洲课程匹配。逐项确认 Melbourne Data Science 是否有 2027 年第二学期入学 | 学位完成时间及入学资格结论；项目核对表、课程匹配表；暂不能确认的项目标为待定 |
+| **2026年9月27日—10月7日** | 优先核对实际本科毕业时间与2027入学资格；再核对15个项目的新周期开放时间、截止日期、推荐信与英语豁免；完成欧洲课程匹配。逐项确认 Melbourne Data Science 是否有 2027 年第二学期入学 | 学位完成时间及入学资格结论；项目核对表、课程匹配表；暂不能确认的项目标为待定 |
 | **2026年10月7日前** | 联系2–3位主推荐人，提供CV、成绩单、两份研究摘要与截止日期表；确认 UCL 导师推荐意愿，核对第二课题个人任务、作者顺序及可公开材料 | 推荐人确认和材料包；第二课题可用于申请的准确表述 |
 | **2026年10月上旬—中旬** | 更新学术CV和两套主文书：Physics/Astrophysics版以 MaNGA 暗物质推断与 Higgs 信号强度推断为方法主线；Data Science版强调可验证的统计建模、ML评价和数据处理。将 Higgs 探索性结果写成已有草稿，保留局限 | CV、两套文书初稿、两份长短研究摘要 |
 | **2026年10月—12月** | 优先处理 Melbourne Physics 导师联系与 Supervisor Form；材料和导师路径成熟时提交 July 2027 申请。Melbourne Data Science 仅在第二学期资格确认后安排提交 | Melbourne Physics 导师路径与申请；Data Science 的去留决定 |
@@ -71,7 +78,7 @@
 | **2026年11月20日前** | 完成UBC和多大Physics终稿；逐项检查推荐信、成绩单和英语豁免文件 | 12月1日和12月11日项目留出纠错时间 |
 | **2026年12月1日前** | 提交UBC | UBC申请提交；支持材料状态已确认 |
 | **2026年12月11日前** | 提交多大Physics | 多大Physics申请提交；恰好2封推荐信到位 |
-| **2026年12月15日前** | 提交McGill与EPFL第一轮；如多大天体确认外部 MSc 招生且截止日期允许，同时完成其申请 | 加拿大和瑞士首轮申请完成；多大天体状态明确 |
+| **2026年12月15日前** | 提交McGill与EPFL第一轮 | 加拿大和瑞士首轮申请完成 |
 | **2026年12月—2027年1月上旬** | 完成Western、York和Queen’s定制材料；确认Western正式截止日期 | Ontario第二批申请可提交 |
 | **2027年1月15日前** | 提交York和预计同日截止的Queen’s；Western采取先到先审则不等待最终截止日 | 加拿大申请主体完成 |
 | **2027年1月1日—1月15日** | TUM开放后复核Winter 2027/28要求并争取早审提交；如无法赶上早审，最迟在预计5月31日前完成 | TUM申请完成，无需参加专业GRE |

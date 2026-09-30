@@ -1,8 +1,8 @@
 # McGill、University of Toronto、UBC 套磁导师汇总（Fall 2027 规划）
 
-**名单与论文核验：2026-09-26；部分招生与主页更新：2026-09-28；新增 Van Waerbeke 核查：2026-09-29。** 本表现有 18 位候选导师：McGill 3 位、University of Toronto Physics 4 位、University of Toronto Astronomy and Astrophysics 8 位、UBC 3 位。既有导师各附两篇、新增 Van Waerbeke 附一篇近期论文。表内使用短标签，完整英文题名列在各表下方；CRC 指 Canada Research Chair。合作署名不能当作独立课题职责或 MSc 名额的证据。所有人均**未见已联系记录**；Fall 2027 招生意向须直接确认。
+**名单与论文核验：2026-09-26；部分招生与主页更新：2026-09-28；新增 Van Waerbeke 核查：2026-09-29。** 本表现有 10 位活动候选导师：McGill 3 位、University of Toronto Physics 4 位；另保留已取消的 University of Toronto Astronomy and Astrophysics 8 位历史记录、UBC 3 位。既有导师各附两篇、新增 Van Waerbeke 附一篇近期论文。表内使用短标签，完整英文题名列在各表下方；CRC 指 Canada Research Chair。合作署名不能当作独立课题职责或 MSc 名额的证据。所有人均**未见已联系记录**；Fall 2027 招生意向须直接确认。
 
-2026-09-29 用户将 UBC 目标改为 **Ludovic Van Waerbeke**，原 **Alison Lister** 加 `-backup` 后缀保留。当前三校目标为 **Jim Cline、Gwendolyn Eadie、Ludovic Van Waerbeke**，均按硕士申请；UT 选择天文系。[本批材料](../202610-phy-master/README.md)包含三位目标及一位备选，共推荐 5 篇论文，四位各一篇论文的具体内容已写入中英文邮件，申请人后续阅读。新增 Van Waerbeke 六份材料，邮件均未发送。Schutz、Liu 保留为历史候选；其他旧论文未全部重新核查。
+2026-09-29 用户将 UBC 目标改为 **Ludovic Van Waerbeke**，原 **Alison Lister** 加 `-backup` 后缀保留。当前三校目标为 **Jim Cline、Ludovic Van Waerbeke**，均按硕士申请；UT 天文系申请已于 2026-09-30 取消。[本批材料](../202610-phy-master/README.md)包含两位活动目标及一位备选；Eadie 已取消，材料仅作历史保留，原资料，共推荐 5 篇论文，四位各一篇论文的具体内容已写入中英文邮件，申请人后续阅读。新增 Van Waerbeke 六份材料，邮件均未发送。Schutz、Liu 保留为历史候选；其他旧论文未全部重新核查。
 
 ## 1. McGill University — Physics MSc
 
@@ -44,7 +44,14 @@
 
 ## 3. University of Toronto — Astronomy and Astrophysics MSc
 
-这是独立于 Physics MSc 的申请路径。**先向系里确认 Fall 2027 是否接受外部 MSc 申请**，再投入正式套磁。以下八位均列于该系 Graduate Faculty 名单；研究契合不等于有 MSc 指导容量。首轮优先 Josh Speagle 或 Gwendolyn Eadie，并给 Ting Li 准备独立的星流／矮星系主题邮件。
+**2026-09-30：已从 Fall 2027 申请计划移除。** 原因：硕士停招（准确口径：系里当前不开放独立 MSc 招生，SGS 学位目录仍保留 MSc）；本科直博要求最后两年平均成绩达到 University of Toronto A− 或以上，申请人确认 GPA 不满足条件。不再联系导师或准备该系 MSc / PhD 申请。多大 Physics MSc 不受此决定影响。
+
+官方依据（2026-09-30 核验）：
+- FAQ：https://www.astro.utoronto.ca/academics/graduate-studies/prospective-students/how-to-apply/faqs/
+- 2027 招生：https://www.astro.utoronto.ca/academics/graduate-studies/prospective-students/how-to-apply/
+- MSc / PhD 学位与直博成绩要求：https://sgs.calendar.utoronto.ca/degree/Astronomy-and-Astrophysics
+
+以下八位仅为历史研究资料，不计入活动套磁名单。
 
 | 导师与基本信息 | 研究课题、论文链接 |
 |---|---|
@@ -57,7 +64,7 @@
 | **主题备选** [Renée Hložek](https://www.astro.utoronto.ca/people/faculty/name/renee-hlozek/)<br>Associate Professor | 宇宙学模拟、超轻暗物质与 ML<br>① [星流暗子晕图神经网络](https://doi.org/10.3847/1538-4357/add698) (2025)<br>② [超轻暗物质宇宙学模拟](https://doi.org/10.1103/physrevd.109.043507) (2024) |
 | **条件备选** [Anupam Mazumdar](https://www.astro.utoronto.ca/people/faculty/name/anupam-mazumdar/)<br>Professor；CITA | 量子引力、粒子宇宙学；须有理论交集<br>① [宏观量子叠加建模](https://doi.org/10.1103/physreva.111.052207) (2025)<br>② [物质波干涉噪声](https://doi.org/10.1103/physrevd.111.064004) (2025) |
 
-八位均未见已联系记录，Fall 2027 MSc intake、申请人作为本校本科生的申请类别和个人指导名额待确认。2026-09-28 已为 Eadie 建立[硕士材料与路径咨询信](../202610-phy-master/utoronto-gwendolyn-eadie/README.md)：SGS 仍描述部分情况下可录取 MSc，院系 how-to-apply 仍列 2026 周期并以直博为默认入口，不能当作 2027 独立 MSc 已开放；申请目标保持 MSc。Josh Speagle、Ting Li 的个人网站欢迎潜在研究生咨询，不代表已有名额。
+Eadie 既有材料保留为已取消的历史草稿，停止 MSc 入口咨询与导师联系。
 
 论文完整题名（对应表中的①、②）：
 
@@ -93,7 +100,7 @@
 1. 本科时间已于 2026-09-27 经用户确认：2023 年 9 月入学，预计 2027 年 6 月毕业，与 Fall 2027 申请目标相容；发信时使用这一时间线。
 2. 按本批用户指定流程，先由助手核查论文并写出具体研究问题或方法联系，申请人随后阅读并调整；草稿不声称已经精读或复现。合作论文不代表导师本人负责该子分析。
 3. 向导师询问 **Fall 2027 MSc** 的接收意向、可指导课题与经费，不把公开主页或论文署名当作名额确认。
-4. U of T Astronomy and Astrophysics 先核实是否接受外部 MSc 申请；UBC 当前按用户指定优先 Van Waerbeke，Lister 保留备选。
+4. U of T Astronomy and Astrophysics 已取消，不再套磁；UBC 当前按用户指定优先 Van Waerbeke，Lister 保留备选。
 
 ## 项目与名单来源
 

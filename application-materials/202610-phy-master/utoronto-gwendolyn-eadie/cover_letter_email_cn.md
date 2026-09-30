@@ -1,5 +1,14 @@
 主题：2027 年秋季 Astronomy and Astrophysics MSc 研究机会咨询——贝叶斯暗物质晕推断
 
+**2026-09-30：已从 Fall 2027 申请计划移除。** 原因：硕士停招（准确口径：系里当前不开放独立 MSc 招生，SGS 学位目录仍保留 MSc）；本科直博要求最后两年平均成绩达到 University of Toronto A− 或以上，申请人确认 GPA 不满足条件。不再联系导师或准备该系 MSc / PhD 申请。多大 Physics MSc 不受此决定影响。
+
+官方依据（2026-09-30 核验）：
+- FAQ：https://www.astro.utoronto.ca/academics/graduate-studies/prospective-students/how-to-apply/faqs/
+- 2027 招生：https://www.astro.utoronto.ca/academics/graduate-studies/prospective-students/how-to-apply/
+- MSc / PhD 学位与直博成绩要求：https://sgs.calendar.utoronto.ca/degree/Astronomy-and-Astrophysics
+
+> 以下为历史资料，已退出申请计划；旧联系建议与申请草稿不再执行。
+
 尊敬的 Eadie 教授：
 
 您好！我是 University of Toronto 的 Physics Specialist 本科生 Hongyi Xu，预计于 2027 年 6 月毕业，正在了解 2027 年秋季 Astronomy and Astrophysics MSc 的申请机会。您参与的论文 [Hierarchical Bayesian Inference of Globular Cluster Properties](https://arxiv.org/abs/2311.03704) 中，对恒星测量误差和未知星团中心进行联合处理的方法引起了我的兴趣。图 8 所示的距离—质量简并，与我在动力学推断中关注的问题相连：如何传播约束不足的量的不确定性，而不是将其固定。
