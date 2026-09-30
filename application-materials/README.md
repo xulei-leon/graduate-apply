@@ -1,6 +1,15 @@
 # 申请材料与硕士申请规划
 
-更新日期：2026-09-29。本目录集中保存基础 CV、咨询信及硕士申请规划。Fall 2027 本批目标为 McGill 的 Jim Cline、University of Toronto 天文系的 Gwendolyn Eadie、UBC 的 Ludovic Van Waerbeke；UBC Alison Lister 为备选。Van Waerbeke 新增独立中英文 CV、咨询信及论文阅读说明；既有导师材料和集中保存的基础 CV 见索引，尚未发送邮件。
+**2026-09-30：多大天文学与天体物理系已从 Fall 2027 申请计划移除。** 原因：硕士停招（准确口径：系里当前不开放独立 MSc 招生，SGS 学位目录仍保留 MSc）；本科直博要求最后两年平均成绩达到 University of Toronto A− 或以上，申请人确认 GPA 不满足条件。不再联系导师或准备该系 MSc / PhD 申请。多大 Physics MSc 不受此决定影响。
+
+官方依据（2026-09-30 核验）：
+- FAQ：https://www.astro.utoronto.ca/academics/graduate-studies/prospective-students/how-to-apply/faqs/
+- 2027 招生：https://www.astro.utoronto.ca/academics/graduate-studies/prospective-students/how-to-apply/
+- MSc / PhD 学位与直博成绩要求：https://sgs.calendar.utoronto.ca/degree/Astronomy-and-Astrophysics
+
+> 此取消决定仅针对多大天文学与天体物理系；其他申请计划继续执行。
+
+更新日期：2026-09-29。本目录集中保存基础 CV、咨询信及硕士申请规划。Fall 2027 本批目标为 McGill 的 Jim Cline、UBC 的 Ludovic Van Waerbeke；UBC Alison Lister 为备选。Van Waerbeke 新增独立中英文 CV、咨询信及论文阅读说明；既有导师材料和集中保存的基础 CV 见索引，尚未发送邮件。
 
 ## 文件
 
@@ -12,7 +21,7 @@
 | [粒子物理 CV](CV/CV_particle_cn.md) | Higgs 项目优先，突出特征比较、似然推断与可靠性诊断 |
 | [天体方向英文 CV 打印版](CV/CV_astro_en.html) | A4 HTML，可在浏览器中打印为 PDF |
 | [后续待确认问题](follow-up-questions.md) | 已确认事实、待用户回答的问题与后续核查事项 |
-| [2026 年 10 月硕士导师定制材料](202610-phy-master/README.md) | 3 校、3 位目标 + 1 位备选；新增 Van Waerbeke 中英文 CV / 邮件，共推荐 5 篇；UT 另有 MSc 入口咨询草稿 |
+| [2026 年 10 月硕士导师定制材料](202610-phy-master/README.md) | 2 校、2 位目标 + 1 位备选；新增 Van Waerbeke 中英文 CV / 邮件，活动推荐 4 篇；UT 资料已取消并保留历史记录 |
 | [物理硕士申请规划](phy-master-plan/master-application-plan-2027.md) | 申请时间线、项目分析、导师名单与 UBC statement 草稿 |
 | [数据科学硕士申请规划](ds-master-plan/README.md) | 数据科学及相关硕士项目的索引与规划 |
 
@@ -31,7 +40,7 @@
 5. 导师论文段之后，保留一段主要研究经历、一段简短补充经历和一个明确请求。结尾根据导师的具体数据或模型，填写一个范围明确的研究任务及对应问题，不能将占位内容原样发送。翻译为英文后以约 250—350 词为编辑目标，按导师联系要求调整。
 6. 实际附上 CV 后再保留“随信附上”；成绩单默认按需提供。涉及未公开手稿时先确认可分享范围。填写完全部【】后删除文末编辑说明。
 
-## 18 位导师的联系侧重点
+## 10 位活动候选导师的联系侧重点
 
 下表依据指定的 [导师汇总文档](phy-master-plan/mcgill-utoronto-ubc-supervisor-outreach-list-2027.md)，用于调整套磁信的叙述侧重点。按具体研究方向选用[天体物理 CV](CV/CV_astro_cn.md)或[粒子物理 CV](CV/CV_particle_cn.md)。2026-09-28 已重新核查 McGill 三位候选、Eadie、Lister 的相关主页及三个目标项目；2026-09-29 另核查 Van Waerbeke、Astronomy MSc 与 UNIONS 子晕论文；其余导师与论文未全部重核。最新选择与招生限制见[本批说明](202610-phy-master/README.md)。
 
@@ -44,19 +53,11 @@
 | U of T Physics MSc | Miriam Diamond | 物理 | 计算与统计分析；不将公开模拟数据使用写成 Geant4 开发或探测器经验 |
 | U of T Physics MSc | David Curtin | 天体物理 | 优先由星系暗物质与质量建模切入；若具体课题偏粒子物理，则从计算粒子物理方法切入 |
 | U of T Physics MSc | Yonatan Kahn | 物理 | 需先找到具体理论或计算方法交集，不仅凭暗物质兴趣建立联系 |
-| U of T Astronomy and Astrophysics MSc | Gwendolyn Eadie | 天体物理 | 贝叶斯推断、参数不确定性与天文统计 |
-| U of T Astronomy and Astrophysics MSc | Josh Speagle | 天体物理 | 统计推断与机器学习评估；未核实生成模型经验，不写成已有专长 |
-| U of T Astronomy and Astrophysics MSc | Jo Bovy | 天体物理 | 星系动力学、质量模型与暗物质晕；星流经验不能由 MaNGA 项目推断 |
-| U of T Astronomy and Astrophysics MSc | Ting Li | 天体物理 | 运动学建模与暗物质参数推断；Gaia、DESI 数据使用尚无已完成证据 |
-| U of T Astronomy and Astrophysics MSc | Aviad Levis | 天体物理 | 参数推断与逆问题的方法联系；没有黑洞成像或神经场项目经历 |
-| U of T Astronomy and Astrophysics MSc | Reed Essick | 天体物理 | 推断、不确定性与群体统计；尚无引力波或中子星研究经历 |
-| U of T Astronomy and Astrophysics MSc | Renée Hložek | 天体物理 | 暗物质与数据建模；不声称已做宇宙学模拟或图神经网络 |
-| U of T Astronomy and Astrophysics MSc | Anupam Mazumdar | 物理 | 条件候选，须先确认理论交集；现有记录不足以支持量子引力研究匹配 |
 | **UBC Astronomy MSc** | **Ludovic Van Waerbeke（本批目标）** | 天体物理 | MaNGA 晕推断衔接弱透镜质量分解、中心偏移与模型检验；[材料](202610-phy-master/ubc-ludovic-van-waerbeke/README.md)，2027 名额待问 |
 | UBC Physics MSc | Alison Lister（备选） | 物理 | Higgs 模拟分类与似然推断的方法联系；不沿用旧 JetClass / foundation model 叙述 |
 | UBC Physics MSc | Christopher Hearty | 物理 | 似然分析和计算粒子物理；标准模型 Higgs 模拟不等于 dark Higgs 搜索经验 |
 
-U of T Astronomy and Astrophysics 的 MSc 路径需先向系里确认 Fall 2027 是否接受外部 MSc 申请，以及本人的申请类别。2026-09-29 新增 Van Waerbeke 后，UBC 为三位候选，主目标改为 Astronomy MSc；广泛候选筛选仍未宣称完成。大型合作论文署名不足以证明导师负责某子分析或有 MSc 名额。
+U of T Astronomy and Astrophysics 已取消申请。2026-09-29 新增 Van Waerbeke 后，UBC 为三位候选，主目标改为 Astronomy MSc；广泛候选筛选仍未宣称完成。大型合作论文署名不足以证明导师负责某子分析或有 MSc 名额。
 
 ## 初始整理记录（2026-09-27）
 
@@ -96,7 +97,7 @@ U of T Astronomy and Astrophysics 的 MSc 路径需先向系里确认 Fall 2027 
 - [最新申请人背景](../background.md)：GPA、研究手稿状态与研究时间。
 - [最新科研背景](../research-background.md)：2026-09-27 更新的 Higgs 研究内容、结果边界和个人贡献限制。
 - [课程记录与选课建议](../senior-year-course-selection.md)：采用 Prerequisite Check 中明确列为已修的课程。
-- [指定导师汇总](phy-master-plan/mcgill-utoronto-ubc-supervisor-outreach-list-2027.md)：18 位导师与项目路径、联系前待核实事项。
+- [指定导师汇总](phy-master-plan/mcgill-utoronto-ubc-supervisor-outreach-list-2027.md)：10 位活动候选导师与项目路径；另保留 8 位已取消的历史资料。
 - [UBC 文书档案](phy-master-plan/ubc-physics-msc-statement-of-interest.md)：交叉核对当前课题叙述及手稿、分工占位状态。
 - MaNGA 研究主页：https://hyi03.github.io/manga-dm/ 。本轮只引用本地档案与旧材料中已有 URL，未重新核验线上内容。
 

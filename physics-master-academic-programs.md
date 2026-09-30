@@ -34,7 +34,6 @@ Research-oriented physics master programs requiring a thesis or substantial rese
 | # | Country | University | QS rank | US NEWS | Program | Type | Duration | Thesis | Track | GPA req | GRE req | Deadline | Tuition (intl) | Match | Difficulty |
 |---|---------|-----------|--------|--------|---------|------|----------|-------|-------|---------|---------|----------|----------------|-------|------------|
 | 4 | Canada | [University of Alberta](physics-master/UAlberta_MSc_Physics.md) | 111 |  | MSc Physics | Academic/Research | 2 years | Yes | Physics | 3.0 last 60 units (recheck pending) | Not req | Unresolved | Old estimate; recheck | Medium | Match |
-| 38 | Canada | [University of Toronto](physics-master/UofT_MSc_Astronomy_Astrophysics.md) | 29 (2026) |  | MSc Astronomy and Astrophysics | Academic/Research | 3 sessions | Yes | Astronomy/Astrostatistics | High academic standing | N/A | Unresolved | Unresolved | High | Reach |
 | 39 | Canada | [York University](physics-master/York_MSc_Physics_Astronomy.md) |  |  | MSc Physics & Astronomy | Academic/Research | 6 terms | Thesis/project; coursework closed to international students | Astro/Particle/Computational | B+ | Not mentioned | Jan 15, 2027 | Funding offered; amount unresolved | High | Reach |
 | 40 | Canada | [University of Ottawa](physics-master/UOttawa_MSc_Physics.md) |  |  | MSc Physics | Both tracks | 12–24 months | Thesis or project by option | Physics/Comp | 70% min | Not mentioned | Unresolved | Funding requires supervisor support | Medium | Match |
 | 41 | Canada | [Western University](physics-master/Western_MSc_Astronomy.md) |  |  | MSc Astronomy | Academic/Research | Unresolved | Research/thesis/project | Astronomy/Comp/Astrostatistics | 70% in 3rd/4th year | Not req | Unresolved | Supervisor-linked; amount unresolved | High | Match |
@@ -62,7 +61,7 @@ Research-oriented physics master programs requiring a thesis or substantial rese
 
 | Region | Count | Professional Agency Recommendations | Programs |
 |--------|-------|------------------------------------|----------|
-| Canada | 9 | 3 | UofT Physics, UofT Astronomy, McGill, UBC, UAlberta, York, Ottawa, Western Astronomy, Western Physics |
+| Canada | 8 | 3 | UofT Physics, McGill, UBC, UAlberta, York, Ottawa, Western Astronomy, Western Physics |
 | USA | 12 | 6 | WUSTL, NYU, Columbia, Northwestern, Brown, Georgia Tech, Cornell, UCLA, Duke, UT Austin, UIUC, BU |
 | UK | 7 | 1 | Imperial, Edinburgh, Manchester, Warwick, Durham, Glasgow, Birmingham |
 | Australia | 4 | 2 | Melbourne, ANU, UNSW, Monash |
@@ -70,16 +69,20 @@ Research-oriented physics master programs requiring a thesis or substantial rese
 | Germany | 3 | 0 | TUM, LMU, Heidelberg |
 | Singapore | 3 | 2 | NUS (by Research), NUS (coursework), NTU |
 
-**Total: 42 targets**
+**Total: 41 targets**
 
 ## Summary by difficulty
 
 | Difficulty | Count | Notes |
 |-----------|-------|-------|
-| Reach | 11 | UofT Physics, UofT Astronomy, York, McGill, UBC, Cornell, Columbia, ETH, EPFL, TUM, Imperial — GPA 3.0 is below or near the published competitive threshold |
+| Reach | 10 | UofT Physics, York, McGill, UBC, Cornell, Columbia, ETH, EPFL, TUM, Imperial — GPA 3.0 is below or near the published competitive threshold |
 | Match | 31 | Planning label only; eligibility, prerequisites and supervisor capacity must be checked |
 | Safe | 0 | No research MSc is classified as Safe from minimum GPA alone |
 
 ## Per-program files
 
 See individual `.md` files in this folder for full program details.
+
+## 已移除项目
+
+[U of T Astronomy and Astrophysics](physics-master/UofT_MSc_Astronomy_Astrophysics.md)：2026-09-30 移除；硕士不开放独立招生，直博 GPA 不满足最后两年 A− 要求。不计入目标总数。

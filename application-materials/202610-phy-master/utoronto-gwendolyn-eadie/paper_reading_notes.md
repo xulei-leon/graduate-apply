@@ -1,5 +1,14 @@
 # Gwendolyn Eadie：论文推荐与邮件联系点
 
+**2026-09-30：已从 Fall 2027 申请计划移除。** 原因：硕士停招（准确口径：系里当前不开放独立 MSc 招生，SGS 学位目录仍保留 MSc）；本科直博要求最后两年平均成绩达到 University of Toronto A− 或以上，申请人确认 GPA 不满足条件。不再联系导师或准备该系 MSc / PhD 申请。多大 Physics MSc 不受此决定影响。
+
+官方依据（2026-09-30 核验）：
+- FAQ：https://www.astro.utoronto.ca/academics/graduate-studies/prospective-students/how-to-apply/faqs/
+- 2027 招生：https://www.astro.utoronto.ca/academics/graduate-studies/prospective-students/how-to-apply/
+- MSc / PhD 学位与直博成绩要求：https://sgs.calendar.utoronto.ca/degree/Astronomy-and-Astrophysics
+
+> 以下为历史资料，已退出申请计划；旧联系建议与申请草稿不再执行。
+
 最后核查：2026-09-28。推荐 **1 篇首读论文**，本批四篇中最建议你先读这一篇。助手已核查作者和开放原文；申请人尚待阅读。对应[英文邮件](cover_letter_email_en.md)与[中文邮件](cover_letter_email_cn.md)已据此更新；申请目标保持 **Astronomy and Astrophysics MSc**。
 
 ## 首读：Hierarchical Bayesian Inference of Globular Cluster Properties

@@ -1,5 +1,14 @@
 # 申请材料后续待确认问题
 
+**2026-09-30：多大天文学与天体物理系已从 Fall 2027 申请计划移除。** 原因：硕士停招（准确口径：系里当前不开放独立 MSc 招生，SGS 学位目录仍保留 MSc）；本科直博要求最后两年平均成绩达到 University of Toronto A− 或以上，申请人确认 GPA 不满足条件。不再联系导师或准备该系 MSc / PhD 申请。多大 Physics MSc 不受此决定影响。
+
+官方依据（2026-09-30 核验）：
+- FAQ：https://www.astro.utoronto.ca/academics/graduate-studies/prospective-students/how-to-apply/faqs/
+- 2027 招生：https://www.astro.utoronto.ca/academics/graduate-studies/prospective-students/how-to-apply/
+- MSc / PhD 学位与直博成绩要求：https://sgs.calendar.utoronto.ca/degree/Astronomy-and-Astrophysics
+
+> 此取消决定仅针对多大天文学与天体物理系；其他申请计划继续执行。
+
 整理：2026-09-28；UBC 目标更新：2026-09-29。此清单供以后继续修改两版基础 CV、两版基础硕士研究机会咨询信及目标与备选导师材料使用；目前不需要逐项回复。后续每次只处理一个独立问题，得到答复后再修改对应文件，并同步其他版本中的共同事实。
 
 ## 已确认的事实
@@ -16,7 +25,6 @@
 | 学校 | 导师 | 硕士项目与材料 |
 |---|---|---|
 | McGill | Jim Cline | [Master of Science (M.Sc.) in Physics (Thesis)](202610-phy-master/mcgill-jim-cline/README.md) |
-| University of Toronto（天文系） | Gwendolyn Eadie | [Astronomy and Astrophysics MSc](202610-phy-master/utoronto-gwendolyn-eadie/README.md)；另备 MSc 入口咨询信，不转为 PhD 申请 |
 | **UBC 目标** | **Ludovic Van Waerbeke** | [Master of Science in Astronomy (MSc)](202610-phy-master/ubc-ludovic-van-waerbeke/README.md) |
 | UBC 备选 | Alison Lister | [Master of Science in Physics (MSc)](202610-phy-master/ubc-alison-lister-backup/README.md) |
 
