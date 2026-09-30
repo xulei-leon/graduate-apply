@@ -1,16 +1,18 @@
 # McGill — Jim Cline 定制材料
 
-整理与官方页面核查：2026-09-28。地区：Canada。目标：Fall 2027 **Master of Science (M.Sc.) in Physics (Thesis)**，Department of Physics。材料为首次联系语气的草稿，尚未发送；仓库未见既往联系记录，仍待申请人确认。
+整理与官方页面核查：2026-09-28；邮件与说明同步更新：2026-09-30。地区：Canada。目标：Fall 2027 **Master of Science (M.Sc.) in Physics (Thesis)**，Department of Physics。材料为首次联系语气的草稿，尚未发送；仓库未见既往联系记录，仍待申请人确认。
 
 ## 材料
 
 | 文件 | 用途 |
 |---|---|
 | [CV_astro_cn.md](../../CV/CV_astro_cn.md) / [CV_astro_en.md](../../CV/CV_astro_en.md) | 共享的天体物理版中文 / 英文 CV；MaNGA 为主，Higgs 作为计算推断补充 |
-| [cover_letter_email_cn.md](cover_letter_email_cn.md) / [cover_letter_email_en.md](cover_letter_email_en.md) | 中英文 MSc 研究机会咨询信 |
+| [cover_letter_email_en.md](cover_letter_email_en.md) | 英文 MSc 研究机会咨询信；按[英文基础模板](../../Cover-Letter/cover_letter_en.md)定制 |
 | [paper_reading_notes.md](paper_reading_notes.md) | 1 篇推荐论文、原文定位、阅读顺序与邮件联系点 |
 
-当前是导师咨询材料包；不是已满足申请系统全部要求的正式申请。信中写“可以提供 CV”，实际附上排版后的 CV 时再改为已附上。内部说明不随信发送。
+当前是导师咨询材料包；不是已满足申请系统全部要求的正式申请。信中按基础模板写 “My CV is attached.”；发送前需实际附上排版后的 CV，若不附则改为 “I can provide my CV upon request.”。内部说明不随信发送。
+
+邮件依次说明身份与申请目的、论文兴趣、相关研究经历、拟议硕士研究与学习方向，以及招生询问和交流请求。已同步英文基础模板的精简措辞，以主动表达说明个人贡献，同时避免连续以 “I” 起句。研究经历与基础模板一致：MaNGA 为主，使用完整手稿 PDF 链接；Higgs 在同一段简述，不列指导者姓名或机构，不增加探索性结果的主张。保留 Cline 论文的多实验约束联系、待讨论的简化数值任务及经费条件；学习目标表述为加强相关物理基础。
 
 ## 选择与定制依据
 
@@ -53,4 +55,4 @@ Jim Cline 属原名单两位首选之一，其主页确认研究集中于 partic
 - Schutz 当前岗位说明：https://katelinschutz.com/contact （同日读取）
 - Liu 当前招生说明：https://sites.google.com/view/acliu/home （同日读取）
 - [原始导师名单](../../phy-master-plan/mcgill-utoronto-ubc-supervisor-outreach-list-2027.md)
-- [申请人英文天体物理 CV](../../CV/CV_astro_en.md)、[已确认事实与待办](../../follow-up-questions.md)
+- [申请人英文天体物理 CV](../../CV/CV_astro_en.md)、[批次说明与待确认项](../README.md)
