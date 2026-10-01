@@ -57,6 +57,19 @@ Research-oriented physics master programs requiring a thesis or substantial rese
 | 28 | Germany | [Heidelberg University](physics-master/Heidelberg_MSc_Physics.md) | 87 |  | MSc Physics | Academic/Research | 2 years | Yes | Physics/Astro | ≥2.9 German | Not req | Jul 15 | €1.5k/sem | Medium | Match |
 | 30 | Singapore | [NTU](physics-master/NTU_MSc_Physics.md) | 15 (2026) |  | MSc Physics | Academic/Research | 1–2 years | Yes | Research | 2nd Up Honours | Encouraged | Oct–Jan | SGD ~45k total | Medium | Match |
 
+### France — English paths only (verified 2026-10-01)
+
+法国材料按最新综合 QS 2027 递补，同时列 Physics & Astronomy QS 2026。仅保留公开入学条件无必需法语等级的英语路径；加拿大 EEF 2027/2028 日历已公布，具体项目的渠道与校内窗口须另核。完整 GPA、推荐信、导师联系、录取形式、U of T 背景、语言、先修、人数、资助与费用对照见 [France_Physics_Masters.md](physics-master/France_Physics_Masters.md)。以下四条计入正式目标，按 Reach、Match 排序。
+
+| # | Country | University | QS overall 2027 | QS Physics 2026 | Program | Type / duration | Research | GPA / GRE | Fall 2027 deadline | Tuition / funding | Match | Difficulty | Official source |
+|---|---|---|---:|---:|---|---|---|---|---|---|---|---|---|
+| 43 | France | [Université PSL](physics-master/PSL_Master_FundamentalPhysics_ICFP.md) **准备优先** | 34 | =32 | Fundamental Physics / ICFP | Academic/Research; 2 yr, 120 ECTS | M1/M2 internships; M2 18 ECTS | Highly selective, no numeric GPA; GRE not mentioned | 未公布 | 2026–2027 PSL 页非欧盟无豁免 €3,950/yr；注册安排另核，无保证资助 | High | Reach | https://psl.eu/en/education/master-s-degree-physics |
+| 44 | France | [Institut Polytechnique de Paris](physics-master/IPParis_Master_Physics_HEP.md) **准备优先** | 43 | 45 | High Energy Physics M1 + M2 | Academic/Research; 2 yr, 120 ECTS | M1 16 weeks; M2 mandatory thesis 30 ECTS | Excellent records, no numeric GPA; GRE not mentioned | 未公布 | 2026–2027 national Master 非欧盟 €4,327/yr；普通 Master 无保证资助 | High | Reach | https://www.ip-paris.fr/en/education/graduate-programs/masters-science/physics-program/master-year-1-high-energy-physics |
+| 45 | France | [Sorbonne University](physics-master/Sorbonne_Master_FundamentalPhysics.md) | 73 | =32 | Paris Physics Master; English M2 ICFP to confirm | Academic/Research; 2 yr | M1 internship; proposed M2 18 ECTS internship | Physics bachelor, no numeric GPA; GRE not mentioned | 英语 M1 eCandidat 2027 年 3–5 月；确切日/EEF 并行待核 | 2026–2027 标准 €255 + CVEC €105；非欧盟个人费率/豁免待核，无保证资助 | High | Match（暂定） | https://master.physique.sorbonne-universite.fr/fr/paris-physics-master.html |
+| 46 | France | [Université Paris-Saclay](physics-master/ParisSaclay_Master_GeneralPhysics.md) **奖学金准备优先** | 76 | 21 | M1 General Physics; English M2 ICFP to confirm | Academic/Research; M1 60 ECTS + M2 | M1 internship; proposed M2 18 ECTS internship | Physics bachelor, no numeric GPA; GRE not mentioned | 2027 Inception 待核；录取后 EEF | 学费页仍列旧年 €254，后续待核；竞争奖学金 €10k/yr + 最多 €900，须推荐 | High | Match（暂定） | https://www.universite-paris-saclay.fr/en/education/masters-degree/physique-fondamentale-et-applications/m1-general-physics |
+
+第 5 所 [Université Paris Cité](physics-master/ParisCite_Master_ParisPhysics.md) 仅为补充候选：综合 303、物理 151–200，不符合仓库前 100 门槛，不计总数；Paris Physics Master 与 Sorbonne 联办，不增加已确认独立招生机会。ENS Lyon 与 Grenoble 的本科入学 M1 路径未满足英语/法语条件，已删除候选文件，保留汇总中的剔除记录。
+
 ## Geographic distribution
 
 | Region | Count | Professional Agency Recommendations | Programs |
@@ -67,16 +80,17 @@ Research-oriented physics master programs requiring a thesis or substantial rese
 | Australia | 4 | 2 | Melbourne, ANU, UNSW, Monash |
 | Switzerland | 4 | 4 | ETH, EPFL, Geneva, UZH |
 | Germany | 3 | 0 | TUM, LMU, Heidelberg |
+| France | 4 | 0 | PSL, IP Paris, Sorbonne, Paris-Saclay；Paris Cité 补充候选不计数 |
 | Singapore | 3 | 2 | NUS (by Research), NUS (coursework), NTU |
 
-**Total: 41 targets**
+**Total: 45 targets**（France 4 formal entries; Paris Cité supplemental excluded）
 
 ## Summary by difficulty
 
 | Difficulty | Count | Notes |
 |-----------|-------|-------|
-| Reach | 10 | UofT Physics, York, McGill, UBC, Cornell, Columbia, ETH, EPFL, TUM, Imperial — GPA 3.0 is below or near the published competitive threshold |
-| Match | 31 | Planning label only; eligibility, prerequisites and supervisor capacity must be checked |
+| Reach | 12 | UofT Physics, York, McGill, UBC, Cornell, Columbia, ETH, EPFL, TUM, Imperial, PSL, IP Paris — GPA 3.0 is below or near the competitive profile |
+| Match | 33 | Planning label only; eligibility, prerequisites and supervisor capacity must be checked; Sorbonne and Paris-Saclay provisional |
 | Safe | 0 | No research MSc is classified as Safe from minimum GPA alone |
 
 ## Per-program files

@@ -22,7 +22,7 @@
 | 位置 | 用途 |
 |------|------|
 | [physics-phd/](physics-phd/) | 美国、新加坡 direct-entry Physics PhD 项目与匹配导师；目标至少 40 个项目/导师记录 |
-| [physics-master/](physics-master/) | Physics Master 项目；目标至少 30 个，覆盖七个目标地区 |
+| [physics-master/](physics-master/) | Physics Master 项目；至少 30 个的目标已超过，当前正式 56 个；地区索引包含加拿大、美国、英国、瑞士、德国、法国、新加坡、香港及澳大利亚 |
 | `ds-master/`（待建） | Data Science Master 项目；目标至少 15 个，面向接受 STEM 背景的项目 |
 | [guides/](guides/) | 搜索及国家差异参考资料 |
 | [targets.md](targets.md) | 目标地区及申请优先级 |
@@ -38,6 +38,10 @@
 - DS、数据分析、统计及计算科学等方向的规划文件尚未落入 `ds-master/`，对应候选需另行核实和建档。
 
 规划中的候选不等于已核实申请资格，也不等于已完成项目条目。
+
+## 法国物理硕士申请材料
+
+[法国英语物理硕士 top 5 研究材料](physics-master/France_Physics_Masters.md) 同时记录 QS 综合 2027 与 Physics & Astronomy 2026 排名，并按英语授课、无必需法语入学等级筛选。已新增 PSL、IP Paris、Sorbonne、Paris-Saclay 四个正式目标；Paris Cité 为第 5 所补充候选，未达到原有前 100 门槛，不计总数。ENS Lyon 和 Grenoble 的候选已剔除，理由保留在汇总中。加拿大 EEF 2027/2028 日历已公布；具体项目的渠道、校内截止日期和语言材料仍需逐项核实，不能统一套用 EEF 截止日。
 
 ## 建档规则
 
