@@ -7,16 +7,11 @@ University of Toronto · hyi.xu@mail.utoronto.ca
 **University of Toronto · Physics Specialist（本科在读）**
 2023 年 9 月至今；预计毕业：2027 年 6 月
 
-相关已修课程：Advanced Classical Mechanics、Quantum Mechanics I、Electricity & Magnetism、Thermal Physics、Practical Physics II；Introduction to Computer Programming、Introduction to Computer Science。
+相关已修课程：Advanced Classical Mechanics、Quantum Mechanics I、Electricity & Magnetism、Thermal Physics、Practical Physics II；Introduction to Computer Programming、Introduction to Computer Science、Computational Physics(正在修读)。
 
 ## 研究兴趣
 
-以计算物理为主要研究兴趣，关注数值方法与统计推断在物理模型检验和参数约束中的应用。具体兴趣包括：
-
-- 粒子物理：运动学特征分析、机器学习与似然推断，关注输入特征对物理参数约束及其可靠性的影响。
-- 暗物质与宇宙学：暗物质晕的数值建模及观测约束，关注星系动力学中的参数简并与贝叶斯推断。
-
-希望在硕士阶段系统学习计算物理与统计建模方法，加强相关物理理论训练。
+主要研究兴趣为计算物理，尤其关注计算方法、统计推断与机器学习在物理研究中的应用。
 
 ## 研究经历
 

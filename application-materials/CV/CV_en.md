@@ -7,16 +7,11 @@ University of Toronto · hyi.xu@mail.utoronto.ca
 **University of Toronto · Physics Specialist (undergraduate)**
 Sep 2023–present; expected graduation: June 2027
 
-Completed coursework: Advanced Classical Mechanics; Quantum Mechanics I; Electricity & Magnetism; Thermal Physics; Practical Physics II; Introduction to Computer Programming; Introduction to Computer Science.
+Completed coursework: Advanced Classical Mechanics; Quantum Mechanics I; Electricity & Magnetism; Thermal Physics; Practical Physics II; Introduction to Computer Programming; Introduction to Computer Science; Computational Physics (in progress).
 
 ## Research Interests
 
-My primary research interest is computational physics, particularly the use of numerical methods and statistical inference to test physical models and constrain their parameters. Specific interests include:
-
-- Particle physics: kinematic feature analysis, machine learning, and likelihood inference, with attention to how input features affect physical parameter constraints and their reliability.
-- Dark matter and cosmology: numerical modelling and observational constraints of dark-matter halos, with attention to parameter degeneracy and Bayesian inference in galaxy dynamics.
-
-During a master's program, I hope to develop stronger foundations in computational physics, statistical modelling, and relevant physical theory.
+My primary research interest is computational physics, particularly the application of computational methods, statistical inference, and machine learning to physics research.
 
 ## Research Experience
 
