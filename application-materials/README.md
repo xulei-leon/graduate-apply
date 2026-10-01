@@ -15,9 +15,9 @@
 
 | 文件 | 用途 |
 |---|---|
-| [硕士研究机会咨询信](Cover-Letter/cover_letter_cn.md) | 唯一中文基础模板；以已完成的 MaNGA 为主，项目段末简述正在进行的 Higgs 研究 |
+| [硕士研究机会咨询信](CV/cover_letter_cn.md) | 唯一中文基础模板；以已完成的 MaNGA 为主，项目段末简述正在进行的 Higgs 研究 |
 | [天体物理 CV](CV/CV_astro_cn.md) | MaNGA 项目优先，突出星系动力学与贝叶斯推断 |
-| [咨询信使用与定制说明](Cover-Letter/README.md) | 固定段落顺序、论文兴趣定制、研究表述、附件及交流请求 |
+| [咨询信使用与定制说明](CV/README.md) | 固定段落顺序、论文兴趣定制、研究表述、附件及交流请求 |
 | [Higgs 优先 CV](CV/CV_cn.md) | Higgs 项目优先，突出特征比较、似然推断与可靠性诊断 |
 | [天体方向英文 CV 打印版](CV/CV_astro_en.html) | A4 HTML，可在浏览器中打印为 PDF |
 | [Higgs 优先英文 CV 打印版](CV/CV_en.html) | A4 HTML，可在浏览器中打印为 PDF |
@@ -35,7 +35,7 @@
 
 2026-09-28 用户进一步指定本批采用“助手先推荐并核查论文、抽取内容写进邮件，申请人随后阅读”的流程。[本批八封中英文邮件（含备选）](202610-phy-master/README.md)已完成论文依据版，没有声称申请人已精读；模板中的研究联系段可先据核实资料起草，待本人阅读后据实调整，不阻塞草稿准备。本次模板更新未批量修改这些导师专属邮件。
 
-当前统一使用 [中文基础模板](Cover-Letter/cover_letter_cn.md)，以 MaNGA 为主要经历并简述 Higgs，按“论文兴趣—相关科研经历与成果—希望在导师指导下继续学习和研究”展开。主题、论文兴趣、后续学习和交流请求按收件导师定制；完整使用说明集中在 [Cover-Letter/README.md](Cover-Letter/README.md)。若联系目的改为本校本科 supervised project，应另行调整时间和结尾请求。
+当前统一使用 [中文基础模板](CV/cover_letter_cn.md)，以 MaNGA 为主要经历并简述 Higgs，按“论文兴趣—相关科研经历与成果—希望在导师指导下继续学习和研究”展开。主题、论文兴趣、后续学习和交流请求按收件导师定制；完整使用说明集中在 [CV/README.md](CV/README.md)。若联系目的改为本校本科 supervised project，应另行调整时间和结尾请求。
 
 ## 10 位活动候选导师的联系侧重点
 

@@ -1,6 +1,6 @@
 # Jim Cline：论文推荐与邮件联系点
 
-论文最后核查：2026-09-28；邮件联系点与说明同步更新：2026-09-30。推荐 **1 篇首读论文**。已由助手核查作者与开放原文；申请人计划后续阅读，当前不标记为已读或已复现。对应[英文邮件](cover_letter_email_en.md)已按[英文基础模板](../../Cover-Letter/cover_letter_en.md)加入下面的具体联系点。
+论文最后核查：2026-09-28；邮件联系点与说明同步更新：2026-09-30。推荐 **1 篇首读论文**。已由助手核查作者与开放原文；申请人计划后续阅读，当前不标记为已读或已复现。对应[英文邮件](cover_letter_email_en.md)已按[英文基础模板](../../CV/cover_letter_en.md)加入下面的具体联系点。
 
 ## 首读：Dark photon distortions of NOνA and T2K neutrino oscillations
 
