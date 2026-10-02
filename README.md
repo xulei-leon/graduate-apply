@@ -22,9 +22,9 @@
 | 位置 | 用途 |
 |------|------|
 | [physics-phd/](physics-phd/) | 美国、新加坡 direct-entry Physics PhD 项目与匹配导师；目标至少 40 个项目/导师记录 |
-| [physics-master/](physics-master/) | Physics Master 本轮38项候选：加拿大8、澳大利亚5、美国10、法国5、德国5、瑞士5；其余地区及扩展档案保留，不计本轮 |
+| [physics-master/](physics-master/) | Physics Master 本轮39所学校记录：加拿大12、澳大利亚2、美国10、法国5、德国5、瑞士5；其余地区及扩展档案保留，不计本轮 |
 | [ds-master/](ds-master/) | DS / Analytics / Applied Statistics / ML 硕士学校档案与地区索引；50项，覆盖9地区：美国15所，其他各不超过5项；含资格缺口和来源待核项 |
-| [application/phy-master-plan/](application/phy-master-plan/) | 物理硕士38项地区候选总览、PDF、事实快照与来源访问审计 |
+| [application/phy-master-plan/](application/phy-master-plan/) | 物理硕士39所学校地区候选总览、PDF、事实快照与来源访问审计 |
 | [application/ds-master-plan/](application/ds-master-plan/) | DS硕士综合调研、跨项目比较、美国15所分层推荐与申请策略 |
 | [guides/](guides/) | 搜索及国家差异参考资料 |
 | [targets.md](targets.md) | 目标地区及申请优先级 |
@@ -43,7 +43,7 @@
 
 ## 法国物理硕士申请材料
 
-本轮法国按Physics学科全国前五选择Paris-Saclay、PSL、Sorbonne、IP Paris、Grenoble；English M1、法语门槛、研究实习和2027日历分开记录。Grenoble按本次范围保留为原排名规则例外，但法语未解决则暂缓申请。Paris Cité联合PPM不与Sorbonne重复计数。旧[法国英语筛选分析](physics-master/France_Physics_Masters.md)保留为历史；最新要求与候选计数见[物理硕士索引](physics-master/README.md)和[地区候选总览](application/phy-master-plan/Physics_Masters_Regional_Overview_20261002.md)。
+本轮按用户指定保留PSL、IP Paris、Sorbonne、Paris-Saclay、Paris Cité五校，选择英语入口；Paris Cité为用户范围例外。Sorbonne与Paris Cité的联合PPM不计两次独立申请。详见[法国五校分析](physics-master/France_Physics_Masters.md)、[当前学校索引](physics-master/README.md)和[地区候选总览](application/phy-master-plan/Physics_Masters_Overview.md)。
 
 ## 建档规则
 

@@ -1,6 +1,6 @@
 # Wisconsin–Madison — Physics Quantum Computing停招复核
 
-**2026-10-02更新；不属于本轮38项的额外条目。**
+**2026-10-02更新；不属于本轮39项的额外条目。**
 
 当前official Guide明确停止招收该named option；旧2026-05档的deadline、cohort、费用及F-1备注不能继续作为开放入口依据。本轮不计该项目。
 
@@ -8,4 +8,4 @@
 
 Last-verified：2026-10-02。
 
-[当前38项索引](README.md)
+[当前39项索引](README.md)

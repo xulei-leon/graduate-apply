@@ -1,12 +1,12 @@
 # 法国物理硕士：英语授课、无法语入学门槛的 top 5 研究材料
 
-> **范围更新（2026-10-02）：** 本文件为2026-10-01英语入口筛选的历史分析。本次2026-10-02范围已改为Physics全国前五：Paris-Saclay、PSL、Sorbonne、IP Paris、Grenoble；Grenoble按用户范围作排名例外，法语未解决暂缓。旧4 formal +1 supplemental及旧计数不代表本轮，见[当前索引](README.md)。
+> **范围更新（2026-10-02）：** 用户明确采用本文件开头五校：PSL、IP Paris、Sorbonne、Paris-Saclay、Paris Cité；Grenoble不在当前名单。Paris Cité按用户要求纳入39所学校记录，但与Sorbonne的PPM仍是同一联合项目。正文日期与历史材料保留原核查日，最新事实见[当前索引](README.md)。
 
 **最后核实：2026-10-01。目标入学：Fall 2027。**
 
 本次以法国大学的最新 QS 综合排名作为递补顺序，同时列出最新 Physics & Astronomy 排名。只考察本科毕业后能进入的英语 M1 及可衔接的英语 M2；不能用英语 M2 掩盖第一年法语要求。
 
-筛选结果为 **巴黎文理研究大学（Université PSL）、巴黎理工学院（Institut Polytechnique de Paris）、索邦大学（Sorbonne University）、巴黎萨克雷大学（Université Paris-Saclay）、巴黎西岱大学（Université Paris Cité）**。前四所通过仓库原有排名门槛并新增正式条目；Paris Cité 为第五所补充候选，未达到原有前 100 门槛，不计入正式目标总数。学校名单不等于五次独立招生机会：Sorbonne 与 Paris Cité 的 Paris Physics Master 联办，ICFP 也有联合招生与注册安排。
+筛选结果为 **巴黎文理研究大学（Université PSL）、巴黎理工学院（Institut Polytechnique de Paris）、索邦大学（Sorbonne University）、巴黎萨克雷大学（Université Paris-Saclay）、巴黎西岱大学（Université Paris Cité）**。前四所通过仓库原有排名门槛并新增正式条目；Paris Cité 为用户指定的第五所学校，未达到原前100门槛，按本次明确范围作为例外纳入学校记录。学校名单不等于五次独立招生机会：Sorbonne 与 Paris Cité 的 Paris Physics Master 联办，ICFP 也有联合招生与注册安排。
 
 ## 1. 语言筛选后的 top 5 学校材料
 
@@ -16,7 +16,7 @@
 | 2 | [巴黎理工学院（Institut Polytechnique de Paris）](IPParis_Master_Physics_HEP.md) | 43 / 2 | 45 / 4 | High Energy Physics，M1 + M2 National Track | French highly desirable，建议而非门槛 | High / Reach | 正式目标 |
 | 3 | [索邦大学（Sorbonne University）](Sorbonne_Master_FundamentalPhysics.md) | 73 / 3 | =32 / =2 | Paris Physics Master；M2 优先核实英语 ICFP | 联合项目公开入学条件未列法语等级 | High / Match（暂定） | 正式目标；普通法语 PFA 不保留 |
 | 4 | [巴黎萨克雷大学（Université Paris-Saclay）](ParisSaclay_Master_GeneralPhysics.md) | 76 / 4 | 21 / 1 | M1 General Physics；M2 优先核实英语 ICFP | 公开条件及必交材料未列法语等级 | High / Match（暂定） | 正式目标 |
-| 5 | [巴黎西岱大学（Université Paris Cité）](ParisCite_Master_ParisPhysics.md) | 303 / 7 | 151–200 / 无区间内精确名次 | Paris Physics Master；M2 优先核实英语 ICFP | 公开入学条件未列法语等级；有入学后法语课 | High / Match（暂定） | **补充候选；不计正式目标** |
+| 5 | [巴黎西岱大学（Université Paris Cité）](ParisCite_Master_ParisPhysics.md) | 303 / 7 | 151–200 / 无区间内精确名次 | Paris Physics Master；M2 优先核实英语 ICFP | 公开入学条件未列法语等级；有入学后法语课 | High / Match（暂定） | **用户指定范围例外；计学校记录，非新增独立PPM机会** |
 
 ### 国际学生申请渠道与加拿大 EEF 2027 日历
 
@@ -65,7 +65,7 @@ Paris-Saclay 的 2026 奖学金参考截止为协调人选拔 **03-25**、受邀
 | 巴黎理工学院（IP Paris） | **High Energy Physics M1 → M2，National Track** | **与 Higgs 课题最直接贴合**：M2 的 Methods of statistical analysis and simulation、Hadron collider physics、Experiments and detector physics 与现有 MC、似然推断和统计评估相连；宇宙学、天体粒子选修也可连接第一课题，但不等于专门的星系动力学训练 | 高能物理理论与实验培养结合；M1 有至少 16 周研究实习，M2 强制 thesis 至少 4 个月、30 ECTS，便于将现有分析经历推进为较完整的研究项目 [L2] |
 | 索邦大学（Sorbonne） | **Paris Physics Master M1**；后续优先核实英语 **M2 ICFP** | Numerical methods for physics 与 Python 科学计算贴合；Nuclear and particle physics、Astrophysics and cosmology 两组课程分别衔接 Higgs 与 MaNGA 研究。适合先建立宽基础，再用实习检验下一步研究方向 | 与 Paris Cité 联办的英语项目同时训练理论、实验、数值方法，M1 有实验课程、project 和 4–6 月实习；联合 M2 ICFP 提供后续专业化路径。优势在于保留粒子与天体两条发展方向，M2 录取仍须单独确认 [L3, L5–L6] |
 | 巴黎萨克雷大学（Paris-Saclay） | **M1 General Physics**；后续优先核实英语 **M2 ICFP** | Particles、Universe、General Relativity & Cosmology、Astrophysics 可同时覆盖两项科研的物理背景。对尚在选择天体或粒子方向的 HY，灵活选课比过早限定纯理论专题更有申请用途 | M1 明确允许 à la carte 选课，覆盖高能、宇宙学、量子、统计和凝聚态；物理学科 QS 2026 全球第 21。另有需推荐和评选的国际硕士奖学金，当前标准 €10,000/年，属于潜在资助机会 [L4, Q5, D6] |
-| 巴黎西岱大学（Paris Cité） | **Paris Physics Master M1**；后续优先核实英语 **M2 ICFP**；仅作补充候选 | 与 Sorbonne 为同一联合项目，数值物理、粒子、天体课程同样贴合两项科研；不能把它视为新增的独立专业或第二次确定的招生机会 | 官网将该项目列入 Earth Planets Universe 等 Graduate Schools，连接硕士、博士培养与研究实验室；Earth Planets Universe 明确覆盖天体、宇宙物理和空间科学，适合探索 MaNGA 课题的后续方向。排名未达前 100 的限制仍保留 [L5–L6] |
+| 巴黎西岱大学（Paris Cité） | **Paris Physics Master M1**；后续优先核实英语 **M2 ICFP**；用户指定第五校 | 与 Sorbonne 为同一联合项目，数值物理、粒子、天体课程同样贴合两项科研；不能把它视为新增的独立专业或第二次确定的招生机会 | 官网将该项目列入 Earth Planets Universe 等 Graduate Schools，连接硕士、博士培养与研究实验室；Earth Planets Universe 明确覆盖天体、宇宙物理和空间科学，适合探索 MaNGA 课题的后续方向。排名未达前 100 的限制仍保留 [L5–L6] |
 
 ### 前四所的申请条件：GPA、套磁、录取形式与 U of T 背景
 
@@ -185,7 +185,7 @@ PSL 与 Sorbonne 并列，法国下一名为第 4，不强行拆开并列。巴�
 - **优先核查 Paris-Saclay**：同时覆盖两项科研方向，B2 与英语授课证明规则较明确；提前关注奖学金提名，不等到项目最终截止。
 - **冲刺 IP Paris HEP 与 PSL ICFP**：以 Higgs likelihood / ATLAS open MC 为 HEP 主线，以 MaNGA Bayesian 研究补充推断能力。二者择优明显，GPA 3.0 的风险仍在。
 - **核查 Sorbonne 的联合英语招生流程**：确认 M1 申请平台、推荐信、英语证明、M2 衔接和注册学校，不将普通法语 PFA 作为替代。
-- **Paris Cité 保留为补充材料**：研究匹配高，但排名与联合招生重合的限制需要保留在后续决策中。
+- **Paris Cité 按用户指定纳入第五校**：研究匹配高，但排名与联合招生重合的限制需要保留在后续决策中。
 
 准备正式成绩单、在读/学位证明、U of T 英语授课证明、核心物理课程 syllabus、CV、项目定制动机信和推荐信。**加拿大 EEF 招生窗口已按官网日历于 2026-10-01 开始，应现在确认五个项目各自的渠道**；校内平台仍按各项目日历推进。若申请期间居住多伦多，可向 `toronto@campusfrance.org` 核实加拿大分站手续；EEF 档案问题联系人为 `peefcanada@campusfrance.org`。本次尚未联系。[E2–E4]
 

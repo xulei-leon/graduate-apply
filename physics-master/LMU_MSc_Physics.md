@@ -1,5 +1,8 @@
 # Ludwig-Maximilians-Universität München — M.Sc. Physics
 
+> **本轮状态更新（2026-10-02）：** 本轮正式路径已改为[LMU Astrophysics MSc](LMU_MSc_Astrophysics.md)，下文Physics条款仅作历史比较，尤其不得套用GRE要求。
+
+
 **2027 入学候选复核｜德国｜核查/访问尝试：2026-10-02**
 
 本轮状态：**官方核心页面已访问；2027未发布字段待更新**。本轮采用2026-09-27更新的科研背景；所有资格判断以正式成绩与学校等效审核为准。
@@ -69,4 +72,4 @@ S1. **MSc application / Subject GRE / dates**：https://www.physik.lmu.de/en/stu
 
 **Last-verified / last-attempted：2026-10-02。** 日期仅覆盖已获得的具体正文；未公开、旧年份、访问失败的字段仍为待核，不能将整份记录标成资格完成。
 
-[本轮38项索引](README.md) · [地区候选总览](../application/phy-master-plan/Physics_Masters_Regional_Overview_20261002.md)
+[本轮39项索引](README.md) · [地区候选总览](../application/phy-master-plan/Physics_Masters_Overview.md)

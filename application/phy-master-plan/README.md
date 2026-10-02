@@ -1,18 +1,22 @@
 # 物理硕士地区候选总览 — 2027入学
 
-本次范围：加拿大8、澳大利亚5、美国10、法国5、德国5、瑞士5，共38项候选；2026-10-02核查及访问尝试。PDF只包含“地区候选总览”一章，采用全球DS报告的地区表格样式，没有封面、目录、独立完整档案或其他分析章。
+本版已合并用户全部追加条件：加拿大12、澳大利亚2、美国10、法国5、德国5、瑞士5，共39所学校记录。ANU普通版Astronomy and Astrophysics已获offer；其余38所为候选。Sorbonne与Paris Cité的PPM为联合项目，学校数不等于独立申请次数。核查/访问尝试：2026-10-02。
 
-- [地区候选总览 PDF](Physics_Masters_Regional_Overview_20261002.pdf)
-- [同版 Markdown](Physics_Masters_Regional_Overview_20261002.md)
-- [38项学校索引及独立档案](../../physics-master/README.md)
-- [结构化事实快照](Physics_Masters_20261002.json)
-- [最终引用来源的访问审计](source-audit-20261002.md)
+当前汇总文件统一命名为`Physics_Masters_Overview`，提供PDF、Markdown及JSON事实快照。全部39所学校已加入推荐信必需性、数量及证据边界。
 
-38是已整理的候选数，不是38项已确认可申请。Alberta、Melbourne核心来源受限；WashU最新排名门槛待核；Grenoble与Bern按本次国别前五范围作排名例外。其余项目也保留未公布2027字段、英语文件、课程等效和导师/资金条件。没有编造年度cohort、录取典型GPA、资金保证或个人百分比概率。
+PDF开头新增“Summary · 申请数量汇总”，随后为“地区候选总览”；共39所已选学校、18所用户指定优先申请学校。地区表格参考DS报告样式，不附封面或目录。
+
+- [地区候选总览 PDF](Physics_Masters_Overview.pdf)
+- [同版 Markdown](Physics_Masters_Overview.md)
+- [39所学校索引及档案](../../physics-master/README.md)
+- [结构化事实快照](Physics_Masters_Overview.json)
+- [来源访问审计](source-audit-20261002.md)
+
+美国新增Tufts与Texas A&M论文路径；法国恢复指定五校；德国LMU改选Astrophysics，Hamburg替换RWTH；德瑞十个选定路径均核查English-only与无非英语入学语言门槛。当前语言结论不代替课程等效、GPA、研究名额、个人offer条件或英语证明审核。Alberta、Melbourne核心正文及WashU排名仍保留明确待核项。
 
 ---
 
-以下保留本目录原有2026-09-30导师咨询与计划说明，和本次38所候选整理分开计数；本轮没有重写或发送咨询邮件。历史材料引用的个别招生/导师状态并非本轮重新核实，仍按原核查日期使用。
+以下保留本目录原有2026-09-30导师咨询与计划说明，和本次39所候选整理分开计数；本轮没有重写或发送咨询邮件。历史材料引用的个别招生/导师状态并非本轮重新核实，仍按原核查日期使用。
 
 ## 既有导师咨询材料与申请规划（保留原说明）
 
@@ -29,7 +33,7 @@
 
 共 **2 所加拿大大学、2 位目标导师及 1 位备选导师**，本目录合计 **18 个 Markdown 文件**。目标导师为 Jim Cline、Ludovic Van Waerbeke；Alison Lister 保留为备选。UBC 主目标按 **Astronomy MSc** 准备。
 
-三位活动导师及一位已取消导师的目录均含中英文咨询信、论文阅读说明与项目核查；CV 使用[最新英文天体物理版](../CV/CV_astro_en.md)，中文核对稿见[中文天体物理版](../CV/CV_astro_cn.md)。Eadie 的院系 MSc 入口咨询信已停止使用。所有邮件均未发送，正式申请未提交。
+三位活动导师及一位已取消导师的目录均含中英文咨询信、论文阅读说明与项目核查；CV 使用[当前英文CV](../CV/CV_en.md)，中文核对稿见[中文天体物理版](../CV/CV_cn.md)。Eadie 的院系 MSc 入口咨询信已停止使用。所有邮件均未发送，正式申请未提交。
 
 ## 本轮人选
 
@@ -47,7 +51,7 @@
 
 | 导师 | 推荐阅读 | 已写入邮件的具体联系 | 阅读说明 |
 |---|---|---|---|
-| Jim Cline | [Dark photon distortions of NOνA and T2K neutrino oscillations](https://arxiv.org/abs/2407.13817)（2025） | 联合实验如何打破新物理与标准振荡参数之间的简并；提出简化数值约束比较 | [章节与问题](01-mcgill-jim-cline/paper_reading_notes.md) |
+| Jim Cline | [Dark photon distortions of NOνA and T2K neutrino oscillations](https://arxiv.org/abs/2407.13917)（2025） | 联合实验如何打破新物理与标准振荡参数之间的简并；提出简化数值约束比较 | [章节与问题](01-mcgill-jim-cline/paper_reading_notes.md) |
 | Ludovic Van Waerbeke | [Measuring satellite galaxy subhalo masses in redMaPPer clusters with UNIONS weak lensing data](https://arxiv.org/abs/2607.14207)（2026） | 子晕质量、宿主晕贡献与中心偏移；提出模拟轮廓的质量恢复检验 | [章节与问题](02-ubc-ludovic-van-waerbeke/paper_reading_notes.md) |
 | Alison Lister（备选） | 首读：[ATLAS weakly supervised dijet anomaly detection](https://arxiv.org/abs/2502.09770)（2025）；选读：[Transforming jet flavour tagging at ATLAS](https://arxiv.org/abs/2505.19689)（2026） | 首封用第一篇的分类器选择、pyhf 拟合和背景偏差验证；GN2 作为后续稳健性与校准阅读 | [章节与问题](ubc-alison-lister/paper_reading_notes.md) |
 
@@ -94,8 +98,8 @@ Higgs 公共仓库 README 当前使用 test01 标签，而本地科研背景曾�
 
 ## 本地事实来源
 
-- [已确认事实与待确认问题](../follow-up-questions.md)
-- [最新英文天体物理 CV](../CV/CV_astro_en.md)与[中文天体物理 CV](../CV/CV_astro_cn.md)
+- 已确认事实与待确认问题（历史引用文件目前不存在）
+- [最新英文天体物理 CV](../CV/CV_en.md)与[中文天体物理 CV](../CV/CV_cn.md)
 - [原导师推荐名单](../phy-master-plan/mcgill-utoronto-ubc-supervisor-outreach-list-2027.md)
 - [科研背景](../../research-background.md)：用于方法与结果边界；如时间、导师、作者状态与较新已确认事实冲突，以前述 CV / 问题清单为准。
 

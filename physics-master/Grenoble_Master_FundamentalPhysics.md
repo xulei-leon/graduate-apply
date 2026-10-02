@@ -1,5 +1,8 @@
 # Université Grenoble Alpes — Master Physique fondamentale et applications — M1 Recherche fondamentale
 
+> **本轮状态更新（2026-10-02）：** 按用户指定法国五校名单移出本轮；正式第五校为[Paris Cité](ParisCite_Master_ParisPhysics.md)。下文仅作历史记录。
+
+
 **2027 入学候选复核｜法国｜核查/访问尝试：2026-10-02**
 
 本轮状态：**官方核心页面已访问；2027未发布字段待更新**。本轮采用2026-09-27更新的科研背景；所有资格判断以正式成绩与学校等效审核为准。
@@ -69,4 +72,4 @@ S1. **M1 official catalog — programme 2026-2027**：https://formations.univ-gr
 
 **Last-verified / last-attempted：2026-10-02。** 日期仅覆盖已获得的具体正文；未公开、旧年份、访问失败的字段仍为待核，不能将整份记录标成资格完成。
 
-[本轮38项索引](README.md) · [地区候选总览](../application/phy-master-plan/Physics_Masters_Regional_Overview_20261002.md)
+[本轮39项索引](README.md) · [地区候选总览](../application/phy-master-plan/Physics_Masters_Overview.md)
