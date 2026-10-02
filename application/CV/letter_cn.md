@@ -4,7 +4,7 @@
 
 尊敬的【姓氏】教授：
 
-您好！我是 University of Toronto 的 Physics Specialist 本科生 Hongyi Xu，预计于 2027 年 6 月毕业，计划申请 2027 年秋季入学的【学校及项目正式名称】。
+您好！我是 Hongyi Xu，目前就读于 University of Toronto 的 Physics Specialist 本科专业，攻读 Honours Bachelor of Science（HBSc）学位，预计于 2027 年 6 月毕业，计划申请 2027 年秋季入学的【学校及项目正式名称】。
 
 您参与撰写的论文【英文题名与年份，链接】中，【具体问题或方法】引起了我的兴趣。这与我在 MaNGA 分析中遇到的【具体问题】相联系：两者都需要【共同的推断或检验步骤】。
 
@@ -18,5 +18,5 @@
 此致
 
 Hongyi Xu
-Physics Specialist 本科生，University of Toronto
+Honours Bachelor of Science（HBSc）在读，Physics Specialist，University of Toronto
 hyi.xu@mail.utoronto.ca

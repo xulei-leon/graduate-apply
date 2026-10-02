@@ -4,7 +4,8 @@ University of Toronto · hyi.xu@mail.utoronto.ca
 
 ## 教育背景
 
-**University of Toronto · Physics Specialist（本科在读）**
+**University of Toronto**
+Honours Bachelor of Science (HBSc), Physics Specialist（本科在读）
 2023 年 9 月至今；预计毕业：2027 年 6 月
 
 相关已修课程：Advanced Classical Mechanics、Quantum Mechanics I、Electricity & Magnetism、Thermal Physics、Practical Physics II；Introduction to Computer Programming、Introduction to Computer Science、Computational Physics(正在修读)。

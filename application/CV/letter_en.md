@@ -2,7 +2,7 @@ Subject: Fall 2027 Astronomy/Physics MSc inquiry: 【specific research focus】
 
 Dear Professor 【Surname】,
 
-I am a Physics Specialist undergraduate at the University of Toronto, expecting to graduate in June 2027. I plan to apply to 【official university and program name】 for Fall 2027.
+I am pursuing an Honours Bachelor of Science (HBSc) in the Physics Specialist program at the University of Toronto, expecting to graduate in June 2027. I plan to apply to 【official university and program name】 for Fall 2027.
 
 The paper you co-authored, [【paper title and year】](【paper URL】), interested me particularly for its treatment of 【specific question or method】. This relates to 【specific problem】 in my MaNGA analysis: both involve 【shared inference or validation step】.
 
@@ -15,5 +15,5 @@ Are you considering master's students for Fall 2027, and might my background sui
 Best regards,
 
 Hongyi Xu  
-Undergraduate, Physics Specialist program, University of Toronto  
+Honours Bachelor of Science (HBSc) student, Physics Specialist, University of Toronto  
 hyi.xu@mail.utoronto.ca
