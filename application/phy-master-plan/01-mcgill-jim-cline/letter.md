@@ -2,7 +2,7 @@ Subject: Fall 2027 Physics MSc inquiry: dark-photon parameter constraints
 
 Dear Professor Cline,
 
-I am a Physics Specialist undergraduate at the University of Toronto, expecting to graduate in June 2027. I plan to apply to McGill University's Master of Science (M.Sc.) in Physics (Thesis) for Fall 2027.
+I am pursuing an Honours Bachelor of Science (HBSc) in the Physics Specialist program at the University of Toronto, expecting to graduate in June 2027. I plan to apply to McGill University's Master of Science (M.Sc.) in Physics (Thesis) for Fall 2027.
 
 In the paper you co-authored, [Dark photon distortions of NOνA and T2K neutrino oscillations (2025)](https://arxiv.org/abs/2407.13817), I was particularly interested in how adding MINOS data helps break degeneracies between dark-photon and standard neutrino oscillation parameters. This connects to my MaNGA work on mass–concentration degeneracy and the sensitivity of halo constraints to modeling assumptions.
 
@@ -15,5 +15,5 @@ Are you considering MSc students for Fall 2027, and might my background suit pot
 Best regards,
 
 Hongyi Xu
-Undergraduate, Physics Specialist program, University of Toronto
+Honours Bachelor of Science (HBSc) student, Physics Specialist, University of Toronto
 hyi.xu@mail.utoronto.ca
