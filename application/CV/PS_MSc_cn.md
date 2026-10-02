@@ -4,6 +4,8 @@
 
 Hongyi Xu
 
+University of Toronto | hyi.xu@mail.utoronto.ca
+
 星系运动学与粒子物理模拟中的研究经历，使我对计算物理的兴趣逐渐明确：如何利用数据约束物理模型，并判断这些约束有多可靠。计算物理吸引我的地方，在于它把对物理系统的理解转化为可以计算和检验的问题，也让计算结果反过来促使我们审视最初的假设。我目前就读于 University of Toronto 的 Physics Specialist 本科专业，攻读 Honours Bachelor of Science（HBSc）学位，预计于 2027 年 6 月毕业，计划申请同年秋季入学的物理硕士项目。
 
 本科阶段的物理、实验与编程训练，为我将理论问题转化为计算分析提供了基础。在使用 Python 建模和分析数据的过程中，我逐渐认识到，计算结果的解释需要结合模型假设、参数不确定性与数值稳定性。目前，我正在修读 Computational Physics 课程，希望更系统地理解数值方法及其适用条件。
