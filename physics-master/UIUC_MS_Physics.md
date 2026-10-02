@@ -1,28 +1,13 @@
-# UIUC — MS Physics
+# UIUC — 旧研究型MS条目更正
 
-- **Country:** United States
-- **University:** University of Illinois Urbana-Champaign
-- **Restrictions:** None (open to all qualified applicants)
-- **Ranking:** QS 69 / Physics 23 / US NEWS 36
-- **Program:** MS Physics
-- **Master type:** Academic/Research
-- **Duration:** 2 years
-- **Research/thesis:** Yes (thesis required)
-- **Department:** Department of Physics
-- **Track:** Physics / Computational Physics
-- **GPA requirement:** Minimum 3.0/4.0 (last 2 years)
-- **GRE requirement:** Not required
-- **TOEFL/IELTS:** Waived for 2+ years English-instruction
-- **Prerequisites:** BSc in physics, astronomy or related; intermediate courses in classical mechanics, electrodynamics, QM; programming familiarity (Python, C++, Java)
-- **Cohort size:** ~20–30
-- **Deadline:** June 1 (May 1 for international)
-- **Funding:** Limited for MS students; mostly self-funded
-- **Tuition:** ~$35k–$45k/year (international)
-- **Source:** https://physics.illinois.edu/academics/masters/application-process
-- **Last verified:** 2026-05-06
-- **Match:** Medium — GPA meets minimum; programming requirement matches Python skills
-- **Notes:** Rolling admissions. Statement of purpose, 2 LoRs, resume required. Classified as Match.
+**2026-10-02更新；不属于本轮38项的额外条目。**
 
----
+旧条目把独立专业MEng误写为2年thesis MS。官方masters页面实际为1年、32 credit hours的Master of Engineering in Instrumentation and Applied Physics，two-semester project、非PhD桥梁。后两年GPA3.0、2封推荐和国际截止来自MEng，不能移用于研究型Physics MS。
 
-**Program profile:** Advanced coursework in core physics plus electives; thesis option available. Specializations: astrophysics/cosmology, condensed matter, AMO, nuclear physics, biophysics, computational physics.
+[当前替代/对应档案](UIUC_MEng_Instrumentation_AppliedPhysics.md)
+
+官方来源：https://physics.illinois.edu/academics/masters
+
+Last-verified：2026-10-02。
+
+[当前38项索引](README.md)

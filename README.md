@@ -22,8 +22,9 @@
 | 位置 | 用途 |
 |------|------|
 | [physics-phd/](physics-phd/) | 美国、新加坡 direct-entry Physics PhD 项目与匹配导师；目标至少 40 个项目/导师记录 |
-| [physics-master/](physics-master/) | Physics Master 项目；至少 30 个的目标已超过，当前正式 56 个；地区索引包含加拿大、美国、英国、瑞士、德国、法国、新加坡、香港及澳大利亚 |
+| [physics-master/](physics-master/) | Physics Master 本轮38项候选：加拿大8、澳大利亚5、美国10、法国5、德国5、瑞士5；其余地区及扩展档案保留，不计本轮 |
 | [ds-master/](ds-master/) | DS / Analytics / Applied Statistics / ML 硕士学校档案与地区索引；50项，覆盖9地区：美国15所，其他各不超过5项；含资格缺口和来源待核项 |
+| [application/phy-master-plan/](application/phy-master-plan/) | 物理硕士38项地区候选总览、PDF、事实快照与来源访问审计 |
 | [application/ds-master-plan/](application/ds-master-plan/) | DS硕士综合调研、跨项目比较、美国15所分层推荐与申请策略 |
 | [guides/](guides/) | 搜索及国家差异参考资料 |
 | [targets.md](targets.md) | 目标地区及申请优先级 |
@@ -42,7 +43,7 @@
 
 ## 法国物理硕士申请材料
 
-[法国英语物理硕士 top 5 研究材料](physics-master/France_Physics_Masters.md) 同时记录 QS 综合 2027 与 Physics & Astronomy 2026 排名，并按英语授课、无必需法语入学等级筛选。已新增 PSL、IP Paris、Sorbonne、Paris-Saclay 四个正式目标；Paris Cité 为第 5 所补充候选，未达到原有前 100 门槛，不计总数。ENS Lyon 和 Grenoble 的候选已剔除，理由保留在汇总中。加拿大 EEF 2027/2028 日历已公布；具体项目的渠道、校内截止日期和语言材料仍需逐项核实，不能统一套用 EEF 截止日。
+本轮法国按Physics学科全国前五选择Paris-Saclay、PSL、Sorbonne、IP Paris、Grenoble；English M1、法语门槛、研究实习和2027日历分开记录。Grenoble按本次范围保留为原排名规则例外，但法语未解决则暂缓申请。Paris Cité联合PPM不与Sorbonne重复计数。旧[法国英语筛选分析](physics-master/France_Physics_Masters.md)保留为历史；最新要求与候选计数见[物理硕士索引](physics-master/README.md)和[地区候选总览](application/phy-master-plan/Physics_Masters_Regional_Overview_20261002.md)。
 
 ## 建档规则
 

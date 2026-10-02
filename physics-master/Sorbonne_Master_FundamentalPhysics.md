@@ -1,63 +1,84 @@
-# Sorbonne University — Master of Fundamental Physics and Applications
+# Sorbonne Université — Master Physique fondamentale et applications — Paris Physics Master
 
-**学位：** Master；**方向：** Physics / 数值方法、粒子、天体；**地区：** France，Paris。  
-**最后核实：2026-10-01**；**状态：正式目标，仅保留 Paris Physics Master 英语路径；2027 申请细则待核**。
+**2027 入学候选复核｜法国｜核查/访问尝试：2026-10-02**
+
+本轮状态：**官方核心页面已访问；2027未发布字段待更新**。本轮采用2026-09-27更新的科研背景；所有资格判断以正式成绩与学校等效审核为准。
 
 ## 项目事实
 
-| Field | 核实信息 |
+| 字段 | 官方事实或明确待核事项 |
 |---|---|
-| Country | France |
-| University | Sorbonne University / Sorbonne Université；不是 Université Paris 1 Panthéon-Sorbonne |
-| Program name | Master of Fundamental Physics and Applications；Master Physique fondamentale et applications (PFA) [S1–S2] |
-| QS ranking | 综合：2027 全球 73，法国第 3；Physics & Astronomy：2026 全球并列 32，法国并列第 2 [R] |
-| Track | Paris Physics Master 英语 M1，后续优先核实英语 M2 ICFP / Theoretical physics；其余 PFA 路径未通过本次语言筛选 [S4, S8–S9] |
-| Master type | Academic / Research（本条选择研究方向）；PFA 总项目也含职业方向 [S1] |
-| Duration | Paris Physics Master 官方介绍为 2 年英语硕士；M1 后选择 M2，所选 M2 的录取及注册安排须单独确认 [S8–S9] |
-| Research / thesis | Paris Physics Master M1 有 4–6 月研究实习和实验/数值训练；拟选 M2 ICFP 有 18 ECTS 研究实习。普通 PFA M1 的约 7 周 / 9 ECTS 不能替代英语路径数据 [S8–S9] |
-| GPA requirement | 接受 Physics / Physics-Chemistry 本科或同等学历；所查页面未公布最低 GPA 或典型录取均值 [S1–S2] |
-| Supervisor contact before application | 所查 PFA / Paris Physics Master 公开条件未列意向导师接收函；这是 M1 项目申请，不应先按导师招募路线操作。英语路径完整材料清单仍待核，优先问项目负责人，而非把大量套磁当作必需步骤 [S1–S2, S8] |
-| Recommendation requirement | **2026-09-28 更新的物理系通用 M1/M2 必交清单未列推荐信**，列详细学业履历、学位/成绩单、动机信、CV、方向选择等；不能把 PSL / ICFP 的两封要求套到 PPM M1。Paris Physics Master 当年在线材料是否另要求推荐信、数量及提交方式待确认，不能直接写成“不需要” [S11] |
-| Selection / rolling admission | 物理系招生页说明档案审核，必要时可补充面试；英语 M1 eCandidat 窗口为 2027 年 3–5 月，具体日未列。PPM 专属评审批次/面试安排及是否先到先审未核实，**不能确认 rolling admission**；EEF 时点不证明内部滚动 [S5, S10–S11] |
-| U of T background | U of T 物理本科学位在学位层级/专业上对应 Physics Bachelor / equivalent 方向，最终资格由项目审核；未找到 U of T 专属偏好、GPA 等值或录取样本。不能将“本科背景符合”写成“3.0 会被接受” [S1–S2, S8] |
-| GRE | 所查官方页面未提及 |
-| Teaching language | 仅保留与 Université Paris Cité 联办的 **Paris Physics Master**；联合官方目录明确为 two-year program taught in English。拟选 M2 ICFP 也明确 English [S4, S8–S9] |
-| French requirement | 所查 Paris Physics Master 公开入学条件仅列物理本科等学历条件，未列法语水平或考试门槛；课程中的 French foreign language 是入学后的语言课，不是入学前法语等级要求。2027 材料须复核 [S8] |
-| TOEFL / IELTS | 英语 M1 的考试分数、英语授课本科豁免待核；M2 ICFP 的 C1 要求须另行准备，不能从 U of T 学位自动推定考试豁免 [S8–S9] |
-| Prerequisites | 物理主修本科基础；M1 深化量子、统计与数值物理；PFA 普通 M1 页面列 AI for Physics / numerical methods，英语 M1 具体选课应另查 [S1–S4] |
-| Cohort size | PFA 普通现场 M1 约 250/年；**不是英语 Paris Physics Master 的人数**，英语路径规模待核 [S3] |
-| Fall 2027 deadline | **更新：物理系 2026-09-28 招生页写英语 M1 eCandidat 为 2027 年 3–5 月，确切起止日未列**。同页也写 EEF 2027/2028 从 2026-10-01 开始；若 HY 适用加拿大 EEF 招生，分站截止为 2027-02-15。PPM 对 HY 是否要求并行 EEF / eCandidat、如何协调两轮日期待确认；不把旧年 Mon Master 窗口套用于英语 M1 [S10–S11] |
-| Scholarship deadline | 英语 M1 2027 资助及截止日待核 |
-| Tuition | 2026–2027 全国标准 Master €255/年，CVEC €105/年；非欧盟差别学费及个案豁免须依校方身份审核，不能将 €255 视为 HY 确定费用；2027–2028 待核 [S6–S7] |
-| Funding / TA / RA | 无已确认的保证奖学金或 TA/RA；不得将 Paris Cité 的奖学金自动用于 Sorbonne 注册生 |
-| Application materials | 系通用清单：详细学业/课程履历、从高中至当前学期的学位证明及成绩单、相关语言证明、动机信、CV（含工作/实习）、所选方向；外国材料的翻译按系/平台规则核实。通用清单未列推荐信，PPM 当年在线补充材料及推荐数量待核 [S11] |
-| Source | https://sciences.sorbonne-universite.fr/en/study/degree-seeking/masters/master-fundamental-physics-and-applications |
-| Match | **High** — 明确的数值训练与粒子、天体后续路径贴合现有物理数据推断经历 |
-| Difficulty | **Match（暂定）** — 学科背景吻合、无已确认 GPA 硬门槛，但英语路径要求和录取竞争数据不足，不能作保底 |
-| Notes | 仅拟申请英语路径；四年本科不自动等于 M2 入学资格。与 Paris Cité 的 Paris Physics Master 是同一联合项目，不是两次已确认独立招生机会；ICFP 亦不能重复计为独立机会 |
+| Country / 国家 | 法国（France） |
+| University / 大学 | Sorbonne Université |
+| Exact program / 学位 | Master Physique fondamentale et applications — Paris Physics Master |
+| Track / 专业方向 | Physics；具体研究方向见研究形式与先修字段 |
+| Master type / 项目类型 | Academic / Research |
+| Duration / 学制 | M1+M2 2年 /120 ECTS [S1](#s1) [S2](#s2) |
+| Research / thesis | 核心Physics、numerical methods与research internship；joint Paris Physics Master路线。 [S1](#s1) [S2](#s2) |
+| GPA / academic eligibility | Physics licence / equivalent；未公开数值最低或典型录取GPA。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。 [S1](#s1) |
+| GRE | 所查官方课程条款未提及GRE。 [S1](#s1) |
+| TOEFL / IELTS / 授课语言 | 所选Paris Physics Master为English；法语学习课不等于入学法语门槛。英语证明/豁免形式须PPM招生清单确认。 [S1](#s1) |
+| Prerequisites / 先修 | Physics核心与数学；astro / cosmology / high-energy / numerical methods适合现有研究。 [S1](#s1) |
+| References / supervisor | PPM-specific references与专属eCandidat入口待核；不统一套MonMaster。 [S1](#s1) |
+| Cohort size / 年度规模 | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。 |
+| Deadline / 主申请与奖学金 | 2027专属English M1日历当前未重新取到；旧2026-10-01档称March-May 2027，只作历史提示，不能标此次已核。 [S1](#s1) |
+| Deadline evidence / 时间依据 | 专属2027入口待重新核实 |
+| International tuition / 学费 | 2027学费未核实；须使用本人国际学生费率报价。 [S1](#s1) |
+| Funding / TA / RA | 2027学费、非EU差别收费豁免、实习支付和scholarships须最终注册单位确认；无统一保证stipend。 [S1](#s1) |
 
-## 申请判断与待办
+## 排名及筛选
 
-值得推进资格核查，优先 Paris Physics Master 英语 M1。法国 PFA 页面更新至 2026-09-18，英文总页更新至 2025-04-10；涉及课程结构及联系人时优先较新的法文官方页。
+QS World University Rankings 2027综合 73；QS Physics & Astronomy 2026 32。
 
-- 联系英语 M1 负责人 `nicolas.rodriguez@sorbonne-universite.fr` 或 `sciences-master-physique@sorbonne-universite.fr`，核实语言证明、2027 日历、注册学校与申请渠道；**尚未联系**。
-- Paris Physics Master 的外链 `https://www.parisphysicsmaster.com/` 本次 HTTPS 访问失败；英语路径存在由 Sorbonne 官方页面证实，其完整招生细则仍待核。
-- 申请路径须按国籍及申请时居住地确认，不能只根据 U of T 学籍决定 Mon Master / Études en France。
-- 加拿大分站已公布 2027/2028 EEF 日历；优先核实 Paris Physics Master 是否出现在本轮 EEF 目录及其并行申请要求，不能将普通 M1 日历直接视为本项目国际招生截止。
-- 向英语项目负责人核实 GPA 与核心课评审、是否面试及评审批次。现有公开材料没有先取得法国导师接收承诺的要求；这与未来研究实习选导师不同。
-- 新核实的系招生页（2026-09-28）已给英语 M1 eCandidat 2027 年 3–5 月的月度窗口；较旧大学总页的 2026 日历仅作为旧年参考。推荐信及 HY 的 EEF / eCandidat 并行要求按 PPM 负责人及当年平台清单确认。
+最新QS综合或Physics & Astronomy前100已核。
 
-## Sources
+本轮国别名单顺序：3；这是QS学科及并列时综合排名形成的**大学筛选顺序**，不是硕士项目官方排名。
 
-- [S1] 英文总项目：https://sciences.sorbonne-universite.fr/en/study/degree-seeking/masters/master-fundamental-physics-and-applications
-- [S2] 较新法文总项目：https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/masters/master-physique-fondamentale-et-applications
-- [S3] M1：https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/masters/master-physique-fondamentale-et-applications/m1
-- [S4] 英语 M1 官方说明：https://master.physique.sorbonne-universite.fr/fr/paris-physics-master.html
-- [S5] 招生：https://sciences.sorbonne-universite.fr/formation-sciences/candidatures-et-inscriptions/master
-- [S6] 学费与身份豁免：https://www.sorbonne-universite.fr/formation-et-vie-etudiante/candidater-et-sinscrire/modalites-dinscription-et-couts-des-etudes
-- [S7] CVEC：https://sciences.sorbonne-universite.fr/formation-sciences/candidatures-et-inscriptions/droits-dinscription
-- [S8] 联合伙伴 Paris Cité 的 Paris Physics Master 官方目录，含两年英语介绍、入学条件、实习和 French foreign language 课程：https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/physique-fondamentale-et-applications-K2VO0C50/master-physique-fondamentale-et-applications-m1-parcours-paris-physics-master-JS1XR1EO.html
-- [S9] 联合 M2 ICFP 英语路径：https://www.phys.ens.fr/en/formations/m2-icfp
-- [S10] 加拿大 EEF / Hors-DAP 2027/2028 日历与项目例外：https://www.canada.campusfrance.org/fr/candidature-eef
-- [S11] 物理系 Candidatures & Inscriptions，2026-09-28 更新：英语 M1 的 2027 eCandidat 窗口、通用材料与可能面试：https://master.physique.sorbonne-universite.fr/fr/candidatures-inscription.html
-- [R] QS 数据：[France_Physics_Masters.md](France_Physics_Masters.md)
+## 个人适配与申请判断
+
+| 维度 | 判断 |
+|---|---|
+| Match | High — 英语研究路径含数值方法、astro/cosmology与HEP，适合申请人科研方向。 |
+| Difficulty | Match；规划判断，不是录取概率。 |
+| 申请优先级 | 法国重点；核专属M1入口 |
+| 当前资格焦点 | English Physics M1；课程与研究背景适合。 |
+| 下一步 | 确认English PPM具体注册学校及M1渠道；保持joint Paris Cité只算同一候选，不重复增加名额。 |
+
+HY当前记录：UofT Physics，CGPA3.0/4.0，GRE General317/Q166，预计2027年6月毕业。MaNGA暗物质晕c–M Bayesian/PyMC研究与H→ZZ*→2e2μ统计推断可作为申请证据；第一段手稿尚未确认提交，第二段作者顺序、投稿与强推荐尚未落实。不要使用旧JetClass/PET/OmniLearn叙述。
+
+CGPA不能代替final-year、last-two-years、三四年级或major average；English degree也不自动代表所有项目免试。未掌握个人完整课程表，不能判定ECTS/honours等效已经满足。
+
+## 备注与证据边界
+
+Sorbonne专属站本轮TLS证书验证失败，未关闭TLS验证；学位内容由Sorbonne及共同授予方Paris Cité官方正文交叉确认。
+
+## 官方来源与本轮访问
+
+<a id="s1"></a>
+
+S1. **Sorbonne Master program**：https://sciences.sorbonne-universite.fr/en/study/degree-seeking/masters/master-fundamental-physics-and-applications
+
+- 2026-10-02：HTTP 200；提取正文5273字符。HTTP200不单独证明正文有效，JS/challenge/重定向已在事实或审计中注明。
+
+<a id="s2"></a>
+
+S2. **Joint Paris Physics Master official catalog**：https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/physique-fondamentale-et-applications-K2VO0C50/master-physique-fondamentale-et-applications-m1-parcours-paris-physics-master-JS1XR1EO.html
+
+- 2026-10-02：HTTP 200；提取正文5835字符。HTTP200不单独证明正文有效，JS/challenge/重定向已在事实或审计中注明。
+
+<a id="s3"></a>
+
+S3. **Dedicated applications (TLS issue on this check)**：https://master.physique.sorbonne-universite.fr/fr/candidatures-inscription.html
+
+- 2026-10-02：HTTP 0；提取正文0字符；访问失败。HTTP200不单独证明正文有效，JS/challenge/重定向已在事实或审计中注明。
+
+排名来源：
+
+- QS World University Rankings 2027 results table：https://www.qs.com/insights/qs-world-university-rankings-2027-results-table-excel
+- QS WUR 2027 official XLSX：https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20(For%20qs.com).xlsx
+- QS Subject Rankings 2026 results：https://magazine.qs.com/qs-insights-magazine-39/qs-subject-rankings-results
+- QS Subjects 2026 official XLSX：https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+**Last-verified / last-attempted：2026-10-02。** 日期仅覆盖已获得的具体正文；未公开、旧年份、访问失败的字段仍为待核，不能将整份记录标成资格完成。
+
+[本轮38项索引](README.md) · [地区候选总览](../application/phy-master-plan/Physics_Masters_Regional_Overview_20261002.md)

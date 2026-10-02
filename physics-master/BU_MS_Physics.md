@@ -1,28 +1,13 @@
-# Boston University — MS Physics
+# Boston University — 旧普通Physics硕士条目更正
 
-- **Country:** United States
-- **University:** Boston University
-- **Restrictions:** None (open to all qualified applicants)
-- **Ranking:** QS 93 / US NEWS 42
-- **Program:** MS Physics
-- **Master type:** Both tracks (thesis and non-thesis available)
-- **Duration:** 1.5–2 years
-- **Research/thesis:** Optional (thesis and non-thesis tracks available)
-- **Department:** Department of Physics
-- **Track:** Physics
-- **GPA requirement:** 3.0/4.0 minimum recommended
-- **GRE requirement:** Not required
-- **TOEFL/IELTS:** Waived for English-instruction degrees
-- **Prerequisites:** BSc in Physics or equivalent
-- **Cohort size:** ~10–15
-- **Deadline:** Varies; typically Spring/Fall admission
-- **Funding:** Limited for MS; TA/RA competitive
-- **Tuition:** ~$55k/year (international)
-- **Source:** https://www.bu.edu/physics/graduate/
-- **Last verified:** 2026-05-06
-- **Match:** Medium — GPA meets threshold; research experience valued
-- **Notes:** Thesis and non-thesis tracks. Classified as Match.
+**2026-10-02更新；不属于本轮38项的额外条目。**
 
----
+官网MA in Physics明确不能initially apply MA-only；旧MS Physics名称、1.5-2年、cohort10-15及统一GPA说法均未得到当前依据，不再用于申请。开放的相关学位为MS Quantum Science & Engineering；本轮只计该项，研究匹配Low。
 
-**Program profile:** Thesis track: courses + research project. Non-thesis track: additional courses. Specializations: astronomy, condensed matter, particle physics, statistical physics, biophysics.
+[当前替代/对应档案](BU_MS_QuantumScience_Engineering.md)
+
+官方来源：https://www.bu.edu/academics/grs/programs/physics/ma/
+
+Last-verified：2026-10-02。
+
+[当前38项索引](README.md)

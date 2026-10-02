@@ -1,4 +1,20 @@
-# 2026 年 10 月物理与天文硕士导师咨询材料
+# 物理硕士地区候选总览 — 2027入学
+
+本次范围：加拿大8、澳大利亚5、美国10、法国5、德国5、瑞士5，共38项候选；2026-10-02核查及访问尝试。PDF只包含“地区候选总览”一章，采用全球DS报告的地区表格样式，没有封面、目录、独立完整档案或其他分析章。
+
+- [地区候选总览 PDF](Physics_Masters_Regional_Overview_20261002.pdf)
+- [同版 Markdown](Physics_Masters_Regional_Overview_20261002.md)
+- [38项学校索引及独立档案](../../physics-master/README.md)
+- [结构化事实快照](Physics_Masters_20261002.json)
+- [最终引用来源的访问审计](source-audit-20261002.md)
+
+38是已整理的候选数，不是38项已确认可申请。Alberta、Melbourne核心来源受限；WashU最新排名门槛待核；Grenoble与Bern按本次国别前五范围作排名例外。其余项目也保留未公布2027字段、英语文件、课程等效和导师/资金条件。没有编造年度cohort、录取典型GPA、资金保证或个人百分比概率。
+
+---
+
+以下保留本目录原有2026-09-30导师咨询与计划说明，和本次38所候选整理分开计数；本轮没有重写或发送咨询邮件。历史材料引用的个别招生/导师状态并非本轮重新核实，仍按原核查日期使用。
+
+## 既有导师咨询材料与申请规划（保留原说明）
 
 **2026-09-30：多大天文学与天体物理系已从 Fall 2027 申请计划移除。** 原因：硕士停招（准确口径：系里当前不开放独立 MSc 招生，SGS 学位目录仍保留 MSc）；本科直博要求最后两年平均成绩达到 University of Toronto A− 或以上，申请人确认 GPA 不满足条件。不再联系导师或准备该系 MSc / PhD 申请。多大 Physics MSc 不受此决定影响。
 
@@ -19,8 +35,8 @@
 
 | 学校与硕士项目 | 导师与材料 | 研究匹配 / 规划难度 | 核心定制 | 2027 状态与来源 |
 |---|---|---|---|---|
-| McGill — Master of Science (M.Sc.) in Physics (Thesis) | [Jim Cline](mcgill-jim-cline/README.md) | Medium / Reach | MaNGA 参数简并、先验与数值约束；希望补足粒子物理—宇宙学理论基础 | 名额及经费待问；https://www.physics.mcgill.ca/~jcline/ |
-| **UBC — Master of Science in Astronomy (MSc)** | **目标：[Ludovic Van Waerbeke](ubc-ludovic-van-waerbeke/README.md)** | High（晕与统计推断）/ Reach | MaNGA 质量—浓度简并、模型敏感性，延伸至弱透镜子晕质量与中心偏移 | 指导资格明确，2027 名额、经费及成绩资格待核实；https://www.grad.ubc.ca/researcher/13409-van-waerbeke |
+| McGill — Master of Science (M.Sc.) in Physics (Thesis) | [Jim Cline](01-mcgill-jim-cline/README.md) | Medium / Reach | MaNGA 参数简并、先验与数值约束；希望补足粒子物理—宇宙学理论基础 | 名额及经费待问；https://www.physics.mcgill.ca/~jcline/ |
+| **UBC — Master of Science in Astronomy (MSc)** | **目标：[Ludovic Van Waerbeke](02-ubc-ludovic-van-waerbeke/README.md)** | High（晕与统计推断）/ Reach | MaNGA 质量—浓度简并、模型敏感性，延伸至弱透镜子晕质量与中心偏移 | 指导资格明确，2027 名额、经费及成绩资格待核实；https://www.grad.ubc.ca/researcher/13409-van-waerbeke |
 | UBC — Master of Science in Physics (MSc)，备选 | **备选**：[Alison Lister](ubc-alison-lister/README.md) | High（方法）/ Reach | Higgs open-MC、MLP 输入比较、pyhf 和有限 MC / 覆盖率诊断 | 指导资格明确，2027 名额待问；https://www.grad.ubc.ca/researcher/14742-lister |
 
 以上是研究契合与准备难度判断，非录取概率。地域计数：Canada 2 所学校；活动导师 3 位（目标 2、备选 1）。正式项目门槛、截止、资助与未解决事项见各目录 README。
@@ -31,8 +47,8 @@
 
 | 导师 | 推荐阅读 | 已写入邮件的具体联系 | 阅读说明 |
 |---|---|---|---|
-| Jim Cline | [Dark photon distortions of NOνA and T2K neutrino oscillations](https://arxiv.org/abs/2407.13817)（2025） | 联合实验如何打破新物理与标准振荡参数之间的简并；提出简化数值约束比较 | [章节与问题](mcgill-jim-cline/paper_reading_notes.md) |
-| Ludovic Van Waerbeke | [Measuring satellite galaxy subhalo masses in redMaPPer clusters with UNIONS weak lensing data](https://arxiv.org/abs/2607.14207)（2026） | 子晕质量、宿主晕贡献与中心偏移；提出模拟轮廓的质量恢复检验 | [章节与问题](ubc-ludovic-van-waerbeke/paper_reading_notes.md) |
+| Jim Cline | [Dark photon distortions of NOνA and T2K neutrino oscillations](https://arxiv.org/abs/2407.13817)（2025） | 联合实验如何打破新物理与标准振荡参数之间的简并；提出简化数值约束比较 | [章节与问题](01-mcgill-jim-cline/paper_reading_notes.md) |
+| Ludovic Van Waerbeke | [Measuring satellite galaxy subhalo masses in redMaPPer clusters with UNIONS weak lensing data](https://arxiv.org/abs/2607.14207)（2026） | 子晕质量、宿主晕贡献与中心偏移；提出模拟轮廓的质量恢复检验 | [章节与问题](02-ubc-ludovic-van-waerbeke/paper_reading_notes.md) |
 | Alison Lister（备选） | 首读：[ATLAS weakly supervised dijet anomaly detection](https://arxiv.org/abs/2502.09770)（2025）；选读：[Transforming jet flavour tagging at ATLAS](https://arxiv.org/abs/2505.19689)（2026） | 首封用第一篇的分类器选择、pyhf 拟合和背景偏差验证；GN2 作为后续稳健性与校准阅读 | [章节与问题](ubc-alison-lister/paper_reading_notes.md) |
 
 本轮先读 Van Waerbeke，再读 Cline；Lister 两篇留作备选方向阅读。这一顺序依据已有 Bayesian MCMC、pyhf 和特征比较经验判断。论文的物理问题不同，阅读说明明确区分可迁移方法与尚未掌握的领域知识。

@@ -1,4 +1,4 @@
-# University of Texas at Austin — Master of Science in Physics
+# Stony Brook University — Master of Arts in Physics
 
 **2027 入学候选复核｜美国｜核查/访问尝试：2026-10-02**
 
@@ -9,26 +9,26 @@
 | 字段 | 官方事实或明确待核事项 |
 |---|---|
 | Country / 国家 | 美国（United States of America） |
-| University / 大学 | University of Texas at Austin |
-| Exact program / 学位 | Master of Science in Physics |
+| University / 大学 | Stony Brook University |
+| Exact program / 学位 | Master of Arts in Physics |
 | Track / 专业方向 | Physics；具体研究方向见研究形式与先修字段 |
 | Master type / 项目类型 | Academic / Research |
-| Duration / 学制 | 具体MS路线及时长待当前degree regulations核实 [S1](#s1) |
-| Research / thesis | 存在terminal masters入口；当前thesis/non-thesis学分细则未闭环。 [S1](#s1) |
-| GPA / academic eligibility | 系招生FAQ明确no minimum undergraduate GPA to apply；3.0 advanced undergraduate是funding要求，不能混同招生硬门槛。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。 [S1](#s1) |
-| GRE | General GRE not required；Physics Subject optional，提交可在SOP说明。 [S1](#s1) |
-| TOEFL / IELTS / 授课语言 | 英语国家/加拿大本科可依Graduate School规则处理；UofT具体所需证明本轮未细核。 [S1](#s1) |
-| Prerequisites / 先修 | 核心Physics本科；CM / QM / EM / thermal/statistical准备。 [S1](#s1) |
-| References / supervisor | 3封；硕士没有官方先获导师承诺要求，研究安排另谈。 [S1](#s1) |
+| Duration / 学制 | 通常2年 /4 semesters；最长3年 [S1](#s1) |
+| Research / thesis | 30 credits；thesis或comprehensive exam；本轮优先thesis。 [S1](#s1) |
+| GPA / academic eligibility | overall minimum3.0，undergraduate coursework B，math/science B；3.6等PhD典型值不能套到MA。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。 [S1](#s1) |
+| GRE | GRE not required and no longer accepted。 [S1](#s1) [S2](#s2) |
+| TOEFL / IELTS / 授课语言 | 英语授课学位符合学校免试路径；TA英语标准可能另高，须提供学历/语言材料。 [S2](#s2) |
+| Prerequisites / 先修 | Physics完整核心；本科数学与科学成绩逐项核对。 [S1](#s1) |
+| References / supervisor | 一般graduate application需3封；无需申请前找导师承诺，申请中列research interests。 [S2](#s2) |
 | Cohort size / 年度规模 | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。 |
-| Deadline / 主申请与奖学金 | Fall年度December1 23:59 CST；推荐信可晚1周；2027批次待确认。 [S1](#s1) |
+| Deadline / 主申请与奖学金 | rolling，自12月15日开放；国际学生May1 final/full consideration，2027周期待确认。 [S2](#s2) |
 | Deadline evidence / 时间依据 | 年度规则，2027批次待确认 |
 | International tuition / 学费 | 2027学费未核实；须使用本人国际学生费率报价。 [S1](#s1) |
-| Funding / TA / RA | 可以master-only申请，但no financial support；按自费。 [S1](#s1) |
+| Funding / TA / RA | MA不保证stipend或tuition scholarship；可能受雇TA/RA，但不可当保证资助。 [S2](#s2) |
 
 ## 排名及筛选
 
-QS World University Rankings 2027综合 72；QS Physics & Astronomy 2026 31。
+QS World University Rankings 2027综合 468；QS Physics & Astronomy 2026 85。
 
 最新QS综合或Physics & Astronomy前100已核。
 
@@ -36,11 +36,11 @@ QS World University Rankings 2027综合 72；QS Physics & Astronomy 2026 31。
 
 | 维度 | 判断 |
 |---|---|
-| Match | Medium — 广泛Physics训练有衔接潜力，但现行MS具体研究路线尚未核实，保守Medium。 |
-| Difficulty | Reach；规划判断，不是录取概率。 |
-| 申请优先级 | 冲刺；硕士自费入口明确 |
-| 当前资格焦点 | 无minimum undergrad GPA可申请；核心Phys需强。 |
-| 下一步 | 只有接受自费且确认具体MS研究路线后投；SOP不写成PhD申请。 |
+| Match | High — 外部MA、论文路线及particle/astro训练与两段科研适合，门槛比只有PhD入口的名校更明确。 |
+| Difficulty | Match；规划判断，不是录取概率。 |
+| 申请优先级 | 美国重点；明确申请门槛 |
+| 当前资格焦点 | 最低overall 3.0，且本科总评和math/science B。 |
+| 下一步 | 优先核总评及math/science B，选择thesis并准备3封科研/任课推荐。 |
 
 HY当前记录：UofT Physics，CGPA3.0/4.0，GRE General317/Q166，预计2027年6月毕业。MaNGA暗物质晕c–M Bayesian/PyMC研究与H→ZZ*→2e2μ统计推断可作为申请证据；第一段手稿尚未确认提交，第二段作者顺序、投稿与强推荐尚未落实。不要使用旧JetClass/PET/OmniLearn叙述。
 
@@ -48,15 +48,21 @@ CGPA不能代替final-year、last-two-years、三四年级或major average；Eng
 
 ## 备注与证据边界
 
-页面历史PhD录取统计不能当作MS个体概率。
+官网Fall2026 MA转PhD数据是历史学生去向，不是HY录取概率；最低3.0仍不表示Safe。
 
 ## 官方来源与本轮访问
 
 <a id="s1"></a>
 
-S1. **Physics admissions / terminal MS / dates**：https://physics.utexas.edu/academics/admissions
+S1. **Independent MA / degree routes**：https://www.stonybrook.edu/physics/graduate/degrees/ma.html
 
-- 2026-10-02：HTTP 200；提取正文19032字符。HTTP200不单独证明正文有效，JS/challenge/重定向已在事实或审计中注明。
+- 2026-10-02：HTTP 200；提取正文21228字符。HTTP200不单独证明正文有效，JS/challenge/重定向已在事实或审计中注明。
+
+<a id="s2"></a>
+
+S2. **Requirements / dates / GRE / funding**：https://www.stonybrook.edu/physics/graduate/apply.html
+
+- 2026-10-02：HTTP 200；提取正文9849字符。HTTP200不单独证明正文有效，JS/challenge/重定向已在事实或审计中注明。
 
 排名来源：
 

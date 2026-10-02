@@ -1,67 +1,190 @@
-# Physics Master Applications
+# Physics Master — 2027六国候选索引
 
-## Scope
+本轮整理38所大学的38项候选：加拿大8、澳大利亚5、美国10、法国5、德国5、瑞士5。资料核查及访问尝试为2026-10-02，目标是2027年6月本科毕业后的入学。加拿大/澳大利亚/法国/德国/瑞士按最新QS Physics & Astronomy 2026国别顺序筛选大学；并列名次或区间用QS综合2027作辅助。不是硕士项目本身的官方全国排名。美国按开放外部硕士入口、研究延续价值及背景可行性综合选择10项，不宣称全国前十。
 
-Use this folder for physics-related master programs, especially computational physics, applied physics, astronomy-adjacent, or other programs where a physics background is clearly relevant.
+GPA按目前CGPA3.0处理，尚未取得分段成绩和逐课学时，因此Match均为附条件的规划判断；没有任何一项标Safe，不输出缺乏依据的个人百分比录取率。High/Medium/Low描述研究或方法重合，Reach/Match/Unknown描述竞争与资格不确定性，二者不能互相替代。申请优先级综合二者、导师/材料条件、学位类型及截止日期。
 
-Programs are split into two categories:
+加拿大不受原全球排名过滤；其余30项中27项已核QS综合或Physics前100，Grenoble、Bern按本次国别前五要求作范围例外；WashU既有条目最新US News前50证据未闭环，暂不作正式推荐。Alberta与Melbourne的核心官网正文受限，保留候选与明确待核项。其他项目也有未发布2027周期或未闭合的具体字段；建档完成不等于申请资格完成。
 
-- **[Academic / Research Programs](../physics-master-academic-programs.md)** thesis-required, research-oriented (45 targets)
-- **[Professional / Taught Programs](../physics-master-professional-programs.md)** coursework-oriented, no thesis or optional research (11 targets)
-- **[Canada Physics Master's Applications](Canada_Academic_Physics_Masters.md)** 加拿大当前物理申请规划：国际学生、GPA 3.0、自费；优先级、导师条件与时间表（2026-09-16）
-- **[France Physics Master's Applications](France_Physics_Masters.md)** 法国英语授课、无法语入学门槛的 top 5 学校材料；综合 QS 2027 + 物理 QS 2026，4 所正式目标 + 1 所补充候选（2026-10-01）
+申请人最新科研为MaNGA暗物质晕c–M Bayesian/PyMC研究和模拟H→ZZ*→2e2μ的MLP/pyhf/特征归因/覆盖率研究。第二段由本人完成的工作已确认，潜在强推荐、作者顺序与投稿仍未确认。英语本科豁免逐校核实；法国法语及德国课程/专项考试门槛另行处理。
 
-Canadian universities are exempt from the repository's QS/US News ranking filter. Evaluate them by GPA eligibility, research fit, supervisor availability, funding, and application value.
+**当前口径：38项候选，覆盖目标已达到；未闭环的申请资格不标complete。** 英国、新加坡、香港及其他加拿大/美国旧条目保留为历史/扩展档案，不计本轮38项。历史文件数量不是当前正式目标总数。
 
-`*` marks schools that are professional agency recommended.
+- [地区候选总览 Markdown](../application/phy-master-plan/Physics_Masters_Regional_Overview_20261002.md)
+- [地区候选总览 PDF](../application/phy-master-plan/Physics_Masters_Regional_Overview_20261002.pdf)
+- [来源访问审计](../application/phy-master-plan/source-audit-20261002.md)
+- [加拿大历史申请策略](Canada_Academic_Physics_Masters.md)；[法国历史英语筛选分析](France_Physics_Masters.md)
 
-## Target regions
+| 国家 | 候选数 | 本轮口径 |
+|---|---|---|
+| 加拿大 | 8 | 全国Physics前八 |
+| 澳大利亚 | 5 | 全国Physics前五 |
+| 美国 | 10 | 综合背景推荐10项 |
+| 法国 | 5 | 全国Physics前五 |
+| 德国 | 5 | 全国Physics前五 |
+| 瑞士 | 5 | 全国Physics前五 |
 
-- Canada (8)
-- USA (13)
-- UK (12)
-- Switzerland (4)
-- Germany (3)
-- France (4 formal targets; 1 additional candidate excluded from totals)
-- Singapore (4)
-- Hong Kong (3)
-- Australia (5)
+## 加拿大（8项）
 
-**Total: 56 targets** (45 academic + 11 professional; BU appears only once; Paris Cité is supplemental and not counted)
+按Physics & Astronomy学科全国顺序选择前八；201-250并列区间用QS综合2027作为排序辅助。高研究匹配不代表GPA3.0有高录取把握；研究型录取取决分段成绩、导师和资金。Toronto先核B+、UBC按项目期望核三四年级80%+；McGill可达到大学3.0最低但仍属竞争性冲刺。Waterloo须导师，Montréal先解决法语；Alberta核心官网403尚未闭环。
 
-## Summary by difficulty
+| 大学 / 项目 | QS2027综合 / Physics2026 | 类型 / 学制 / research | GPA / 先修焦点 | GRE / 英语 | 主截止 / scholarship | 学费 / funding | Match / Difficulty / 优先级 | 官方主来源 |
+|---|---|---|---|---|---|---|---|---|
+| [University of Toronto — Master of Science in Physics](UofT_MSc_Physics.md) | 32 / 29 | Academic / Research；1年，3 sessions；研究项目与研究报告；不应写成固定2年thesis MSc。 | SGS列final-year mid-B；Physics系列B+及Honours Physics，按较严格的系要求评估。须取得末年/相关课程成绩。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；Honours Physics或等效；核对本科专业、四大力学及数学准备。 | 所查核心招生页未列强制GRE；2027申请清单复核。；已完成或预计完成英语授课大学学位可申请豁免；须按官方要求提供授课语言证明。 | 年度12月11日23:59；未见明确2027入学批次公告。（年度规则，2027批次待确认） | 2027学费未核实；须使用本人国际学生费率报价。；系页面承诺正常资助路径；CAD31,000加tuition为as of 2024基准，会调整，非2027报价；含TA义务。 | High / Reach；冲刺；先核末年GPA | https://www.physics.utoronto.ca/graduate/prospective-students/graduate-admissions-department-physics/qualifications-and-programs/ |
+| [University of British Columbia — Master of Science in Physics](UBC_MSc_Physics.md) | 45 / 50 | Academic / Research；通常约2年；官网历史平均2.3年；至少30 credits，其中18-credit thesis、12 credits graduate coursework；须public research presentation。 | Graduate School一般B+（76% at UBC）；现行Physics Academic Calendar明确third- and fourth-year courses overall average 80% or better is expected，按更严格项目标准评估。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；Physics本科或等效；研究方向包含dark matter、astronomy、particle physics；须核核心课程。 | Not required。；来自加拿大大学的本科不属于官网要求ELP考试的“university outside Canada”情形；UofT路径可依官方规则处理。 | 官网写upcoming intake deadlines尚未配置；2027主截止和奖学金优先日期待发布。（待发布） | 官网当前International first-year tuition CAD10,081.65；页面未承诺这是2027费率。；项目说明有支持覆盖生活/学费的资助体系；CAD34,361 gross /25,286 net为2023-24历史median，非2027保证额。 | High / Reach；冲刺；导师方向先匹配 | https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics |
+| [McGill University — Master of Science (M.Sc.) Physics (Thesis)](McGill_MSc_Physics.md) | 30 / 61 | Academic / Research；2年；45 credits；5门课共15 credits，另30 credits研究论文。 | 大学最低CGPA 3.0/4.0；所查Physics页未核到更高明确最低值，不代表3.0有充分竞争力。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；Physics本科或等效；需研究背景和扎实高级物理。 | 不要求；系页面鼓励GRE（General / Subject），不能写成required。；英语授课加拿大本科学位可按Graduate Admissions规则免语言考试；最终需提交符合要求的证明。 | Fall年度12月15日；2027批次待确认。（年度规则，2027批次待确认） | 2027学费未核实；须使用本人国际学生费率报价。；有研究/TA及scholarship资助路径；本人的2027package、净额和期限待offer确认。 | High / Reach；冲刺；门槛边缘 | https://www.mcgill.ca/gradapplicants/program/physics-msc |
+| [University of Waterloo — Master of Science in Physics (Thesis)](Waterloo_MSc_Physics.md) | 113 / 78 | Academic / Research；2年，6 terms；4门研究生课与thesis；本轮选择Thesis选项。 | Honours Science本科最低75% overall；UofT成绩须按招生方等效审核，不能直接换算3.0=75%。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；Honours Science或等效；研究背景、Physics/数学课程与拟导师课题匹配。 | Physics GRE不要求，导师可能索取；加拿大本科无需按境外学历推荐规则补考。；英语加拿大本科路径通常无需ELP；按所查MSc项目规则提交学历证明。 | September年度1月9日；2027批次待确认。国际申请建议提前约9个月。（年度规则，2027批次待确认） | 2027学费未核实；须使用本人国际学生费率报价。；Thesis MSc一般有CAD21,000+ after tuition and fees /year支持，期限6 terms；具体offer决定。 | High / Reach；导师匹配后优先 | https://uwaterloo.ca/physics-astronomy/graduate-studies/msc-programs |
+| [Université de Montréal — Maîtrise en physique](Montreal_MSc_Physics.md) | 162 / 151-200 | Academic / Research；45 credits；全日制至少3 trimestres，实际研究时长待确认；包含mémoire研究选项；本轮选择研究路线。 | 最低3.0/4.3 equivalent，若原大学硕士最低标准更高按较高者；3.0/4.0不是自动满足。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；Physics本科或等效；提交前需professor同意supervision。 | 所查项目规则未提及GRE。；有法语要求；faculty要求测试时须达到C1。英语本科豁免不解决法语。申请人法语能力未记录。 | Fall 2027及May 2027申请截止2027-02-01；网页已列明确2027周期。（2027已公布） | 官网示例CAD12,370.27为2025-26国际学生15-credit trimester，不能当作年费或全程费用。；官网列最低CAD15,600/year支持2年；实际offer、学费和净额另核。 | High / Reach；暂缓；法语资格先核 | https://admission.umontreal.ca/programmes/maitrise-en-physique/ |
+| [McMaster University — M.Sc. in Physics and Astronomy](McMaster_MSc_Physics_Astronomy.md) | 174 / 201-250 | Academic / Research；Thesis 2年；coursework 1年；两条路线；本轮优先2年thesis研究。 | 官方项目页要求Honours Physics / Astronomy / related；当前对应calendar未返回正文，数值最低GPA待核。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；Honours bachelor；四大力学和数学；研究方向含Computational / Theoretical / Astrophysics / Particle Physics。 | 所查核心页面未明确GRE要求。；加拿大英语学位的具体免试条款本轮未核实，须向SGS按官方规则确认。 | 年度1月31日scholarship full consideration；4月30日final；2027批次待确认。（年度规则，2027批次待确认） | 2027学费未核实；须使用本人国际学生费率报价。；系明确local/international graduate students由TA及supervisor research fellowship支持；coursework选项的适用性及2027净额待核。 | High / Reach；条件备选；先核成绩 | https://gs.mcmaster.ca/program/physics-and-astronomy/ |
+| [Queen’s University — Master of Science in Physics](Queens_MSc_Physics.md) | 179 / 201-250 | Academic / Research；2年；至少4门term courses、研究项目及thesis，2年内完成。 | 官网最低second class standing in honours bachelor in Science；未将其转换成UofT具体GPA。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；Honours Science本科；MASc需要Engineering / Applied Science，HY应选MSc。 | 核心页面仅提示some programs require GRE，Physics-specific要求未明确。；申请前12个月内有至少完整1年英语大学学习可提出免试request；符合UofT背景，仍需申请确认。 | 2027项目和奖学金截止待核。（待核实） | 2027学费未核实；须使用本人国际学生费率报价。；接受的Master学生保证最低CAD31,000/year，2年；来源含TA、fellowships、supervisor支持；不是扣除学费后净额。 | High / Reach；条件备选；需研究名额 | https://www.queensu.ca/physics/grad-studies/admission-requirements |
+| [University of Alberta — Master of Science in Physics](UAlberta_MSc_Physics.md) | 96 / 201-250 | Academic / Research；旧档约2年；本轮未重新核实；旧档为thesis MSc；当前学位规则待恢复后核实。 | 旧档记录last 60 credits 3.0/4.0；当前官方招生页403，不能作为2027已核要求。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；旧档Physics / related degree；必须核对现行课业及导师要求。 | 当前未核实。；当前英语学位豁免未核实；不要仅凭UofT背景自动勾选豁免。 | 2027主截止与资助截止均未核实。（年度规则，2027批次待确认） | 2027学费未核实；须使用本人国际学生费率报价。；当前MSc资助承诺、期限、是否接受self-funded及2027金额未核实。 | Medium / Unknown；待核心官网恢复 | https://www.ualberta.ca/en/physics/graduate-studies/index.html |
 
-| Difficulty | Count | Notes |
-|-----------|-------|-------|
-| Reach | 14 | GPA 3.0 significantly below or near the expected profile; includes PSL and IP Paris |
-| Match | 40 | Planning label; eligibility and supervisor conditions still require verification; French additions are provisional |
-| Safe | 2 | Historical non-Canadian taught-program labels; no Canadian program is classified as Safe |
+规模与材料补充：
 
-## France — verified 2026-10-01
+| 项目 | Cohort / 推荐与导师 / caveat |
+|---|---|
+| [Toronto · MSc Physics](UofT_MSc_Physics.md) | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。；2封academic references；官网要求不要多于2封。；官方核心页面已访问；2027未发布字段待更新；研究匹配属于判断，不表示导师招募已确认；不能用SGS较低门槛覆盖系里B+要求。 |
+| [UBC · MSc Physics](UBC_MSc_Physics.md) | 官网显示50名在读学生；不是年度cohort。；3封；申请时列感兴趣faculty，不要求事先获得导师承诺，鼓励联系。；官方核心页面已访问；2027未发布字段待更新 |
+| [McGill · MSc Physics](McGill_MSc_Physics.md) | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。；2封来自任课教师的推荐；鼓励预先了解/联系potential supervisor。；官方核心页面已访问；2027未发布字段待更新；系与大学Winter截止存在差异，本轮只规划Fall，不混用Winter日历。 |
+| [Waterloo · MSc Physics](Waterloo_MSc_Physics.md) | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。；3封，其中至少2封academic；入学前需确定supervisor。；官方核心页面已访问；2027未发布字段待更新；Major Research Paper选项为7门课加paper，需要导师且无项目资助；Quantum Technology路线不是本轮主目标。 |
+| [Montréal · Maîtrise physique](Montreal_MSc_Physics.md) | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。；2封推荐；motivation、information form；申请前需导师接受。；官方核心页面已访问；2027未发布字段待更新；排名保留不表示当前语言资格已满足。 |
+| [McMaster · MSc Physics & Astronomy](McMaster_MSc_Physics_Astronomy.md) | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。；推荐信数及导师事前承诺规则未核实；研究名额需与导师方向匹配。；官方核心页面已访问；2027未发布字段待更新 |
+| [Queen’s · MSc Physics](Queens_MSc_Physics.md) | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。；推荐信数量与导师承诺流程待核；研究名额须落实。；官方核心页面已访问；2027未发布字段待更新 |
+| [Alberta · MSc Physics](UAlberta_MSc_Physics.md) | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。；当前推荐信数量和supervisor流程未核实。；排名已核；核心招生来源403，信息未闭环；此档保留历史值且逐项标明未更新；last-verified表示本轮访问尝试，不表示403页面条款已核。 |
 
-仅保留指定英语路径；项目公开条件未列法语等级，IP Paris 明确将法语列为建议。**加拿大 EEF 2027/2028 招生窗口已公布：2026-10-01 至 2027-02-15**；具体项目是否经 EEF 招生须核实，不能套用于校内申请。Paris-Saclay 已确认先 Inception、录取后 EEF “I am accepted”。完整渠道、日期、字段及两种排名见 [法国汇总](France_Physics_Masters.md)。
+## 澳大利亚（5项）
 
-| School / file | QS overall 2027 | QS Physics 2026 | English program | French prerequisite | Match / difficulty | Status | Official source |
-|---|---:|---:|---|---|---|---|---|
-| [PSL](PSL_Master_FundamentalPhysics_ICFP.md) **准备优先** | 34 | =32 | Fundamental Physics / ICFP | 公开条件未列等级 | High / Reach | 正式；2027 deadline 未公布 | https://psl.eu/en/education/master-s-degree-physics |
-| [IP Paris](IPParis_Master_Physics_HEP.md) **准备优先** | 43 | 45 | High Energy Physics M1 + M2 | highly desirable，仅建议 | High / Reach | 正式；2027 deadline 未公布 | https://www.ip-paris.fr/en/education/graduate-programs/masters-science/physics-program/master-year-1-high-energy-physics |
-| [Sorbonne](Sorbonne_Master_FundamentalPhysics.md) | 73 | =32 | Paris Physics Master；英语 M2 另核 | 公开条件未列等级 | High / Match（暂定） | 正式；英语 M1 eCandidat 2027 年 3–5 月，确切日/EEF 并行待核 | https://master.physique.sorbonne-universite.fr/fr/paris-physics-master.html |
-| [Paris-Saclay](ParisSaclay_Master_GeneralPhysics.md) **奖学金准备优先** | 76 | 21 | M1 General Physics；英语 M2 另核 | 公开条件/材料未列等级 | High / Match（暂定） | 正式；2027 Inception 窗口待核，录取后 EEF | https://www.universite-paris-saclay.fr/en/education/masters-degree/physique-fondamentale-et-applications/m1-general-physics |
-| [Paris Cité](ParisCite_Master_ParisPhysics.md) | 303 | 151–200 | Paris Physics Master；与 Sorbonne 联办 | 公开条件未列等级；有入学后法语课 | High / Match（暂定） | **补充候选；排名不符合前 100，不计数**；加拿大 EEF 窗口适用性待核 | https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/physique-fondamentale-et-applications-K2VO0C50/master-physique-fondamentale-et-applications-m1-parcours-paris-physics-master-JS1XR1EO.html |
+学科前五分别ANU、Melbourne、Sydney、UNSW、Monash。以2027年6月毕业为约束：授课项目应核July 2027开班；研究学位可谈毕业后research period。Monash与ANU普通版更便于形成条件主申，但不能伪装为保证论文/资助的research MSc。Sydney与UNSW需honours等效及导师，UNSW国际2027后两学期常规奖学金轮已截止。
 
-ENS Lyon（M1 French B1）和 Grenoble（M1 法语授课）已剔除并删除本次候选文件，理由和官方来源保留于法国汇总。Sorbonne / Paris Cité 的同一联合项目不能算两次独立机会；ICFP 联合项目亦须核实招生和注册安排。英语授课本科学位的 TOEFL / IELTS 豁免按每校文件核实。
+| 大学 / 项目 | QS2027综合 / Physics2026 | 类型 / 学制 / research | GPA / 先修焦点 | GRE / 英语 | 主截止 / scholarship | 学费 / funding | Match / Difficulty / 优先级 | 官方主来源 |
+|---|---|---|---|---|---|---|---|---|
+| [University of Sydney — Master of Philosophy (Science) — Physics research](Sydney_MPhil_Science_Physics.md) | 28 / 67 | Academic / Research；课程页未取得完整学制正文；HDR时限须offer确认；Research thesis加规定HDR研究训练；不是Master of Medical Physics。 | MPhil一般first or second class honours bachelor，或equivalent research capability；UofT普通Physics学位不自动等效Australian honours。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；Physics相关研究背景；必须先取得supervisor同意并准备研究proposal。 | 所查HDR入口未提及GRE。；英语授课；UofT degree / study满足免试的现行年限和材料仍需核实。 | 研究申请全年开放，具体research period及scholarship round分开确认；只考虑2027年6月毕业之后。（年度规则，2027批次待确认） | 2027学费未核实；须使用本人国际学生费率报价。；可竞争RTP/大学research scholarships；录取不等于获奖，国际学费或fee-offset待个案确认。 | High / Reach；导师+honours等效后申请 | https://www.sydney.edu.au/courses/courses/pr/master-of-philosophy-science.html |
+| [University of New South Wales — Master by Research in Physics (2930)](UNSW_Physics_MRes.md) | 19 / 72 | Academic / Research；通常2年 /96 UOC；通用HDR列1.5-2年；研究thesis；Master by Research学位，不是授课MSc。 | School Science要求appropriate Bachelor with lower second honours或更高，或Faculty HDC认可等效；通用HDR列4年second class honours。Scholarship with admission另要求4年first-class honours或equivalent research qualification experience。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；Physics研究题目、supervisor、proposal及honours equivalence。 | 所查HDR入口未提及GRE。；可用被认可的英语学习经历满足语言政策；UofT具体免试年限、文件待确认。 | 国际Term2/3 2027常规scholarship round已于2026-08-14关闭；自费仍需按流程提前申请。Term3 2027为9月13日。（已公布窗口；2027部分奖学金已截止） | 2027学费未核实；须使用本人国际学生费率报价。；RTP/UNSW奖学金竞争；下一常规国际round 2027-04-16对应Term1 2028；CSC另有条件，不能假定MRes适用。 | High / Reach；导师与等效资格优先；资金窗口受限 | https://www.unsw.edu.au/science/study-with-us/postgraduate-research/masters-research |
+| [University of Melbourne — Master of Science (Physics)](Melbourne_MSc_Physics.md) | 22 / 57 | Academic / Research；旧档2年；当前手册正文受访问限制；旧档含major research project；本轮无法核到当前项目学分、论文及导师规则。 | 旧档记录相关本科约65%；官网403/challenge，不能作为此次已核2027资格或概率依据。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；Physics本科；量子、电磁、统计、实验及数学的具体现行门槛待核。 | 当前未核实。；当前UofT学位免英语考试条件未核实。 | 2027 mid-year是否提供此专业及申请截止待核。（年度规则，2027批次待确认） | 2027学费未核实；须使用本人国际学生费率报价。；2027国际学费、奖学金、研究项目是否资助未核实。 | Medium / Unknown；待官网恢复；不直接提交 | https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/ |
+| [Australian National University — Master of Science in Theoretical Physics](ANU_MSc_TheoreticalPhysics.md) | 29 / 48 | Professional / Taught；Advanced带研究项目；2年，96 units；普通版不列强制thesis；Advanced增加24 units research/thesis，前48 units平均70%及导师同意。 | 普通版overall 5.0/7，且best 8 cognate courses 5.0/7；Advanced均5.5/7。不得线性换算3.0/4.0。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；Physics / Engineering / Mathematics cognate degree及量子、统计、数学等理论准备。 | 所查2027课程页未要求GRE。；英语授课；UofT学位的具体免试证明及有效期仍需ANU English policy确认。 | Semester 2 2027海外申请2027-05-15；澳洲境外接受offer截止6月30日；本科须能及时完成。（2027已公布） | 2027国际学生indicative annual fee AUD57,640；2年费用可能调整，非固定全程报价。；授课型普通版不保证RA/TA或stipend；奖学金竞争。Advanced研究项目不自动带资助。 | Medium / Match；条件主申；研究版更高门槛 | https://programsandcourses.anu.edu.au/2027/program/nsctp |
+| [Monash University — Master of Science in Physics (S6000)](Monash_MSc_Physics.md) | 31 / 93 | Professional / Taught；可选research project；标准2年 /96 points；2026 advanced standing 1.5或1年；2027 Part C 24 points Research Project or Work Integrated Learning；另有capstone；非统一强制thesis。 | 2026 handbook Entry 1：cognate bachelor high-credit 65%；2027 handbook entry-requirements字段为空，不将旧65%冒充2027已公布标准。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；Physics、数学及QM/EM/统计等；2026 Entry 2/3学分减免有额外专业课程或honours条件。 | handbook未列GRE。；2027 handbook Level A：IELTS6.5各项6.0等；UofT degree waiver需现行通用英语政策确认。 | 2027毕业后的July intake可否提供Physics及截止待核；不要默认2月2027可入学。（年度规则，2027批次待确认） | 2027学费未核实；须使用本人国际学生费率报价。；授课型MSc不保证stipend或RA/TA；研究项目不等于研究学位奖学金。 | High / Match；条件主申；先核65%等效 | https://handbook.monash.edu/2027/courses/S6000 |
 
-**前四所申请条件（2026-10-01 核实）**：均未公布数值 GPA 门槛或录取均值；公开 M1 流程未列先取得意向导师接收函。PSL 明确两封推荐信，2026 为固定面试/放榜；IP Paris 外部申请人需两位学术推荐人在线提交，按三轮申请，并明确考虑本科院校排名；Paris-Saclay 的相关国际申请人须准备两位推荐人，General Physics rolling 机制未核实；Sorbonne 系通用清单未列推荐信，PPM 专属要求及 rolling 待核。完整分析、U of T 成绩解释及官方来源见 [法国汇总](France_Physics_Masters.md)。
+规模与材料补充：
 
-## File rules
+| 项目 | Cohort / 推荐与导师 / caveat |
+|---|---|
+| [Sydney · MPhil Science / Physics](Sydney_MPhil_Science_Physics.md) | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。；一般2份referee reports；up to 2,000-word proposal与supervisor agreement。；官方核心页面已访问；2027未发布字段待更新；项目页JS未展示完整课程字段；上述门槛来自MPhil通用HDR页面，不混用更高的PhD first-class标准。 |
+| [UNSW · Physics Master by Research](UNSW_Physics_MRes.md) | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。；HDR推荐材料数量待细核；须先寻找并落实导师。；官方核心页面已访问；2027未发布字段待更新；2027 Term2开学在5月，本科毕业前，不作为默认目标；不得把domestic scholarship dates给国际申请人。 |
+| [Melbourne · MSc Physics](Melbourne_MSc_Physics.md) | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。；推荐信、research supervisor和项目选择程序未核实。；排名已核；课程/招生正文受限，信息未闭环；本轮尝试的2026 handbook地址未取得课程正文；HTTP200挑战页也不能证明页面地址或招生条款正确。 |
+| [ANU · Theoretical Physics](ANU_MSc_TheoreticalPhysics.md) | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。；课程招生页未列固定推荐信数；Advanced研究安排需导师。；官方核心页面已访问；2027未发布字段待更新；HY预计2027年6月毕业，2027年2月开学不能作为正常可行入学期。 |
+| [Monash · MSc Physics](Monash_MSc_Physics.md) | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。；course handbook未列固定推荐信数；research project需后续导师安排。；官方核心页面已访问；2027未发布字段待更新；官网正文为JS；本轮从公开HTML的__NEXT_DATA__提取官方课程数据。2027课程结构已核，数值入学条件仍仅有2026详细值。 |
 
-- Create one markdown file per program using the existing naming convention in this folder.
-- Keep the official source URL visible in both the per-program file and the index table.
-- Add a last-verified date once a source has been checked.
+## 美国（10项）
 
-Navigation:
+按外部硕士可申请、科研路线与成绩可行性筛10项，不是美国学科全国前十。研究优先NYU、Northwestern、Stony Brook；Brown作重点冲刺。UT Austin和Georgia Tech虽有MS入口但自费、竞争与研究安排须核。Columbia偏应用；UIUC为MEng，BU为QS&E，均是相邻方向备选。WashU既有MA档案保留复核，最新排名筛选未闭环，不算正式推荐。
 
-- [Canada Physics Master's Applications](Canada_Academic_Physics_Masters.md)
-- [France Physics Master's Applications](France_Physics_Masters.md)
-- [Academic / Research Master Programs](../physics-master-academic-programs.md)
-- [Professional / Taught Master Programs](../physics-master-professional-programs.md)
+| 大学 / 项目 | QS2027综合 / Physics2026 | 类型 / 学制 / research | GPA / 先修焦点 | GRE / 英语 | 主截止 / scholarship | 学费 / funding | Match / Difficulty / 优先级 | 官方主来源 |
+|---|---|---|---|---|---|---|---|---|
+| [Brown University — Master of Science (Sc.M.) in Physics](Brown_ScM_Physics.md) | 66 / 137 | Academic / Research或coursework option；1-2年，可2 /3 /4 semesters；8门课；department明确coursework与thesis option，thesis recommended；另main page称including thesis，存在表述差异。 | 未公开数值最低或硕士录取典型GPA；需强Physics background。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；经典、电磁、量子、统计核心课程，research experience与SOP。 | General和Physics Subject GRE均不要求。；英语为唯一授课语言的本科可按规则免试；Canadian English degree路径适用，须证明。 | Fall 2027 priority 2027-02-01；final 2027-04-01。（2027已公布） | 2027学费未核实；须使用本人国际学生费率报价。；项目/系不提供guaranteed scholarships；按自费安排，外部奖学金另计。 | Medium / Reach；优先冲刺；自费 | https://graduateprograms.brown.edu/graduate-program/physics-scm |
+| [University of Texas at Austin — Master of Science in Physics](UTAustin_MS_Physics.md) | 72 / 31 | Academic / Research；具体MS路线及时长待当前degree regulations核实；存在terminal masters入口；当前thesis/non-thesis学分细则未闭环。 | 系招生FAQ明确no minimum undergraduate GPA to apply；3.0 advanced undergraduate是funding要求，不能混同招生硬门槛。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；核心Physics本科；CM / QM / EM / thermal/statistical准备。 | General GRE not required；Physics Subject optional，提交可在SOP说明。；英语国家/加拿大本科可依Graduate School规则处理；UofT具体所需证明本轮未细核。 | Fall年度December1 23:59 CST；推荐信可晚1周；2027批次待确认。（年度规则，2027批次待确认） | 2027学费未核实；须使用本人国际学生费率报价。；可以master-only申请，但no financial support；按自费。 | Medium / Reach；冲刺；硕士自费入口明确 | https://physics.utexas.edu/academics/admissions |
+| [Georgia Institute of Technology — Master of Science in Physics](GeorgiaTech_MS_Physics.md) | 142 / 53 | Academic / Research；30 credits；固定日历学制未公开于所查页；Thesis6 credits或Non-thesis Special Problems / Practicum6 credits。 | 未公开外部MS数值最低；catalog3.3/3.0为校内BS/MS，2.7为MS graduation，不能套HY申请。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；upper-division CM / EM / QM / thermal Physics；研究型目标系建议考虑PhD，但MS外部入口明确。 | General和Physics GRE均不要求。；Fall2027英语政策更新：已取得英语授课degree可用transcript /institutional letter；申请时尚未毕业的UofT本科如何满足须确认。 | 年度December15；2027 MS批次待确认。（年度规则，2027批次待确认） | 2027学费未核实；须使用本人国际学生费率报价。；MS不提供系financial support，需full tuition；研究论文不自动RA-funded。 | Medium / Reach；条件冲刺；可选thesis | https://physics.gatech.edu/academics/graduate/admissions-info |
+| [Columbia University — Master of Science in Applied Physics](Columbia_MS_AppliedPhysics.md) | 43 / 23 | Professional / Taught；30 points；固定日历时长待核；以课程为主；所查degree条款无强制thesis。 | 2026-27课程条款未列明确本科最低GPA；旧3.0不可当本轮已核招生标准。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；四门APPH core，数学/CS/DS可选；本科Physics相关。 | Engineering catalog仍写Aptitude GRE required；旧档optional与之矛盾，admissions FAQ403，2027最终规则待核。现有317是General，不是Subject。；UofT英语学位具体豁免/申请时点本轮未闭环。 | 旧档February15未重新核实；2027主deadline待招生入口恢复。（年度规则，2027批次待确认） | 2027学费未核实；须使用本人国际学生费率报价。；MS保证资助未核到；catalog的doctoral aid不可套用，按自费。 | Medium / Reach；有兴趣再投；方法相邻 | https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/applied-physics-applied-mathematics/graduate-programs/applied-physics-ms/ |
+| [Washington University in St. Louis — Master of Arts in Physics](WUSTL_MA_Physics.md) | 162 / 301-350 | Professional / Taught；可选research credits；约2年；36 credits；非thesis MA，最多6 credits research；不自动成为研究型硕士。 | Graduate Studies FAQ明确不公布minimum GPA /GRE score，以整体申请评价；Physics未另列本科minimum。catalog3.0为研究生成绩要求。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；Physics本科、核心课程及research准备；独立MA入口由Physics how-to-apply确认。 | GRE不要求。；Graduate Studies FAQ允许符合exemption policy者免英语考试，但链接至Provost政策；本輪未取到其UofT具体条款，保持待确认。 | 2027 MA专属主截止和资助截止未核实。（年度规则，2027批次待确认） | 2027学费未核实；须使用本人国际学生费率报价。；本轮未核到MA保证资助；不可套PhD stipend；按自费预案，具体收费待核。 | Medium / Unknown；条件备选；排名与资助待闭环 | https://physics.wustl.edu/how-apply |
+| [Northwestern University — Master of Science in Physics](Northwestern_MS_Physics.md) | 45 / 76 | Academic / Research；Standard约1年；Broad约15个月；历史均值4.5/5 quarters；Standard：9 graded courses + thesis；Broad：12 courses，无同样thesis要求。 | 官方3.0为在读good standing / PhD en-route学位标准，不能当成本科招生最低；外部MS admission minimum未明确。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；完整Physics核心；可选cosmology、stellar dynamics、general relativity等；非Physics可能需额外年。 | 官网仅Fall 2025 GRE optional；2027政策待确认。；TGS English-degree exemption的现行证明和“已完成/预计完成”时点待核；不直接宣布自动免试。 | 2027 MS项目deadline未核到，不能沿用PhD截止。（年度规则，2027批次待确认） | 2027学费未核实；须使用本人国际学生费率报价。；Department funding not available；按自费；有限工作/外部奖学金不保证。 | High / Match；美国重点；选Standard / Thesis | https://www.physics.northwestern.edu/graduate/master-degree/index.html |
+| [Stony Brook University — Master of Arts in Physics](StonyBrook_MA_Physics.md) | 468 / 85 | Academic / Research；通常2年 /4 semesters；最长3年；30 credits；thesis或comprehensive exam；本轮优先thesis。 | overall minimum3.0，undergraduate coursework B，math/science B；3.6等PhD典型值不能套到MA。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；Physics完整核心；本科数学与科学成绩逐项核对。 | GRE not required and no longer accepted。；英语授课学位符合学校免试路径；TA英语标准可能另高，须提供学历/语言材料。 | rolling，自12月15日开放；国际学生May1 final/full consideration，2027周期待确认。（年度规则，2027批次待确认） | 2027学费未核实；须使用本人国际学生费率报价。；MA不保证stipend或tuition scholarship；可能受雇TA/RA，但不可当保证资助。 | High / Match；美国重点；明确申请门槛 | https://www.stonybrook.edu/physics/graduate/degrees/ma.html |
+| [New York University — Master of Science in Physics](NYU_MS_Physics.md) | 58 / 103 | Academic / Research；32或36 credits；日历时长未核明确；Thesis32 / Examination32 / Report36 credits三条路线。 | FAQ无minimum score requirement；未单列MS本科数字最低，不能杜撰3.0硬门槛。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；CM / QM / EM / Statistical与Computational Physics；MS与PhD同修core，要求相同基础。 | GSAS Sept2026更新页列General GRE optional；department Fall2026称General / Subject optional，2027复核。；英语授课本科完成或预计完成可依GSAS免试规则处理；需符合指定材料。 | 年度December30 17:00 ET，若weekend/holiday顺延business day；2027周期待确认。（年度规则，2027批次待确认） | 2027学费未核实；须使用本人国际学生费率报价。；MS负责自筹资金；RA/adjunct teaching机会极具竞争且不保证，不能套PhD MacCracken fellowship。 | High / Match；美国重点；选thesis | https://bulletins.nyu.edu/graduate/arts-science/programs/physics-ms/ |
+| [University of Illinois Urbana-Champaign — Master of Engineering in Instrumentation and Applied Physics](UIUC_MEng_Instrumentation_AppliedPhysics.md) | 74 / 29 | Professional / Taught；1年 /2 semesters，32 credit hours；两学期Instrumentation and Applied Physics Project；industry/capstone，非academic thesis。 | last two years minimum3.0；不是仅看CGPA，须单独计算后两年。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；Physics / Astronomy degree或related degree + Physics minor；CM / EM / QM及现代高级编程语言（Python等）；statistical/thermal course recommended, not required。 | Not required。；非英语母语且未曾在英语为主要教学语言的项目学习2年才需要TOEFL/IELTS；UofT已读超过2年可按该条款申请免试。 | 页面Fall2026列rolling、general June1 / international May1；2027待发布，不作为明确2027截止。（仅公布旧周期，2027待发布） | 2027学费未核实；须使用本人国际学生费率报价。；专业MEng按自费；未核到保证RA/TA；费用须以2027收费表为准。 | Medium / Match；应用就业备选；非PhD桥梁 | https://physics.illinois.edu/academics/masters |
+| [Boston University — Master of Science in Quantum Science & Engineering](BU_MS_QuantumScience_Engineering.md) | 94 / 98 | Professional / Taught；1 calendar year（full-time internship option），32 units；可research internship或external internship；不选project可多修课，非强制thesis。 | 所查program page未公开数字最低或admitted level。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；Physics / engineering / chemistry / CS / math本科；LA、多元微积分、modern physics/chemistry与lab。 | Fall2027 MA/MS官方表中Quantum Science & Engineering列Not required。；英语学位免试细则按GRS master policy；申请时仍在读是否可免待确认。 | Fall2027 priority 2027-01-15；regular 2027-03-15；官方已列该program行。（2027已公布） | 2027学费未核实；须使用本人国际学生费率报价。；GRS有competitive merit scholarships且无单独申请；不表示QSE保证资助；其余自费。 | Low / Match；转量子方向才申请 | https://www.bu.edu/academics/grs/programs/physics/ms-in-quantum-science-engineering/ |
+
+规模与材料补充：
+
+| 项目 | Cohort / 推荐与导师 / caveat |
+|---|---|
+| [Brown · ScM Physics](Brown_ScM_Physics.md) | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。；主program page列3封；department MSc page列2封，存在冲突，准备3封并以申请系统最终清单为准。；官方核心页面已访问；2027未发布字段待更新 |
+| [UT Austin · MS Physics](UTAustin_MS_Physics.md) | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。；3封；硕士没有官方先获导师承诺要求，研究安排另谈。；官方核心页面已访问；2027未发布字段待更新；页面历史PhD录取统计不能当作MS个体概率。 |
+| [Georgia Tech · MS Physics](GeorgiaTech_MS_Physics.md) | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。；MS推荐信数本轮未核清；thesis需Physics faculty指导。；官方核心页面已访问；2027未发布字段待更新 |
+| [Columbia · MS Applied Physics](Columbia_MS_AppliedPhysics.md) | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。；MS推荐信数及是否需联系导师待核。；degree规则已核；部分招生核心字段待核；不能因为学校排名高将应用物理自动判为High。 |
+| [WashU · MA Physics](WUSTL_MA_Physics.md) | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。；推荐信要求以MA申请系统为准；本轮未核数量。；项目入口已核；最新排名门槛及部分招生字段待核；QS2027综合162、Physics2026为301-350，未满足QS门槛；旧US News21不作为本次最新证据。此为既有档案复核候选，不计已通过排名筛选的正式推荐。 |
+| [Northwestern · MS Physics](Northwestern_MS_Physics.md) | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。；2027推荐信数未核；thesis后续需要advisor与committee。；官方核心页面已访问；2027未发布字段待更新；官网88%graduates进入PhD为历史去向，不是录取概率；本科GPA3.0仍需要科研和推荐补强。 |
+| [Stony Brook · MA Physics](StonyBrook_MA_Physics.md) | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。；一般graduate application需3封；无需申请前找导师承诺，申请中列research interests。；官方核心页面已访问；2027未发布字段待更新；官网Fall2026 MA转PhD数据是历史学生去向，不是HY录取概率；最低3.0仍不表示Safe。 |
+| [NYU · MS Physics](NYU_MS_Physics.md) | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。；推荐信数以GSAS MS申请清单为准，本轮未单独核清。；官方核心页面已访问；2027未发布字段待更新；MS不是NYU PhD后门；官网PhD申请量/offer比例不能用于本人的MS录取概率。 |
+| [UIUC · MEng Instrumentation & Applied Physics](UIUC_MEng_Instrumentation_AppliedPhysics.md) | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。；2封推荐；不是Physics PhD的附带MS。；官方核心页面已访问；2027未发布字段待更新；旧UIUC_MS_Physics.md不再代表独立研究型MS；本轮计数只有本MEng一项。 |
+| [BU · MS Quantum Science & Engineering](BU_MS_QuantumScience_Engineering.md) | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。；GRS master具体推荐信数及QSE-specific材料须portal核；不要借用Physics PhD清单。；官方核心页面已访问；2027未发布字段待更新；本轮美国10项包括8项Physics / Applied Physics学位及2项相邻专业硕士（UIUC MEng和BU QS&E）；后两项不与论文MSc同等推荐。 |
+
+## 法国（5项）
+
+按物理全国前五选Paris-Saclay、PSL、Sorbonne、IP Paris、Grenoble。优先English M1 General Physics和Paris Physics Master，IP Paris HEP为研究最贴近的冲刺，PSL为强冲刺。Grenoble M1为French，当前不宜作为可提交主申。M1只是完整Master第一年，M2衔接、EEF与校内渠道、2027窗口应分开核，不把2026日期平移一年。
+
+| 大学 / 项目 | QS2027综合 / Physics2026 | 类型 / 学制 / research | GPA / 先修焦点 | GRE / 英语 | 主截止 / scholarship | 学费 / funding | Match / Difficulty / 优先级 | 官方主来源 |
+|---|---|---|---|---|---|---|---|---|
+| [Université PSL — Master’s degree in Physics — International Centre for Fundamental Physics (ICFP)](PSL_Master_FundamentalPhysics_ICFP.md) | 34 / 32 | Academic / Research；2年 /120 ECTS；本科毕业应申请M1；M1/M2 research internships与research-based training；各年论文/实习具体学分按track。 | 扎实Physics本科；高级QM/statistical与数学，file + interview选拔；无公开数字最低。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；Physics本科核心和严谨理论/数学；科研成果及面试能力。 | 所查program page未列GRE要求。；English教学；现行ICFP语言证明/是否要求C1及UofT waiver未在所查program条款闭环。 | M1当前窗口2025-11-24至2026-01-23 23:59 CET；2027未发布。M2窗口不适用于只有本科的HY。（仅公布2026周期，2027待发布） | 2026-27 French/EU EUR255/year；non-EU未获豁免EUR3,950/year；2027-28及本人豁免待确认。；competitive scholarships，非录取自动资助；应准备自费。 | High / Reach；强冲刺；需突出科研 | https://psl.eu/en/education/master-s-degree-physics |
+| [Institut Polytechnique de Paris — Master Physics — M1 / M2 High Energy Physics](IPParis_Master_Physics_HEP.md) | 43 / 45 | Academic / Research；M1+M2 2年 /120 ECTS；M1至少16周internship；M2至少4个月thesis / internship，30 ECTS。 | Bachelor Physics / equivalent，excellent preparation；未公布数值最低或平均录取GPA。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；QM / EM / classical / statistical /数学；Higgs / likelihood / ML科研可对接HEP申请。 | 所查National Master招生页未要求GRE。；HEP English B2；French notions highly desirable而非明确强制等级。英语学位免试须National Master规则确认，不能直接套PhD Track豁免。 | 当前National Master三轮截止2026-01-08 /03-26 /05-28；2027未发布。（仅公布2026周期，2027待发布） | 2027学费未核实；须使用本人国际学生费率报价。；Master scholarship竞争；National Master不自动获得PhD Track资助或博士录取。 | High / Reach；科研最贴近；强冲刺 | https://www.ip-paris.fr/en/education/graduate-programs/masters-science/physics-program/master-year-1-high-energy-physics |
+| [Université Grenoble Alpes — Master Physique fondamentale et applications — M1 Recherche fondamentale](Grenoble_Master_FundamentalPhysics.md) | 387 / 121 | Academic / Research；M1 1年60 ECTS；衔接M2共2年；M1研究实习；numerical physics、advanced data analysis、cosmology选课；M2另择研究track。 | Licence Physics / equivalent；未核到数值最低或admitted level。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；Physics本科与QM / statistical /数学；数值与数据分析训练。 | 核心program页未提及GRE。；M1官网明确Français；具体所需French等级未核到。M2部分English不意味着M1可免法语。 | 当前2026-27课程可查；2027 M1主截止、国际渠道及奖学金窗口待核。（待发布 / 待核实） | 2027学费未核实；须使用本人国际学生费率报价。；ExTreM / Graduate School scholarships竞争，非保证；2027学费及non-EU豁免待核。 | High / Reach；暂缓；先解决法语 | https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/master-XB/master-physique-fondamentale-et-applications-IAQK7WZY/parcours-recherche-fondamentale-1re-annee-KKF93NKL.html |
+| [Université Paris-Saclay — Master Physique fondamentale et applications — M1 General Physics](ParisSaclay_Master_GeneralPhysics.md) | 76 / 21 | Academic / Research；M1 1年60 ECTS；完整M1+M2通常2年120 ECTS；M1研究实习；须后续获相容M2录取，完整thesis要求取决M2 track。 | Bachelor Physics为主，也接收扎实Physics的math/engineering；不公布数值GPA最低。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；QM / statistical physics / special relativity / electrodynamics及mathematical tools。 | 核心项目页未提及GRE。；English教学；至少B2，明确接受英语授课证明，不必仅靠考试；HY需准备UofT证明。 | 当前列Inception 2026-01-01至2026-07-06，仅2026入学；2027待发布。（仅公布2026周期，2027待发布） | 2027学费未核实；须使用本人国际学生费率报价。；International Master Scholarship当前EUR10,000/year，可续M2，competitive且先获提名；2026奖学金3月25/31日，2027待发布。 | High / Match；法国重点；优先早轮 | https://www.universite-paris-saclay.fr/en/education/masters-degree/physique-fondamentale-et-applications/m1-general-physics |
+| [Sorbonne Université — Master Physique fondamentale et applications — Paris Physics Master](Sorbonne_Master_FundamentalPhysics.md) | 73 / 32 | Academic / Research；M1+M2 2年 /120 ECTS；核心Physics、numerical methods与research internship；joint Paris Physics Master路线。 | Physics licence / equivalent；未公开数值最低或典型录取GPA。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；Physics核心与数学；astro / cosmology / high-energy / numerical methods适合现有研究。 | 所查官方课程条款未提及GRE。；所选Paris Physics Master为English；法语学习课不等于入学法语门槛。英语证明/豁免形式须PPM招生清单确认。 | 2027专属English M1日历当前未重新取到；旧2026-10-01档称March-May 2027，只作历史提示，不能标此次已核。（专属2027入口待重新核实） | 2027学费未核实；须使用本人国际学生费率报价。；2027学费、非EU差别收费豁免、实习支付和scholarships须最终注册单位确认；无统一保证stipend。 | High / Match；法国重点；核专属M1入口 | https://sciences.sorbonne-universite.fr/en/study/degree-seeking/masters/master-fundamental-physics-and-applications |
+
+规模与材料补充：
+
+| 项目 | Cohort / 推荐与导师 / caveat |
+|---|---|
+| [PSL / ENS · ICFP](PSL_Master_FundamentalPhysics_ICFP.md) | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。；M1推荐信数量和portal材料须2027清单核实；有interview。；官方核心页面已访问；2027未发布字段待更新 |
+| [IP Paris · High Energy Physics](IPParis_Master_Physics_HEP.md) | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。；2名academic references在线提交；CV / motivation /transcripts。；官方核心页面已访问；2027未发布字段待更新 |
+| [Grenoble · Recherche fondamentale](Grenoble_Master_FundamentalPhysics.md) | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。；项目推荐信数与国际申请渠道待核；不可假设仅需要成绩单。；官方核心页面已访问；2027未发布字段待更新；QS Physics2026为121，overall2027为387；按用户本次法国前五要求保留，属于原top100规则的明确范围例外。 |
+| [Paris-Saclay · General Physics](ParisSaclay_Master_GeneralPhysics.md) | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。；项目Supporting Documents中的letters按Inception最终清单；奖学金如适用需2名references。；官方核心页面已访问；2027未发布字段待更新；M1 General Physics是进入Master的第一年，不作为单独完整硕士学历；居住地和国籍决定EEF/校内渠道，不能按中国籍直接猜入口。 |
+| [Sorbonne · Paris Physics Master](Sorbonne_Master_FundamentalPhysics.md) | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。；PPM-specific references与专属eCandidat入口待核；不统一套MonMaster。；官方核心页面已访问；2027未发布字段待更新；Sorbonne专属站本轮TLS证书验证失败，未关闭TLS验证；学位内容由Sorbonne及共同授予方Paris Cité官方正文交叉确认。 |
+
+## 德国（5项）
+
+Physics全国前五为TUM、LMU、Heidelberg、KIT、RWTH。HY应先完成课程等效表而非直接换算CGPA。RWTH可用General GRE，LMU则要Physics或Math Subject GRE。KIT严格计理论/实验/lab；Heidelberg有grade2.9等效和面试；TUM有aptitude与非EU学费。Match均附课程及材料条件，未标任何项目Safe。
+
+| 大学 / 项目 | QS2027综合 / Physics2026 | 类型 / 学制 / research | GPA / 先修焦点 | GRE / 英语 | 主截止 / scholarship | 学费 / funding | Match / Difficulty / 优先级 | 官方主来源 |
+|---|---|---|---|---|---|---|---|---|
+| [Technical University of Munich — M.Sc. Physics (Applied and Engineering Physics)](TUM_MSc_Physics.md) | 25 / 27 | Academic / Research；2年 /4 semesters，120 ECTS；第一年高级课程；第二年research phase + Master thesis。 | 相关Bachelor、aptitude assessment；未核到可直接套用UofT的数值GPA门槛。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；Physics /相关自然或工程科学；core等效，foreign Bachelor需uni-assist VPD。 | 所查degree入口未列GRE。；English；一般TUM policy允许至少50%学位英语授课等证明路径；须按该Physics项目认可方式提供UofT文件。 | Winter年度January1-May31；Summer Sept1-Nov30；2027批次待确认。（年度规则，2027批次待确认） | 官方degree页列第三国学生EUR6,000/semester tuition；另semester contribution约EUR97（当前），2027具体金额待确认。；一般MSc不保证RA/TA；scholarships与tuition waiver可竞争，不能自动免non-EU学费。 | High / Reach；研究冲刺；课程+成本先核 | https://www.tum.de/en/studies/degree-programs/detail/physics-applied-and-engineering-physics-master-of-science-msc |
+| [Ludwig-Maximilians-Universität München — M.Sc. Physics](LMU_MSc_Physics.md) | 61 / 39 | Academic / Research；2年 /120 ECTS（学制需对应study regulations最终核对）；research-oriented Physics；当前thesis学分细则待study program确认。 | 相关Physics或science/math本科及aptitude assessment；无已核可套用的数字最低。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；Physics核心；1,000-word scientific essay、CV、transcript /degree；international office另有注册流程。 | degree outside EU必须Physics或Mathematics Subject GRE；General317/Q166不能代替。；英语课程及essay可English；当前英语考试/学位豁免的项目条款需核，不假定UofT自动免。 | Winter年度July15；Summer January15；bachelor最迟September30完成（Winter），2027批次待确认。（年度规则，2027批次待确认） | 2027学费未核实；须使用本人国际学生费率报价。；MS资助不保证；2027学费/semester contribution本轮未核，不沿用零学费或固定金额当报价。 | High / Reach；先准备Subject GRE | https://www.physik.lmu.de/en/studies/study-programs/applying-to-a-masters-program/ |
+| [Heidelberg University — M.Sc. Physics](Heidelberg_MSc_Physics.md) | 86 / 43 | Academic / Research；2年 /4 semesters，120 ECTS；research-oriented Physics，Master thesis；具体模块按所选方向。 | official admission PDF要求German final grade 2.9 or better；Physics本科，或natural/engineering至少50% Physics。不能按GPA线性猜等效。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；核心Physics与数学；oral exam评价知识、动机及方向。 | 所查入学规章未要求GRE。；English授课；项目所需English证明及UofT waiver细则本轮未闭环。 | non-EU Winter年度July15；Summer January15；EU Sept30/Mar31不适用于HY。（年度规则，2027批次待确认） | 2027学费未核实；须使用本人国际学生费率报价。；MS stipend不保证；州non-EU tuition历史EUR1,500/semester尚需当前费用页复核，不能标2027已核。 | High / Match；条件主申；核德制等效与面试 | https://www.uni-heidelberg.de/en/study/all-subjects/physics/physics-master |
+| [Karlsruhe Institute of Technology — M.Sc. Physics](KIT_MSc_Physics.md) | 110 / 55 | Academic / Research；2年 /4 semesters，120 ECTS；advanced Physics coursework与research /Master thesis。 | 相关Bachelor≥180 ECTS /3年；无数值GPA最低列在核心页面，课程门槛比CGPA更关键。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；theory32、experimental32、lab18 ECTS；最多10缺额条件录取，或30/30/15路径需知识面试。 | 核心degree页未列GRE。；B2；整本科学位English可凭degree /transcript确认，或English Bachelor thesis；HY需提供UofT证明。 | international applicant deadline按INTL Masters页面；2027时间需复核，不能套German/EU Sept30。（年度规则，2027批次待确认） | 现行INTL tuition EUR1,500/semester；当前general fees合计EUR184，当前non-EU总额EUR1,684/semester；2027调整与个人豁免另核。；非EU原则支付tuition；有奖学金、法定exemption和特定waiver路径，但不保证MSc stipend。 | High / Match；重点条件主申；严格课程核对 | https://www.sle.kit.edu/english/vorstudium/master-physics.php |
+| [RWTH Aachen University — M.Sc. Physics](RWTH_MSc_Physics.md) | 104 / 69 | Academic / Research；2年 /4 semesters，120 ECTS；第一年高级课，第二年research /Master thesis；可选AI in Physics、astroparticle/cosmology、particle方向。 | open admission /no NC不等于无门槛；Physics Bachelor等效审核，缺课可附条件。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；至少12 ECTS高级experimental，16 theoretical QM/statistical，9 advanced lab；完整module catalog与课程描述。 | non-EU/EEA nationality须Physics Subject GRE，官方也接受General；现有317可提交，最低分/有效期需项目确认。；课程English；general programme说明English Bachelor可作为语言证明路径，最终recognized certificates和UofT文件形式复核。 | non-EU open admission Winter年度March1；Summer September1；2027批次待确认，材料无延期补交。（年度规则，2027批次待确认） | No tuition fees；semester contribution另付，2027金额未核实。；大学no tuition fees；有semester fee，2027金额待核；living costs官网至少EUR1,100/month，非奖学金。 | High / Match；重点条件主申；提交现有GRE | https://www.physik.rwth-aachen.de/cms/physik/Studium/Im-Studium/~dxlx/Physik-M-Sc/lidx/1/ |
+
+规模与材料补充：
+
+| 项目 | Cohort / 推荐与导师 / caveat |
+|---|---|
+| [TUM · Physics (Applied & Engineering)](TUM_MSc_Physics.md) | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。；aptitude文件与项目清单；推荐信固定数量未列于核心入口。；官方核心页面已访问；2027未发布字段待更新 |
+| [LMU · MSc Physics](LMU_MSc_Physics.md) | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。；essay等aptitude材料；推荐信数量未核明确。；官方核心页面已访问；2027未发布字段待更新；按本科学位授予地而非中国国籍决定Subject GRE条件；UofT位于Canada，属于EU外。 |
+| [Heidelberg · MSc Physics](Heidelberg_MSc_Physics.md) | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。；按selection/aptitude清单；推荐信固定数未核到。；官方核心页面已访问；2027未发布字段待更新 |
+| [KIT · MSc Physics](KIT_MSc_Physics.md) | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。；core course descriptions必备；推荐信固定数未在核心入口核到。；官方核心页面已访问；2027未发布字段待更新 |
+| [RWTH · MSc Physics](RWTH_MSc_Physics.md) | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。；online application /transcript /module catalog /CV /GRE；固定推荐信数未列。；官方核心页面已访问；2027未发布字段待更新 |
+
+## 瑞士（5项）
+
+前五ETH、EPFL、Geneva、UZH、Bern；Bern按用户国别前五要求作为排名例外保留。普通MSc普遍无保证stipend。ETH的国际Fall2027申请已明确2026年11月30日11:59 AM CET截止；Geneva/UZH应按需visa日期而非一般4月底日期；Bern要区分online注册与纸质材料日期。Geneva、UZH、Bern更适合做条件主申，ETH/EPFL只作少量强冲刺。
+
+| 大学 / 项目 | QS2027综合 / Physics2026 | 类型 / 学制 / research | GPA / 先修焦点 | GRE / 英语 | 主截止 / scholarship | 学费 / funding | Match / Difficulty / 优先级 | 官方主来源 |
+|---|---|---|---|---|---|---|---|---|
+| [ETH Zurich — Master of Science ETH in Physics](ETH_MSc_Physics.md) | 8 / 9 | Academic / Research；1.5年 /3 semesters；90 ECTS；第三学期约半年Master thesis；之前proseminar /semester project。 | Physics Bachelor≥180 ECTS等效及高水平学术表现；foreign缺课≤30 credits；无已核UofT特定minimum GPA。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；Part1数学/基础Physics，Part2advanced Physics；需逐课核profile，不能只用排名。 | Physics-specific GRE条款未在当前通用documents页面取到；保持待确认，不能把通用ETS code当required。；C1；整个Bachelor只以English教学可豁免，须central registrar正式签章证明，教师信不接受。 | **近60天明确截止**：Fall2027国际Bachelor必须2026-11-01至11-30；截止11月30日11:59 AM CET（约北京时间18:59），不是午夜。（2027已公布） | 自HS2025 Group2 tuition CHF2,190/semester，赴瑞士求学的HY一般属该组；另mandatory fees按官方表，2027变动待核。；普通MSc无保证stipend；ESOP竞争，与Master同一国际window；Direct Doctorate资助不可套普通MSc。 | High / Reach；早期强冲刺；11月截止 | https://www.phys.ethz.ch/studies/master.html |
+| [École polytechnique fédérale de Lausanne — Master of Science in Physics](EPFL_MSc_Physics.md) | 22 / 15 | Academic / Research；2年 /120 ECTS；research-oriented coursework、laboratory work与Master project。 | foreign Physics本科excellent records；缺课可加condition；3.0不满足“excellent”的竞争画像，等效由committee审查。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；QM /solid state /statistical /particle /classical Lagrangian-Hamiltonian /EM；缺课可附条件。 | GRE /TOEFL作为additional documents欢迎但不mandatory。；English课程；不能把optional TOEFL写成一定须考；UofT degree证明和语言准备须application条款核查。 | 年度第一轮mid-Nov-Dec15，第二轮Dec16-Mar31；visa applicants应优先第一轮，2027批次待确认。（年度规则，2027批次待确认） | 2027学费未核实；须使用本人国际学生费率报价。；EPFL Master Excellence Fellowship竞争，非普通MSc保证stipend；国际tuition以当前fees表为准。 | High / Reach；研究强冲刺；优先第一轮 | https://www.epfl.ch/education/master/programs/physics/ |
+| [University of Geneva — Master of Science in Physics](Geneva_MSc_Physics.md) | 168 / 84 | Academic / Research；2年 /4 semesters，120 ECTS；Master thesis60 ECTS；Cosmology and Astrophysics of Particles等tracks。 | Physics Bachelor或equivalent；UofT属于non-Bologna degree，须committee审查；无公布数值GPA最低。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；Physics核心及数学；课程等效、研究方向与thesis安排。 | 所查program admission未提及GRE。；全部English；不需要French test/课程；English test是否可凭UofT免除未明确。 | 需visa者年度February28；其他April30；HY中国国籍通常走visa节点，2027批次待确认。（年度规则，2027批次待确认） | 官方Master页当前CHF500/semester；2027最终费用待确认。；无一般保证MSc stipend；scholarships另申请，research thesis不等于带薪合同。 | High / Match；瑞士重点；particle/astro路线 | https://www.unige.ch/sciences/physique/enseignement/master |
+| [University of Zurich — Master of Science UZH in Physics](UZH_MSc_Physics.md) | 98 / 116 | Academic / Research；约1.5年 /90 ECTS；Master thesis为30或50 ECTS，分别约6或10个月；required research seminar；须导师同意并订learning agreement。 | 认可大学相关Bachelor≥180ECTS；foreign degree需individual evaluation，可能additional requirements，Swiss automatic规则不适用UofT。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；QM、statistical与specialisation基础；astro /cosmology /particle /condensed matter等。 | 所查Physics admission未提及GRE。；English programme；一般语言证明/英语学位exemption条件须按Master admissions确认，不自动宣布已豁免。 | 需要visa者年度January1-February28；其他到April30；2027批次待确认。（年度规则，2027批次待确认） | 当前base CHF720 +foreign Master surcharge100 +mandatory contributions59 =CHF879/semester；2027变动待核。；MSc一般无保证stipend；大学student aid面向Swiss Bachelor Master applicants的规则不自动适用UofT，不代表所有scholarships都不存在。 | High / Match；瑞士重点；核课程等效 | https://www.uzh.ch/en/studies/programs/master/physics.html |
+| [University of Bern — Master of Science in Physics](Bern_MSc_Physics.md) | 191 / 201-250 | Academic / Research；1.5年 /3 semesters，90 ECTS；Master thesis45 ECTS，加Master examination；English research-oriented degree。 | foreign recognised Bachelor等效；90ECTSPhysics/Astro +30Math，或60Physics/Astro +60Math；可附补课≤60ECTS。数值GPA未公开于所查页。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；严格Physics/Astro及Math学分；提交course descriptions和Bachelor thesis摘要，或声明本科无论文。 | 官方international Master checklist Physics项未要求GRE。；programme全部English；Physics checklist不列额外English test，仍需general language规定最终确认，不能直接套其他专业C1。 | 国际Master checklist纸质材料Autumn May31 /Spring Dec31；online registration另有截止尚待核，不把May31当唯一申请截止。（年度规则，2027批次待确认） | 2027学费未核实；须使用本人国际学生费率报价。；MSc保证资助未核到；2027tuition及international surcharge待核；thesis并非默认RA工资。 | High / Match；瑞士条件主申；排名例外 | https://www.philnat.unibe.ch/studium/studienprogramme/master_physik/index_ger.html |
+
+规模与材料补充：
+
+| 项目 | Cohort / 推荐与导师 / caveat |
+|---|---|
+| [ETH · MSc Physics](ETH_MSc_Physics.md) | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。；2027Physics-specific references /docs需补核；以正式requirement profile和portal清单为准。；官方核心页面已访问；2027未发布字段待更新；本科非瑞士，不能等2027年4月Swiss Bachelor窗口；近60天截止应醒目标记。 |
+| [EPFL · MSc Physics](EPFL_MSc_Physics.md) | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。；3名referees contacts，至少2封letters收到；Bachelor/成绩、CV、SOP等。；官方核心页面已访问；2027未发布字段待更新 |
+| [Geneva · MSc Physics](Geneva_MSc_Physics.md) | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。；graduate programme推荐信数量未核清；先以等效审查确认可申请性。；官方核心页面已访问；2027未发布字段待更新 |
+| [UZH · MSc Physics](UZH_MSc_Physics.md) | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。；一般online application、课程与成绩证明；推荐信固定数未在核心页面核到。；官方核心页面已访问；2027未发布字段待更新 |
+| [Bern · MSc Physics](Bern_MSc_Physics.md) | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。；CV、motivation ≤1page、成绩/课程描述、学位证明；Physics需Bachelor thesis摘要或无论文说明，未列额外推荐信。；官方核心页面已访问；2027未发布字段待更新；QS Physics2026为201-250、overall2027为191；按用户瑞士前五范围保留，为原top100规则例外。 |
+
+## 旧条目修订与计数边界
+
+- BU旧普通Physics Master不接受initial MA-only申请；本轮只有MS Quantum Science & Engineering，低匹配、转方向才投。
+- UIUC旧研究型MS改用官方开放的MEng Instrumentation and Applied Physics，独立专业学位，不是PhD桥梁。
+- Wisconsin Physics Quantum Computing旧项停招，不计本轮。其余UCLA、Duke、Cornell历史独立硕士入口本轮不作已核推荐。
+- Grenoble法语M1仍保留为法国前五候选，未解决语言不申请；Paris Cité联合PPM不与Sorbonne重复计数。
+- 澳洲Sydney选MPhil Science中的Physics research，而非旧Medical Physics；ANU普通版和Advanced在同一条档案比较，只计一所。
+- Alberta和Melbourne只达到排名候选/建档标准，核心招生资格未闭环；WashU排名门槛未闭环。
+- 全部Last-verified / last-attempted为2026-10-02；有具体2027公告才标“2027已公布”，不把年度规则或2026日期自动平移。
+
+排名官方来源：
+
+- QS World University Rankings 2027 results table：https://www.qs.com/insights/qs-world-university-rankings-2027-results-table-excel
+- QS WUR 2027 official XLSX：https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20(For%20qs.com).xlsx
+- QS Subject Rankings 2026 results：https://magazine.qs.com/qs-insights-magazine-39/qs-subject-rankings-results
+- QS Subjects 2026 official XLSX：https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx

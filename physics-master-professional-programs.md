@@ -1,45 +1,14 @@
-# Professional / Taught Master Programs
+# Physics Master — 授课 / 专业项目及可选研究训练
 
-Coursework-oriented physics master programs (taught master's) with no thesis requirement or optional research component.
+本索引为2026-10-02六国38项候选的路径分组，共6项；不是所有项目都强制论文，也不是全部资格已确认。其余路径见[另一分组](physics-master-academic-programs.md)，完整计数与字段以[38项当前索引](physics-master/README.md)为准。
 
-`*` marks schools that are professional agency recommended.
+历史45 academic +11 professional口径已经停用；英国、新加坡、香港和其他扩展档案保留在physics-master目录，不计本轮38项。
 
-## Index table
-
-| # | Country | University | QS rank | US NEWS | Program | Type | Duration | Thesis | Track | GPA req | GRE req | Deadline | Tuition (intl) | Match | Difficulty |
-|---|---------|-----------|--------|--------|---------|------|----------|-------|-------|---------|---------|----------|----------------|-------|------------|
-| 3 | USA | [UW Madison](physics-master/UWMadison_MS_Physics_QuantumComputing.md) ⚠️ | 125 | 36 | MS Physics (QC) | Professional (taught) | 1 year | No | Quantum Comp | 3.0 min | Not req | Mar 15 | ~$40k/yr | Low/Med | Match |
-| 4 | UK | [University of Oxford](physics-master/Oxford_MSc_MathematicalTheoreticalPhysics.md) | 4 (2026) |  | MSc Math & Theor Phys | Professional (taught) | 9 months | Yes | Theoretical | First (3.7) | Not req | Jan 28 | ~£35k/yr | Low | Reach |
-| 5 | UK | [University of Cambridge](physics-master/Cambridge_MASt_Physics.md) | 6 (2026) |  | MASt Physics | Professional (taught) | 9 months | No | Physics | High II.i/First | Not req | Dec 3 (funding) | ~£35k/yr | Low | Reach |
-| 7 | UK | [University College London](physics-master/UCL_MSc_Physics.md) | 9 |  | MSc Physics | Professional (taught) | 1 year | Yes | Physics | 2:1 | Not req | Jun 26 | ~£35k/yr | Medium | Match |
-| 8 | UK | [University of Edinburgh](physics-master/Edinburgh_MSc_TheoreticalPhysics.md) | 27 |  | MSc Theoretical Physics | Professional (taught) | 1 year | No | Theoretical | 2:1 | Not req | Rolling (rounds) | ~£30k/yr | Medium | Match |
-| 9 | UK | [King's College London](physics-master/KCL_MSc_Physics.md) | 40 |  | MSc Physics | Professional (taught) | 1 year | No | Physics | 2:1 | Not req | Mar 9 | ~£30k/yr | Medium | Match |
-| 10 | Singapore | [NUS](physics-master/NUS_MSc_PhysicsTechnology.md) | 8 (2026) |  | MSc Physics for Technology | Professional (taught) | 1?? years | No | Applied/Comp | BSc(Hons) | Not req | Oct??ar | SGD ~45k total | High | Safe |
-| 11 | Australia | [University of Sydney](physics-master/Sydney_MasterOfMedicalPhysics.md) | 25 (2026) |  | Master of Medical Physics | Professional (taught) | 1.5 years full-time; 3 years part-time | No thesis; research project component | Medical Physics | Credit average (65%) | Not req | February intake | AUD unknown | Medium | Match |
-| 12 | Hong Kong | [HKU](physics-master/HKU_MSc_Physics.md) | 17 (2026) |  | MSc Physics | Professional (taught) | 1 year | Optional | Physics/Comp | BSc relevant | Not req | Apr 30 | HKD ~192k/yr | Medium | Safe |
-| 13 | Hong Kong | [CUHK](physics-master/CUHK_MSc_Physics.md) | 36 |  | MSc Physics | Professional (taught) | 1 year | Optional | Physics | 2nd Cls / B avg | Not req | May 15 | HKD ~192k/yr | Medium | Match |
-| 14 | Hong Kong | [HKUST](physics-master/HKUST_MSc_Physics.md) | 47 |  | MSc Physics | Professional (taught) | 1 year | No | Physics | Bachelor's | Not req | Jun 15 | HKD ~180k/yr | Medium | Match |
-
-## Geographic distribution
-
-| Region | Count | Programs |
-|--------|-------|----------|
-| USA | 1 | UW Madison |
-| UK | 5 | Oxford, Cambridge, UCL, Edinburgh, KCL |
-| Singapore | 1 | NUS (Physics for Technology) |
-| Australia | 1 | Sydney |
-| Hong Kong | 3 | HKU, CUHK, HKUST |
-
-**Total: 11 targets**
-
-## Summary by difficulty
-
-| Difficulty | Count | Notes |
-|-----------|-------|-------|
-| Reach | 2 | Cambridge, Oxford |
-| Match | 7 | Within range with research experience to compensate |
-| Safe | 2 | NUS MPT, HKU — GPA meets minimum, acceptance likely more accessible |
-
-## Per-program files
-
-See individual `.md` files in this folder for full program details.
+| 国家 | 项目 | 学制 /研究形式 | 资格 /难度 |
+|---|---|---|---|
+| 澳大利亚 | [Australian National University — Master of Science in Theoretical Physics](physics-master/ANU_MSc_TheoreticalPhysics.md) | 2年，96 units；普通版不列强制thesis；Advanced增加24 units research/thesis，前48 units平均70%及导师同意。 | 普通版GPA5/7；Advanced 5.5/7，需等效审查。；Match / Medium |
+| 澳大利亚 | [Monash University — Master of Science in Physics (S6000)](physics-master/Monash_MSc_Physics.md) | 标准2年 /96 points；2026 advanced standing 1.5或1年；2027 Part C 24 points Research Project or Work Integrated Learning；另有capstone；非统一强制thesis。 | 2026要求cognate bachelor 65%；2027入口细则待确认。；Match / High |
+| 美国 | [Washington University in St. Louis — Master of Arts in Physics](physics-master/WUSTL_MA_Physics.md) | 约2年；36 credits；非thesis MA，最多6 credits research；不自动成为研究型硕士。 | 外部MA明确；不公布GPA最低，最新排名未闭环。；Unknown / Medium |
+| 美国 | [Columbia University — Master of Science in Applied Physics](physics-master/Columbia_MS_AppliedPhysics.md) | 30 points；固定日历时长待核；以课程为主；所查degree条款无强制thesis。 | Physics背景相关；GPA/GRE现行条款仍需闭环。；Reach / Medium |
+| 美国 | [University of Illinois Urbana-Champaign — Master of Engineering in Instrumentation and Applied Physics](physics-master/UIUC_MEng_Instrumentation_AppliedPhysics.md) | 1年 /2 semesters，32 credit hours；两学期Instrumentation and Applied Physics Project；industry/capstone，非academic thesis。 | last two years GPA最低3.0，Physics本科适用。；Match / Medium |
+| 美国 | [Boston University — Master of Science in Quantum Science & Engineering](physics-master/BU_MS_QuantumScience_Engineering.md) | 1 calendar year（full-time internship option），32 units；可research internship或external internship；不选project可多修课，非强制thesis。 | Physics本科可申请；当前科研方向与量子技术弱重合。；Match / Low |

@@ -1,102 +1,40 @@
-# Academic / Research Master Programs
+# Physics Master — 研究路径及可选论文项目
 
-Research-oriented physics master programs requiring a thesis or substantial research project.
+本索引为2026-10-02六国38项候选的路径分组，共32项；不是所有项目都强制论文，也不是全部资格已确认。其余路径见[另一分组](physics-master-professional-programs.md)，完整计数与字段以[38项当前索引](physics-master/README.md)为准。
 
-`*` marks schools that are professional agency recommended.
+历史45 academic +11 professional口径已经停用；英国、新加坡、香港和其他扩展档案保留在physics-master目录，不计本轮38项。
 
-## Index table
-
-### Professional Agency Recommendations
-
-| # | Country | University | QS rank | US NEWS | Program | Type | Duration | Thesis | Track | GPA req | GRE req | Deadline | Tuition (intl) | Match | Difficulty |
-|---|---------|-----------|--------|--------|---------|------|----------|-------|-------|---------|---------|----------|----------------|-------|------------|
-| 1 | Canada | [University of Toronto](physics-master/UofT_MSc_Physics.md) * | 29 (2026) |  | MSc Physics | Academic/Research | 3 sessions (1 year) | Research report/project | Physics / Comp / Dark Matter | Mid-B final-year (SGS) / B+ (department) | Not req | Dec 11 | Funded: $31k + tuition (2024 level) | High | Reach |
-| 2 | Canada | [McGill University](physics-master/McGill_MSc_Physics.md) * | 29 |  | MSc Physics | Academic/Research | 2 years | Yes | Physics | 3.0 university minimum; department pending | Optional | Dec 15 (cycle pending) | ~$20k CAD/yr (old estimate) | Medium | Reach |
-| 3 | Canada | [UBC](physics-master/UBC_MSc_Physics.md) * | 38 |  | MSc Physics | Academic/Research | 2 years | Yes | Physics/Astro | 80%+ | Not req | Dec 1 | ~$10k CAD/yr | Medium | Reach |
-| 34 | USA | [Washington University in St. Louis](physics-master/WUSTL_MA_Physics.md) * |  | 21 | Physics, MA | Academic/Research | 2 years | No | Physics | 3.0 min | Optional | Fall only | Not stated | Match | Match |
-| 10 | USA | [New York University](physics-master/NYU_MS_Physics.md) * | 38 | 32 | MS Physics | Academic/Research | 2 years | Yes | Physics/Astro | Holistic | Not req | Jan 5 | ~$60k/yr | Medium | Match |
-| 33 | USA | [Columbia University](physics-master/Columbia_MS_AppliedPhysics.md) * | 38 (2026) |  | MS in Applied Physics | Academic/Research | Not explicitly stated; 30 points | No explicit thesis | Applied Physics | 3.0 min | Optional | Feb 15 / Oct 15 | Limited MS-only funding | Reach | Reach |
-| 6 | USA | [Northwestern University](physics-master/Northwestern_MS_Physics.md) * | 50 | 6 | MS Physics | Both tracks | 1??.25 yr | Optional | Physics | Holistic | Optional | Rolling | ~$55k/yr | Medium | Match |
-| 32 | USA | [Brown University](physics-master/Brown_ScM_Physics.md) * | 69 (2026) |  | ScM Physics | Academic/Research | 2-4 semesters | Optional | Physics | No formal minimum stated | Not req | Apr 1 | Self-funded | Match | Match |
-| 11 | USA | [Georgia Tech](physics-master/GeorgiaTech_MS_Physics.md) * | 80 | 32 | MS Physics | Academic/Research | 2 years | Yes | Physics/Astro | Holistic | Not req | Dec 15 | ~$35k/yr | Medium | Match |
-| 35 | UK | [Imperial College London](physics-master/Imperial_MSc_Physics.md) * | 6 (2026) |  | MSc Physics | Academic/Research | 1 year | Yes | Physics | First | Not req | Rolling | ~?35k/yr | Reach | Reach |
-| 20 | Australia | [University of Melbourne](physics-master/Melbourne_MSc_Physics.md) * | 15 (2026) |  | MSc Physics | Academic/Research | 2 years | Yes | Physics | 65% WAM | Not req | Varies | AUD ~50k/yr | Medium | Match |
-| 22 | Australia | [Australian National University](physics-master/ANU_MSc_TheoreticalPhysics.md) * | 30 |  | MSc Theoretical Physics | Academic/Research | 2 years | Yes | Theoretical | 5.0/7.0 GPA | Not req | Varies | AUD ~56k/yr | Medium | Match |
-| 24 | Switzerland | [ETH Zurich](physics-master/ETH_MSc_Physics.md) * | 7 (2026) |  | MSc Physics | Academic/Research | 2 years | Yes | Physics/Comp | Excellent BSc | Not req | Nov (window) | CHF 1,500/sem | Medium | Reach |
-| 25 | Switzerland | [EPFL](physics-master/EPFL_MSc_Physics.md) * | 22 (2026) |  | MSc Physics | Academic/Research | 2 years | Yes | Physics | Strong record | Not req | Dec 15 / Mar 31 | CHF 1,500/sem | Medium | Reach |
-| 36 | Switzerland | [University of Geneva](physics-master/Geneva_MSc_Physics.md) * | 84 |  | Master in Physics | Academic/Research | 2 years | Yes | Physics / astrophysics / particle physics / cosmology | BSc Physics or equivalent | Not mentioned | 30 Apr / 28 Feb (visa) | CHF 500/sem | Match | Match |
-| 31 | Switzerland | [University of Zurich](physics-master/UZH_MSc_Physics.md) * | 100 |  | MSc Physics | Academic/Research | 90 ECTS; thesis ~9 months | Yes | Physics / Astro / Particle / Condensed Matter / Bio-Med | BSc in Physics or equivalent | Not mentioned | Not stated | Not stated | Match | Match |
-| 29 | Singapore | [NUS](physics-master/NUS_MSc_Physics_byResearch.md) * | 8 (2026) |  | MSc Physics by Research | Academic/Research | 1?? years | Yes | Research | Honours with Dist | Not req | Oct??an | SGD ~45k total | Medium | Match |
-| 37 | Singapore | [National University of Singapore](physics-master/NUS_MSc_Physics.md) * | 8 (2026) |  | Master of Science in Physics by Coursework | Academic/Research | 1-3 years by track | Yes (project optional) | Physics / Applied Physics / Related | Track 1: Honours or 4-year degree; Track 2: 3-year degree | TOEFL 85 / IELTS 6.0 unless exempt | 15 Jul / 15 Mar | SGD self-supported | Match | Match |
-
-### Remaining Schools
-
-| # | Country | University | QS rank | US NEWS | Program | Type | Duration | Thesis | Track | GPA req | GRE req | Deadline | Tuition (intl) | Match | Difficulty |
-|---|---------|-----------|--------|--------|---------|------|----------|-------|-------|---------|---------|----------|----------------|-------|------------|
-| 4 | Canada | [University of Alberta](physics-master/UAlberta_MSc_Physics.md) | 111 |  | MSc Physics | Academic/Research | 2 years | Yes | Physics | 3.0 last 60 units (recheck pending) | Not req | Unresolved | Old estimate; recheck | Medium | Match |
-| 39 | Canada | [York University](physics-master/York_MSc_Physics_Astronomy.md) |  |  | MSc Physics & Astronomy | Academic/Research | 6 terms | Thesis/project; coursework closed to international students | Astro/Particle/Computational | B+ | Not mentioned | Jan 15, 2027 | Funding offered; amount unresolved | High | Reach |
-| 40 | Canada | [University of Ottawa](physics-master/UOttawa_MSc_Physics.md) |  |  | MSc Physics | Both tracks | 12–24 months | Thesis or project by option | Physics/Comp | 70% min | Not mentioned | Unresolved | Funding requires supervisor support | Medium | Match |
-| 41 | Canada | [Western University](physics-master/Western_MSc_Astronomy.md) |  |  | MSc Astronomy | Academic/Research | Unresolved | Research/thesis/project | Astronomy/Comp/Astrostatistics | 70% in 3rd/4th year | Not req | Unresolved | Supervisor-linked; amount unresolved | High | Match |
-| 42 | Canada | [Western University](physics-master/Western_MSc_Physics.md) |  |  | MSc Physics | Academic/Research | Unresolved | Research/thesis/project | Physics/Computational | 70% in 3rd/4th year | Not req | Unresolved | Supervisor-linked; amount unresolved | High | Match |
-| 7 | USA | [Cornell University](physics-master/Cornell_MS_AppliedPhysics.md) | 16 | 11 | MS Applied Physics | Academic/Research | 2 years | Yes | Applied/Comp | Holistic | Not req | Dec 15 | ~$56k/yr | Medium | Reach |
-| 8 | USA | [UCLA](physics-master/UCLA_MS_Physics.md) | 42 | 15 | MS Physics | Academic/Research | 2 years | Yes | Physics/Astro | 3.0 min | Not req | Dec | ~$33k/yr | Medium | Match |
-| 5 | USA | [Duke University](physics-master/Duke_MS_Physics.md) | 57 | 6 | MS Physics | Academic/Research | 2 years | Yes | Physics | Holistic | Not req | Dec 15 | ~$60k/yr | Medium | Match |
-| 9 | USA | [UT Austin](physics-master/UTAustin_MS_Physics.md) | 66 | 30 | MS Physics | Academic/Research | 2 years | Yes | Physics | 3.0 (funding) | Not req | Dec 1 | ~$22k/yr | Medium | Match |
-| 12 | USA | [UIUC](physics-master/UIUC_MS_Physics.md) | 69 | 36 | MS Physics | Academic/Research | 2 years | Yes | Physics/Comp | 3.0 min | Not req | Jun 1 | ~$40k/yr | Medium | Match |
-| 13 | USA | [Boston University](physics-master/BU_MS_Physics.md) | 93 | 42 | MS Physics | Both tracks | 1.5–2 yr | Optional | Physics | 3.0 rec | Not req | Rolling | ~$55k/yr | Medium | Match |
-| 14 | UK | [University of Edinburgh](physics-master/Edinburgh_MScR_Physics_Astronomy.md) | 27 |  | MScR Physics & Astronomy | Academic/Research | 1 year | Yes | Physics/Astro | 2:1 | Not req | Rolling | ~£38k/yr | Medium | Match |
-| 15 | UK | [University of Manchester](physics-master/Manchester_MSc_Physics.md) | 34 |  | MSc by Research Physics | Academic/Research | 1 year | Yes | Research | 2:1 | Not req | Aug 2 | ~£30k/yr | Medium | Match |
-| 16 | UK | [University of Warwick](physics-master/Warwick_MSc_Physics_byResearch.md) | 69 |  | MSc by Research Physics | Academic/Research | 1 year | Yes | Physics | 2:1 | Not req | Aug 2 | ~£30k/yr | Medium | Match |
-| 17 | UK | [Durham University](physics-master/Durham_MScR_Physics.md) | 78 |  | MSc by Research Physics | Academic/Research | 1 year | Yes | Physics/Astro | 2:2 MPhys / 2:1 BSc | Not req | Dec 15 | ~£32k/yr | Medium | Match |
-| 18 | UK | [University of Glasgow](physics-master/Glasgow_MSc_Research_Physics.md) | 78 |  | MSc (Research) Physics | Academic/Research | 1–2 years | Yes | Physics/Astro | 2:1 | Not req | Rolling | ~£33k/yr | Medium | Match |
-| 19 | UK | [University of Birmingham](physics-master/Birmingham_MScRes_Physics_Astronomy.md) | 80 |  | MSc (Res) Physics & Astronomy | Academic/Research | 1 year | Yes | Physics/Particle | 2:1 | Not req | Rolling | ~£30k/yr | Medium | Match |
-| 21 | Australia | [UNSW](physics-master/UNSW_Physics_MRes.md) | 20 (2026) |  | Physics (MRes) | Academic/Research | 2 years | Yes | Research | 1st/2:1 Honours | Not req | Rolling | AUD ~50k/yr | Medium | Match |
-| 23 | Australia | [Monash University](physics-master/Monash_MSc_Physics.md) | 37 |  | MSc Physics | Academic/Research | 1–2 years | Yes | Physics | 65% avg | Not req | Multiple intakes | AUD ~50k/yr | Medium | Match |
-| 26 | Germany | [TU Munich](physics-master/TUM_MSc_Physics.md) | 22 (2026) |  | MSc Physics (AEP) | Academic/Research | 2 years | Yes | Physics/Applied | Curriculum + aptitude | Not req | May 31 (Jan 15 early target) | €6k/sem | Medium | Reach |
-| 27 | Germany | [LMU Munich](physics-master/LMU_MSc_Physics.md) | 54 |  | MSc Physics | Academic/Research | 2 years | Yes | Physics | Aptitude; no numeric min | Physics/Math GRE (non-EU degree) | Jul 15 | No tuition | Medium | Match |
-| 28 | Germany | [Heidelberg University](physics-master/Heidelberg_MSc_Physics.md) | 87 |  | MSc Physics | Academic/Research | 2 years | Yes | Physics/Astro | ≥2.9 German | Not req | Jul 15 | €1.5k/sem | Medium | Match |
-| 30 | Singapore | [NTU](physics-master/NTU_MSc_Physics.md) | 15 (2026) |  | MSc Physics | Academic/Research | 1–2 years | Yes | Research | 2nd Up Honours | Encouraged | Oct–Jan | SGD ~45k total | Medium | Match |
-
-### France — English paths only (verified 2026-10-01)
-
-法国材料按最新综合 QS 2027 递补，同时列 Physics & Astronomy QS 2026。仅保留公开入学条件无必需法语等级的英语路径；加拿大 EEF 2027/2028 日历已公布，具体项目的渠道与校内窗口须另核。完整 GPA、推荐信、导师联系、录取形式、U of T 背景、语言、先修、人数、资助与费用对照见 [France_Physics_Masters.md](physics-master/France_Physics_Masters.md)。以下四条计入正式目标，按 Reach、Match 排序。
-
-| # | Country | University | QS overall 2027 | QS Physics 2026 | Program | Type / duration | Research | GPA / GRE | Fall 2027 deadline | Tuition / funding | Match | Difficulty | Official source |
-|---|---|---|---:|---:|---|---|---|---|---|---|---|---|---|
-| 43 | France | [Université PSL](physics-master/PSL_Master_FundamentalPhysics_ICFP.md) **准备优先** | 34 | =32 | Fundamental Physics / ICFP | Academic/Research; 2 yr, 120 ECTS | M1/M2 internships; M2 18 ECTS | Highly selective, no numeric GPA; GRE not mentioned | 未公布 | 2026–2027 PSL 页非欧盟无豁免 €3,950/yr；注册安排另核，无保证资助 | High | Reach | https://psl.eu/en/education/master-s-degree-physics |
-| 44 | France | [Institut Polytechnique de Paris](physics-master/IPParis_Master_Physics_HEP.md) **准备优先** | 43 | 45 | High Energy Physics M1 + M2 | Academic/Research; 2 yr, 120 ECTS | M1 16 weeks; M2 mandatory thesis 30 ECTS | Excellent records, no numeric GPA; GRE not mentioned | 未公布 | 2026–2027 national Master 非欧盟 €4,327/yr；普通 Master 无保证资助 | High | Reach | https://www.ip-paris.fr/en/education/graduate-programs/masters-science/physics-program/master-year-1-high-energy-physics |
-| 45 | France | [Sorbonne University](physics-master/Sorbonne_Master_FundamentalPhysics.md) | 73 | =32 | Paris Physics Master; English M2 ICFP to confirm | Academic/Research; 2 yr | M1 internship; proposed M2 18 ECTS internship | Physics bachelor, no numeric GPA; GRE not mentioned | 英语 M1 eCandidat 2027 年 3–5 月；确切日/EEF 并行待核 | 2026–2027 标准 €255 + CVEC €105；非欧盟个人费率/豁免待核，无保证资助 | High | Match（暂定） | https://master.physique.sorbonne-universite.fr/fr/paris-physics-master.html |
-| 46 | France | [Université Paris-Saclay](physics-master/ParisSaclay_Master_GeneralPhysics.md) **奖学金准备优先** | 76 | 21 | M1 General Physics; English M2 ICFP to confirm | Academic/Research; M1 60 ECTS + M2 | M1 internship; proposed M2 18 ECTS internship | Physics bachelor, no numeric GPA; GRE not mentioned | 2027 Inception 待核；录取后 EEF | 学费页仍列旧年 €254，后续待核；竞争奖学金 €10k/yr + 最多 €900，须推荐 | High | Match（暂定） | https://www.universite-paris-saclay.fr/en/education/masters-degree/physique-fondamentale-et-applications/m1-general-physics |
-
-第 5 所 [Université Paris Cité](physics-master/ParisCite_Master_ParisPhysics.md) 仅为补充候选：综合 303、物理 151–200，不符合仓库前 100 门槛，不计总数；Paris Physics Master 与 Sorbonne 联办，不增加已确认独立招生机会。ENS Lyon 与 Grenoble 的本科入学 M1 路径未满足英语/法语条件，已删除候选文件，保留汇总中的剔除记录。
-
-## Geographic distribution
-
-| Region | Count | Professional Agency Recommendations | Programs |
-|--------|-------|------------------------------------|----------|
-| Canada | 8 | 3 | UofT Physics, McGill, UBC, UAlberta, York, Ottawa, Western Astronomy, Western Physics |
-| USA | 12 | 6 | WUSTL, NYU, Columbia, Northwestern, Brown, Georgia Tech, Cornell, UCLA, Duke, UT Austin, UIUC, BU |
-| UK | 7 | 1 | Imperial, Edinburgh, Manchester, Warwick, Durham, Glasgow, Birmingham |
-| Australia | 4 | 2 | Melbourne, ANU, UNSW, Monash |
-| Switzerland | 4 | 4 | ETH, EPFL, Geneva, UZH |
-| Germany | 3 | 0 | TUM, LMU, Heidelberg |
-| France | 4 | 0 | PSL, IP Paris, Sorbonne, Paris-Saclay；Paris Cité 补充候选不计数 |
-| Singapore | 3 | 2 | NUS (by Research), NUS (coursework), NTU |
-
-**Total: 45 targets**（France 4 formal entries; Paris Cité supplemental excluded）
-
-## Summary by difficulty
-
-| Difficulty | Count | Notes |
-|-----------|-------|-------|
-| Reach | 12 | UofT Physics, York, McGill, UBC, Cornell, Columbia, ETH, EPFL, TUM, Imperial, PSL, IP Paris — GPA 3.0 is below or near the competitive profile |
-| Match | 33 | Planning label only; eligibility, prerequisites and supervisor capacity must be checked; Sorbonne and Paris-Saclay provisional |
-| Safe | 0 | No research MSc is classified as Safe from minimum GPA alone |
-
-## Per-program files
-
-See individual `.md` files in this folder for full program details.
-
-## 已移除项目
-
-[U of T Astronomy and Astrophysics](physics-master/UofT_MSc_Astronomy_Astrophysics.md)：2026-09-30 移除；硕士不开放独立招生，直博 GPA 不满足最后两年 A− 要求。不计入目标总数。
+| 国家 | 项目 | 学制 /研究形式 | 资格 /难度 |
+|---|---|---|---|
+| 加拿大 | [University of Toronto — Master of Science in Physics](physics-master/UofT_MSc_Physics.md) | 1年，3 sessions；研究项目与研究报告；不应写成固定2年thesis MSc。 | 系里要求B+；CGPA 3.0不能证明达标。；Reach / High |
+| 加拿大 | [University of British Columbia — Master of Science in Physics](physics-master/UBC_MSc_Physics.md) | 通常约2年；官网历史平均2.3年；至少30 credits，其中18-credit thesis、12 credits graduate coursework；须public research presentation。 | 项目期望三、四年级平均80%+；3.0须分段审查。；Reach / High |
+| 加拿大 | [McGill University — Master of Science (M.Sc.) Physics (Thesis)](physics-master/McGill_MSc_Physics.md) | 2年；45 credits；5门课共15 credits，另30 credits研究论文。 | 大学最低3.0；系级门槛及竞争分布未公开。；Reach / High |
+| 加拿大 | [University of Waterloo — Master of Science in Physics (Thesis)](physics-master/Waterloo_MSc_Physics.md) | 2年，6 terms；4门研究生课与thesis；本轮选择Thesis选项。 | Honours Science至少75%；必须落实导师。；Reach / High |
+| 加拿大 | [Université de Montréal — Maîtrise en physique](physics-master/Montreal_MSc_Physics.md) | 45 credits；全日制至少3 trimestres，实际研究时长待确认；包含mémoire研究选项；本轮选择研究路线。 | 3.0/4.3或更高本校门槛；法语未确认。；Reach / High |
+| 加拿大 | [University of Alberta — Master of Science in Physics](physics-master/UAlberta_MSc_Physics.md) | 旧档约2年；本轮未重新核实；旧档为thesis MSc；当前学位规则待恢复后核实。 | 当前GPA与招生条款无法重新核实。；Unknown / Medium |
+| 加拿大 | [McMaster University — M.Sc. in Physics and Astronomy](physics-master/McMaster_MSc_Physics_Astronomy.md) | Thesis 2年；coursework 1年；两条路线；本轮优先2年thesis研究。 | Honours Physics/Astronomy；数值GPA未核闭环。；Reach / High |
+| 加拿大 | [Queen’s University — Master of Science in Physics](physics-master/Queens_MSc_Physics.md) | 2年；至少4门term courses、研究项目及thesis，2年内完成。 | Honours Science second class；导师及名额未落实。；Reach / High |
+| 澳大利亚 | [University of Melbourne — Master of Science (Physics)](physics-master/Melbourne_MSc_Physics.md) | 旧档2年；当前手册正文受访问限制；旧档含major research project；本轮无法核到当前项目学分、论文及导师规则。 | 核心课程及2027入口受限，当前资格未闭环。；Unknown / Medium |
+| 澳大利亚 | [University of Sydney — Master of Philosophy (Science) — Physics research](physics-master/Sydney_MPhil_Science_Physics.md) | 课程页未取得完整学制正文；HDR时限须offer确认；Research thesis加规定HDR研究训练；不是Master of Medical Physics。 | 须first/second-class honours或等效研究能力。；Reach / High |
+| 澳大利亚 | [University of New South Wales — Master by Research in Physics (2930)](physics-master/UNSW_Physics_MRes.md) | 通常2年 /96 UOC；通用HDR列1.5-2年；研究thesis；Master by Research学位，不是授课MSc。 | 4年second-class honours或faculty等效；需导师。；Reach / High |
+| 美国 | [Brown University — Master of Science (Sc.M.) in Physics](physics-master/Brown_ScM_Physics.md) | 1-2年，可2 /3 /4 semesters；8门课；department明确coursework与thesis option，thesis recommended；另main page称including thesis，存在表述差异。 | 无公开数值最低；强Physics准备，3.0偏弱。；Reach / Medium |
+| 美国 | [Northwestern University — Master of Science in Physics](physics-master/Northwestern_MS_Physics.md) | Standard约1年；Broad约15个月；历史均值4.5/5 quarters；Standard：9 graded courses + thesis；Broad：12 courses，无同样thesis要求。 | 外部MS入口明确；本科数值最低未公开。；Match / High |
+| 美国 | [Stony Brook University — Master of Arts in Physics](physics-master/StonyBrook_MA_Physics.md) | 通常2年 /4 semesters；最长3年；30 credits；thesis或comprehensive exam；本轮优先thesis。 | 最低overall 3.0，且本科总评和math/science B。；Match / High |
+| 美国 | [New York University — Master of Science in Physics](physics-master/NYU_MS_Physics.md) | 32或36 credits；日历时长未核明确；Thesis32 / Examination32 / Report36 credits三条路线。 | 无公开minimum score；课程与科研可整体评估。；Match / High |
+| 美国 | [University of Texas at Austin — Master of Science in Physics](physics-master/UTAustin_MS_Physics.md) | 具体MS路线及时长待当前degree regulations核实；存在terminal masters入口；当前thesis/non-thesis学分细则未闭环。 | 无minimum undergrad GPA可申请；核心Phys需强。；Reach / Medium |
+| 美国 | [Georgia Institute of Technology — Master of Science in Physics](physics-master/GeorgiaTech_MS_Physics.md) | 30 credits；固定日历学制未公开于所查页；Thesis6 credits或Non-thesis Special Problems / Practicum6 credits。 | 外部MS自费可申请；本科数字最低未确认。；Reach / Medium |
+| 法国 | [Université Paris-Saclay — Master Physique fondamentale et applications — M1 General Physics](physics-master/ParisSaclay_Master_GeneralPhysics.md) | M1 1年60 ECTS；完整M1+M2通常2年120 ECTS；M1研究实习；须后续获相容M2录取，完整thesis要求取决M2 track。 | Bachelor Physics；英文B2，3.0整体竞争需科研补强。；Match / High |
+| 法国 | [Université PSL — Master’s degree in Physics — International Centre for Fundamental Physics (ICFP)](physics-master/PSL_Master_FundamentalPhysics_ICFP.md) | 2年 /120 ECTS；本科毕业应申请M1；M1/M2 research internships与research-based training；各年论文/实习具体学分按track。 | 高强度fundamental Physics选拔；无公开GPA数值。；Reach / High |
+| 法国 | [Sorbonne Université — Master Physique fondamentale et applications — Paris Physics Master](physics-master/Sorbonne_Master_FundamentalPhysics.md) | M1+M2 2年 /120 ECTS；核心Physics、numerical methods与research internship；joint Paris Physics Master路线。 | English Physics M1；课程与研究背景适合。；Match / High |
+| 法国 | [Institut Polytechnique de Paris — Master Physics — M1 / M2 High Energy Physics](physics-master/IPParis_Master_Physics_HEP.md) | M1+M2 2年 /120 ECTS；M1至少16周internship；M2至少4个月thesis / internship，30 ECTS。 | 扎实Physics与数学；本科入口M1。；Reach / High |
+| 法国 | [Université Grenoble Alpes — Master Physique fondamentale et applications — M1 Recherche fondamentale](physics-master/Grenoble_Master_FundamentalPhysics.md) | M1 1年60 ECTS；衔接M2共2年；M1研究实习；numerical physics、advanced data analysis、cosmology选课；M2另择研究track。 | M1法语教学；目前无已确认法语资格。；Reach / High |
+| 德国 | [Technical University of Munich — M.Sc. Physics (Applied and Engineering Physics)](physics-master/TUM_MSc_Physics.md) | 2年 /4 semesters，120 ECTS；第一年高级课程；第二年research phase + Master thesis。 | aptitude assessment；相关Physics本科与VPD。；Reach / High |
+| 德国 | [Ludwig-Maximilians-Universität München — M.Sc. Physics](physics-master/LMU_MSc_Physics.md) | 2年 /120 ECTS（学制需对应study regulations最终核对）；research-oriented Physics；当前thesis学分细则待study program确认。 | 加拿大本科需Physics或Math Subject GRE。；Reach / High |
+| 德国 | [Heidelberg University — M.Sc. Physics](physics-master/Heidelberg_MSc_Physics.md) | 2年 /4 semesters，120 ECTS；research-oriented Physics，Master thesis；具体模块按所选方向。 | German grade 2.9或更好；有oral selection。；Match / High |
+| 德国 | [Karlsruhe Institute of Technology — M.Sc. Physics](physics-master/KIT_MSc_Physics.md) | 2年 /4 semesters，120 ECTS；advanced Physics coursework与research /Master thesis。 | 理论32 /实验32 /lab18 ECTS；最多有限补课。；Match / High |
+| 德国 | [RWTH Aachen University — M.Sc. Physics](physics-master/RWTH_MSc_Physics.md) | 2年 /4 semesters，120 ECTS；第一年高级课，第二年research /Master thesis；可选AI in Physics、astroparticle/cosmology、particle方向。 | 需非EU GRE，可接受General；核Physics core。；Match / High |
+| 瑞士 | [ETH Zurich — Master of Science ETH in Physics](physics-master/ETH_MSc_Physics.md) | 1.5年 /3 semesters；90 ECTS；第三学期约半年Master thesis；之前proseminar /semester project。 | foreign Bachelor等效与高水平成绩；3.0明显弱。；Reach / High |
+| 瑞士 | [École polytechnique fédérale de Lausanne — Master of Science in Physics](physics-master/EPFL_MSc_Physics.md) | 2年 /120 ECTS；research-oriented coursework、laboratory work与Master project。 | foreign Physics bachelor要求excellent academic records。；Reach / High |
+| 瑞士 | [University of Geneva — Master of Science in Physics](physics-master/Geneva_MSc_Physics.md) | 2年 /4 semesters，120 ECTS；Master thesis60 ECTS；Cosmology and Astrophysics of Particles等tracks。 | 非Bologna本科须committee equivalence。；Match / High |
+| 瑞士 | [University of Zurich — Master of Science UZH in Physics](physics-master/UZH_MSc_Physics.md) | 约1.5年 /90 ECTS；Master thesis为30或50 ECTS，分别约6或10个月；required research seminar；须导师同意并订learning agreement。 | foreign180ECTS本科，个案审查可附补课。；Match / High |
+| 瑞士 | [University of Bern — Master of Science in Physics](physics-master/Bern_MSc_Physics.md) | 1.5年 /3 semesters，90 ECTS；Master thesis45 ECTS，加Master examination；English research-oriented degree。 | 须90Physics+30Math或60+60 ECTS等效。；Match / High |

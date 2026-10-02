@@ -1,58 +1,86 @@
-# Institut Polytechnique de Paris — Physics / High Energy Physics
+# Institut Polytechnique de Paris — Master Physics — M1 / M2 High Energy Physics
 
-**学位：** Master；**方向：** High Energy Physics / 粒子、天体粒子与宇宙学；**地区：** France，Palaiseau。  
-**最后核实：2026-10-01**；**状态：正式目标，优先核实 Fall 2027 M1**。
+**2027 入学候选复核｜法国｜核查/访问尝试：2026-10-02**
+
+本轮状态：**官方核心页面已访问；2027未发布字段待更新**。本轮采用2026-09-27更新的科研背景；所有资格判断以正式成绩与学校等效审核为准。
 
 ## 项目事实
 
-| Field | 核实信息 |
+| 字段 | 官方事实或明确待核事项 |
 |---|---|
-| Country | France |
-| University | Institut Polytechnique de Paris (IP Paris) |
-| Program name | Physics Program；拟申请 Master Year 1 High Energy Physics，后续 Master Year 2 High Energy Physics [S1–S2] |
-| QS ranking | 综合：2027 全球 43，法国第 2；Physics & Astronomy：2026 全球 45，法国第 4 [R] |
-| Track | 粒子、天体粒子、标准模型、实验方法、数值物理、宇宙学；HEP 可选 National Track 或与 ETH Zürich 的 International Track [S2] |
-| Master type | Academic / Research [S2] |
-| Duration | 完整硕士 2 年、120 ECTS；M1 12 个月、60 ECTS，完成 M2 后才获得 Master's degree [S1–S2] |
-| Research / thesis | M1 强制研究实习至少 16 周，20 ECTS；M2 Master's thesis 强制，至少 4 个月、建议 5–6 个月，30 ECTS [S2, S7] |
-| GPA requirement | 未列数值门槛或录取均值；HEP 要求 excellent academic record in fundamental physics and mathematics；普通 Master 招生原则还要求按申请人所在国家/院校标准判断的 outstanding academic performance，不能据此确认 GPA 3.0 足够 [S2–S3] |
-| Supervisor contact before application | HEP M1 公开清单为成绩单、两位学术推荐人、CV 和 SOP，没有意向导师接收函或先确定导师的要求。两位 academic references 不是法国意向导师的接收承诺 [S2–S3] |
-| Recommendation requirement | **普通外部申请人需要两位学术推荐人的推荐**。FAQ 写 Two letters of recommendation：申请表提供两人联系方式，系统发邮件由其填写 recommendation form；HEP 页也要求 two academic references 由推荐人在平台提交。FAQ 中“不必实际提交推荐信”的简化流程针对 IP Paris 成员工程学校学生或内部 M1 升 M2，不能套用于 U of T 外部 M1 申请人 [S2–S4] |
-| Selection / rolling admission | IP portal 普通 Master 分三轮；HEP 页面说明每轮截止后两个月内在 candidate space 答复。应按多轮申请理解，不能称全年滚动录取；轮内是否先到先审未公布。普通 HEP 面试规则待核，FAQ 的在线面试描述针对 PhD Track [S2–S4] |
-| U of T background | FAQ 明确 international Bachelor's degree 可申请 M1；普通 Master 评价原则明确考虑本科院校国内/QS 排名。QS 2027 U of T 全球 32：院校背景具备与该原则相符的优势是分析判断，不是校方对 U of T 的特殊承诺；GPA 仍单独评审 [S3–S4, R] |
-| Grade / credit interpretation | FAQ 要求 GPA / 均分按 20 分制填写，并提交非 ECTS 学制的官方评分/学分说明；未给出 U of T 专用换算公式。不得自行把 3.0/4.0 线性写成法国 15/20 的录取等值，须先向 admissions 确认具体填法 [S4] |
-| GRE | 所查申请清单未提及 [S2–S3] |
-| Teaching language | HEP M1 和 M2 均为 English；所查 M2 专业课程均列 English [S2, S7] |
-| French requirement | M1 / M2 写 Notions of French are highly desirable，属于建议；未列法语最低等级或法语考试门槛，符合本次“无需法语水平”的筛选 [S2, S7] |
-| TOEFL / IELTS | Physics 总项目要求英语 B2；HEP 要求英语。普通 Master's 的英语授课本科豁免和具体考试分数待核；招生页的明确豁免出现在 **PhD Track** 段，不能自动用于普通 Master [S1–S3] |
-| Prerequisites | 已完成或正在完成物理 BSc / equivalent；M2 通常要求已完成 M1 或相当 60 ECTS；拟以 U of T 本科申请 M1 [S2–S4] |
-| Cohort size | 未核实 |
-| Fall 2027 deadline | **未公布**。2026 普通 Master 的 IP Paris portal 参考窗口：第 1 轮 2025-10-29 至 2026-01-08；第 2 轮 2026-01-09 至 03-26；第 3 轮 2026-03-27 至 05-28。若适用 Mon Master，2026 参考为 02-17 至 03-16；渠道依国籍、居住地、项目确定 [S3] |
-| Scholarship deadline | Fall 2027 待公布；PhD Track 使用另一日历，不应替代普通硕士截止日 [S3–S5] |
-| Tuition | 2026–2027 官方费用表：普通 national Master 非欧盟 €4,327/年、欧盟/EEA/瑞士 €255/年。HEP 未列入表中高费率 international Master 名单；ETH 双学位合作另有协议费率。2027–2028 待公布 [S6] |
-| Funding / TA / RA | 普通 Master 无已确认的保证资助；PhD Track 的 €10,000/年硕士奖学金仅属另一路径，并需评选，不保证授予 [S5] |
-| Application materials | 成绩单、学位/在读证明、CV、定制 SOP、两位学术推荐人及其他平台材料；非 ECTS 学制须提供官方成绩/学分解释文件 [S2–S4] |
-| Source | https://www.ip-paris.fr/en/education/graduate-programs/masters-science/physics-program/master-year-1-high-energy-physics |
-| Match | **High** — HEP、数值物理及实验方法与 ATLAS open MC、Higgs 信号强度和统计评估经历直接贴合 |
-| Difficulty | **Reach** — excellent academic record 要求使 GPA 3.0 成为明显竞争风险；研究匹配不等于达到录取标准 |
-| Notes | 主目标为普通 HEP Master；ETH 双学位和 PhD Track 是需要单独确认的可选路线 |
+| Country / 国家 | 法国（France） |
+| University / 大学 | Institut Polytechnique de Paris |
+| Exact program / 学位 | Master Physics — M1 / M2 High Energy Physics |
+| Track / 专业方向 | High Energy Physics |
+| Master type / 项目类型 | Academic / Research |
+| Duration / 学制 | M1+M2 2年 /120 ECTS [S3](#s3) [S4](#s4) |
+| Research / thesis | M1至少16周internship；M2至少4个月thesis / internship，30 ECTS。 [S3](#s3) [S4](#s4) |
+| GPA / academic eligibility | Bachelor Physics / equivalent，excellent preparation；未公布数值最低或平均录取GPA。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。 [S3](#s3) |
+| GRE | 所查National Master招生页未要求GRE。 [S3](#s3) |
+| TOEFL / IELTS / 授课语言 | HEP English B2；French notions highly desirable而非明确强制等级。英语学位免试须National Master规则确认，不能直接套PhD Track豁免。 [S3](#s3) |
+| Prerequisites / 先修 | QM / EM / classical / statistical /数学；Higgs / likelihood / ML科研可对接HEP申请。 [S3](#s3) |
+| References / supervisor | 2名academic references在线提交；CV / motivation /transcripts。 [S3](#s3) |
+| Cohort size / 年度规模 | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。 |
+| Deadline / 主申请与奖学金 | 当前National Master三轮截止2026-01-08 /03-26 /05-28；2027未发布。 [S3](#s3) |
+| Deadline evidence / 时间依据 | 仅公布2026周期，2027待发布 |
+| International tuition / 学费 | 2027学费未核实；须使用本人国际学生费率报价。 [S4](#s4) |
+| Funding / TA / RA | Master scholarship竞争；National Master不自动获得PhD Track资助或博士录取。 [S1](#s1) |
 
-## 申请判断与待办
+## 排名及筛选
 
-将 Higgs 课题作为申请主线，MaNGA Bayesian 项目补充展示科学计算与推断能力。先准备物理/数学课程成绩和 syllabus，再判断学业基础是否足够。
+QS World University Rankings 2027综合 43；QS Physics & Astronomy 2026 45。
 
-- 向 `master-admission@ip-paris.fr` 核实 2027 普通 HEP Master 英语证明、招生规模和申请平台；**尚未联系**。
-- 优先 National Track；ETH 联合学位涉及第二年安排和协议费率，不能只按 IP Paris 普通费率预算。
-- 保留普通 Master 与 PhD Track 区别；本文件不新增法国独立博士目标。
-- 本科院校排名是已公开的评价因素，不能据此抵消 GPA 3.0。准备 U of T 官方评分尺度、原始百分制成绩、学分说明、核心物理/数学成绩及趋势；向 admissions 确认平台的 20 分制填写方法。
+最新QS综合或Physics & Astronomy前100已核。
 
-## Sources
+本轮国别名单顺序：4；这是QS学科及并列时综合排名形成的**大学筛选顺序**，不是硕士项目官方排名。
 
-- [S1] Physics 总项目：https://www.ip-paris.fr/en/education/graduate-programs/masters-science/physics-program
-- [S2] HEP M1：https://www.ip-paris.fr/en/education/graduate-programs/masters-science/physics-program/master-year-1-high-energy-physics
-- [S3] 招生：https://www.ip-paris.fr/en/education/useful-information/admissions
-- [S4] FAQ：https://www.ip-paris.fr/en/education/graduate-programs/masters-science/faqs
-- [S5] 奖学金：https://www.ip-paris.fr/en/education/useful-information/scholarships
-- [S6] Master's Tuition Fees 2026–2027，特别是第 1、2、5 页：https://www.ip-paris.fr/sites/default/files/pages/documents/Masters/master-phd-track-registration-fees-EN-26-27%20(3).pdf
-- [S7] HEP M2：英语、法语建议、论文：https://www.ip-paris.fr/en/education/masters/physics-program/master-year-2-high-energy-physics
-- [R] QS 数据：[France_Physics_Masters.md](France_Physics_Masters.md)
+## 个人适配与申请判断
+
+| 维度 | 判断 |
+|---|---|
+| Match | High — HEP、长研究实习和M2 thesis直接对应H→ZZ*推断项目，是本轮研究主题最贴近的法国冲刺。 |
+| Difficulty | Reach；规划判断，不是录取概率。 |
+| 申请优先级 | 科研最贴近；强冲刺 |
+| 当前资格焦点 | 扎实Physics与数学；本科入口M1。 |
+| 下一步 | 以National Master M1申请，突出本人完成的统计推断贡献；不申请错为自动带资助PhD Track。 |
+
+HY当前记录：UofT Physics，CGPA3.0/4.0，GRE General317/Q166，预计2027年6月毕业。MaNGA暗物质晕c–M Bayesian/PyMC研究与H→ZZ*→2e2μ统计推断可作为申请证据；第一段手稿尚未确认提交，第二段作者顺序、投稿与强推荐尚未落实。不要使用旧JetClass/PET/OmniLearn叙述。
+
+CGPA不能代替final-year、last-two-years、三四年级或major average；English degree也不自动代表所有项目免试。未掌握个人完整课程表，不能判定ECTS/honours等效已经满足。
+
+## 官方来源与本轮访问
+
+<a id="s1"></a>
+
+S1. **M1 High Energy Physics**：https://www.ip-paris.fr/en/education/graduate-programs/masters-science/physics-program/master-year-1-high-energy-physics
+
+- 2026-10-02：HTTP 200；提取正文10162字符。HTTP200不单独证明正文有效，JS/challenge/重定向已在事实或审计中注明。
+
+<a id="s2"></a>
+
+S2. **M2 High Energy Physics**：https://www.ip-paris.fr/en/education/masters/physics-program/master-year-2-high-energy-physics
+
+- 2026-10-02：HTTP 200；提取正文10053字符。HTTP200不单独证明正文有效，JS/challenge/重定向已在事实或审计中注明。
+
+<a id="s3"></a>
+
+S3. **Master admission / dates / references**：https://www.ip-paris.fr/en/education/useful-information/admissions
+
+- 2026-10-02：HTTP 200；提取正文21585字符。HTTP200不单独证明正文有效，JS/challenge/重定向已在事实或审计中注明。
+
+<a id="s4"></a>
+
+S4. **Master FAQ / fees**：https://www.ip-paris.fr/en/education/graduate-programs/masters-science/faqs
+
+- 2026-10-02：HTTP 200；提取正文20106字符。HTTP200不单独证明正文有效，JS/challenge/重定向已在事实或审计中注明。
+
+排名来源：
+
+- QS World University Rankings 2027 results table：https://www.qs.com/insights/qs-world-university-rankings-2027-results-table-excel
+- QS WUR 2027 official XLSX：https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20(For%20qs.com).xlsx
+- QS Subject Rankings 2026 results：https://magazine.qs.com/qs-insights-magazine-39/qs-subject-rankings-results
+- QS Subjects 2026 official XLSX：https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+**Last-verified / last-attempted：2026-10-02。** 日期仅覆盖已获得的具体正文；未公开、旧年份、访问失败的字段仍为待核，不能将整份记录标成资格完成。
+
+[本轮38项索引](README.md) · [地区候选总览](../application/phy-master-plan/Physics_Masters_Regional_Overview_20261002.md)
