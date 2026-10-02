@@ -23,19 +23,20 @@
 |------|------|
 | [physics-phd/](physics-phd/) | 美国、新加坡 direct-entry Physics PhD 项目与匹配导师；目标至少 40 个项目/导师记录 |
 | [physics-master/](physics-master/) | Physics Master 项目；至少 30 个的目标已超过，当前正式 56 个；地区索引包含加拿大、美国、英国、瑞士、德国、法国、新加坡、香港及澳大利亚 |
-| `ds-master/`（待建） | Data Science Master 项目；目标至少 15 个，面向接受 STEM 背景的项目 |
+| [ds-master/](ds-master/) | DS / Analytics / Applied Statistics / ML 硕士学校档案与地区索引；50项，覆盖9地区：美国15所，其他各不超过5项；含资格缺口和来源待核项 |
+| [application/ds-master-plan/](application/ds-master-plan/) | DS硕士综合调研、跨项目比较、美国15所分层推荐与申请策略 |
 | [guides/](guides/) | 搜索及国家差异参考资料 |
 | [targets.md](targets.md) | 目标地区及申请优先级 |
 | [AGENTS.md](AGENTS.md) | 来源顺序、字段标准、匹配判断与建档流程 |
 
-目标数量是最低覆盖要求，不能替代资格和来源核实。当前 `ds-master/` 尚未建立；目录出现前不要将其候选清单视为已建档记录。
+目标数量是最低覆盖要求，不能替代资格和来源核实。DS 档案与索引已同步建立，但候选不等于申请资格已确认；完整报告见 [全球DS硕士调研](application/ds-master-plan/DS_Masters_Global_Survey_20261002.md)，美国部分见 [15所分层推荐与申请比较](application/ds-master-plan/USA_DS_Masters_15_20261002.md)。
 
 ## 加拿大硕士申请规划
 
 分析前提：国际学生、GPA 按 3.0/4.0、接受自费、预算不作为限制，目标为至少取得一个加拿大硕士 offer。
 
 - [物理、天文及 Applied Physics 申请规划](physics-master/Canada_Academic_Physics_Masters.md)
-- DS、数据分析、统计及计算科学等方向的规划文件尚未落入 `ds-master/`，对应候选需另行核实和建档。
+- [加拿大DS、数据分析与相邻硕士扩展规划](application/ds-master-plan/Canada_Data_Science_Masters.md)；本次全球候选池的加拿大五项见 [DS索引](ds-master/README.md)，与历史扩展名单分开计数。
 
 规划中的候选不等于已核实申请资格，也不等于已完成项目条目。
 

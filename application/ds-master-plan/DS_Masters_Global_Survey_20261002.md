@@ -1,0 +1,2610 @@
+# 全球数据科学硕士项目调研与申请决策
+
+核查日期：2026-10-02 | 目标：2027 年本科毕业后入学 | 申请人：HY，University of Toronto Physics
+
+## 1. 应先采用的结论
+
+你的物理、Python、贝叶斯推断和 HiggsML 研究经历，与统计推断、机器学习和科学计算方向有实质交集。决定申请可行性的主要缺口是：学校如何计算 GPA、概率统计的正式课程证据，以及部分项目要求的算法、数据库和计算机系统学分。研究经历能增强材料，但不能默认替代硬性学位或课程要求。
+
+以回加拿大求职为目标，应优先比较能形成真实行业履历的课程、实习和 capstone，再考虑品牌与海外体验。加拿大项目在本地招聘连接上更直接；海外强校可以提供扎实训练，但需要主动把课程转为加拿大雇主能评价的工程作品和行业经验。本报告未获得这些项目在加拿大的统一、可比就业率，故不编造工资、就业率或录取百分比。
+
+- 现实申请准备重点：加拿大 Calgary（国际直入或PR分阶段路径需区分）、澳洲 Monash 2年入口，以及美国 Arizona、Maryland、Colorado Boulder、Rochester、BU MET。它们有可对接的入口或桥接机制，仍有成绩、先修或语言条件。
+- 有条件保留：Sydney、UNSW、ANU、CUHK DSBS、PolyU、RWTH；先解决成绩等效、学位/课程映射、费用与毕业时间。
+- 成绩/先修压力较大：U of T MScAC、UBC Vancouver、Waterloo、英国五项、ETH，以及数学/CS前提严格的欧洲项目。只保留少量有证据支撑的冲刺。
+- UCL 特别提醒：已核加拿大等效为3.3/4.0或77% B+，现有3.0低于门槛。UCL导师合作不等于统计系DS硕士可以豁免成绩。
+
+## 2. 范围、筛选口径与数据边界
+
+采用你确认的“综合项目实力”口径。考量相关统计/CS/ML教学与研究、核心课程深度、实际项目/研究训练、行业连接、英语完成可行性及学位清晰度。美国以外各地区至多五项是本次调研选出的前列候选，不声称存在统一官方国内DS硕士第1-5名排名，也不把校级声誉直接当作某个硕士的就业效果。
+
+美国另外加入对本人背景的匹配：明确3.0门槛、理科入口、桥接机制、推荐/语言要求及申请风险，15所独立大学形成主申请、有条件候选和冲刺层次，不能把15所都当作已确认符合资格。加拿大按仓库规则免校级排名过滤；Calgary在五项中承担正式DS入口与实践训练的申请策略价值，并非宣称它的学科排名超过所有未列加拿大院校。
+
+仓库的非加拿大排名门槛已逐项核对：最新QS综合2027、相关学科2026，或美国US News对应榜单。QS官方公开XLSX已通过HTTPS下载读取；综合和学科年份不同是发布时间差异。Rochester由校方最新汇总确认US News National Universities2027第49。其余非加拿大候选至少通过一项QS允许门槛；加拿大免过滤。联合项目按明确的授学/教学伙伴注明排名，不能把伙伴排名写成另一所学校排名。
+
+过滤不是项目排名：Colorado Boulder用Physics2026第57、RWTH用Physics第69、Wisconsin用Statistics51-100通过；这些名次不能写成“DS第57/69”。它们的DS候选价值另外由课程、桥接或Physics入口说明。原考虑的ESSEC-CentraleSupélec未获得适用门槛的充分证明（ESSEC Stats201-250、Centrale未单列），由Polytechnique ViCAI替换；SMU综合411、CS124、Stats101-150且未在允许DS/Physics榜中见合格项，未入主表。Northeastern与Indiana的QS未达线，最新US News可用门槛本次未闭合，故改选Colorado Boulder和UCSD，未作为主表候选。
+
+排名来源：[QS2027官方综合XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx)；[QS2026学科公开结果XLSX，由QS结果页链接](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx)；[Rochester最新排名汇总](https://www.rochester.edu/about/rankings.html)。2026-10-02核对。Edinburgh项目页宣传DS/AI18，而公开表为30，已保留差异并以结果表筛选。
+
+共50项：加拿大5、澳大利亚5、美国15、英国5、法国5、德国5、瑞士3、新加坡2、中国香港5。按用户最新要求，美国扩展为15所独立大学；其他国家和地区各不超过5项。瑞士和新加坡不为凑数加入与DS关系薄弱、重复方向或需尚未确认语言/学历的其他项目。DS、Data Analytics、Applied Statistics及ML相邻专业可纳入，但准确标出学位与方向；同一项目的校区/track不重复占位置。
+
+默认以能用英语完成为目标。法国英文项目可有FLE语言课；德国LMU与瑞士UZH的补课/选课语言尚未完全确认。三个来源恢复待办候选（Melbourne、NUS、CityU）保留位置，但大部分招生字段不能认定已确认。美国USC与JHU部分核心招生页亦受限，资格仍未知；其余项目也各有未公布、未读取或需学校判断的字段。
+
+外部查询均直接发送HTTPS请求，以学校项目、招生、手册与研究生院为主。2027数据优先；页面只有2026/27、旧年度段落或访问受限时明确说明。HTTP200但正文为空/访问检查不算核实成功。费用保留原币种，分清年度与全项目、国内与国际，不做没有汇率日期的换算。未列金额不能推断便宜或有资助。
+
+## 3. 本人背景与资格判定
+
+| 项目 | 已知背景 / 判断边界 |
+|---|---|
+| 本科 | U of T Physics，预计2027年6月毕业；Honours/Physics Specialist的国际等效由各校审核 |
+| 成绩 | 累计GPA3.0/4.0；不能代替最后一年、最后60学分、高年级均分或澳洲百分制换算 |
+| GRE | 317，Q166、V151；AW与当前成绩报告percentile未确认，RWTH等项目必须另核 |
+| 编程 | CSC108/CSC148与Python科研；未据此推断完整CS本科、算法/DB/OS/网络先修已满足 |
+| 数学 | 有calc、LA及ODE训练；本地记录对部分课程代码有差异，须以正式成绩单和syllabus做统一映射 |
+| 概率统计 | 贝叶斯研究能展示能力，但正式prob/stat课程及成绩记录尚未完全核实 |
+| 研究1 | MaNGA暗物质halo关系，PyMC5/MCMC；一作稿准备arXiv/期刊，不当作已正式发表；推荐可能弱 |
+| 研究2 | UCL合作H→ZZ*→2e2μ模拟：MLP、pyhf likelihood、Shapley、MC bootstrap/coverage；本人负责技术工作，探索性结论，不宣称已证明模型改进；强推荐仍待落实 |
+| 就业身份 | 用户规划：可能持加拿大PR；否则期望U of T毕业获3年PGWP。两者均不是已获批事实 |
+
+High/Medium/Low评价的是方法与课程匹配，不能解读成录取概率。Reach/Match为规划标签，不使用“保录”或凭最低线给Safe。Plausible表示已读规则存在可对接入口，仍需整体审核；Pending表示核心证据未闭合；Hard gap表示官网明确要求目前未证明满足。Unknown不升级为匹配。
+
+## 4. 回加拿大就业竞争力：课程与项目比品牌更可操作
+
+| 求职方向 | 你的可用优势 | 需要形成的补强证据 | 选项目时看什么 |
+|---|---|---|---|
+| Data Scientist / Applied Scientist | 推断、MCMC、likelihood、MC不确定度和可复现实验 | 真实业务问题、统计实验/因果、SQL、清晰结果解释 | 统计核心、外部合作capstone、研究项目与业务沟通 |
+| ML Engineer | Python/MLP与严格评估 | 数据pipeline、API、测试、模型部署/监控、云与版本管理 | 软件/系统课程、DB/cloud、可运行端到端项目 |
+| Data Engineer | Python与数据处理 | SQL/data modeling、ETL、Spark、云、可靠性 | DB/分布式系统、数据工程实践、工程型实习 |
+| Analyst / BI / Analytics Consultant | 量化分析与解释能力 | SQL、dashboard、业务指标、stakeholder沟通 | 应用统计、商业项目、行业咨询/实习 |
+
+以上是能力映射与本报告判断，不是实时岗位数量统计。先把申请叙事从“物理学生学过ML”发展为“能对数据、模型与不确定度进行可复现评估”，再补一项SQL/数据库/云部署的真实作品。MaNGA和HiggsML可支持统计深度，但不能自动证明工业数据工程熟练度。
+
+| 项目组合 | 加拿大就业价值判断 | 主要代价/风险 |
+|---|---|---|
+| U of T MScAC / Waterloo co-op | 本地长行业研究或工作学期、雇主联系直接；若取得相关岗位可产生最清楚的加拿大履历 | 本人GPA/先修可行性偏低；项目支持不等于岗位保证 |
+| UBC / Calgary / McGill MMA | 本地capstone、实习或咨询实践，易与加拿大招聘环境连接 | 密集学制、费用或身份入口；MMA商业导向不同于研究DS |
+| Sydney / Monash / UNSW | Sydney的DE/ML+capstone、Monash基础+studio/thesis能补技能；UNSW定量方向扎实 | 1.5-2年时间与费用；澳洲实习不自动转为加拿大network |
+| 美国15所 | 统计/ML、数据库与客户项目可补能力；Arizona/Colorado有转换入口，Maryland重课程，Rice/NC State有客户项目，Northwestern一年制 | 国际full-time费用须查；美国工作权限不同于加拿大，不能用加拿大PR解决美国工作授权 |
+| UCL / Imperial / Oxford / Edinburgh / Cambridge | 学术品牌与严谨统计/ML训练，对研究方向有价值 | 3.0及先修风险；1年左右项目实践时间紧，须主动补工程履历 |
+| 法国/德国/瑞士 | 数学/ML或研究实习强度较高；若想继续PhD更有吸引力 | 学位/ECTS等效、当地求职语言、2年机会成本；部分院校费用不低 |
+| 新加坡/香港 | 一年或一年半应用课程较多，国际环境与亚洲行业项目可形成作品 | 加拿大本地招聘连接较弱；短学制仍需核实费用/项目质量与身份剩余时间 |
+
+### UCL 与 Sydney 的直接比较
+
+| 维度 | UCL Data Science MSc | Sydney Master of Data Science |
+|---|---|---|
+| 学制 | 1年 | 1.5年、72CP |
+| 本人入口 | 3.0低于已核加拿大3.3；先问例外再投 | 65%等效+cognate major/minor范围；不能自动认定已达 |
+| 课程优势 | Stats系推断/统计学习，科研方法衔接自然 | DE/ML方向较明确，DB/cloud及专业实践可补工程短板 |
+| 项目 | 60UKcredits夏季research | professional capstone或获批准research path，后者不保证 |
+| 回加拿大优先权重 | 若追求统计研究深度且获录取，1年节省时间 | 若重点补工程和行业作品，DE+capstone值得优先比较 |
+| 当前行动 | GPA例外未确认前不作主申请 | 先提交课程映射核cognate，并核2027学费 |
+
+这是课程结构与个人缺口的比较。没有相同加拿大就业样本，不能得出“某校加拿大就业率更高X%”的结论。官方依据见两项详细记录。
+
+## 5. PR 与 PGWP 两种情景应分别排序
+
+如果最终持PR，选择主要由项目质量、成本、实践和返回时间决定；加拿大公民/PR费用可能显著下降，但要按学校收费身份规则确认。McGill已给2027PR净学费；Calgary甚至会改变入口路径。加拿大PR不等于美国domestic、EU/EEA或新加坡PR。
+
+如果仅以U of T毕业后的PGWP作为返回求职权限，须核对实际批准与到期日。IRCC当前规则：一般须在完成学业确认后180天内申请；PGWP通常只能获得一次；两年以上合资格课程可获最长3年，受护照有效期和其他要求限制。海外硕士不会提供新的加拿大PGWP。若先在2027年夏取得3年permit，到2030年夏到期，出国读书期间这个日历期限仍会经过；不能把出国年数当作暂停。
+
+| 海外学制假设 | 示例返回时间 | 示例PGWP剩余时间（仅用于规划） |
+|---|---|---|
+| 1年，2027秋开始 | 2028夏/秋 | 约2年，取决于实际起止日 |
+| 1.5年 | 2029初 | 约1-1.5年 |
+| 2年 | 2029夏/秋 | 约1年或更少 |
+
+示例不构成获批承诺。2027规则和你实际permit、护照、PR进展需要届时核实；如还没有PGWP，不能把工签期限当已锁定。PR境外学习的居住义务也应按个人获PR日期另算。
+
+来源：[IRCC PGWP期限与一次性规则](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/about.html)；[IRCC 180天与资格](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility.html)。该节2026-10-02直接HTTPS核查；“海外学习消耗已批准permit日历期限”为基于到期日期的规划推论。
+
+## 6. 推荐信、语言和申请准备
+
+推荐信没有统一数量：UCL1封；Wisconsin2封；Colorado Boulder最低1封；U of T、UBC Vancouver、Waterloo、Rochester、UCSD、Rice、UIUC至少3封；Arizona、Northwestern、NC State2封；X-HEC2封；Calgary明确None；NTU optional。未核项目保留未知，不能套用国家通则。准备2-3位真正了解工作的人最灵活，其中至少2位学术推荐有助于多校复用；UCL合作导师的具体认可和推荐承诺应尽快落实。
+
+不要把“U of T英文本科”写成所有学校自动免TOEFL/IELTS。BU、Rochester、CUHK、PolyU等有可对接路径，NTU可交MOI。NC State现行豁免路径不包括仅凭U of T英语授课本科，中国国籍申请人应先按需要语言考试准备。Northwestern需NACES逐课评估注明英语；ASU需申请后走MOI表格路径，未毕业状态待核。RWTH通常不接普通MOI，需按例外规则核；每校材料有效期也不同。
+
+1. 从正式成绩单重新算累计、最后一年、最后60学分、3/4年级均分，保留每门课的权重和学校要求的worksheet。
+2. 建立同一份课程映射：calc/LA/ODE、prob/stats、Python、algorithms、DB、OS/architecture；提供official syllabus，不再从不一致的本地课程代码推断。
+3. 在2026/27有学分课程中优先补probability与statistics；算法/DB视目标补齐。网课作品能增强能力证据，是否能替代formalcredits须学校明确认可。
+4. 核GRE原始报告：AW、percentiles、考试日；RWTH尤其不能只看Q166。
+5. 把科研写成个人贡献、方法、可复现结果、局限和后续检验；不把待投论文写成published，不把探索性W68比较写成已验证优越性。
+6. 做一个可运行的SQL+数据pipeline+模型API/云部署作品，并争取真实行业实践；这一项比增加无关技能清单更能补加拿大就业缺口。
+
+## 7. 近期时间表与未闭合事项
+
+| 时间 | 已核项目 / 应做事项 |
+|---|---|
+| 2026-10-07 | X-HEC R1，noonCEST；材料不齐则按11月26R2准备 |
+| 2026-10-12 | Polytechnique ViCAI R1，11:59当地；奖学金只接受R1/R2申请 |
+| 2026-10-20 | PolyU early；应先权衡约HKD405,000学费与个人目标 |
+| 2026-11-01 | NC State 2027入学priority；先核6月24日开学是否满足学位完成/签证条件 |
+| 2026-11-15 / 11-26 | McGill首轮 / X-HEC R2；McGill先问Summer开学是否与6月毕业冲突 |
+| 2026-12-01 | U of T MScAC硬截止；HKUST R1 |
+| 2026-12-02 | UCSD tentative关闭 |
+| 2026-12-15 | Colorado Boulder年度priority参考；2027周期须确认 |
+| 2026-12-31 | CUHK priority；ASU具体方向Fall年度priority参考，2027年份须确认 |
+| 2027-01-06 | Imperial R2 |
+| 2027-01-11 | Polytechnique ViCAI R2；最后一个可申请该项目奖学金的轮次 |
+| 2027-01-15 / 01-31 | McGill国际最终、Waterloo年度参考 / UBC实际2027截止 |
+| 2027-02-10 | Rice on-campus MDS奖学金early |
+| 2027-02-15 / 02-25 / 02-26 / 02-28 | NC State国际最终、Wisconsin年度参考 / PolyU main / Maryland国际最终 / CUHK final |
+| 2027-03-01 | HKUST R2；Arizona主校区国际、UIUC MS、Calgary、RWTH为年度参考，需复核2027周期 |
+| 2027-05-01 | Rice on-campus MDS国际最终 |
+| 2027-06-01 | BU国际线下截止；不建议等到最后才申请 |
+
+优先补证据：U of T/UBC/Waterloo分段成绩；Sydney/UNSW/Monash均分等效；ANU及NTU honours等效；RWTH Physics profile与GRE/语言；Calgary PR入口；McGill夏季时间。美国还需核Northwestern2027轮次与费用组成、ASU Physics-related/三学期微积分、Rice线下年限费用、NC State语言与June开学、TAMU日期冲突、JHU/USC核心资格。三项官网恢复待办需补全核心字段；其他未核费表、推荐数、cohort、奖学金截止及2027更新见各记录。
+
+英国UCL加拿大等效在同一会话2026-10-01已读取，10月2重取受限，属于本次调研证据；其他访问失败页只记录尝试，不视为确认。排名筛选已核，仍不能将校级或学科名次当作特定硕士或个人录取排名。
+
+## 8. 九地区候选速查
+
+每组内部先列冲刺/需要提前准备的记录，再列较现实入口与待核候选；不作为精确项目排名。详表保留全部官方URL、费用年份与未解决事项。
+
+HKU补充核查：通过学院当前链接已读取MDASC条例（2024-25 and thereafter），确认1.5年、72学分与capstone；2027招生费用、截止和材料仍待更新。详见项目档案。
+
+
+### 加拿大（5项）
+
+本地行业连接优先。前3项实力与实践结构强，但3.0和先修风险大；MMA是相邻商业分析；Calgary有现实GPA入口，PR会改变路线。
+
+| 项目 | 学制 | 成绩 / 资格要点 | 难度 / 优先级 | 2027时间 | 状态 |
+|---|---|---|---|---|---|
+| [University of Toronto — Master of Science in Applied Computing - Data Science concentration](../../ds-master/Canada_UofT_MScAC_DS.md) | 16个月：8个月课程 + 8个月 applied research internship | 最后一年 B+（U of T 77%-79%）；不是累计 GPA 3.0 门槛；Pending：最后一年成绩及高阶CS/统计课程待核 | Reach / 有条件冲刺 | Fall 2027：2026-12-01 23:59 ET | In progress |
+| [The University of British Columbia — Master of Data Science - Vancouver](../../ds-master/Canada_UBC_MDS.md) | 10个月，全日制、线下 | 本科3/4年级至少B+（UBC76%）；各先修课平均亦至少76%；Pending：高年级76%与概率/统计课证明 | Reach / 有条件冲刺 | 2027：2027-01-31 | In progress |
+| [University of Waterloo — Master of Data Science and Artificial Intelligence - full-time co-op](../../ds-master/Canada_Waterloo_MDSAI.md) | 16个月（4学期）；获批8个月co-op则20个月 | 至少 overall78%；官网说明实际录取线通常明显更高；Pending：78%及高阶课程映射 | Reach / 有条件冲刺 | 秋季全日制co-op annual deadline：1月15日；2027周期需再确认 | In progress |
+| [McGill University — Master of Management in Analytics - In-person](../../ds-master/Canada_McGill_MMA.md) | 12或16个月 | 项目页未明确数字门槛；研究生院/项目适用 GPA 仍待核；Pending：GPA与Summer2027开学/本科完成时间 | Match-Reach / 先核时间 | Summer2027：首轮2026-11-15；国际最终2027-01-15；加拿大公民/PR最终2027-03-15 | In progress |
+| [University of Calgary — Master of Data Science and Analytics](../../ds-master/Canada_Calgary_MDSA.md) | 12个月连续全日制；无预定假期 | 最后2年全日制至少60 units，3.0/4.0；Pending：最后60 units GPA及统计课程 | Match / 优先准备 | 国际直入MDSA annual：9月1日开放、3月1日截止；2027年份确认待完成 | In progress |
+
+### 澳大利亚（5项）
+
+Monash2年入口最明确适应非IT本科；Sydney/UNSW应先算均分与cognate；ANU要求honours等效。Melbourne待官方正文恢复。
+
+| 项目 | 学制 | 成绩 / 资格要点 | 难度 / 优先级 | 2027时间 | 状态 |
+|---|---|---|---|---|---|
+| [UNSW Sydney — Master of Data Science and Decisions](../../ds-master/Australia_UNSW_Master_Data_Science_and_Decisions.md) | 2年，全日制 | UNSW计算器 overall average70；不能用U of T GPA直接百分比转换；Pending：UNSW均分换算 | Match-Reach / 优先核均分 | 2027 Term1/Term3开放；2027 exact deadline未核实；6月毕业后应看Term3 | In progress |
+| [The University of Sydney — Master of Data Science](../../ds-master/Australia_USYD_Master_Data_Science.md) | 1.5年，72 credit points | 澳洲等效credit average65%；U of T成绩换算由学校审核；Pending：65%及cognate范围 | Match-Reach / 优先核资格 | Semester1/2；2027具体日期未核实，6月毕业后优先看Semester2 | In progress |
+| [The Australian National University — Master of Applied Data Analytics](../../ds-master/Australia_ANU_Master_Applied_Data_Analytics.md) | 1.5年，72units | GPA5.0/7.0；honours本科等效，或本科+至少3年相关工作；Pending：honours等效及5/7 | Match-Reach / 先核学位等效 | 2027 具体截止日未核实 | In progress |
+| [Monash University — Master of Data Science](../../ds-master/Australia_Monash_Master_Data_Science.md) | Entry level1：2年96points；level2：1.5年72points | credit average60%，学校审核国际等效；Pending：60%等效；优先2年入口 | Match / 优先准备 | 2027 具体截止日未核实 | In progress |
+| [The University of Melbourne — Master of Data Science](../../ds-master/Australia_Melbourne_Master_Data_Science.md) | 未核实（2027课程页受限，不能以旧年度学制替代） | 2027正式要求未核实；Unknown：官方页面受访问限制 | Unknown / 等待官方核实 | 2027 具体截止日未核实 | Waiting on source |
+
+### 美国（15项）
+
+扩展至15所独立大学；按本人背景而非美国top15排名选取。优先准备Arizona、Maryland、Colorado Boulder、Rochester、BU MET；Northwestern/Rice/ASU/NC State有条件保留。UIUC/Wisconsin/UCSD/TAMU/JHU偏冲刺，USC核心资格待核。均有排名门槛依据，但排名通过不等于招生资格通过。
+
+| 项目 | 学制 | 成绩 / 资格要点 | 难度 / 优先级 | 2027时间 | 状态 |
+|---|---|---|---|---|---|
+| [University of Wisconsin-Madison — Master of Science in Data Science](../../ds-master/USA_Wisconsin_MS_Data_Science.md) | 30credits；标准全日制时长未在已读Guide确认 | 研究生院最低最后60学分GPA3.0；项目竞争另计；Pending：最后60credits3.0与正式先修 | Reach / 美国冲刺 | annual Fall deadline：2月15日；2027年份待复核 | In progress |
+| [University of California San Diego — Master of Science in Data Science - in-person](../../ds-master/USA_UCSD_MS_Data_Science.md) | 48units；标准完成年限未在已读页面确认 | 研究生院最低数值须中央政策核；项目明确通常录取highGPA，不能用3.0语言豁免线当录取GPA；Plausible背景类别；正式GPA、准备程度及高GPA竞争待核 | Reach / 美国研究型冲刺 | Fall2027 tentative：2026-10-14开放，2026-12-02关闭；2027-09-20季度开始 | In progress |
+| [University of Illinois Urbana-Champaign — Master of Science in Statistics, Analytics Concentration](../../ds-master/USA_UIUC_MS_Statistics_Analytics.md) | 2026/27目录36-40hours/9-10门；标准完成年限待核，不以奖学金最多4学期当固定学制 | 本科最后60semester hours或全部研究生累计最低3.0；目录2.75是学位要求，不是入学门槛；Pending：最后60学分和正式微积分型prob/stats先修；整体竞争待核 | Reach / 美国统计型冲刺 | MS Fall年度March1、Spring September15；国内国际相同，2027周期待复核 | In progress |
+| [Texas A&M University — Master of Science in Statistical Data Science - On-Campus](../../ds-master/USA_TAMU_MS_Statistical_Data_Science.md) | FAQ典型2年；thesis31credit hours，non-thesis32credit hours | 已读项目/招生/FAQ未列最低或典型录取GPA；3.0是否满足具体入口未闭合；Pending：入学GPA、calculus-based probability和语言资格；2027日历冲突须澄清 | Reach / 先核门槛与日期 | 官网标题Fall2026却写January31,2027，并要求选Fall2026 Statistics MS；存在内部冲突，2027硬截止未确认 | In progress |
+| [Johns Hopkins University — Master of Science in Engineering in Data Science - Full-time Residential](../../ds-master/USA_JHU_MSE_Data_Science.md) | 3semesters全日制线下；选择residential MSE，非EP online/part-time MS | 本项目最低/典型录取GPA未核实；不能套用Engineering for Professionals门槛；Unknown：课程方法匹配强，但residential入学GPA/先修/材料未闭合 | Reach / 先核资格，低优先级冲刺 | 2027 residential MSE硬截止未核实；目录所指AMS招生页403 | In progress |
+| [University of Rochester — Master of Science in Data Science](../../ds-master/USA_Rochester_MS_Data_Science.md) | 30credits，2或3学期 | 已读项目页未给硬性最低值；允许补充解释低GPA，不能据此判断3.0稳录；Plausible：STEM+Python背景；统计/桥接与低GPA评估仍不确定 | Match-Reach / 美国主申请 | 官网目前仍显示Fall2026已关闭；常规轮Jan5/Feb15/Mar15仅作历史，2027待发布 | In progress |
+| [University of Maryland, College Park — Master of Science in Data Science - Science Academy](../../ds-master/USA_Maryland_MS_Data_Science.md) | 少于2年；30credits/10门；全日制示例Fall-Spring-Summer-Fall约16个月，非保证完成时间 | 全部以往本科/研究生成绩最低3.0；FAQ允许低于3.0者申请并说明，不代表例外已获批；Plausible：3.0与量化/编程入口；正式统计课程证据待核 | Match-Reach / 美国优先准备 | Fall2027国际2027-02-26；国内2027-05-28。Spring2027国际2026-09-30已过且早于本科毕业 | In progress |
+| [Northwestern University — Master of Science in Data Science - Accelerated, School of Professional Studies](../../ds-master/USA_Northwestern_SPS_Accelerated_MSDS.md) | 1年/4quarters/12门；每季度2门Chicago面授+1门在线；Fall至次年Summer | 已读SPS招生页未列数字最低/典型录取GPA；不能据此认定3.0稳录；Plausible本科入口；GPA整体审核、NACES办理和2027轮次待核 | Match-Reach / 美国有条件主申请 | 2027未核；招生页仍为2026 extended priority4月15/final7月15，overview无年份next December1，不能当2027确定日期 | In progress |
+| [Arizona State University — Data Science, Analytics and Engineering (Computing and Decision Analytics), MS](../../ds-master/USA_ASU_MS_DSAE_Computing_Decision.md) | 30credit hours，Tempe线下；标准年限未在已读项目页确认 | 首个本科最后60hours最低3.00/4.00，或适用硕士最低3.00；不等同累计3.0；Pending：Physics是否related、最后60学分与三学期微积分映射须确认 | Match-Reach / 先核related与微积分 | Fall线下年度priority12月31；未标2027周期，需确认年份/国际最终截止。之后space-available | In progress |
+| [Rice University — Master of Data Science (MDS) - On-Campus](../../ds-master/USA_Rice_MDS_OnCampus.md) | 现行GA目录31-35credit hours/10-13门；标准完成年限未核实，不能用online弹性年限代替 | 研究生统一原则一般至少3.00/B；未核对到更高MDS门槛或典型录取GPA；Pending：3.0满足一般原则，但具体MDS先修/整体竞争和学制费用待核 | Match-Reach / 美国有条件主申请 | Fall2027奖学金early2027-02-10；国际2027-05-01；国内July1不适用于本人 | In progress |
+| [North Carolina State University — Master of Science in Analytics - Institute for Advanced Analytics](../../ds-master/USA_NCState_MS_Analytics.md) | 10个月/34credits；全日制线下；2027-06-24开学至次年May | 最低3.0；低于3.0有exception评估路径但非保证。FAQ明确highly selective；Pending：回归统计课、语言考试及June24时间；入围有面试与30分钟技术筛选 | Match-Reach / 时间敏感：先核6月开学 | **近期窗口：2027入学：priority2026-11-01；国际最终2027-02-15；2027-06-24开学须与本科完成及签证时间核对** | In progress |
+| [Boston University — Master of Science in Applied Data Analytics - Metropolitan College](../../ds-master/USA_BU_MS_Applied_Data_Analytics.md) | 8-20个月，32-40units（按foundation豁免）；优先全日制线下 | 已读项目页未明确数字最低GPA；Plausible：Python基础与foundation机制；整体录取审核待定 | Match / 美国主申请 | Fall2027国际线下：2027-06-01；on-campus开学2027-09-02；建议提前申请 | In progress |
+| [University of Colorado Boulder — Master of Science in Data Science - Residential](../../ds-master/USA_Colorado_Boulder_MS_Data_Science.md) | 多数1.5-2年；Direct30credits，Bridge30-34credits | minimum3.0/4.0；官网strong applicants通常3.2+；Plausible：3.0+任意本科与桥接可对接；不等于高概率offer | Match / 美国优先准备 | annual priority12月15日、regular2月15日22:00 MountainTime；2027周期需最终复核 | In progress |
+| [The University of Arizona — Master of Science in Data Science - Main Campus](../../ds-master/USA_Arizona_MS_Data_Science.md) | 通常18个月全日制；30units；选择Tucson主校区，非Online | 项目最低GPA3.0；未公布典型录取GPA或本人的成绩重算结果；Plausible：3.0与理科入口可对接；数据结构/算法证据与语言审核待核 | Match / 美国优先准备 | 主校区Fall国际及资助考虑：年度March1；2027周期需最后确认。June1仅国内无资助，不适用于本人 | In progress |
+| [University of Southern California — Master of Science in Applied Data Science](../../ds-master/USA_USC_MS_Applied_Data_Science.md) | 当前学分及标准年限未核实；官方项目详情403，目录子页202空正文 | 项目最低/典型GPA未核实；不把中央无统一英语分数线理解为无入学GPA要求；Unknown：核心GPA/先修和学制未闭合，不能计作有效主申请 | Unknown / 先核核心资格，暂不投递 | Spring/Fall2027申请已开放；项目具体硬截止/奖学金截止待核，不用院系其他项目日期 | In progress |
+
+### 英国（5项）
+
+保留统计/ML/DS实力前列五项，均偏冲刺。UCL硬门槛已知不足；Imperial与Edinburgh典型成功者成绩高。不要为品牌分配过多申请资源。
+
+| 项目 | 学制 | 成绩 / 资格要点 | 难度 / 优先级 | 2027时间 | 状态 |
+|---|---|---|---|---|---|
+| [University College London — Data Science MSc](../../ds-master/UK_UCL_MSc_Data_Science.md) | 1年full-time；2年part-time | UK upper second；2027加拿大等效页面显示3.3/4.0或77% B+（2026-10-01已核；10-02重取受限）；Below stated GPA：现有3.0低于3.3；例外未获确认 | Reach / 先确认GPA例外 | September2027入学；申请窗口/最终截止仍待当年页面确认 | In progress |
+| [Imperial College London — Statistics (Data Science and Machine Learning) MSc](../../ds-master/UK_Imperial_MSc_Statistics_DSML.md) | 1年，October2027 | 最低2:1；官网明确几乎全部成功者First Class；加拿大具体等效未核；Pending：2:1国际等效；典型First Class竞争明显 | Reach / 低优先级冲刺 | 2027 rounds：2027-01-06、03-10、04-28（23:59 UK）；后轮可能满位 | In progress |
+| [The University of Edinburgh — Data Science MSc](../../ds-master/UK_Edinburgh_MSc_Data_Science.md) | 1年full-time（已读2026/27）；part-time2/3年 | 最低2:1；typical offer通常First Class；加拿大数值等效待核；Pending：2:1等效、数学学分；typicalFirstClass为大风险 | Reach / 有条件冲刺 | 页面仍为2026-03-31；2027最终截止未确认，不能平移 | In progress |
+| [University of Oxford — MSc in Statistical Science](../../ds-master/UK_Oxford_MSc_Statistical_Science.md) | 12个月October-September；PGDip9个月不属于本候选 | 正式2027graduate admissions受403；不能在此确认加拿大最低GPA；Unknown：正式资格未完整读取 | Reach / 低优先级冲刺 | 2027 具体截止日未核实 | In progress |
+| [University of Cambridge — MPhil in Machine Learning and Machine Intelligence](../../ds-master/UK_Cambridge_MPhil_MLMI.md) | 11个月全日制 | UK First Class或国际等效；还需学术优秀/突出科研证据；Pending：First Class等效；现有3.0显著缺乏强成绩证据 | Reach / 低优先级冲刺 | 2027 具体截止日未核实 | In progress |
+
+### 法国（5项）
+
+区分商业联合学位、国家Master两年路径和M1入口。Paris-Saclay明确Physics入口；DataAI和DIGIT常规CS学位限制不应忽略。
+
+| 项目 | 学制 | 成绩 / 资格要点 | 难度 / 优先级 | 2027时间 | 状态 |
+|---|---|---|---|---|---|
+| [École Polytechnique / HEC Paris — Master of Science Data Science & AI for Business](../../ds-master/France_X_HEC_MSc_DS_AI_Business.md) | 2年：Year1 Polytechnique，Year2 HEC | 无已公布数字线；强调high potential、strong mathematics；Plausible学科；低GPA与高选择性是风险 | Reach / 有条件冲刺 | **近期窗口：2027 R1：2026-10-07 noonCEST；R2：11-26 noonCET；R3：2027-02-17；R4：04-28** | In progress |
+| [Institut Polytechnique de Paris — Master in Computer Science - Major Data and Artificial Intelligence (DataAI)](../../ds-master/France_IPParis_Master_DataAI.md) | 2年全日制，September开学 | 无已核数字门槛；Hard gap：Physics不是官网指定CS本科 | Reach / 暂不投入申请 | 2027 具体截止日未核实 | Not a fit |
+| [Université Paris-Saclay — Master in Computer Science - M1 Artificial Intelligence / continuation to M2](../../ds-master/France_ParisSaclay_Master_AI.md) | M1一年；完整硕士须继续M2，按2年路径规划，具体M2衔接需确认 | 未公布统一数字门槛；择优录取；Plausible Physics入口；数学统计与M2衔接待核 | Reach / 值得核查的冲刺 | 已读2026：Jan15-Mar16；2027未发布/未确认，不自动平移 | In progress |
+| [Sorbonne Université — Master of Computer Science - DIGIT International program](../../ds-master/France_Sorbonne_Master_CS_DIGIT.md) | 2年，4学期；S4实习30ECTS、5-6个月 | honours学位，数字门槛未给；Hard gap：现有Physics本科不在指定学位列表 | Reach / 暂不投入申请 | 2027 具体截止日未核实 | Not a fit |
+| [École Polytechnique / Institut Polytechnique de Paris — Master of Science and Technology - Visual and Creative Artificial Intelligence (ViCAI)](../../ds-master/France_Polytechnique_MScT_ViCAI.md) | 2年，全英文140ECTS，September入学 | 无已读数字最低；highlyqualified、择优；Pending：Physics可按otherdegree考虑，但algorithm/data structures与正式统计须证明 | Reach / 法国有条件冲刺 | **近期窗口：2027：R1 2026-10-12；R2 2027-01-11；R3 03-08；均11:59当地；R4原页有重复日期错误，暂不作为可靠deadline。仅R1/R2可申请奖学金** | In progress |
+
+### 德国（5项）
+
+形式课程匹配通常比叙事更决定资格；RWTH提供Physicsprofile，是本组最值得先做映射的项目。LMU旧DS已停，必须用现行项目；TUM不是免费。
+
+| 项目 | 学制 | 成绩 / 资格要点 | 难度 / 优先级 | 2027时间 | 状态 |
+|---|---|---|---|---|---|
+| [Technical University of Munich — Master of Science in Mathematics in Data Science](../../ds-master/Germany_TUM_MSc_Mathematics_DS.md) | 2年，120ECTS | aptitude assessment；无可直接换算的U of T3.0统一线；Pending：严格数学课程等效/aptitude | Reach / 先核数学资格 | winter annual：Feb1-May31；summer：Oct1-Nov30；2027窗口再核 | In progress |
+| [Ludwig-Maximilians-Universität München — Master in Statistics and Data Science](../../ds-master/Germany_LMU_MSc_Statistics_DS.md) | 具体标准年限/120ECTS需条例最终确认 | 多阶段aptitude：成绩与三类能力评分，非单一GPA线；Hard gap / Pending：Physics未证明Stats/DSmajor/minor/focus | Reach / 先核资格与语言 | winter annual：Apr1开放，May15系内严格截止，非德申请者另July15国际处；2027复核 | In progress |
+| [Freie Universität Berlin — Master of Science in Data Science](../../ds-master/Germany_FU_Berlin_MSc_Data_Science.md) | 2年，4学期120ECTS；winter entry | 等效学位/招生条例选拔；无已核U of T GPA线；Pending：Physics等效、算法与概率统计ECTS是否满足 | Reach / 先核先修 | 2027 具体截止日未核实 | In progress |
+| [Heidelberg University — Master of Science in Mathematics of Machine Learning and Data Science](../../ds-master/Germany_Heidelberg_MSc_ML_DS.md) | 2年，4学期；winter only | 具体grade cutoff及数学学位等效须查正式admission regulations；Unknown：需严格数学课程和法规审核 | Reach / 低优先级核资格 | 2027 具体截止日未核实 | In progress |
+| [RWTH Aachen University — Master of Science in Data Science](../../ds-master/Germany_RWTH_MSc_Data_Science.md) | 120CP；标准年限须当年条例确认 | 形式先修profile审核；项目页未给单一U of T GPA线；Pending：Physics逐课映射、GRE AW与percentiles、英语例外 | Match-Reach / 德国优先核查 | 非EU/EEA winter annual：December-March1；summerJune-September1；2027核周期 | In progress |
+
+### 瑞士（3项）
+
+保留3个质量候选而不凑5。ETH明确Physics可作为qualifyingdiscipline；EPFL外校要求偏CS，UZH要处理Informatics等效和minor/补课语言。
+
+| 项目 | 学制 | 成绩 / 资格要点 | 难度 / 优先级 | 2027时间 | 状态 |
+|---|---|---|---|---|---|
+| [ETH Zurich — Master of Science ETH in Data Science](../../ds-master/Switzerland_ETH_MSc_Data_Science.md) | 2年，120ECTS | 具体要求profile链接本次404；excellent record/数值标准不作未核断言；Plausible Physics类别，但课程/GPA/GRE材料未完整核实 | Reach / 低优先级冲刺 | 2027 具体截止日未核实 | In progress |
+| [École polytechnique fédérale de Lausanne — Master of Science in Data Science](../../ds-master/Switzerland_EPFL_MSc_Data_Science.md) | 120ECTS；标准年限须按2027条例确认 | external applicants：excellent academic records；无已核U of T数字线；Hard gap：外校Physics不在官网常规外校学位路径 | Reach / 暂不投入申请 | 2027 具体截止日未核实 | Not a fit |
+| [University of Zurich — Master of Science UZH in Informatics - Data Science major](../../ds-master/Switzerland_UZH_MSc_Informatics_DS.md) | 90ECTSmajor + 30ECTSminor；标准年限待当年规定 | individual categorization；U of T最低GPA未核实；Pending：Physics个别categorization及额外课程/语言 | Reach / 先核等效与语言 | 2027 具体截止日未核实 | In progress |
+
+### 新加坡（2项）
+
+保留2项，不凑五个。NTU材料最完整，Physics相关性需问；NUS正文受限，仍为待核位置。SMU未满足可核实的排名门槛，不纳入主表。
+
+| 项目 | 学制 | 成绩 / 资格要点 | 难度 / 优先级 | 2027时间 | 状态 |
+|---|---|---|---|---|---|
+| [Nanyang Technological University — Master of Science in Data Science](../../ds-master/Singapore_NTU_MSc_Data_Science.md) | 全日制最短1年、最长2.5年；part-time2-4年；30AU | good honours degree；非honours路线good bachelor+2年industry经验，具体等效未知；Pending：Physics related程度及honours等效 | Reach / 先核Physics资格 | 2027 具体截止日未核实 | In progress |
+| [National University of Singapore — Master of Science in Data Science and Machine Learning（候选名称，2027待完整核实）](../../ds-master/Singapore_NUS_MSc_DSML.md) | 2027未核实 | 2027未核实；Unknown：网页返回访问检查/空正文 | Unknown / 等待官方核实 | 2027 具体截止日未核实 | Waiting on source |
+
+### 中国香港（5项）
+
+CUHK1年和PolyU1.5年入口较友好；HKUST相关学位需确认；HKU通过官方条例确认1.5年、72学分与capstone，2027招生待核；CityU正文受限。
+
+| 项目 | 学制 | 成绩 / 资格要点 | 难度 / 优先级 | 2027时间 | 状态 |
+|---|---|---|---|---|---|
+| [The Hong Kong University of Science and Technology — MSc in Big Data Technology](../../ds-master/HongKong_HKUST_MSc_Big_Data.md) | full-time1年；part-time2年；30credits | 认可本科；项目未给数字线，择优；Pending：Physics relatedarea与计算课程 | Reach / 先核资格 | 2027/28 Fall：2026-12-01 Round1，2027-03-01 Round2；rolling | In progress |
+| [The University of Hong Kong — Master of Data Science (MDASC)](../../ds-master/HongKong_HKU_Master_Data_Science.md) | 全日制1.5学年；part-time2.5学年。现行链接条例注明2024-25及以后入学，2027变更仍需确认 | 条例要求认可本科或同等资格；未列数字入学GPA。条文2.0是毕业要求，不能当入学门槛；Pending：正式introductory statistics课程及2027招生标准 | Match-Reach / 先核统计与2027招生 | 2027 具体截止日未核实 | In progress |
+| [The Hong Kong Polytechnic University — Master of Science in Data Science and Analytics](../../ds-master/HongKong_PolyU_MSc_DS_Analytics.md) | full-time1.5年；part-time3年；31credits | Honours本科或等效；无已核数字最低；PlausibleScience入口；honours/成绩审核仍需 | Match-Reach / 香港优先核费用 | **近期窗口：Sept2027：Early2026-10-20；Main2027-02-25，非本地同日** | In progress |
+| [The Chinese University of Hong Kong — MSc in Data Science and Business Statistics](../../ds-master/HongKong_CUHK_MSc_DSBS.md) | full-time1年（2026/27起新增）；part-time2年；24credits | 认可本科，通常honours不低于SecondClass或平均不低于B；Plausible：B/secondclass等效学校确认，学科入口友好 | Match / 香港优先准备 | 2027/28 priority：2026-12-31；final：2027-02-28；rolling | In progress |
+| [City University of Hong Kong — MSc Data Science - P81（2027正式名称待核）](../../ds-master/HongKong_CityU_MSc_Data_Science.md) | 2027未核实 | 未核实；Unknown：官方页面受限 | Unknown / 等待官方核实 | 2027 具体截止日未核实 | Waiting on source |
+
+## 9. 完整项目档案
+
+## 加拿大 - 项目详情
+
+### University of Toronto - Master of Science in Applied Computing - Data Science concentration
+
+地区：加拿大 | 方法匹配：High | 难度：Reach | 核查状态：In progress
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | Canada |
+| University | University of Toronto |
+| Program name | Master of Science in Applied Computing - Data Science concentration |
+| Track | Data Science / Statistical Learning |
+| Master type | Professional / taught |
+| Duration | 16个月：8个月课程 + 8个月 applied research internship |
+| GPA requirement | 最后一年 B+（U of T 77%-79%）；不是累计 GPA 3.0 门槛 |
+| GRE requirement | 不强制；加拿大本科申请人不需依赖 GRE |
+| TOEFL / IELTS | U of T 完成本科学位/英语授课材料可按官网豁免路径申请；最终由学校审核 |
+| Prerequisites | 统计/CS/数学或显著定量训练；算法、复杂度、数据库、操作系统及概率/统计理论等中高阶背景通常被期待 |
+| Recommendation letters | 3封；建议至少2封学术推荐 |
+| Cohort size | 未在已读官方页面公布 |
+| Deadline | Fall 2027：2026-12-01 23:59 ET |
+| Funding / Tuition | 2026入学16个月估算：国际 CAD90,050；国内 CAD33,325；含2,200 mandatory pre-program fees。2027待公布；奖学金竞争性 |
+| Research / Thesis / Project | 8个月应用研究实习为结构性组成；非传统 thesis MSc |
+| Curriculum | DS集中方向结合统计建模、计算方法与真实行业研究；工程背景要求高于入门转换型项目 |
+| Ranking evidence | QS Overall2027：32；CS2026：13；DS/AI2026：13；Stats2026：16；Physics2026：29。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Canada exempt |
+| Eligibility | Pending：最后一年成绩及高阶CS/统计课程待核 |
+| Match | High |
+| Difficulty | Reach |
+| Priority | 有条件冲刺 |
+| Status | In progress |
+| Last verified | 2026-10-02 |
+
+匹配说明：科研方法匹配很强，但现有两门编程课不足以证明全部计算与统计先修。
+
+回加拿大就业判断（分析）：本地学校与8个月行业研究对加拿大工作履历最直接，但录取资格是第一道关。
+
+备注与未解决项：多大本校背景不能豁免专业先修或 B+ 成绩要求；科研经历不自动替代课程。
+
+官方来源：
+
+1. [项目方向](https://mscac.utoronto.ca/concentrations/ds/) - https://mscac.utoronto.ca/concentrations/ds/
+2. [2027申请/成绩/推荐/费用](https://mscac.utoronto.ca/apply/) - https://mscac.utoronto.ca/apply/
+3. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+4. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+### The University of British Columbia - Master of Data Science - Vancouver
+
+地区：加拿大 | 方法匹配：High | 难度：Reach | 核查状态：In progress
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | Canada |
+| University | The University of British Columbia |
+| Program name | Master of Data Science - Vancouver |
+| Track | Data Science / Statistical Learning |
+| Master type | Professional / taught |
+| Duration | 10个月，全日制、线下 |
+| GPA requirement | 本科3/4年级至少B+（UBC76%）；各先修课平均亦至少76% |
+| GRE requirement | 明确不要求 GRE 或其他学术标准化测试 |
+| TOEFL / IELTS | U of T 完成本科学位/英语授课材料可按官网豁免路径申请；最终由学校审核 |
+| Prerequisites | 正式学分课程：编程；概率或统计；微积分或线性代数。建议两类数学都修 |
+| Recommendation letters | Vancouver 3封（学术或专业）；不要套用 Okanagan 的1封 |
+| Cohort size | 未在已读官方页面公布 |
+| Deadline | 2027：2027-01-31 |
+| Funding / Tuition | 当前研究生院页面国际全项目 CAD59,767.92，国内 CAD36,569.73；未作为2027锁定报价。奖学金另核 |
+| Research / Thesis / Project | 行业合作 capstone；非研究型论文硕士 |
+| Curriculum | 密集的编程、数据整理、统计学习、沟通及行业capstone；Vancouver申请后有录制视频面试 |
+| Ranking evidence | QS Overall2027：45；CS2026：27；DS/AI2026：34；Stats2026：39；Physics2026：50。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Canada exempt |
+| Eligibility | Pending：高年级76%与概率/统计课证明 |
+| Match | High |
+| Difficulty | Reach |
+| Priority | 有条件冲刺 |
+| Status | In progress |
+| Last verified | 2026-10-02 |
+
+匹配说明：科学数据分析方法匹配强，正式统计先修及高年级均分仍是关键。
+
+回加拿大就业判断（分析）：回加拿大就业价值主要取决于项目作品、实习、工程能力及校友联系；未找到可直接比较的加拿大就业率。
+
+备注与未解决项：官网有基于显著专业训练/经验的例外机制，需要项目主任与研究生院认可，不可当作3.0常规通道。
+
+官方来源：
+
+1. [2027招生](https://masterdatascience.ubc.ca/admissions) - https://masterdatascience.ubc.ca/admissions
+2. [课程](https://masterdatascience.ubc.ca/programs/vancouver) - https://masterdatascience.ubc.ca/programs/vancouver
+3. [推荐信](https://masterdatascience.ubc.ca/admissions/how-apply) - https://masterdatascience.ubc.ca/admissions/how-apply
+4. [费用](https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-data-science) - https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-data-science
+5. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+6. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+### University of Waterloo - Master of Data Science and Artificial Intelligence - full-time co-op
+
+地区：加拿大 | 方法匹配：High | 难度：Reach | 核查状态：In progress
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | Canada |
+| University | University of Waterloo |
+| Program name | Master of Data Science and Artificial Intelligence - full-time co-op |
+| Track | Data Science / Statistical Learning |
+| Master type | Professional / taught |
+| Duration | 16个月（4学期）；获批8个月co-op则20个月 |
+| GPA requirement | 至少 overall78%；官网说明实际录取线通常明显更高 |
+| GRE requirement | 不要求；可补充提交 |
+| TOEFL / IELTS | 需满足 Waterloo higher English requirement；加拿大英语本科豁免材料细则待核 |
+| Prerequisites | CS/统计 honours 通常背景；其他相关学位需证明高阶CS/统计/数学：算法、数据库、优化、概率统计等 |
+| Recommendation letters | 3封，至少2封学术 |
+| Cohort size | 未在已读官方页面公布 |
+| Deadline | 秋季全日制co-op annual deadline：1月15日；2027周期需再确认 |
+| Funding / Tuition | 按学期缴费，2027金额未核实；Vector/其他奖学金竞争性；不得套用研究型MMath资助 |
+| Research / Thesis / Project | 9门研究生课程 + 4或8个月co-op；未要求传统硕士论文 |
+| Curriculum | 统计、CS、优化三领域；专属Graduate Data Science Job Board及co-op支持 |
+| Ranking evidence | QS Overall2027：113；CS2026：27；DS/AI2026：40；Stats2026：51-100；Physics2026：78。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Canada exempt |
+| Eligibility | Pending：78%及高阶课程映射 |
+| Match | High |
+| Difficulty | Reach |
+| Priority | 有条件冲刺 |
+| Status | In progress |
+| Last verified | 2026-10-02 |
+
+匹配说明：计算、推断与ML吻合，但高阶课程和成绩门槛明显限制申请。
+
+回加拿大就业判断（分析）：加拿大行业实习、WaterlooWorks与本地雇主关系价值强；只有拿到合适岗位才能转化为个人就业优势。
+
+备注与未解决项：避免把非co-op兼职3年学制误写给本项目；co-op岗位需要学生参与竞争。
+
+官方来源：
+
+1. [学制/结构](https://uwaterloo.ca/data-science/masters-data-science-and-artificial-intelligence-mdsai) - https://uwaterloo.ca/data-science/masters-data-science-and-artificial-intelligence-mdsai
+2. [入学条件](https://uwaterloo.ca/data-science/graduate-programs/admission-requirements) - https://uwaterloo.ca/data-science/graduate-programs/admission-requirements
+3. [截止](https://uwaterloo.ca/data-science/graduate-programs/application-deadlines) - https://uwaterloo.ca/data-science/graduate-programs/application-deadlines
+4. [co-op](https://uwaterloo.ca/data-science/graduate-programs/co-operative-education) - https://uwaterloo.ca/data-science/graduate-programs/co-operative-education
+5. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+6. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+### McGill University - Master of Management in Analytics - In-person
+
+地区：加拿大 | 方法匹配：Medium | 难度：Match-Reach | 核查状态：In progress
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | Canada |
+| University | McGill University |
+| Program name | Master of Management in Analytics - In-person |
+| Track | Business Analytics（相邻专业） |
+| Master type | Professional / taught |
+| Duration | 12或16个月 |
+| GPA requirement | 项目页未明确数字门槛；研究生院/项目适用 GPA 仍待核 |
+| GRE requirement | GMAT/GRE 已非强制；可补充 |
+| TOEFL / IELTS | U of T 完成本科学位/英语授课材料可按官网豁免路径申请；最终由学校审核 |
+| Prerequisites | 接受科学/工程/定量背景，不限商科；需证明量化能力 |
+| Recommendation letters | 2封，至少1封学术 |
+| Cohort size | 未在已读官方页面公布 |
+| Deadline | Summer2027：首轮2026-11-15；国际最终2027-01-15；加拿大公民/PR最终2027-03-15 |
+| Funding / Tuition | Summer2027：CAD79,020；加拿大公民/PR净学费CAD46,530（注册时核身份）；奖学金竞争性 |
+| Research / Thesis / Project | 10个月 experiential consulting module；不是研究型统计thesis MSc |
+| Curriculum | 商业决策、分析建模、咨询沟通及行业数据项目 |
+| Ranking evidence | QS Overall2027：30；CS2026：43；DS/AI2026：41；Stats2026：37；Physics2026：61。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Canada exempt |
+| Eligibility | Pending：GPA与Summer2027开学/本科完成时间 |
+| Match | Medium |
+| Difficulty | Match-Reach |
+| Priority | 先核时间 |
+| Status | In progress |
+| Last verified | 2026-10-02 |
+
+匹配说明：定量研究支持分析能力，但商业咨询导向与科学推断研究仅部分重合。
+
+回加拿大就业判断（分析）：本地商业分析和咨询项目有价值；若目标ML工程师，需另补软件/工程深度。
+
+备注与未解决项：只有在入学前满足本科完成要求才可执行；预计2027年6月毕业，不应默认夏季入学无冲突。
+
+官方来源：
+
+1. [项目](https://www.mcgill.ca/desautels/programs/mma/inperson) - https://www.mcgill.ca/desautels/programs/mma/inperson
+2. [招生](https://www.mcgill.ca/desautels/programs/mma/admissions) - https://www.mcgill.ca/desautels/programs/mma/admissions
+3. [2027费用](https://www.mcgill.ca/desautels/programs/mma/inperson/admissions/tuition-financial-aid) - https://www.mcgill.ca/desautels/programs/mma/inperson/admissions/tuition-financial-aid
+4. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+5. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+### University of Calgary - Master of Data Science and Analytics
+
+地区：加拿大 | 方法匹配：High | 难度：Match | 核查状态：In progress
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | Canada |
+| University | University of Calgary |
+| Program name | Master of Data Science and Analytics |
+| Track | Data Science / Statistical Learning |
+| Master type | Professional / taught |
+| Duration | 12个月连续全日制；无预定假期 |
+| GPA requirement | 最后2年全日制至少60 units，3.0/4.0 |
+| GRE requirement | Test scores：None |
+| TOEFL / IELTS | 按Faculty of Science英语规则；U of T路径细则待核 |
+| Prerequisites | 4年制本科；编程、统计、微积分或线代正式课程，各至少B |
+| Recommendation letters | 明确 None |
+| Cohort size | 未在已读官方页面公布 |
+| Deadline | 国际直入MDSA annual：9月1日开放、3月1日截止；2027年份确认待完成 |
+| Funding / Tuition | 2027学费未核实；course-based通常以自费规划，资助须另核 |
+| Research / Thesis / Project | 4门核心+4门方向+1门integrated topics + research或professional internship |
+| Curriculum | 科学、商学院、医学联合设计；包括分析技能和专业沟通 |
+| Ranking evidence | QS Overall2027：249；CS2026：201-250；DS/AI2026：未列；Stats2026：201-250；Physics2026：251-300。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Canada exempt |
+| Eligibility | Pending：最后60 units GPA及统计课程 |
+| Match | High |
+| Difficulty | Match |
+| Priority | 优先准备 |
+| Status | In progress |
+| Last verified | 2026-10-02 |
+
+匹配说明：GPA门槛与当前背景有实际交集，且科学研究/编程方法吻合。
+
+回加拿大就业判断（分析）：有本地研究或专业实习路径，成本/岗位质量仍待核，适合扩大加拿大申请可行性。
+
+备注与未解决项：重要身份分支：官网明确 domestic 学生需从Certificate laddered pathway申请；international 直接申请MDSA。若申请前获PR，必须改路径，不能照搬国际直入。
+
+官方来源：
+
+1. [完整项目/资格/身份路径](https://grad.ucalgary.ca/future-students/graduate/discover-opportunities/explore-programs/data-science-and-analytics-mdsa-course) - https://grad.ucalgary.ca/future-students/graduate/discover-opportunities/explore-programs/data-science-and-analytics-mdsa-course
+2. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+3. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+## 澳大利亚 - 项目详情
+
+### UNSW Sydney - Master of Data Science and Decisions
+
+地区：澳大利亚 | 方法匹配：High | 难度：Match-Reach | 核查状态：In progress
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | Australia |
+| University | UNSW Sydney |
+| Program name | Master of Data Science and Decisions |
+| Track | Data Science / Statistical Learning |
+| Master type | Professional / taught |
+| Duration | 2年，全日制 |
+| GPA requirement | UNSW计算器 overall average70；不能用U of T GPA直接百分比转换 |
+| GRE requirement | 已读项目页未提及；不等于明确不要求 |
+| TOEFL / IELTS | U of T近5年内完成英语授课学位可按既有资格路径审核；项目具体分数另核 |
+| Prerequisites | 定量cognate本科；多元微积分、线性代数 |
+| Recommendation letters | 未核实 |
+| Cohort size | 未在已读官方页面公布 |
+| Deadline | 2027 Term1/Term3开放；2027 exact deadline未核实；6月毕业后应看Term3 |
+| Funding / Tuition | 2026国际indicative：首年AUD62,000、全项目AUD128,000；2027待核。CSP不能推给中国国际生 |
+| Research / Thesis / Project | 课程页有project work；2027具体项目学分/必修形式待核 |
+| Curriculum | 数学统计、计算与决策；computational/business/behavioural/quantitative data science方向 |
+| Ranking evidence | QS Overall2027：19；CS2026：54；DS/AI2026：51-100；Stats2026：51-100；Physics2026：72。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Pass（按QS overall或允许相关subject） |
+| Eligibility | Pending：UNSW均分换算 |
+| Match | High |
+| Difficulty | Match-Reach |
+| Priority | 优先核均分 |
+| Status | In progress |
+| Last verified | 2026-10-02 |
+
+匹配说明：物理、Python及推断背景契合定量方向；是否达到70必须用课程成绩核算。
+
+回加拿大就业判断（分析）：回加拿大就业价值主要取决于项目作品、实习、工程能力及校友联系；未找到可直接比较的加拿大就业率。
+
+备注与未解决项：2028起校历改flexible semester；不能将后续年度变化混入2027学制。
+
+官方来源：
+
+1. [2027项目与2026费用参照](https://www.unsw.edu.au/study/postgraduate/master-of-data-science-and-decisions) - https://www.unsw.edu.au/study/postgraduate/master-of-data-science-and-decisions
+2. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+3. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+### The University of Sydney - Master of Data Science
+
+地区：澳大利亚 | 方法匹配：High | 难度：Match-Reach | 核查状态：In progress
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | Australia |
+| University | The University of Sydney |
+| Program name | Master of Data Science |
+| Track | Data Science / Statistical Learning |
+| Master type | Professional / taught |
+| Duration | 1.5年，72 credit points |
+| GPA requirement | 澳洲等效credit average65%；U of T成绩换算由学校审核 |
+| GRE requirement | 已读项目页未提及；不等于明确不要求 |
+| TOEFL / IELTS | U of T学位豁免路径及材料仍待确认 |
+| Prerequisites | cognate本科；编程或统计/定量学习需达到校方认可的major/minor等效范围 |
+| Recommendation letters | 未核实 |
+| Cohort size | 未在已读官方页面公布 |
+| Deadline | Semester1/2；2027具体日期未核实，6月毕业后优先看Semester2 |
+| Funding / Tuition | 2027国际学费、奖学金未核实 |
+| Research / Thesis / Project | Professional path含12CP capstone；Research path24CP（methods6+project18），有校内成绩/导师审批要求 |
+| Curriculum | 核心：DS principles、computational statistics、visual analytics；可选Data Engineering或Machine Learning；DB、cloud、ML、DL等 |
+| Ranking evidence | QS Overall2027：28；CS2026：38；DS/AI2026：38；Stats2026：51-100；Physics2026：67。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Pass（按QS overall或允许相关subject） |
+| Eligibility | Pending：65%及cognate范围 |
+| Match | High |
+| Difficulty | Match-Reach |
+| Priority | 优先核资格 |
+| Status | In progress |
+| Last verified | 2026-10-02 |
+
+匹配说明：ML/推断研究匹配强，课程可补数据工程；两门Python课是否达到cognate规模仍需审核。
+
+回加拿大就业判断（分析）：Data Engineering + 可展示capstone更能补加拿大工作技能；短学制便利，但海外项目不自带加拿大行业网络。
+
+备注与未解决项：Research并非入学即保证；相关unit与course-resolution有WAM70/75文字差异，需按当年课程决议和项目批准确定；本报告不承诺自动转研究路径。
+
+官方来源：
+
+1. [项目公开数据](https://www.sydney.edu.au/content/courses/courses/pc/master-of-data-science0.model.json) - https://www.sydney.edu.au/content/courses/courses/pc/master-of-data-science0.model.json
+2. [课程](https://www.sydney.edu.au/handbooks/engineering-pg/computer-science/data-science/unit-of-study-table.html) - https://www.sydney.edu.au/handbooks/engineering-pg/computer-science/data-science/unit-of-study-table.html
+3. [正式课程决议](https://www.sydney.edu.au/handbooks/engineering-pg/computer-science/data-science/course-resolutions.html) - https://www.sydney.edu.au/handbooks/engineering-pg/computer-science/data-science/course-resolutions.html
+4. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+5. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+### The Australian National University - Master of Applied Data Analytics
+
+地区：澳大利亚 | 方法匹配：High | 难度：Match-Reach | 核查状态：In progress
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | Australia |
+| University | The Australian National University |
+| Program name | Master of Applied Data Analytics |
+| Track | Data Science / Statistical Learning |
+| Master type | Professional / taught |
+| Duration | 1.5年，72units |
+| GPA requirement | GPA5.0/7.0；honours本科等效，或本科+至少3年相关工作 |
+| GRE requirement | 已读项目页未提及；不等于明确不要求 |
+| TOEFL / IELTS | ANU具体English资格等效待核 |
+| Prerequisites | honours学位等效需核；Physics在cognate disciplines中；不是任意普通本科即可 |
+| Recommendation letters | 未核实 |
+| Cohort size | 未在已读官方页面公布 |
+| Deadline | 2027 具体截止日未核实 |
+| Funding / Tuition | 2027国际annual indicative AUD57,640（48units/年）；非全项目总价，后续年度可涨 |
+| Research / Thesis / Project | 当前必修清单未见必修thesis或行业capstone，不写成有保证的实习项目 |
+| Curriculum | 48units核心含Data Mining、Wrangling、Regression、GLM、社会科学方法；DB、编程及ML/Bayes/time-series选修 |
+| Ranking evidence | QS Overall2027：29；CS2026：48；DS/AI2026：44；Stats2026：51-100；Physics2026：48。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Pass（按QS overall或允许相关subject） |
+| Eligibility | Pending：honours等效及5/7 |
+| Match | High |
+| Difficulty | Match-Reach |
+| Priority | 先核学位等效 |
+| Status | In progress |
+| Last verified | 2026-10-02 |
+
+匹配说明：回归/统计训练契合科学推断，但应用分析和公共政策成分较多。
+
+回加拿大就业判断（分析）：回加拿大就业价值主要取决于项目作品、实习、工程能力及校友联系；未找到可直接比较的加拿大就业率。
+
+备注与未解决项：加拿大Honours BSc与澳洲荣誉年不能仅按名称自动等同；计划毕业时间也须匹配2027入学批次。
+
+官方来源：
+
+1. [2027课程、资格与费用](https://programsandcourses.anu.edu.au/program/MADAN) - https://programsandcourses.anu.edu.au/program/MADAN
+2. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+3. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+### Monash University - Master of Data Science
+
+地区：澳大利亚 | 方法匹配：High | 难度：Match | 核查状态：In progress
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | Australia |
+| University | Monash University |
+| Program name | Master of Data Science |
+| Track | Data Science / Statistical Learning |
+| Master type | Professional / taught |
+| Duration | Entry level1：2年96points；level2：1.5年72points |
+| GPA requirement | credit average60%，学校审核国际等效 |
+| GRE requirement | 已读项目页未提及；不等于明确不要求 |
+| TOEFL / IELTS | 授课英语；U of T免语言的适用政策待核 |
+| Prerequisites | 2年入口接受任意本科；1.5年入口需IT或含IT major的相关本科，覆盖Python、DB、算法、系统及数学 |
+| Recommendation letters | 未核实 |
+| Cohort size | 未在已读官方页面公布 |
+| Deadline | 2027 具体截止日未核实 |
+| Funding / Tuition | 学费及奖学金/TA/RA 未核实；不可假定全额资助 |
+| Research / Thesis / Project | 24points最后阶段可选industry experience studio或thesis路线（导师/校内条件另核） |
+| Curriculum | 基础DB/Python/计算机架构/数学；核心wrangling、statistical modelling、big data、visualisation、research methods |
+| Ranking evidence | QS Overall2027：31；CS2026：51；DS/AI2026：48；Stats2026：51-100；Physics2026：93。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Pass（按QS overall或允许相关subject） |
+| Eligibility | Pending：60%等效；优先2年入口 |
+| Match | High |
+| Difficulty | Match |
+| Priority | 优先准备 |
+| Status | In progress |
+| Last verified | 2026-10-02 |
+
+匹配说明：转换型基础课程能补CS工程短板，研究方法与Python训练有直接交集。
+
+回加拿大就业判断（分析）：回加拿大就业价值主要取决于项目作品、实习、工程能力及校友联系；未找到可直接比较的加拿大就业率。
+
+备注与未解决项：学制不由四年制本科长度直接减免；Physics一般应先按Entry level1评估。2026 handbook已核，2027费用与截止另核。
+
+官方来源：
+
+1. [2026官方handbook；通过公开页面__NEXT_DATA__读取](https://handbook.monash.edu/2026/courses/C6004) - https://handbook.monash.edu/2026/courses/C6004
+2. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+3. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+### The University of Melbourne - Master of Data Science
+
+地区：澳大利亚 | 方法匹配：Unknown | 难度：Unknown | 核查状态：Waiting on source
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | Australia |
+| University | The University of Melbourne |
+| Program name | Master of Data Science |
+| Track | Data Science / Statistical Learning |
+| Master type | 未核实（候选授课型，结构待确认） |
+| Duration | 未核实（2027课程页受限，不能以旧年度学制替代） |
+| GPA requirement | 2027正式要求未核实 |
+| GRE requirement | 未核实（官方正文未读取） |
+| TOEFL / IELTS | U of T 英语授课证明的适用规则未核实 |
+| Prerequisites | 数学、编程先修范围未核实 |
+| Recommendation letters | 未核实 |
+| Cohort size | 未核实（官方正文未读取） |
+| Deadline | 2027 具体截止日未核实 |
+| Funding / Tuition | 学费及奖学金/TA/RA 未核实；不可假定全额资助 |
+| Research / Thesis / Project | 2027课程/项目结构未核实 |
+| Curriculum | 暂不作具体课程断言 |
+| Ranking evidence | QS Overall2027：22；CS2026：31；DS/AI2026：31；Stats2026：51-100；Physics2026：57。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Pass（按QS overall或允许相关subject） |
+| Eligibility | Unknown：官方页面受访问限制 |
+| Match | Unknown |
+| Difficulty | Unknown |
+| Priority | 等待官方核实 |
+| Status | Waiting on source |
+| Last verified | 2026-10-02 |
+
+匹配说明：学校与项目属于高优先级核查对象，当前证据不足以判定个人匹配。
+
+回加拿大就业判断（分析）：回加拿大就业价值主要取决于项目作品、实习、工程能力及校友联系；未找到可直接比较的加拿大就业率。
+
+备注与未解决项：HTTPS遇到403；手册返回访问检查页面。本记录保留强校候选位置，不计作资格已确认或可直接申请的项目。
+
+官方来源：
+
+1. [项目（本次受限）](https://study.unimelb.edu.au/find/courses/graduate/master-of-data-science/) - https://study.unimelb.edu.au/find/courses/graduate/master-of-data-science/
+2. [手册（本次受限）](https://handbook.unimelb.edu.au/2026/courses/mc-datasc) - https://handbook.unimelb.edu.au/2026/courses/mc-datasc
+3. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+4. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+## 美国 - 项目详情
+
+### University of Wisconsin-Madison - Master of Science in Data Science
+
+地区：美国 | 方法匹配：High | 难度：Reach | 核查状态：In progress
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | United States |
+| University | University of Wisconsin-Madison |
+| Program name | Master of Science in Data Science |
+| Track | Data Science / Statistical Learning |
+| Master type | Professional / taught |
+| Duration | 30credits；标准全日制时长未在已读Guide确认 |
+| GPA requirement | 研究生院最低最后60学分GPA3.0；项目竞争另计 |
+| GRE requirement | Not required |
+| TOEFL / IELTS | 英语为唯一教学语言的本科可按研究生院规则审核；需official说明 |
+| Prerequisites | calc1/2、LA、至少一门编程；R建议 |
+| Recommendation letters | 2封 |
+| Cohort size | 未在已读官方页面公布 |
+| Deadline | annual Fall deadline：2月15日；2027年份待复核 |
+| Funding / Tuition | professional track，明确不具备assistantship tuition remission资格；2027学费未核实 |
+| Research / Thesis / Project | 无必修thesis/qualifying exam；internship/direct study可选 |
+| Curriculum | joint Stats/CS：models、inference、methods、algorithms/optimisation、ML、data management；可选computational statistics/Bayes |
+| Ranking evidence | QS Overall2027：131；CS2026：141；DS/AI2026：101-200；Stats2026：51-100；Physics2026：100。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Pass（按QS overall或允许相关subject） |
+| Eligibility | Pending：最后60credits3.0与正式先修 |
+| Match | High |
+| Difficulty | Reach |
+| Priority | 美国冲刺 |
+| Status | In progress |
+| Last verified | 2026-10-02 |
+
+匹配说明：推断/贝叶斯和统计核心最能接续研究，但成绩仅在门槛附近。
+
+回加拿大就业判断（分析）：回加拿大就业价值主要取决于项目作品、实习、工程能力及校友联系；未找到可直接比较的加拿大就业率。
+
+备注与未解决项：学校研究型Stats硕士资助规则不能套用professional DS。
+
+官方来源：
+
+1. [官方Guide全部条件](https://guide.wisc.edu/graduate/statistics/data-science-ms/) - https://guide.wisc.edu/graduate/statistics/data-science-ms/
+2. [研究生院GPA/英语政策](https://policy.wisc.edu/library/UW-1241) - https://policy.wisc.edu/library/UW-1241
+3. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+4. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+### University of California San Diego - Master of Science in Data Science - in-person
+
+地区：美国 | 方法匹配：High | 难度：Reach | 核查状态：In progress
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | United States |
+| University | University of California San Diego |
+| Program name | Master of Science in Data Science - in-person |
+| Track | Data Science / Statistical Learning |
+| Master type | Academic / research or coursework |
+| Duration | 48units；标准完成年限未在已读页面确认 |
+| GPA requirement | 研究生院最低数值须中央政策核；项目明确通常录取highGPA，不能用3.0语言豁免线当录取GPA |
+| GRE requirement | Fall2027不要求，可补充提交 |
+| TOEFL / IELTS | 英语为唯一授课语言、已获/将获Bachelor等学位且成绩B/3.0+可获豁免；U of T可按WHED/正式文件核 |
+| Prerequisites | 所有academic/professional背景可考虑；LA、programming、prob/stats、optimization准备；foundation最多16units计入学位 |
+| Recommendation letters | 3封，均应在deadline前提交 |
+| Cohort size | 未在已读官方页面公布 |
+| Deadline | Fall2027 tentative：2026-10-14开放，2026-12-02关闭；2027-09-20季度开始 |
+| Funding / Tuition | 2027 tuition/fees与MS资助未核；不能套用PhD funding |
+| Research / Thesis / Project | PlanI thesis（DSC2998-12units）或PlanII三领域comprehensive exam；不是保证industryinternship |
+| Curriculum | foundation5领域；至少6core含ML、StatisticalModels、Ethics；scalable systems、big data、optimization、causal inference等 |
+| Ranking evidence | QS Overall2027：81；CS2026：42；DS/AI2026：33；Stats2026：51-100；Physics2026：37。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Pass（按QS overall或允许相关subject） |
+| Eligibility | Plausible背景类别；正式GPA、准备程度及高GPA竞争待核 |
+| Match | High |
+| Difficulty | Reach |
+| Priority | 美国研究型冲刺 |
+| Status | In progress |
+| Last verified | 2026-10-02 |
+
+匹配说明：贝叶斯推断与HiggsML可支持统计/ML研究潜力，但3.0与通常highGPA录取存在明显差距。
+
+回加拿大就业判断（分析）：回加拿大就业价值主要取决于项目作品、实习、工程能力及校友联系；未找到可直接比较的加拿大就业率。
+
+备注与未解决项：与OnlineMSDS区别；网站主题残留模板联系信息已忽略，只采用实际HDSI内容和正式admission条目。
+
+官方来源：
+
+1. [课程/论文与考试](https://datascience.ucsd.edu/graduate/ms-program/) - https://datascience.ucsd.edu/graduate/ms-program/
+2. [2027招生/推荐/英语](https://datascience.ucsd.edu/graduate/graduate-admissions/) - https://datascience.ucsd.edu/graduate/graduate-admissions/
+3. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+4. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+### University of Illinois Urbana-Champaign - Master of Science in Statistics, Analytics Concentration
+
+地区：美国 | 方法匹配：High | 难度：Reach | 核查状态：In progress
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | United States |
+| University | University of Illinois Urbana-Champaign |
+| Program name | Master of Science in Statistics, Analytics Concentration |
+| Track | Applied Statistics / Statistical Data Science（相邻专业） |
+| Master type | Academic / taught, non-thesis |
+| Duration | 2026/27目录36-40hours/9-10门；标准完成年限待核，不以奖学金最多4学期当固定学制 |
+| GPA requirement | 本科最后60semester hours或全部研究生累计最低3.0；目录2.75是学位要求，不是入学门槛 |
+| GRE requirement | Optional；不强制 |
+| TOEFL / IELTS | 加拿大认可学校学位或至少2年高等教育、距入学5年内有豁免路径；U of T可对接，TA口语另要求 |
+| Prerequisites | 多元微积分、LA、calculus-based probability/statistics（STAT400等效）；不要求统计或数学本科；部分缺课可入学后补 |
+| Recommendation letters | 至少3封 |
+| Cohort size | 未在已读官方页面公布 |
+| Deadline | MS Fall年度March1、Spring September15；国内国际相同，2027周期待复核 |
+| Funding / Tuition | 国际MS学费未核实；不能套用PhD五年资助。grader不自动免学费，若干奖学金/State Farm通道面向美国domestic，不能以加拿大PR认定适用 |
+| Research / Thesis / Project | 无thesis要求；4hour experiential learning选consulting、applied statistics、professional statistics或获批internship；不是保证实习 |
+| Curriculum | 数学统计/回归、Bayesian等应用选项；3门statistical computing、statistical learning+advanced analytics；2026起现行目录课程更灵活 |
+| Ranking evidence | QS Overall2027：74；CS2026：32；DS/AI2026：42；Stats2026：51-100；Physics2026：29。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Pass（按QS overall或允许相关subject） |
+| Eligibility | Pending：最后60学分和正式微积分型prob/stats先修；整体竞争待核 |
+| Match | High |
+| Difficulty | Reach |
+| Priority | 美国统计型冲刺 |
+| Status | In progress |
+| Last verified | 2026-10-02 |
+
+匹配说明：贝叶斯推断与科学统计高度匹配；数学统计先修和分段GPA比科研叙事更先决定可申请程度。
+
+回加拿大就业判断（分析）：严谨统计与咨询实践适合DS/analytics；若求ML工程，另补部署、数据库和实际工程经验。
+
+备注与未解决项：选择Analytics Concentration；Applied Statistics分支自Spring2027暂停招生，不混用。现行36-40hours优先于旧页面固定10门/40hours。
+
+官方来源：
+
+1. [现行2026/27课程目录](https://catalog.illinois.edu/graduate/las/statistics-ms/analytics/) - https://catalog.illinois.edu/graduate/las/statistics-ms/analytics/
+2. [GPA/先修/推荐/GRE/截止](https://stat.illinois.edu/academics/graduate-programs/application-requirements) - https://stat.illinois.edu/academics/graduate-programs/application-requirements
+3. [硕士类型/先修/旧课程](https://stat.illinois.edu/academics/graduate-programs/masters-programs) - https://stat.illinois.edu/academics/graduate-programs/masters-programs
+4. [硕士资助边界](https://stat.illinois.edu/admissions/prospective-graduate-students/financial-support) - https://stat.illinois.edu/admissions/prospective-graduate-students/financial-support
+5. [国际与加拿大语言豁免](https://grad.illinois.edu/admissions/international-applicants) - https://grad.illinois.edu/admissions/international-applicants
+6. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+7. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+### Texas A&M University - Master of Science in Statistical Data Science - On-Campus
+
+地区：美国 | 方法匹配：High | 难度：Reach | 核查状态：In progress
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | United States |
+| University | Texas A&M University |
+| Program name | Master of Science in Statistical Data Science - On-Campus |
+| Track | Statistical Data Science |
+| Master type | Academic / thesis or non-thesis |
+| Duration | FAQ典型2年；thesis31credit hours，non-thesis32credit hours |
+| GPA requirement | 已读项目/招生/FAQ未列最低或典型录取GPA；3.0是否满足具体入口未闭合 |
+| GRE requirement | 现行MS招生页Fall admissions不要求；旧FAQ仍讨论GRE，优先采用MS招生页 |
+| TOEFL / IELTS | FAQ英语国家已获学位路径与仅US学位waiver回答不一致；U of T适用/未毕业状态待学校或中央政策确认，不自动免 |
+| Prerequisites | CalcI/II、matrix algebra、calculus-based probability、编程；FAQ多数录取者修real analysis，但并非明示最低 |
+| Recommendation letters | 要求letters，现行MS页未列数量；不要把PhD材料数量自动套用 |
+| Cohort size | FAQ列全系400-600申请/10-20入学，未拆MS/PhD且旧渠道，不能作为本MS cohort或录取率 |
+| Deadline | 官网标题Fall2026却写January31,2027，并要求选Fall2026 Statistics MS；存在内部冲突，2027硬截止未确认 |
+| Funding / Tuition | 2027国际MS费用与TA/RA待核；FAQ五年支持只明确适用于PhD，不能当MS资助承诺 |
+| Research / Thesis / Project | thesis或non-thesis；必修STAT692咨询。Non-thesis可项目+报告/口头展示或课程路线；不保证internship |
+| Curriculum | 统计理论/推断/回归与咨询；Computational、Applied Analytics & DS等emphasis，scientific computing与Bayes方法可对接 |
+| Ranking evidence | QS Overall2027：169；CS2026：140；DS/AI2026：101-200；Stats2026：46；Physics2026：124。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Pass（按QS overall或允许相关subject） |
+| Eligibility | Pending：入学GPA、calculus-based probability和语言资格；2027日历冲突须澄清 |
+| Match | High |
+| Difficulty | Reach |
+| Priority | 先核门槛与日期 |
+| Status | In progress |
+| Last verified | 2026-10-02 |
+
+匹配说明：统计推断和计算方向贴合；正式概率背景、成绩与典型数学准备仍有差距。
+
+回加拿大就业判断（分析）：统计与咨询、可选论文有利于DS/研究岗位；典型两年会消耗更多PGWP时间，工程部署需补。
+
+备注与未解决项：选择on-campus Statistical Data Science，非distance learning。保留招生页与旧FAQ冲突；不把10-20当该MS intake。
+
+官方来源：
+
+1. [正式学位/线下](https://artsci.tamu.edu/statistics/academics/graduate/statistics-ms.html) - https://artsci.tamu.edu/statistics/academics/graduate/statistics-ms.html
+2. [MS招生/日期冲突](https://artsci.tamu.edu/statistics/academics/graduate/statistics-admissions.html) - https://artsci.tamu.edu/statistics/academics/graduate/statistics-admissions.html
+3. [学分/论文与非论文](https://artsci.tamu.edu/statistics/academics/graduate/statistics-requirements.html) - https://artsci.tamu.edu/statistics/academics/graduate/statistics-requirements.html
+4. [典型年限/先修/语言及旧信息](https://artsci.tamu.edu/statistics/academics/graduate/frequently-asked-questions.html) - https://artsci.tamu.edu/statistics/academics/graduate/frequently-asked-questions.html
+5. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+6. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+### Johns Hopkins University - Master of Science in Engineering in Data Science - Full-time Residential
+
+地区：美国 | 方法匹配：High | 难度：Reach | 核查状态：In progress
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | United States |
+| University | Johns Hopkins University |
+| Program name | Master of Science in Engineering in Data Science - Full-time Residential |
+| Track | Data Science / Statistical Learning |
+| Master type | Academic / capstone or course-only |
+| Duration | 3semesters全日制线下；选择residential MSE，非EP online/part-time MS |
+| GPA requirement | 本项目最低/典型录取GPA未核实；不能套用Engineering for Professionals门槛 |
+| GRE requirement | residential MSE政策未核实；不能套用EP规则 |
+| TOEFL / IELTS | U of T在residential MSE英语豁免规则中的适用待核；不套用EP政策 |
+| Prerequisites | 已读学位目录未列入学本科/先修标准；统计/ML/数学/计算课程强度已确认，Physics正式资格须另核 |
+| Recommendation letters | residential MSE推荐信数量未核实 |
+| Cohort size | 未在已读官方页面公布 |
+| Deadline | 2027 residential MSE硬截止未核实；目录所指AMS招生页403 |
+| Funding / Tuition | 2026/27院级Full-time Graduate/PhD标准tuition USD68,670/年，不是本MSE三学期全项目报价；2027及项目适用费率待核。fellowship竞争性 |
+| Research / Thesis / Project | Fall2025起capstone与course-only可选；capstone6credits研究+poster+final report需导师/委员会认可，非所有人必修 |
+| Curriculum | Statistics、Machine Learning、Optimization、Computing四核心领域；Bayesian/nonparametric Bayes、causal inference与systems选项；ethics/communication训练 |
+| Ranking evidence | QS Overall2027：20；CS2026：67；DS/AI2026：50；Stats2026：27；Physics2026：64。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Pass（按QS overall或允许相关subject） |
+| Eligibility | Unknown：课程方法匹配强，但residential入学GPA/先修/材料未闭合 |
+| Match | High |
+| Difficulty | Reach |
+| Priority | 先核资格，低优先级冲刺 |
+| Status | In progress |
+| Last verified | 2026-10-02 |
+
+匹配说明：贝叶斯、推断和研究capstone与现有工作高度相关；现有3.0竞争风险大，正式入口仍须核实。
+
+回加拿大就业判断（分析）：研究capstone可强化统计/Applied Scientist证据；若直接就业仍需行业与工程作品，三学期成本需单独算。
+
+备注与未解决项：目录2025起允许course-only，不能沿用旧mandatory capstone。AMS招生403；不把在线EP MS作为同一项目。院级tuition只提供预算背景。
+
+官方来源：
+
+1. [现行residential学位目录](https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/applied-mathematics-statistics/data-science-masters-degree/) - https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/applied-mathematics-statistics/data-science-masters-degree/
+2. [residential招生/资助入口](https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/engineering-graduate-policies/admissions-finances/) - https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/engineering-graduate-policies/admissions-finances/
+3. [2026/27院级标准费用](https://e-catalogue.jhu.edu/university-wide-policies-information/admission-aid/tuition-fees/) - https://e-catalogue.jhu.edu/university-wide-policies-information/admission-aid/tuition-fees/
+4. [AMS招生要求，403未确认正文](https://engineering.jhu.edu/ams/academics/graduate-studies/admissions-requirements-and-criteria/) - https://engineering.jhu.edu/ams/academics/graduate-studies/admissions-requirements-and-criteria/
+5. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+6. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+### University of Rochester - Master of Science in Data Science
+
+地区：美国 | 方法匹配：High | 难度：Match-Reach | 核查状态：In progress
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | United States |
+| University | University of Rochester |
+| Program name | Master of Science in Data Science |
+| Track | Data Science / Statistical Learning |
+| Master type | Professional / taught |
+| Duration | 30credits，2或3学期 |
+| GPA requirement | 已读项目页未给硬性最低值；允许补充解释低GPA，不能据此判断3.0稳录 |
+| GRE requirement | Optional；不提交不会成为材料缺项 |
+| TOEFL / IELTS | 加拿大至少3年线下全日制高等教育可获豁免，学校保留要求成绩的权利 |
+| Prerequisites | 欢迎science/engineering/math等STEM；calc和编程；缺CS可修summer data-structures bridge |
+| Recommendation letters | 3封，至少1封、最好2封近期学校faculty推荐 |
+| Cohort size | 未在已读官方页面公布 |
+| Deadline | 官网目前仍显示Fall2026已关闭；常规轮Jan5/Feb15/Mar15仅作历史，2027待发布 |
+| Funding / Tuition | merit aid可能；2027全日制学费未核实 |
+| Research / Thesis / Project | 4credit必修团队Practicum，外部合作问题；研究/实习最多可替代6credits选修 |
+| Curriculum | data mining、DB等16credit核心；10credit应用选修 + 行业practicum |
+| Ranking evidence | QS Overall2027：251；CS2026：351-400；DS/AI2026：未列；Stats2026：未列；Physics2026：134。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Pass：US News National Universities2027 #49 |
+| Eligibility | Plausible：STEM+Python背景；统计/桥接与低GPA评估仍不确定 |
+| Match | High |
+| Difficulty | Match-Reach |
+| Priority | 美国主申请 |
+| Status | In progress |
+| Last verified | 2026-10-02 |
+
+匹配说明：理科入口、桥接及行业practicum对物理背景友好，研究经历可转为申请证据。
+
+回加拿大就业判断（分析）：回加拿大就业价值主要取决于项目作品、实习、工程能力及校友联系；未找到可直接比较的加拿大就业率。
+
+备注与未解决项：课程实践有明确结构；无加拿大可比就业率，不能用学校美国就业宣传预测你的加拿大工资。
+
+官方来源：
+
+1. [项目/桥接/实践](https://www.hajim.rochester.edu/dsc/graduate/ms.html) - https://www.hajim.rochester.edu/dsc/graduate/ms.html
+2. [申请/语言/推荐/GRE](https://www.hajim.rochester.edu/dsc/graduate/apply.html) - https://www.hajim.rochester.edu/dsc/graduate/apply.html
+3. [2027 USNews #49校方核对](https://www.rochester.edu/about/rankings.html) - https://www.rochester.edu/about/rankings.html
+4. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+5. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+### University of Maryland, College Park - Master of Science in Data Science - Science Academy
+
+地区：美国 | 方法匹配：High | 难度：Match-Reach | 核查状态：In progress
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | United States |
+| University | University of Maryland, College Park |
+| Program name | Master of Science in Data Science - Science Academy |
+| Track | Data Science / Statistical Learning |
+| Master type | Professional / taught |
+| Duration | 少于2年；30credits/10门；全日制示例Fall-Spring-Summer-Fall约16个月，非保证完成时间 |
+| GPA requirement | 全部以往本科/研究生成绩最低3.0；FAQ允许低于3.0者申请并说明，不代表例外已获批 |
+| GRE requirement | Optional；不强制 |
+| TOEFL / IELTS | 中央规则豁免在加拿大英语地区线下取得/入学前将取得学位者；转学/双学位另有2年条件；U of T可对接 |
+| Prerequisites | calcII、LA、statistics等定量课程；programming课程或足够软件开发经验；可提交研究经历证明数学能力 |
+| Recommendation letters | 已读MS材料清单未列推荐信；是否必需及数量仍需申请portal确认 |
+| Cohort size | 未在已读官方页面公布 |
+| Deadline | Fall2027国际2027-02-26；国内2027-05-28。Spring2027国际2026-09-30已过且早于本科毕业 |
+| Funding / Tuition | 2026/27全项目估算tuition USD44,840（10课）；mandatory fees另计，2027/28待发布。项目不提供/保证TA或fellowship，可申请其他院系岗位 |
+| Research / Thesis / Project | 课程型、non-thesis；项目明确不提供research opportunities。研究方法课程不等于企业capstone或研究岗位 |
+| Curriculum | prob/stats、ML、data representation、algorithms、big-data systems、communication；选修DL/NLP/cloud。主要College Park晚间面授，至少1课在线 |
+| Ranking evidence | QS Overall2027：252；CS2026：88；DS/AI2026：51-100；Stats2026：101-150；Physics2026：41。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Pass（按QS overall或允许相关subject） |
+| Eligibility | Plausible：3.0与量化/编程入口；正式统计课程证据待核 |
+| Match | High |
+| Difficulty | Match-Reach |
+| Priority | 美国优先准备 |
+| Status | In progress |
+| Last verified | 2026-10-02 |
+
+匹配说明：数学与科研经历可以参与入口评估，统计/算法/云课程能补短板；仍须证明统计基础。
+
+回加拿大就业判断（分析）：约16个月课程可补数据系统与沟通；回加拿大就业要额外建立行业项目，不能依赖未承诺的研究或实习。
+
+备注与未解决项：采用现行MSDS，不混用历史MPS；FAQ确认硕士支持学生签证。缺少必修长实习/外部项目，需要主动安排作品。
+
+官方来源：
+
+1. [MSDS/2027招生/课程](https://cmns.umd.edu/graduate/science-academy/data-science/master-science) - https://cmns.umd.edu/graduate/science-academy/data-science/master-science
+2. [签证/资助/研究FAQ](https://cmns.umd.edu/graduate/science-academy/about/frequently-asked-questions) - https://cmns.umd.edu/graduate/science-academy/about/frequently-asked-questions
+3. [2026/27费用](https://exst.umd.edu/professionals-post-baccalaureates/professional-graduate-programs/science-academy/tuition-fees) - https://exst.umd.edu/professionals-post-baccalaureates/professional-graduate-programs/science-academy/tuition-fees
+4. [语言豁免](https://gradschool.umd.edu/admissions/english-language-proficiency-requirements) - https://gradschool.umd.edu/admissions/english-language-proficiency-requirements
+5. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+6. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+### Northwestern University - Master of Science in Data Science - Accelerated, School of Professional Studies
+
+地区：美国 | 方法匹配：High | 难度：Match-Reach | 核查状态：In progress
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | United States |
+| University | Northwestern University |
+| Program name | Master of Science in Data Science - Accelerated, School of Professional Studies |
+| Track | Data Science / Statistical Learning |
+| Master type | Professional / taught |
+| Duration | 1年/4quarters/12门；每季度2门Chicago面授+1门在线；Fall至次年Summer |
+| GPA requirement | 已读SPS招生页未列数字最低/典型录取GPA；不能据此认定3.0稳录 |
+| GRE requirement | 完整申请材料清单未列GRE；是否明确免除仍待确认 |
+| TOEFL / IELTS | 官方NACES course-by-course evaluation注明英语授课可证明语言能力；U of T仍须按SPS要求做评估 |
+| Prerequisites | 认可本科或美国等效；现有数学/编程可支持申请。国外学历必须NACES逐课评估；statement300-550词、resume等 |
+| Recommendation letters | 2封 |
+| Cohort size | 未在已读官方页面公布 |
+| Deadline | 2027未核；招生页仍为2026 extended priority4月15/final7月15，overview无年份next December1，不能当2027确定日期 |
+| Funding / Tuition | 2026/27 tuition USD64,860；页面含费用估算USD67,694，另有排除费用文字，需确认组成；生活/保险另核。校级aid/assistantships主要保留PhD/MFA |
+| Research / Thesis / Project | Accelerated课表列必修capstone；overview提capstone或thesis，thesis在加速路线的可行性须另核，不假定可选 |
+| Curriculum | R/Python/Go、DB、supervised/unsupervised learning、decision analytics、ethics、business communication；优先Analytics and Modeling或Data Engineering |
+| Ranking evidence | QS Overall2027：45；CS2026：118；DS/AI2026：51-100；Stats2026：46；Physics2026：76。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Pass（按QS overall或允许相关subject） |
+| Eligibility | Plausible本科入口；GPA整体审核、NACES办理和2027轮次待核 |
+| Match | High |
+| Difficulty | Match-Reach |
+| Priority | 美国有条件主申请 |
+| Status | In progress |
+| Last verified | 2026-10-02 |
+
+匹配说明：应用统计与工程/沟通结合适合物理转DS；一年能控制返加时间，但学费较高。
+
+回加拿大就业判断（分析）：一年制可节约工签日历时间；DB与capstone可补工程作品，较密集学制下须提前规划行业经验。
+
+备注与未解决项：SPS accelerated MSDS不等于McCormick MS Analytics；General Data Science track仅part-time online。国际生可申请学生签证。
+
+官方来源：
+
+1. [一年制/授课方式](https://sps.northwestern.edu/masters/accelerated-data-science/) - https://sps.northwestern.edu/masters/accelerated-data-science/
+2. [招生/NACES/语言/推荐](https://sps.northwestern.edu/masters/accelerated-data-science/admission.html) - https://sps.northwestern.edu/masters/accelerated-data-science/admission.html
+3. [加速路线课表](https://sps.northwestern.edu/masters/accelerated-data-science/curriculum.html) - https://sps.northwestern.edu/masters/accelerated-data-science/curriculum.html
+4. [2026/27费用](https://sps.northwestern.edu/masters/accelerated-data-science/tuition-costs.html) - https://sps.northwestern.edu/masters/accelerated-data-science/tuition-costs.html
+5. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+6. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+### Arizona State University - Data Science, Analytics and Engineering (Computing and Decision Analytics), MS
+
+地区：美国 | 方法匹配：High | 难度：Match-Reach | 核查状态：In progress
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | United States |
+| University | Arizona State University |
+| Program name | Data Science, Analytics and Engineering (Computing and Decision Analytics), MS |
+| Track | Data Science / Statistical Learning |
+| Master type | Professional / taught |
+| Duration | 30credit hours，Tempe线下；标准年限未在已读项目页确认 |
+| GPA requirement | 首个本科最后60hours最低3.00/4.00，或适用硕士最低3.00；不等同累计3.0 |
+| GRE requirement | 此具体方向的完整材料清单未列GRE；明确政策仍待核，不能套用停招通用方向的GRE要求 |
+| TOEFL / IELTS | 获得英语唯一授课国际本科后可申请MOI exemption；需在申请后按规定提交form/证明，未毕业申请时是否可先豁免待核 |
+| Prerequisites | computing/engineering/math/stats/OR/IT或related本科；申请前3学期或9credits CalculusI-II-III；可指定DS/algorithms、prob/stats、LA补课，入学2学期内B以上 |
+| Recommendation letters | 此方向清单未列；数量/是否必需待portal核实 |
+| Cohort size | 未在已读官方页面公布 |
+| Deadline | Fall线下年度priority12月31；未标2027周期，需确认年份/国际最终截止。之后space-available |
+| Funding / Tuition | 须按Tempe/具体plan/国际身份用官方estimator；2027全项目费用与TA/RA未核实 |
+| Research / Thesis / Project | 30credits + 6credit thesis或3credit FSE570 Data Science Capstone；导师/路线选择需审批 |
+| Curriculum | stats/ML/scale-data核心9credits；concentration12含data analysis、security、ML、optimization；electives与culminating experience |
+| Ranking evidence | QS Overall2027：172；CS2026：108；DS/AI2026：101-200；Stats2026：51-100；Physics2026：151-200。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Pass（按QS overall或允许相关subject） |
+| Eligibility | Pending：Physics是否related、最后60学分与三学期微积分映射须确认 |
+| Match | High |
+| Difficulty | Match-Reach |
+| Priority | 先核related与微积分 |
+| Status | In progress |
+| Last verified | 2026-10-02 |
+
+匹配说明：统计、优化、算法与科研方法有交集，也能补数据系统；Physics入口不能自行视为已获认可。
+
+回加拿大就业判断（分析）：数据系统、优化和capstone有助于工程作品；学制/费用未闭合前不作与一年项目的性价比排序。
+
+备注与未解决项：只使用plan ESDSECDAMS，通用DSAE页面已停招且条件不同；本方向页面确认STEM-OPT eligible，但不承诺美国工作授权。
+
+官方来源：
+
+1. [活跃具体方向/学制学分/条件](https://degrees.apps.asu.edu/masters-phd/major/ASU00/ESDSECDAMS/data-science-analytics-and-engineering-computing-and-decision-analytics-ms) - https://degrees.apps.asu.edu/masters-phd/major/ASU00/ESDSECDAMS/data-science-analytics-and-engineering-computing-and-decision-analytics-ms
+2. [MOI与语言豁免](https://admission.asu.edu/apply/international/graduate/english-proficiency) - https://admission.asu.edu/apply/international/graduate/english-proficiency
+3. [费用估算入口](https://tuition.asu.edu/cost/tuition-estimator) - https://tuition.asu.edu/cost/tuition-estimator
+4. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+5. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+### Rice University - Master of Data Science (MDS) - On-Campus
+
+地区：美国 | 方法匹配：High | 难度：Match-Reach | 核查状态：In progress
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | United States |
+| University | Rice University |
+| Program name | Master of Data Science (MDS) - On-Campus |
+| Track | Data Science / Statistical Learning |
+| Master type | Professional / taught |
+| Duration | 现行GA目录31-35credit hours/10-13门；标准完成年限未核实，不能用online弹性年限代替 |
+| GPA requirement | 研究生统一原则一般至少3.00/B；未核对到更高MDS门槛或典型录取GPA |
+| GRE requirement | CS统一申请页Optional，不强制 |
+| TOEFL / IELTS | 完成或预计完成官方英语授课大学学位可证明语言；U of T可按认可机构/材料路径审核 |
+| Prerequisites | 认可本科；MDS具体硬先修未完整核实。COMP614允许零编程起点、提供非学分bridge，但不等于所有申请先修免除 |
+| Recommendation letters | 至少3封 |
+| Cohort size | 未在已读官方页面公布 |
+| Deadline | Fall2027奖学金early2027-02-10；国际2027-05-01；国内July1不适用于本人 |
+| Funding / Tuition | 2027 on-campus MDS学费未核，不能用online按学分价格；merit scholarship竞争性，early2月10；无已核TA/RA保证 |
+| Research / Thesis / Project | non-thesis；4credit DSCI535/COMP549团队真实客户项目必修；professional development可由课程/自寻internship等完成 |
+| Curriculum | 当前GA：programming、big data、visualization、ML、stats；AI、business、energy/sustainability、image、sport五方向，选修cloud/algorithms等 |
+| Ranking evidence | QS Overall2027：122；CS2026：251-300；DS/AI2026：101-200；Stats2026：151-200；Physics2026：96。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Pass（按QS overall或允许相关subject） |
+| Eligibility | Pending：3.0满足一般原则，但具体MDS先修/整体竞争和学制费用待核 |
+| Match | High |
+| Difficulty | Match-Reach |
+| Priority | 美国有条件主申请 |
+| Status | In progress |
+| Last verified | 2026-10-02 |
+
+匹配说明：统计/ML与科研相符，基础编程课程及D2K客户capstone适合转换；仍需补清具体招生先修。
+
+回加拿大就业判断（分析）：客户项目和big-data训练能转成加拿大雇主可读作品；需先取得线下费用/年限，再与Maryland等比较总成本。
+
+备注与未解决项：现行GA目录为31-35credits与五方向，旧CS课程页为至少31credits且方向不同；采用GA作现行课程依据。on-campus主页面403，不把online主页面当线下。
+
+官方来源：
+
+1. [学校DS项目入口](https://datascience.rice.edu/academics/professional-master-data-science) - https://datascience.rice.edu/academics/professional-master-data-science
+2. [现行GA学位与课程](https://ga.rice.edu/programs-study/departments-programs/engineering/data-science/data-science-mds/) - https://ga.rice.edu/programs-study/departments-programs/engineering/data-science/data-science-mds/
+3. [2027招生/推荐/GRE/语言](https://csweb.rice.edu/academics/graduate-programs/admission/graduate-program-application) - https://csweb.rice.edu/academics/graduate-programs/admission/graduate-program-application
+4. [统一GPA原则](https://ga.rice.edu/graduate-students/academic-policies-procedures/admission/) - https://ga.rice.edu/graduate-students/academic-policies-procedures/admission/
+5. [CS旧课程页/bridge/差异](https://csweb.rice.edu/academics/graduate-programs/professional-mds/professional-mds-curriculum) - https://csweb.rice.edu/academics/graduate-programs/professional-mds/professional-mds-curriculum
+6. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+7. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+### North Carolina State University - Master of Science in Analytics - Institute for Advanced Analytics
+
+地区：美国 | 方法匹配：High | 难度：Match-Reach | 核查状态：In progress
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | United States |
+| University | North Carolina State University |
+| Program name | Master of Science in Analytics - Institute for Advanced Analytics |
+| Track | Data Analytics（相邻专业） |
+| Master type | Professional / taught |
+| Duration | 10个月/34credits；全日制线下；2027-06-24开学至次年May |
+| GPA requirement | 最低3.0；低于3.0有exception评估路径但非保证。FAQ明确highly selective |
+| GRE requirement | 不要求且不考虑GRE/GMAT |
+| TOEFL / IELTS | 现行中央豁免为英语国家公民或至少1年合格美国本科线下学习等；中国国籍+U of T本科不能仅据加拿大英语授课取得豁免，先按需要考试准备 |
+| Prerequisites | 至少1门、理想2门college statistics且含实质regression；能用Python/R/SQL等独立编程；可在申请同时补先修 |
+| Recommendation letters | 2封，可选第3封；完整材料后审查 |
+| Cohort size | 未在已读官方页面公布 |
+| Deadline | **近期窗口：2027入学：priority2026-11-01；国际最终2027-02-15；2027-06-24开学须与本科完成及签证时间核对** |
+| Funding / Tuition | 2026Summer-2027Spring非居民tuition/fees USD59,679.06，非2027锁定费用，下一周期预计May更新。MSA不具TA/RA资格；可有部分need-based aid |
+| Research / Thesis / Project | Practicum I/II长期团队真实客户项目；专业课程型，不是thesis路线 |
+| Curriculum | regression、Bayesian/PyMC/Stan、ML、optimization、data engineering、cloud、communication；Python/R/SAS/SQL |
+| Ranking evidence | QS Overall2027：320；CS2026：301-350；DS/AI2026：未列；Stats2026：51-100；Physics2026：251-300。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Pass（按QS overall或允许相关subject） |
+| Eligibility | Pending：回归统计课、语言考试及June24时间；入围有面试与30分钟技术筛选 |
+| Match | High |
+| Difficulty | Match-Reach |
+| Priority | 时间敏感：先核6月开学 |
+| Status | In progress |
+| Last verified | 2026-10-02 |
+
+匹配说明：推断和Python能力匹配，客户项目与沟通对就业直接；统计先修和毕业时间可能成为阻碍。
+
+回加拿大就业判断（分析）：10个月客户项目可减少海外时间，形成应用成果；加拿大招聘网络需主动建立，不能拿美国就业宣传当返加就业率。
+
+备注与未解决项：不是Fall可任意改期开学；每年一个SummerII cohort。技术筛选包括代码/统计选择题和编程。低GPA例外不可解读为个人录取率。
+
+官方来源：
+
+1. [招生/成绩/推荐](https://analytics.ncsu.edu/admissions/) - https://analytics.ncsu.edu/admissions/
+2. [统计/编程先修](https://analytics.ncsu.edu/admissions/prerequisites/) - https://analytics.ncsu.edu/admissions/prerequisites/
+3. [2027截止与开学](https://analytics.ncsu.edu/admissions/deadlines-and-dates/) - https://analytics.ncsu.edu/admissions/deadlines-and-dates/
+4. [2026/27费用](https://analytics.ncsu.edu/admissions/tuition-and-fees/) - https://analytics.ncsu.edu/admissions/tuition-and-fees/
+5. [课程与Practicum](https://analytics.ncsu.edu/academics/curriculum/) - https://analytics.ncsu.edu/academics/curriculum/
+6. [GRE/面试/技术筛选/资助FAQ](https://analytics.ncsu.edu/admissions/frequently-asked-questions/) - https://analytics.ncsu.edu/admissions/frequently-asked-questions/
+7. [中央语言规则](https://catalog.ncsu.edu/graduate/graduate-handbook/international-student-admissions/) - https://catalog.ncsu.edu/graduate/graduate-handbook/international-student-admissions/
+8. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+9. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+### Boston University - Master of Science in Applied Data Analytics - Metropolitan College
+
+地区：美国 | 方法匹配：High | 难度：Match | 核查状态：In progress
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | United States |
+| University | Boston University |
+| Program name | Master of Science in Applied Data Analytics - Metropolitan College |
+| Track | Applied Data Analytics（相邻专业） |
+| Master type | Professional / taught |
+| Duration | 8-20个月，32-40units（按foundation豁免）；优先全日制线下 |
+| GPA requirement | 已读项目页未明确数字最低GPA |
+| GRE requirement | 明确 No GRE/GMAT |
+| TOEFL / IELTS | 英语授课本科已取得或预计取得可豁免；U of T适用，委员会保留要求测试权利 |
+| Prerequisites | 按申请材料评估foundation：Information Structures with Python、Data Science with Python等；被要求者首学期完成 |
+| Recommendation letters | 推荐信数量/规则待核 |
+| Cohort size | 未在已读官方页面公布 |
+| Deadline | Fall2027国际线下：2027-06-01；on-campus开学2027-09-02；建议提前申请 |
+| Funding / Tuition | 网页USD27,920-32,675是2026/27 part-time范围，不能用于国际full-time预算。全日制需另报价；merit/Bridge to Boston竞争性 |
+| Research / Thesis / Project | 课程小项目多；thesis另加8units，需在项目内完成至少4课且GPA3.7+、导师与审批 |
+| Curriculum | 概率统计/R、DB、data mining、ML、big data；选修cloud/Spark、advancedDB、GenAI等 |
+| Ranking evidence | QS Overall2027：94；CS2026：95；DS/AI2026：51-100；Stats2026：101-150；Physics2026：98。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Pass（按QS overall或允许相关subject） |
+| Eligibility | Plausible：Python基础与foundation机制；整体录取审核待定 |
+| Match | High |
+| Difficulty | Match |
+| Priority | 美国主申请 |
+| Status | In progress |
+| Last verified | 2026-10-02 |
+
+匹配说明：更注重应用工程，有foundation机制，可补研究型物理背景缺的DB/大数据。
+
+回加拿大就业判断（分析）：回加拿大就业价值主要取决于项目作品、实习、工程能力及校友联系；未找到可直接比较的加拿大就业率。
+
+备注与未解决项：MET ADA不等于BU CDS MSDS；不是保证录取，也不保证实习。Thesis3.7为入学后条件，不是申请门槛。
+
+官方来源：
+
+1. [项目/课程](https://www.bu.edu/met/degrees-certificates/ms-applied-data-analytics/) - https://www.bu.edu/met/degrees-certificates/ms-applied-data-analytics/
+2. [国际英语与2027时间表](https://www.bu.edu/met/admissions/international-admissions/international-application-requirements/) - https://www.bu.edu/met/admissions/international-admissions/international-application-requirements/
+3. [全日制费用/资助路径](https://www.bu.edu/met/admissions/international-admissions/international-tuition-financing/) - https://www.bu.edu/met/admissions/international-admissions/international-tuition-financing/
+4. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+5. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+### University of Colorado Boulder - Master of Science in Data Science - Residential
+
+地区：美国 | 方法匹配：High | 难度：Match | 核查状态：In progress
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | United States |
+| University | University of Colorado Boulder |
+| Program name | Master of Science in Data Science - Residential |
+| Track | Data Science / Statistical Learning |
+| Master type | Professional / taught |
+| Duration | 多数1.5-2年；Direct30credits，Bridge30-34credits |
+| GPA requirement | minimum3.0/4.0；官网strong applicants通常3.2+ |
+| GRE requirement | test blind，明确不审GRE，建议不提交 |
+| TOEFL / IELTS | 需按EnglishProficiency中央政策核U of T豁免；项目页给TOEFL80/IELTS6.5/DET115参考 |
+| Prerequisites | 欢迎所有专业；calc、LA、series、编程经验；Bridge可补Python、DS基础/R |
+| Recommendation letters | 最低1封学术或专业；可多交 |
+| Cohort size | 未在已读官方页面公布 |
+| Deadline | annual priority12月15日、regular2月15日22:00 MountainTime；2027周期需最终复核 |
+| Funding / Tuition | 2026/27FAQ国际30credits估算USD50,703；Bridge额外学分另计，2027待核。professional学生不具TA/RA资格；有竞争性小额奖学金 |
+| Research / Thesis / Project | 不要求thesis或capstone；DTSC5801行业团队capstone为elective，需主动选择 |
+| Curriculum | 统计、计算/编程与领域应用；Bridge按背景评估，不等于Coursera performance-based admission |
+| Ranking evidence | QS Overall2027：320；CS2026：301-350；DS/AI2026：未列；Stats2026：未列；Physics2026：57。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Pass（按QS overall或允许相关subject） |
+| Eligibility | Plausible：3.0+任意本科与桥接可对接；不等于高概率offer |
+| Match | High |
+| Difficulty | Match |
+| Priority | 美国优先准备 |
+| Status | In progress |
+| Last verified | 2026-10-02 |
+
+匹配说明：转换入口明确，数学/编程背景与研究相符，能补R/应用基础。
+
+回加拿大就业判断（分析）：回加拿大就业价值主要取决于项目作品、实习、工程能力及校友联系；未找到可直接比较的加拿大就业率。
+
+备注与未解决项：限定Residential线下项目，不能与无申请成绩要求的Coursera online版本混用。QS2026Physics57可满足仓库相关学科过滤，但不声称DS全球57。
+
+官方来源：
+
+1. [入口/最低与典型GPA/推荐/GRE](https://www.colorado.edu/program/data-science/residential/admissions) - https://www.colorado.edu/program/data-science/residential/admissions
+2. [学制/费用/非必修capstone](https://www.colorado.edu/program/data-science/residential/faqs) - https://www.colorado.edu/program/data-science/residential/faqs
+3. [资金与实习机会](https://www.colorado.edu/program/data-science/campus/finances) - https://www.colorado.edu/program/data-science/campus/finances
+4. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+5. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+### The University of Arizona - Master of Science in Data Science - Main Campus
+
+地区：美国 | 方法匹配：High | 难度：Match | 核查状态：In progress
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | United States |
+| University | The University of Arizona |
+| Program name | Master of Science in Data Science - Main Campus |
+| Track | Data Science / Statistical Learning |
+| Master type | Professional / taught |
+| Duration | 通常18个月全日制；30units；选择Tucson主校区，非Online |
+| GPA requirement | 项目最低GPA3.0；未公布典型录取GPA或本人的成绩重算结果 |
+| GRE requirement | 不要求；可自愿提交 |
+| TOEFL / IELTS | 英语国家学位/规定英语授课学分有豁免路径；U of T应按Graduate College规则提交证明，具体时效与完成状态需审核 |
+| Prerequisites | 接受多类本科；须以课程或专业经验证明数学/编程、data structures、algorithm analysis、LA；calculus为建议而非必需 |
+| Recommendation letters | 2封；须在截止前收到 |
+| Cohort size | 未在已读官方页面公布 |
+| Deadline | 主校区Fall国际及资助考虑：年度March1；2027周期需最后确认。June1仅国内无资助，不适用于本人 |
+| Funding / Tuition | 当前网页国际主校区9+units每学期USD18,017（含所列费用）；未标报价年度，非全项目费用，2027需重新计算。资助竞争性 |
+| Research / Thesis / Project | 必修3units internship或capstone；capstone含软件开发、代码仓库和5,000-6,000词报告。Thesis需早联系导师，不保证 |
+| Curriculum | Data Ethics、Foundations、Data Mining、Analysis/Visualization；15units选修可补SQL/NoSQL、cloud、ML/NLP等 |
+| Ranking evidence | QS Overall2027：313；CS2026：301-350；DS/AI2026：未列；Stats2026：未列；Physics2026：100。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Pass（按QS overall或允许相关subject） |
+| Eligibility | Plausible：3.0与理科入口可对接；数据结构/算法证据与语言审核待核 |
+| Match | High |
+| Difficulty | Match |
+| Priority | 美国优先准备 |
+| Status | In progress |
+| Last verified | 2026-10-02 |
+
+匹配说明：正式接受科学背景，并重视科研/软件作品；课程和软件capstone可补工业数据能力。
+
+回加拿大就业判断（分析）：软件capstone与DB/cloud选修可形成可运行作品；18个月给技能补齐时间，加拿大雇主联系需主动建立。
+
+备注与未解决项：不把Online USD650/unit用于线下预算；internship选项不代表学校保证安排岗位。Physics2026 #100过排名门槛，不是DS排名。
+
+官方来源：
+
+1. [招生/GPA/推荐/年度截止](https://infosci.arizona.edu/ms-data-science/admissions-cost) - https://infosci.arizona.edu/ms-data-science/admissions-cost
+2. [18个月/课程/项目](https://infosci.arizona.edu/ms-data-science/curriculum-courses) - https://infosci.arizona.edu/ms-data-science/curriculum-courses
+3. [费用与项目FAQ](https://infosci.arizona.edu/ms-data-science/faqs) - https://infosci.arizona.edu/ms-data-science/faqs
+4. [国际与语言](https://grad.arizona.edu/admissions/requirements/international-applicants) - https://grad.arizona.edu/admissions/requirements/international-applicants
+5. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+6. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+### University of Southern California - Master of Science in Applied Data Science
+
+地区：美国 | 方法匹配：Medium | 难度：Unknown | 核查状态：In progress
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | United States |
+| University | University of Southern California |
+| Program name | Master of Science in Applied Data Science |
+| Track | Data Science / Statistical Learning |
+| Master type | Master；授课/研究结构未完整核实 |
+| Duration | 当前学分及标准年限未核实；官方项目详情403，目录子页202空正文 |
+| GPA requirement | 项目最低/典型GPA未核实；不把中央无统一英语分数线理解为无入学GPA要求 |
+| GRE requirement | Viterbi现行申请页明确2027 MS不要求且不审GRE |
+| TOEFL / IELTS | 中央语言页有认可Anglophone学位豁免；U of T是否适用须按Canada country requirements确认，未毕业本科申请时规则仍待核 |
+| Prerequisites | 详细可接受本科专业及数学/CS先修未核实；不能仅凭Phys+Python认定可直入 |
+| Recommendation letters | 具体项目材料数量未核实；院级页要求查项目 |
+| Cohort size | 未在已读官方页面公布 |
+| Deadline | Spring/Fall2027申请已开放；项目具体硬截止/奖学金截止待核，不用院系其他项目日期 |
+| Funding / Tuition | 2027本项目国际学费未核；院级merit scholarship有竞争性，具体截止/适用待核；不承诺TA/RA |
+| Research / Thesis / Project | 是否必修capstone/thesis、research/实习机会未核实 |
+| Curriculum | 学校DS academics页面确认data management/analytics、Hadoop/Spark、ML、data mining、visualization；完整课表待恢复 |
+| Ranking evidence | QS Overall2027：153；CS2026：73；DS/AI2026：47；Stats2026：51-100；Physics2026：201-250。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Pass（按QS overall或允许相关subject） |
+| Eligibility | Unknown：核心GPA/先修和学制未闭合，不能计作有效主申请 |
+| Match | Medium |
+| Difficulty | Unknown |
+| Priority | 先核核心资格，暂不投递 |
+| Status | In progress |
+| Last verified | 2026-10-02 |
+
+匹配说明：应用数据与大数据训练方向相关；缺完整先修和项目结构，暂不升级为High或评录取概率。
+
+回加拿大就业判断（分析）：可用big-data训练补技能的潜在价值待完整课表、实践结构和费用核实后再比较。
+
+备注与未解决项：已确认项目仍在学校2026-09更新清单中，并读2027院级申请；核心项目正文访问受限。保留为15校研究候选，非已核可投递项目。
+
+官方来源：
+
+1. [学校DS academics，2026-09更新](https://datascience.usc.edu/academics/) - https://datascience.usc.edu/academics/
+2. [Viterbi2027 MS申请/GRE](https://viterbigradadmission.usc.edu/programs/masters/apply/ready-to-apply/) - https://viterbigradadmission.usc.edu/programs/masters/apply/ready-to-apply/
+3. [中央语言政策](https://gradadm.usc.edu/prospective-international-students/english-proficiency/) - https://gradadm.usc.edu/prospective-international-students/english-proficiency/
+4. [项目详情，403未确认正文](https://viterbigradadmission.usc.edu/programs/masters/msprograms/data-science/ms-applied-data-science/) - https://viterbigradadmission.usc.edu/programs/masters/msprograms/data-science/ms-applied-data-science/
+5. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+6. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+## 英国 - 项目详情
+
+### University College London - Data Science MSc
+
+地区：英国 | 方法匹配：High | 难度：Reach | 核查状态：In progress
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | United Kingdom |
+| University | University College London |
+| Program name | Data Science MSc |
+| Track | Data Science / Statistical Learning |
+| Master type | Professional / taught |
+| Duration | 1年full-time；2年part-time |
+| GPA requirement | UK upper second；2027加拿大等效页面显示3.3/4.0或77% B+（2026-10-01已核；10-02重取受限） |
+| GRE requirement | 项目页未要求GRE |
+| TOEFL / IELTS | U of T英语授课学位豁免是否满足当年UCL证据/时效条件待核 |
+| Prerequisites | quantitative本科；calc/LA/prob/stats + high-level programming |
+| Recommendation letters | 1封；优先学术推荐 |
+| Cohort size | 未在已读官方页面公布 |
+| Deadline | September2027入学；申请窗口/最终截止仍待当年页面确认 |
+| Funding / Tuition | 2027学费未公布/未确认，不能用2026费用作报价；奖学金另申请 |
+| Research / Thesis / Project | 60UKcredits夏季research project，约1/3总学分；8门taught modules |
+| Curriculum | 统计科学系：statistical inference、ML、computational/data science；使用R与Python |
+| Ranking evidence | QS Overall2027：8；CS2026：20；DS/AI2026：22；Stats2026：22；Physics2026：25。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Pass（按QS overall或允许相关subject） |
+| Eligibility | Below stated GPA：现有3.0低于3.3；例外未获确认 |
+| Match | High |
+| Difficulty | Reach |
+| Priority | 先确认GPA例外 |
+| Status | In progress |
+| Last verified | 2026-10-02 |
+
+匹配说明：研究方法贴合，但3.0不满足已核对的加拿大3.3等效门槛。
+
+回加拿大就业判断（分析）：统计严谨性和UCL认可度有价值；若选校只看就业，应权衡1年制缺少长实习窗口与工程技能补齐程度。
+
+备注与未解决项：与UCL物理导师合作可以加强推荐，但不自动免除统计系硕士的GPA/先修；应用数/位置比不是个人录取概率。
+
+官方来源：
+
+1. [2027项目](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/data-science-msc) - https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/data-science-msc
+2. [2027加拿大等效；本次重取受限](https://www.ucl.ac.uk/study/prospectus/international-equivalency/graduate/2027/upper_second/CA) - https://www.ucl.ac.uk/study/prospectus/international-equivalency/graduate/2027/upper_second/CA
+3. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+4. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+### Imperial College London - Statistics (Data Science and Machine Learning) MSc
+
+地区：英国 | 方法匹配：High | 难度：Reach | 核查状态：In progress
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | United Kingdom |
+| University | Imperial College London |
+| Program name | Statistics (Data Science and Machine Learning) MSc |
+| Track | Data Science / Statistical Learning |
+| Master type | Academic / taught with research project |
+| Duration | 1年，October2027 |
+| GPA requirement | 最低2:1；官网明确几乎全部成功者First Class；加拿大具体等效未核 |
+| GRE requirement | 已读项目页未提及；不等于明确不要求 |
+| TOEFL / IELTS | higher requirement；U of T豁免规则待核 |
+| Prerequisites | 统计/数学/工程/物理/CS；非数学专业成功者仍需扎实理论数学 |
+| Recommendation letters | 需要references；数量未核实 |
+| Cohort size | 未在已读官方页面公布 |
+| Deadline | 2027 rounds：2027-01-06、03-10、04-28（23:59 UK）；后轮可能满位 |
+| Funding / Tuition | 2027 Overseas £44,800；奖学金资格/截止另核 |
+| Research / Thesis / Project | 独立研究项目，可与faculty/industry合作；官方说明Jan-Sep研究训练 |
+| Curriculum | 统计推断、统计学习与ML、现代计算；Python/R/Stan/PySpark等课程使用 |
+| Ranking evidence | QS Overall2027：2；CS2026：12；DS/AI2026：15；Stats2026：10；Physics2026：12。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Pass（按QS overall或允许相关subject） |
+| Eligibility | Pending：2:1国际等效；典型First Class竞争明显 |
+| Match | High |
+| Difficulty | Reach |
+| Priority | 低优先级冲刺 |
+| Status | In progress |
+| Last verified | 2026-10-02 |
+
+匹配说明：贝叶斯/推断/ML高度相关，但成绩远弱于典型录取者。
+
+回加拿大就业判断（分析）：回加拿大就业价值主要取决于项目作品、实习、工程能力及校友联系；未找到可直接比较的加拿大就业率。
+
+备注与未解决项：新名称保留DS与ML，不应以旧Statistics(DataScience)名称混淆；25:1为应用/名额比，非个人概率。
+
+官方来源：
+
+1. [2027课程/门槛/学费/轮次](https://www.imperial.ac.uk/study/courses/postgraduate-taught/statistics-data-science/) - https://www.imperial.ac.uk/study/courses/postgraduate-taught/statistics-data-science/
+2. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+3. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+### The University of Edinburgh - Data Science MSc
+
+地区：英国 | 方法匹配：High | 难度：Reach | 核查状态：In progress
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | United Kingdom |
+| University | The University of Edinburgh |
+| Program name | Data Science MSc |
+| Track | Data Science / Statistical Learning |
+| Master type | Professional / taught |
+| Duration | 1年full-time（已读2026/27）；part-time2/3年 |
+| GPA requirement | 最低2:1；typical offer通常First Class；加拿大数值等效待核 |
+| GRE requirement | 已读项目页未提及；不等于明确不要求 |
+| TOEFL / IELTS | 可按认可英语授课学位政策审查，具体时效/证据待核；参考IELTS7.0各6.5 |
+| Prerequisites | quantitative学位，明确含Physics；intro programming；30ECTS数学覆盖calc/LA/discrete/prob等 |
+| Recommendation letters | 需要references；精确数量待核 |
+| Cohort size | 未在已读官方页面公布 |
+| Deadline | 页面仍为2026-03-31；2027最终截止未确认，不能平移 |
+| Funding / Tuition | 2027学费未核；已读2026/27生活费校方估计£18,504/年（非学费） |
+| Research / Thesis / Project | 暑期独立项目/dissertation，通常8月中提交 |
+| Curriculum | Informatics大范围选课：统计学习、ML、算法/数据系统与研究项目 |
+| Ranking evidence | QS Overall2027：35；CS2026：22；DS/AI2026：30；Stats2026：33；Physics2026：42。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Pass（按QS overall或允许相关subject） |
+| Eligibility | Pending：2:1等效、数学学分；typicalFirstClass为大风险 |
+| Match | High |
+| Difficulty | Reach |
+| Priority | 有条件冲刺 |
+| Status | In progress |
+| Last verified | 2026-10-02 |
+
+匹配说明：定量研究与ML匹配，但典型成绩和数学课程要求需严格验证。
+
+回加拿大就业判断（分析）：回加拿大就业价值主要取决于项目作品、实习、工程能力及校友联系；未找到可直接比较的加拿大就业率。
+
+备注与未解决项：官网写2027要求将于Oct1公布，10月2抓取正文仍显示2026，故本报告保留年份差异；官网宣传QS2026 DS/AI#18，但本次QS官方公开结果表为#30；保留冲突，以当前结果表为排名筛选依据，不据宣传做精确项目排名。
+
+官方来源：
+
+1. [课程/录取/年份/学科实力](https://study.ed.ac.uk/programmes/postgraduate-taught/902-data-science) - https://study.ed.ac.uk/programmes/postgraduate-taught/902-data-science
+2. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+3. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+### University of Oxford - MSc in Statistical Science
+
+地区：英国 | 方法匹配：High | 难度：Reach | 核查状态：In progress
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | United Kingdom |
+| University | University of Oxford |
+| Program name | MSc in Statistical Science |
+| Track | Statistical Science（相邻专业） |
+| Master type | Academic / taught with dissertation |
+| Duration | 12个月October-September；PGDip9个月不属于本候选 |
+| GPA requirement | 正式2027graduate admissions受403；不能在此确认加拿大最低GPA |
+| GRE requirement | 已读项目页未提及；不等于明确不要求 |
+| TOEFL / IELTS | U of T 英语授课证明的适用规则未核实 |
+| Prerequisites | 扎实数学、概率、统计；具体prerequisite material需逐项核 |
+| Recommendation letters | 未核实 |
+| Cohort size | 未在已读官方页面公布 |
+| Deadline | 2027 具体截止日未核实 |
+| Funding / Tuition | 学费及奖学金/TA/RA 未核实；不可假定全额资助 |
+| Research / Thesis / Project | 约3个月dissertation，9门课程（5core+4optional） |
+| Curriculum | 2026/27core：Applied Statistics、Inference、Programming、Computational Statistics、Statistical Machine Learning；可选Bayes/Simulation等 |
+| Ranking evidence | QS Overall2027：4；CS2026：4；DS/AI2026：6；Stats2026：5；Physics2026：3。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Pass（按QS overall或允许相关subject） |
+| Eligibility | Unknown：正式资格未完整读取 |
+| Match | High |
+| Difficulty | Reach |
+| Priority | 低优先级冲刺 |
+| Status | In progress |
+| Last verified | 2026-10-02 |
+
+匹配说明：统计推断与Bayes研究贴合，但正式门槛未核，按高竞争冲刺规划。
+
+回加拿大就业判断（分析）：回加拿大就业价值主要取决于项目作品、实习、工程能力及校友联系；未找到可直接比较的加拿大就业率。
+
+备注与未解决项：2027/28申请已于2026年9月开放；deadline、fees、refs及英语豁免未确认。不得因部门页可读就标全部Verified。
+
+官方来源：
+
+1. [部门课程/学制](https://www.stats.ox.ac.uk/msc-statistical-science) - https://www.stats.ox.ac.uk/msc-statistical-science
+2. [正式招生（本次受限）](https://www.ox.ac.uk/admissions/graduate/courses/msc-statistical-science) - https://www.ox.ac.uk/admissions/graduate/courses/msc-statistical-science
+3. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+4. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+### University of Cambridge - MPhil in Machine Learning and Machine Intelligence
+
+地区：英国 | 方法匹配：High | 难度：Reach | 核查状态：In progress
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | United Kingdom |
+| University | University of Cambridge |
+| Program name | MPhil in Machine Learning and Machine Intelligence |
+| Track | Machine Learning（相邻专业） |
+| Master type | Academic / taught with research |
+| Duration | 11个月全日制 |
+| GPA requirement | UK First Class或国际等效；还需学术优秀/突出科研证据 |
+| GRE requirement | 已读项目页未提及；不等于明确不要求 |
+| TOEFL / IELTS | U of T 英语授课证明的适用规则未核实 |
+| Prerequisites | Physics明确可申；强calc/ODE/PDE、LA、prob/stats及编程、大规模实验技能 |
+| Recommendation letters | 未核实 |
+| Cohort size | 未在已读官方页面公布 |
+| Deadline | 2027 具体截止日未核实 |
+| Funding / Tuition | 学费及奖学金/TA/RA 未核实；不可假定全额资助 |
+| Research / Thesis / Project | 独立研究项目；specific thesis credits/report requirements待核 |
+| Curriculum | 基础与方向模块 + research project；高强度ML训练 |
+| Ranking evidence | QS Overall2027：6；CS2026：8；DS/AI2026：9；Stats2026：6；Physics2026：5。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Pass（按QS overall或允许相关subject） |
+| Eligibility | Pending：First Class等效；现有3.0显著缺乏强成绩证据 |
+| Match | High |
+| Difficulty | Reach |
+| Priority | 低优先级冲刺 |
+| Status | In progress |
+| Last verified | 2026-10-02 |
+
+匹配说明：HiggsML与可复现评估相关，但项目明确极高选择性与First Class。
+
+回加拿大就业判断（分析）：回加拿大就业价值主要取决于项目作品、实习、工程能力及校友联系；未找到可直接比较的加拿大就业率。
+
+备注与未解决项：申请说明仍写2026/27；2027具体deadline、fees、refs未核实，不能从旧目录推断。
+
+官方来源：
+
+1. [学术背景](https://www.mlmi.eng.cam.ac.uk/how-apply/academic-background) - https://www.mlmi.eng.cam.ac.uk/how-apply/academic-background
+2. [结构](https://www.mlmi.eng.cam.ac.uk/about-programme/course-structure) - https://www.mlmi.eng.cam.ac.uk/about-programme/course-structure
+3. [申请](https://www.mlmi.eng.cam.ac.uk/how-apply/making-application) - https://www.mlmi.eng.cam.ac.uk/how-apply/making-application
+4. [官方11个月学制](https://www.mlmi.eng.cam.ac.uk/about-programme) - https://www.mlmi.eng.cam.ac.uk/about-programme
+5. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+6. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+## 法国 - 项目详情
+
+### École Polytechnique / HEC Paris - Master of Science Data Science & AI for Business
+
+地区：法国 | 方法匹配：High | 难度：Reach | 核查状态：In progress
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | France |
+| University | École Polytechnique / HEC Paris |
+| Program name | Master of Science Data Science & AI for Business |
+| Track | Data Science & AI for Business |
+| Master type | Professional / taught |
+| Duration | 2年：Year1 Polytechnique，Year2 HEC |
+| GPA requirement | 无已公布数字线；强调high potential、strong mathematics |
+| GRE requirement | 需management test：GMAT/GRE/TageMage三选一；现有GRE可用须在有效期内 |
+| TOEFL / IELTS | 完整英语授课已完成学位 + MOI可免；U of T毕业后可走此路径 |
+| Prerequisites | Science/Engineering/Business/Economics本科 + 强数学 |
+| Recommendation letters | 2封，至少1封学术 |
+| Cohort size | 未在已读官方页面公布 |
+| Deadline | **近期窗口：2027 R1：2026-10-07 noonCEST；R2：11-26 noonCET；R3：2027-02-17；R4：04-28** |
+| Funding / Tuition | Polytechnique当前M1国际€28,950（年度需确认）；HEC2028/29 Year2含fees€29,985，另写国际附加€2,500，适用计费需确认。两年基本项合计€58,935，若加国际附加为€61,435（计算基准，非锁定报价）；奖学金竞争性 |
+| Research / Thesis / Project | Year1必修4个月实习；Year2business challenges、3个月research paper及4个月职业经历要求 |
+| Curriculum | Year1 stats/prob/LA/Python/R/DB/ML/DL；Year2 Spark部署、advancedcoding、interpretability、商业应用 |
+| Ranking evidence | QS Overall2027：43（IPParis伙伴）；CS2026：56（IPParis）；DS/AI2026：51-100（IPParis）；Stats2026：35（IPParis）；Physics2026：45（IPParis）。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Pass（按QS overall或允许相关subject） |
+| Eligibility | Plausible学科；低GPA与高选择性是风险 |
+| Match | High |
+| Difficulty | Reach |
+| Priority | 有条件冲刺 |
+| Status | In progress |
+| Last verified | 2026-10-02 |
+
+匹配说明：技术统计和可解释性契合研究，商业实践能补求职经历，但2年总成本高。
+
+回加拿大就业判断（分析）：回加拿大就业价值主要取决于项目作品、实习、工程能力及校友联系；未找到可直接比较的加拿大就业率。
+
+备注与未解决项：申请轮次临近不应牺牲完整推荐/材料；优先R2而非仓促R1。行业实习是要求而非岗位保证。
+
+官方来源：
+
+1. [招生2027](https://www.hec.edu/en/master-s-programs/master-science-data-science-ai-business-x-hec/admissions) - https://www.hec.edu/en/master-s-programs/master-science-data-science-ai-business-x-hec/admissions
+2. [课程/实践](https://www.hec.edu/en/master-s-programs/master-science-data-science-ai-business-x-hec/course-content) - https://www.hec.edu/en/master-s-programs/master-science-data-science-ai-business-x-hec/course-content
+3. [费用分年](https://www.hec.edu/en/master-s-programs/master-science-data-science-ai-business-x-hec/fees-and-financing) - https://www.hec.edu/en/master-s-programs/master-science-data-science-ai-business-x-hec/fees-and-financing
+4. [Polytechnique当前Year1费用](https://programmes.polytechnique.edu/master/admissions-msct/frais-de-formation) - https://programmes.polytechnique.edu/master/admissions-msct/frais-de-formation
+5. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+6. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+### Institut Polytechnique de Paris - Master in Computer Science - Major Data and Artificial Intelligence (DataAI)
+
+地区：法国 | 方法匹配：High | 难度：Reach | 核查状态：Not a fit
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | France |
+| University | Institut Polytechnique de Paris |
+| Program name | Master in Computer Science - Major Data and Artificial Intelligence (DataAI) |
+| Track | Data Science / Statistical Learning |
+| Master type | Academic / research oriented |
+| Duration | 2年全日制，September开学 |
+| GPA requirement | 无已核数字门槛 |
+| GRE requirement | 已读项目页未提及；不等于明确不要求 |
+| TOEFL / IELTS | 全英文；具体语言成绩/MOI规则待核 |
+| Prerequisites | 官方Academic prerequisites明确 Bachelor of Science in Computer Science |
+| Recommendation letters | 2封academic references |
+| Cohort size | 未在已读官方页面公布 |
+| Deadline | 2027 具体截止日未核实 |
+| Funding / Tuition | 学费及奖学金/TA/RA 未核实；不可假定全额资助 |
+| Research / Thesis / Project | M2 Internship30ECTS；明确面向PhD准备 |
+| Curriculum | ML、logic、BigData Systems、DB、NLP、vision、robotics及symbolicAI |
+| Ranking evidence | QS Overall2027：43；CS2026：56；DS/AI2026：51-100；Stats2026：35；Physics2026：45。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Pass（按QS overall或允许相关subject） |
+| Eligibility | Hard gap：Physics不是官网指定CS本科 |
+| Match | High |
+| Difficulty | Reach |
+| Priority | 暂不投入申请 |
+| Status | Not a fit |
+| Last verified | 2026-10-02 |
+
+匹配说明：ML/计算主题贴合，但目前不满足已公布学位前提，不能用研究经历自行替代。
+
+回加拿大就业判断（分析）：回加拿大就业价值主要取决于项目作品、实习、工程能力及校友联系；未找到可直接比较的加拿大就业率。
+
+备注与未解决项：保留为法国项目实力候选/参照；只有学校明确确认Physics等效后才转有效申请。
+
+官方来源：
+
+1. [官方完整两年项目](https://www.ip-paris.fr/en/education/masters/computer-science-program/major-data-and-artificial-intelligence-dataai) - https://www.ip-paris.fr/en/education/masters/computer-science-program/major-data-and-artificial-intelligence-dataai
+2. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+3. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+### Université Paris-Saclay - Master in Computer Science - M1 Artificial Intelligence / continuation to M2
+
+地区：法国 | 方法匹配：High | 难度：Reach | 核查状态：In progress
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | France |
+| University | Université Paris-Saclay |
+| Program name | Master in Computer Science - M1 Artificial Intelligence / continuation to M2 |
+| Track | Artificial Intelligence（相邻专业） |
+| Master type | Academic / research oriented |
+| Duration | M1一年；完整硕士须继续M2，按2年路径规划，具体M2衔接需确认 |
+| GPA requirement | 未公布统一数字门槛；择优录取 |
+| GRE requirement | 已读项目页未提及；不等于明确不要求 |
+| TOEFL / IELTS | English；B2或本科全英文官方证明可满足，U of T适用 |
+| Prerequisites | 入口明确Informatique/Mathématiques/Physique；prob/stats、LA、scientific programming、visualisation |
+| Recommendation letters | 需Letter of recommendation或internship evaluation；确切份数按当年清单 |
+| Cohort size | M1页面Available Places25（已读2026年度） |
+| Deadline | 已读2026：Jan15-Mar16；2027未发布/未确认，不自动平移 |
+| Funding / Tuition | 2027学费、国际差异费用/豁免及scholarship deadlines未核 |
+| Research / Thesis / Project | M1 AI challenge与项目课程；M2研究/实习学分须按衔接路径核实 |
+| Curriculum | ML/DL、NLP、optimization、scientificML、generative models、ethics/bias；正式页面各单元英文，FLE是语言课 |
+| Ranking evidence | QS Overall2027：76；CS2026：73；DS/AI2026：51-100；Stats2026：51-100；Physics2026：21。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Pass（按QS overall或允许相关subject） |
+| Eligibility | Plausible Physics入口；数学统计与M2衔接待核 |
+| Match | High |
+| Difficulty | Reach |
+| Priority | 值得核查的冲刺 |
+| Status | In progress |
+| Last verified | 2026-10-02 |
+
+匹配说明：Physics明确可作为入口，统计/ML/科学应用吻合，两年路径有补课时间。
+
+回加拿大就业判断（分析）：回加拿大就业价值主要取决于项目作品、实习、工程能力及校友联系；未找到可直接比较的加拿大就业率。
+
+备注与未解决项：M1录取不是完成硕士学位；不得把M1一年写成获得完整Master仅需一年。
+
+官方来源：
+
+1. [M1资格、25名额、课程](https://www.universite-paris-saclay.fr/en/education/master/computer-science/m1-artificial-intelligence) - https://www.universite-paris-saclay.fr/en/education/master/computer-science/m1-artificial-intelligence
+2. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+3. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+### Sorbonne Université - Master of Computer Science - DIGIT International program
+
+地区：法国 | 方法匹配：Medium | 难度：Reach | 核查状态：Not a fit
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | France |
+| University | Sorbonne Université |
+| Program name | Master of Computer Science - DIGIT International program |
+| Track | Computer Science / ML and image processing（相邻专业） |
+| Master type | Academic / taught with internship |
+| Duration | 2年，4学期；S4实习30ECTS、5-6个月 |
+| GPA requirement | honours学位，数字门槛未给 |
+| GRE requirement | 已读项目页未提及；不等于明确不要求 |
+| TOEFL / IELTS | 英文专业路径；仅面向non-French-speaking学生。具体英语证明待核 |
+| Prerequisites | CS/Computer Engineering/Information Systems本科；math、CS theory、algorithms、architecture |
+| Recommendation letters | 未核实 |
+| Cohort size | 未在已读官方页面公布 |
+| Deadline | 2027 具体截止日未核实 |
+| Funding / Tuition | 学费及奖学金/TA/RA 未核实；不可假定全额资助 |
+| Research / Thesis / Project | 项目6/12ECTS，S4实习；独立DS方向须mentor预先认可/优秀成绩 |
+| Curriculum | 当前主要保证Networks或ImageProcessing；ML/vision/cloud/algorithms等选修，不是自由选全套DS |
+| Ranking evidence | QS Overall2027：73；CS2026：52；DS/AI2026：未列；Stats2026：51-100；Physics2026：32。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Pass（按QS overall或允许相关subject） |
+| Eligibility | Hard gap：现有Physics本科不在指定学位列表 |
+| Match | Medium |
+| Difficulty | Reach |
+| Priority | 暂不投入申请 |
+| Status | Not a fit |
+| Last verified | 2026-10-02 |
+
+匹配说明：计算/图像ML相关，但CS背景及方向限制使个人可行性低。
+
+回加拿大就业判断（分析）：回加拿大就业价值主要取决于项目作品、实习、工程能力及校友联系；未找到可直接比较的加拿大就业率。
+
+备注与未解决项：页面2026更新但费用段仍2021/22：€243/€3,770不能作2027报价。eCandidat/Candyweb或EtudesEnFrance路径依居住地，2027日期待核。
+
+官方来源：
+
+1. [2026更新的DIGIT项目](https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/masters/master-informatique/parcours-international-digit) - https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/masters/master-informatique/parcours-international-digit
+2. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+3. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+### École Polytechnique / Institut Polytechnique de Paris - Master of Science and Technology - Visual and Creative Artificial Intelligence (ViCAI)
+
+地区：法国 | 方法匹配：High | 难度：Reach | 核查状态：In progress
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | France |
+| University | École Polytechnique / Institut Polytechnique de Paris |
+| Program name | Master of Science and Technology - Visual and Creative Artificial Intelligence (ViCAI) |
+| Track | Visual / Creative AI（相邻专业） |
+| Master type | Professional / taught |
+| Duration | 2年，全英文140ECTS，September入学 |
+| GPA requirement | 无已读数字最低；highlyqualified、择优 |
+| GRE requirement | 项目/通用已读页未列强制GRE；材料清单需核 |
+| TOEFL / IELTS | 完整英语授课最后学位可申请豁免，官方学位/成绩单/MOI证明；无需入学法语等级，可需修FLE |
+| Prerequisites | 理想Math+CS双学位；其他学位可在扎实Stats/LA/Analysis及algorithms/data structures/programming条件下考虑 |
+| Recommendation letters | 通用supportingdocuments具体推荐数未核 |
+| Cohort size | 未在已读官方页面公布 |
+| Deadline | **近期窗口：2027：R1 2026-10-12；R2 2027-01-11；R3 03-08；均11:59当地；R4原页有重复日期错误，暂不作为可靠deadline。仅R1/R2可申请奖学金** |
+| Funding / Tuition | 当前页面up to€15,500/year；费用表一般ViCAI€15,500/year（当年具体报价须确认）；2年简单基准€31,000不含生活/涨价；竞争性奖学金 |
+| Research / Thesis / Project | 行业导向；实习/研究具体必修学分尚未确认 |
+| Curriculum | ML/DL、multimodal、generativeAI、visualcomputing、simulation/robotics与创造性应用 |
+| Ranking evidence | QS Overall2027：43（IPParis）；CS2026：56（IPParis）；DS/AI2026：51-100（IPParis）；Stats2026：35（IPParis）；Physics2026：45（IPParis）。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Pass（按QS overall或允许相关subject） |
+| Eligibility | Pending：Physics可按otherdegree考虑，但algorithm/data structures与正式统计须证明 |
+| Match | High |
+| Difficulty | Reach |
+| Priority | 法国有条件冲刺 |
+| Status | In progress |
+| Last verified | 2026-10-02 |
+
+匹配说明：科学ML与模拟方法相关，其他本科入口比DataAI的CS学位条件更可对接。
+
+回加拿大就业判断（分析）：回加拿大就业价值主要取决于项目作品、实习、工程能力及校友联系；未找到可直接比较的加拿大就业率。
+
+备注与未解决项：当前正文名称ViCAI，URL/title仍保留ArtificialIntelligence&AdvancedVisualComputing；140ECTS不能按一般法国120ECTS套写。与IPParisDataAI及X-HEC是不同学位/选拔，不视为三所独立学校。
+
+官方来源：
+
+1. [现行名称/140ECTS/其他学位入口](https://programmes.polytechnique.edu/en/master/all-msct-programs/artificial-intelligence-advanced-visual-computing-master) - https://programmes.polytechnique.edu/en/master/all-msct-programs/artificial-intelligence-advanced-visual-computing-master
+2. [2027轮次/奖学金时间](https://programmes.polytechnique.edu/master/admissions-msct/periodes-et-procedure-de-candidature) - https://programmes.polytechnique.edu/master/admissions-msct/periodes-et-procedure-de-candidature
+3. [语言与学术](https://programmes.polytechnique.edu/master/admissions-msct/pre-requis-linguistiques-et-academiques) - https://programmes.polytechnique.edu/master/admissions-msct/pre-requis-linguistiques-et-academiques
+4. [费用](https://programmes.polytechnique.edu/master/admissions-msct/frais-de-formation) - https://programmes.polytechnique.edu/master/admissions-msct/frais-de-formation
+5. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+6. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+## 德国 - 项目详情
+
+### Technical University of Munich - Master of Science in Mathematics in Data Science
+
+地区：德国 | 方法匹配：High | 难度：Reach | 核查状态：In progress
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | Germany |
+| University | Technical University of Munich |
+| Program name | Master of Science in Mathematics in Data Science |
+| Track | Data Science / Statistical Learning |
+| Master type | Academic / research |
+| Duration | 2年，120ECTS |
+| GPA requirement | aptitude assessment；无可直接换算的U of T3.0统一线 |
+| GRE requirement | 学院规定来自Bangladesh/China/India/Iran/Pakistan的学生需GRE或GATE；“中国国籍、加拿大本科”的适用口径及分数要求待核，不能标无GRE |
+| TOEFL / IELTS | 英语授课；学位MOI豁免细节待核 |
+| Prerequisites | 严格数学背景与curriculum analysis；Physics学位不自动等效Math要求；外国本科可能需uni-assist VPD |
+| Recommendation letters | 未核实 |
+| Cohort size | 未在已读官方页面公布 |
+| Deadline | winter annual：Feb1-May31；summer：Oct1-Nov30；2027窗口再核 |
+| Funding / Tuition | third-country tuition €6,000/semester + 当前€97semester fee；豁免/奖学金另审 |
+| Research / Thesis / Project | research/thesis路径；具体学分须按课程条例核 |
+| Curriculum | 数学统计、optimisation、ML及计算；侧重数学原理与研究 |
+| Ranking evidence | QS Overall2027：25；CS2026：26；DS/AI2026：26；Stats2026：25；Physics2026：27。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Pass（按QS overall或允许相关subject） |
+| Eligibility | Pending：严格数学课程等效/aptitude |
+| Match | High |
+| Difficulty | Reach |
+| Priority | 先核数学资格 |
+| Status | In progress |
+| Last verified | 2026-10-02 |
+
+匹配说明：数理与ML研究吻合，但数学深度及课程映射可能比实践经历更决定资格。
+
+回加拿大就业判断（分析）：回加拿大就业价值主要取决于项目作品、实习、工程能力及校友联系；未找到可直接比较的加拿大就业率。
+
+备注与未解决项：中国国籍+加拿大PR不等于EU学费身份；不能写成德国全免学费。
+
+官方来源：
+
+1. [主项目/费用/窗口](https://www.tum.de/en/studies/degree-programs/detail/mathematics-in-data-science-master-of-science-msc) - https://www.tum.de/en/studies/degree-programs/detail/mathematics-in-data-science-master-of-science-msc
+2. [学院详细要求](https://www.cit.tum.de/en/cit/studies/degree-programs/master-mathematics-data-science/) - https://www.cit.tum.de/en/cit/studies/degree-programs/master-mathematics-data-science/
+3. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+4. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+### Ludwig-Maximilians-Universität München - Master in Statistics and Data Science
+
+地区：德国 | 方法匹配：High | 难度：Reach | 核查状态：In progress
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | Germany |
+| University | Ludwig-Maximilians-Universität München |
+| Program name | Master in Statistics and Data Science |
+| Track | Data Science / Statistical Learning |
+| Master type | Academic / research |
+| Duration | 具体标准年限/120ECTS需条例最终确认 |
+| GPA requirement | 多阶段aptitude：成绩与三类能力评分，非单一GPA线 |
+| GRE requirement | 已读项目页未提及；不等于明确不要求 |
+| TOEFL / IELTS | B2或官方英文授课学位证明；全部选课能否不需德语须确认 |
+| Prerequisites | 180ECTS本科，Statistics或DataScience作为major/minor/focus；需要较高阶modeling/inference/ML数学和编程 |
+| Recommendation letters | 未核实 |
+| Cohort size | 未在已读官方页面公布 |
+| Deadline | winter annual：Apr1开放，May15系内严格截止，非德申请者另July15国际处；2027复核 |
+| Funding / Tuition | 学费及奖学金/TA/RA 未核实；不可假定全额资助 |
+| Research / Thesis / Project | Master thesis明确有；具体学分待条例核实 |
+| Curriculum | 统计学习/建模、数学统计基础、statisticalsoftware；MachineLearning等方向 |
+| Ranking evidence | QS Overall2027：61；CS2026：91；DS/AI2026：51-100；Stats2026：51-100；Physics2026：39。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Pass（按QS overall或允许相关subject） |
+| Eligibility | Hard gap / Pending：Physics未证明Stats/DSmajor/minor/focus |
+| Match | High |
+| Difficulty | Reach |
+| Priority | 先核资格与语言 |
+| Status | In progress |
+| Last verified | 2026-10-02 |
+
+匹配说明：推断/统计学习高度相关，但项目要求正式统计学习范围，研究经验不等于major/minor。
+
+回加拿大就业判断（分析）：回加拿大就业价值主要取决于项目作品、实习、工程能力及校友联系；未找到可直接比较的加拿大就业率。
+
+备注与未解决项：旧EliteGraduateProgram DataScience已停招，最后2024/25，本记录是官网推荐的替代项目，不能混用旧课程与精英项目名。
+
+官方来源：
+
+1. [现行招生](https://www.stat.lmu.de/en/studies/interested-master/) - https://www.stat.lmu.de/en/studies/interested-master/
+2. [现行项目/论文](https://www.stat.lmu.de/en/studies/master/) - https://www.stat.lmu.de/en/studies/master/
+3. [旧DS停招证明](https://www.m-datascience.mathematik-informatik-statistik.uni-muenchen.de/application/index.html) - https://www.m-datascience.mathematik-informatik-statistik.uni-muenchen.de/application/index.html
+4. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+5. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+### Freie Universität Berlin - Master of Science in Data Science
+
+地区：德国 | 方法匹配：High | 难度：Reach | 核查状态：In progress
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | Germany |
+| University | Freie Universität Berlin |
+| Program name | Master of Science in Data Science |
+| Track | Data Science / Statistical Learning |
+| Master type | Academic / research |
+| Duration | 2年，4学期120ECTS；winter entry |
+| GPA requirement | 等效学位/招生条例选拔；无已核U of T GPA线 |
+| GRE requirement | 已读项目页未提及；不等于明确不要求 |
+| TOEFL / IELTS | C1 English；英语授课大学学位可作为路径 |
+| Prerequisites | 180ECTSCS或等效；math20ECTS含LA/calc至少5、prob/stats至少5；CS10ECTS含algorithms5与高级编程5 |
+| Recommendation letters | 未核实 |
+| Cohort size | 未在已读官方页面公布 |
+| Deadline | 2027 具体截止日未核实 |
+| Funding / Tuition | 学费及奖学金/TA/RA 未核实；不可假定全额资助 |
+| Research / Thesis / Project | thesis/path具体学分未核 |
+| Curriculum | 统计、ML、数据管理等；具体2027课程清单未核 |
+| Ranking evidence | QS Overall2027：98；CS2026：201-250；DS/AI2026：未列；Stats2026：151-200；Physics2026：124。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Pass（按QS overall或允许相关subject） |
+| Eligibility | Pending：Physics等效、算法与概率统计ECTS是否满足 |
+| Match | High |
+| Difficulty | Reach |
+| Priority | 先核先修 |
+| Status | In progress |
+| Last verified | 2026-10-02 |
+
+匹配说明：ML/科学计算相关，但formal algorithms/statistics credits是当前缺口。
+
+回加拿大就业判断（分析）：回加拿大就业价值主要取决于项目作品、实习、工程能力及校友联系；未找到可直接比较的加拿大就业率。
+
+备注与未解决项：ECTS要用学校认可的课程工作量/内容换算，不自行将U of T半学分固定折算。
+
+官方来源：
+
+1. [官方项目/学分先修](https://www.fu-berlin.de/en/studium/studienangebot/master/data-science/index.html) - https://www.fu-berlin.de/en/studium/studienangebot/master/data-science/index.html
+2. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+3. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+### Heidelberg University - Master of Science in Mathematics of Machine Learning and Data Science
+
+地区：德国 | 方法匹配：High | 难度：Reach | 核查状态：In progress
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | Germany |
+| University | Heidelberg University |
+| Program name | Master of Science in Mathematics of Machine Learning and Data Science |
+| Track | Data Science / Statistical Learning |
+| Master type | Academic / research |
+| Duration | 2年，4学期；winter only |
+| GPA requirement | 具体grade cutoff及数学学位等效须查正式admission regulations |
+| GRE requirement | 已读项目页未提及；不等于明确不要求 |
+| TOEFL / IELTS | 官方确认可全英文完成；语言证明/MOI规则待核 |
+| Prerequisites | 数学研究导向：topology、geometry、numerics、functional analysis等；Physics等效未确认 |
+| Recommendation letters | 未核实 |
+| Cohort size | 未在已读官方页面公布 |
+| Deadline | 2027 具体截止日未核实 |
+| Funding / Tuition | 主页面列€189.80/semester contributions；这不是国际学生全额学费。非EU国际差异学费及豁免需另核 |
+| Research / Thesis / Project | Data Science Lab项目 + Master thesis |
+| Curriculum | GeometricMethods、HighDimensionalNumerics、PDE/Measures、StatisticalLearning、VariationalMethods/Optimization |
+| Ranking evidence | QS Overall2027：86；CS2026：201-250；DS/AI2026：未列；Stats2026：未列；Physics2026：43。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Pass（按QS overall或允许相关subject） |
+| Eligibility | Unknown：需严格数学课程和法规审核 |
+| Match | High |
+| Difficulty | Reach |
+| Priority | 低优先级核资格 |
+| Status | In progress |
+| Last verified | 2026-10-02 |
+
+匹配说明：科学ML与数值方法匹配，但数学学分及理论深度尚无足够证明。
+
+回加拿大就业判断（分析）：回加拿大就业价值主要取决于项目作品、实习、工程能力及校友联系；未找到可直接比较的加拿大就业率。
+
+备注与未解决项：选择数学ML/DS项目，区别于另一个Data and Computer Science MSc；后者偏CS，本报告不重复计入。
+
+官方来源：
+
+1. [官方英文项目](https://www.uni-heidelberg.de/en/study/all-subjects/mathematics/mathematics-of-machine-learning-and-data-science-master) - https://www.uni-heidelberg.de/en/study/all-subjects/mathematics/mathematics-of-machine-learning-and-data-science-master
+2. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+3. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+### RWTH Aachen University - Master of Science in Data Science
+
+地区：德国 | 方法匹配：High | 难度：Match-Reach | 核查状态：In progress
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | Germany |
+| University | RWTH Aachen University |
+| Program name | Master of Science in Data Science |
+| Track | Data Science / Statistical Learning |
+| Master type | Academic / research |
+| Duration | 120CP；标准年限须当年条例确认 |
+| GPA requirement | 形式先修profile审核；项目页未给单一U of T GPA线 |
+| GRE requirement | 非EU/EEA等申请人需要：Q>75th percentile、V>15th percentile、AW至少3.5；Q166仍需看报告百分位，AW现未知 |
+| TOEFL / IELTS | 英语；MOI一般不接受，有例外须按InternationalOffice语言规则确认 |
+| Prerequisites | 明确接受CS/Math/Physics。可按Physics profile映射实验/理论物理、高等数学、advanced internship，不要求所有人满足CS profile |
+| Recommendation letters | 未核实 |
+| Cohort size | 未在已读官方页面公布 |
+| Deadline | 非EU/EEA winter annual：December-March1；summerJune-September1；2027核周期 |
+| Funding / Tuition | 学费及奖学金/TA/RA 未核实；不可假定全额资助 |
+| Research / Thesis / Project | Master thesis30CP；seminar5+practicalcourse7CP；论文可在Physics应用领域完成 |
+| Curriculum | DataScience核心 + CS/Math/Physics领域；科学计算/ML与应用结合 |
+| Ranking evidence | QS Overall2027：104；CS2026：114；DS/AI2026：101-200；Stats2026：101-150；Physics2026：69。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Pass（按QS overall或允许相关subject） |
+| Eligibility | Pending：Physics逐课映射、GRE AW与percentiles、英语例外 |
+| Match | High |
+| Difficulty | Match-Reach |
+| Priority | 德国优先核查 |
+| Status | In progress |
+| Last verified | 2026-10-02 |
+
+匹配说明：存在官方Physics独立profile，比纯CS或Stats专业要求更有实质可行性。
+
+回加拿大就业判断（分析）：回加拿大就业价值主要取决于项目作品、实习、工程能力及校友联系；未找到可直接比较的加拿大就业率。
+
+备注与未解决项：open admission不等于无门槛；形式不满足会拒。加拿大PR不触发EU/EEA GRE豁免。
+
+官方来源：
+
+1. [资格/Physics profile/GRE/窗口](https://sc.informatik.rwth-aachen.de/en/studium/master/master-data-science/application-for-admission/) - https://sc.informatik.rwth-aachen.de/en/studium/master/master-data-science/application-for-admission/
+2. [结构](https://sc.informatik.rwth-aachen.de/en/studium/master/master-data-science/program-structure/) - https://sc.informatik.rwth-aachen.de/en/studium/master/master-data-science/program-structure/
+3. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+4. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+## 瑞士 - 项目详情
+
+### ETH Zurich - Master of Science ETH in Data Science
+
+地区：瑞士 | 方法匹配：High | 难度：Reach | 核查状态：In progress
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | Switzerland |
+| University | ETH Zurich |
+| Program name | Master of Science ETH in Data Science |
+| Track | Data Science / Statistical Learning |
+| Master type | Academic / research |
+| Duration | 2年，120ECTS |
+| GPA requirement | 具体要求profile链接本次404；excellent record/数值标准不作未核断言 |
+| GRE requirement | 已读项目页未提及；不等于明确不要求 |
+| TOEFL / IELTS | English；U of T学位豁免细则待核 |
+| Prerequisites | 官方Qualifying disciplines明确Physics/Math/CS/EE/MechanicalEngineering；严格requirements profile仍需逐项核 |
+| Recommendation letters | 未核实 |
+| Cohort size | 未在已读官方页面公布 |
+| Deadline | 2027 具体截止日未核实 |
+| Funding / Tuition | 学费及奖学金/TA/RA 未核实；不可假定全额资助 |
+| Research / Thesis / Project | Data Science Laboratory明确；thesis具体要求需profile/条例核 |
+| Curriculum | 跨CS、Math、IT/EE，数学算法、数据管理与实际跨学科问题 |
+| Ranking evidence | QS Overall2027：8；CS2026：10；DS/AI2026：11；Stats2026：9；Physics2026：9。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Pass（按QS overall或允许相关subject） |
+| Eligibility | Plausible Physics类别，但课程/GPA/GRE材料未完整核实 |
+| Match | High |
+| Difficulty | Reach |
+| Priority | 低优先级冲刺 |
+| Status | In progress |
+| Last verified | 2026-10-02 |
+
+匹配说明：Physics是官方资格学科，科学推断与算法训练匹配，但强成绩/严格课程竞争风险大。
+
+回加拿大就业判断（分析）：回加拿大就业价值主要取决于项目作品、实习、工程能力及校友联系；未找到可直接比较的加拿大就业率。
+
+备注与未解决项：官网profile PDF与programme deep link本次404。学费、2027deadline、refs、GRE不猜。
+
+官方来源：
+
+1. [可读项目/Physics/学制](https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/data-science.html) - https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/data-science.html
+2. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+3. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+### École polytechnique fédérale de Lausanne - Master of Science in Data Science
+
+地区：瑞士 | 方法匹配：High | 难度：Reach | 核查状态：Not a fit
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | Switzerland |
+| University | École polytechnique fédérale de Lausanne |
+| Program name | Master of Science in Data Science |
+| Track | Data Science / Statistical Learning |
+| Master type | Academic / research |
+| Duration | 120ECTS；标准年限须按2027条例确认 |
+| GPA requirement | external applicants：excellent academic records；无已核U of T数字线 |
+| GRE requirement | 已读项目页未提及；不等于明确不要求 |
+| TOEFL / IELTS | English；U of T豁免规则待核 |
+| Prerequisites | 外校要求CS或CommunicationSystems本科；math(calc/discrete/LA/prob)、algorithms/DB、编程、OS/architecture/computability |
+| Recommendation letters | 未核实 |
+| Cohort size | 未在已读官方页面公布 |
+| Deadline | 2027 具体截止日未核实 |
+| Funding / Tuition | 学费及奖学金/TA/RA 未核实；不可假定全额资助 |
+| Research / Thesis / Project | 具体master project/internship结构未读取，不能保证Physics转入 |
+| Curriculum | 数学、统计、CS及数据建模；具体2027课程待核 |
+| Ranking evidence | QS Overall2027：22；CS2026：15；DS/AI2026：15；Stats2026：13；Physics2026：15。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Pass（按QS overall或允许相关subject） |
+| Eligibility | Hard gap：外校Physics不在官网常规外校学位路径 |
+| Match | High |
+| Difficulty | Reach |
+| Priority | 暂不投入申请 |
+| Status | Not a fit |
+| Last verified | 2026-10-02 |
+
+匹配说明：ML方法相关，但外校背景条件偏CS，不应把EPFL本校STEM转专业规定推广到外校Physics。
+
+回加拿大就业判断（分析）：回加拿大就业价值主要取决于项目作品、实习、工程能力及校友联系；未找到可直接比较的加拿大就业率。
+
+备注与未解决项：学院详细页面403；需得到Physics例外/等效明确证据后才转有效申请。
+
+官方来源：
+
+1. [官方项目/外校资格](https://www.epfl.ch/education/master/programs/data-science/) - https://www.epfl.ch/education/master/programs/data-science/
+2. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+3. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+### University of Zurich - Master of Science UZH in Informatics - Data Science major
+
+地区：瑞士 | 方法匹配：High | 难度：Reach | 核查状态：In progress
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | Switzerland |
+| University | University of Zurich |
+| Program name | Master of Science UZH in Informatics - Data Science major |
+| Track | Data Science / Statistical Learning |
+| Master type | Academic / research |
+| Duration | 90ECTSmajor + 30ECTSminor；标准年限待当年规定 |
+| GPA requirement | individual categorization；U of T最低GPA未核实 |
+| GRE requirement | 已读项目页未提及；不等于明确不要求 |
+| TOEFL / IELTS | DS英语选课可行性/全部minor语言须核；部分额外补课可能德语，不能承诺全英文无补课 |
+| Prerequisites | 学院对外校学位逐个审核；需具备本科Informatics共同基础，可有additional requirements |
+| Recommendation letters | 未核实 |
+| Cohort size | 未在已读官方页面公布 |
+| Deadline | 2027 具体截止日未核实 |
+| Funding / Tuition | 学费及奖学金/TA/RA 未核实；不可假定全额资助 |
+| Research / Thesis / Project | major/thesis细目未核；不写成独立90ECTS全硕士 |
+| Curriculum | DataManagement、Algorithms、AdvancedStats/ML、Visualisation、Ethics；minor可择AI/IS等 |
+| Ranking evidence | QS Overall2027：98；CS2026：118；DS/AI2026：未列；Stats2026：101-150；Physics2026：116。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Pass（按QS overall或允许相关subject） |
+| Eligibility | Pending：Physics个别categorization及额外课程/语言 |
+| Match | High |
+| Difficulty | Reach |
+| Priority | 先核等效与语言 |
+| Status | In progress |
+| Last verified | 2026-10-02 |
+
+匹配说明：高级统计与ML贴合，但计算机基础和补课语言决定实际可行性。
+
+回加拿大就业判断（分析）：回加拿大就业价值主要取决于项目作品、实习、工程能力及校友联系；未找到可直接比较的加拿大就业率。
+
+备注与未解决项：正式学位是Informatics，DataScience为major；总学分需包含minor，不把minor单独计候选。
+
+官方来源：
+
+1. [DSmajor课程/学分](https://www.oec.uzh.ch/en/academic-programs/master/it/ds.html) - https://www.oec.uzh.ch/en/academic-programs/master/it/ds.html
+2. [外校入学/补课/语言](https://www.oec.uzh.ch/en/studies/general/admission/master.html) - https://www.oec.uzh.ch/en/studies/general/admission/master.html
+3. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+4. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+## 新加坡 - 项目详情
+
+### Nanyang Technological University - Master of Science in Data Science
+
+地区：新加坡 | 方法匹配：High | 难度：Reach | 核查状态：In progress
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | Singapore |
+| University | Nanyang Technological University |
+| Program name | Master of Science in Data Science |
+| Track | Data Science / Statistical Learning |
+| Master type | Professional / taught |
+| Duration | 全日制最短1年、最长2.5年；part-time2-4年；30AU |
+| GPA requirement | good honours degree；非honours路线good bachelor+2年industry经验，具体等效未知 |
+| GRE requirement | GRE与reference letters均Optional |
+| TOEFL / IELTS | TOEFL100/新5或IELTS6.5；MOI certification可满足，U of T可提供 |
+| Prerequisites | CS/ComputerEngineering或related discipline + solidmath；related例子为Engineering，未明确承诺Physics |
+| Recommendation letters | Optional，未规定固定数量 |
+| Cohort size | 未在已读官方页面公布 |
+| Deadline | 2027 具体截止日未核实 |
+| Funding / Tuition | AY2027/28含9%GST tuition SGD65,748.80；deposit5,000抵学费；一般无大学scholarship/serviceobligation。新加坡公民/PR subsidies不适用加拿大PR |
+| Research / Thesis / Project | 6AU一年capstone，可industry或academic；有0AU Python bridge |
+| Curriculum | data preparation、ML、visualisation、DataScienceThinking及跨领域应用，覆盖整个数据流程 |
+| Ranking evidence | QS Overall2027：12；CS2026：9；DS/AI2026：4；Stats2026：21；Physics2026：17。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Pass（按QS overall或允许相关subject） |
+| Eligibility | Pending：Physics related程度及honours等效 |
+| Match | High |
+| Difficulty | Reach |
+| Priority | 先核Physics资格 |
+| Status | In progress |
+| Last verified | 2026-10-02 |
+
+匹配说明：一年capstone与数据生命周期能接续研究，但Physics是否related及goodhonours等效未确认。
+
+回加拿大就业判断（分析）：回加拿大就业价值主要取决于项目作品、实习、工程能力及校友联系；未找到可直接比较的加拿大就业率。
+
+备注与未解决项：官方页确认QS2026 DS/AI全球第4作为实力证据；不能由此反推个人录取率。
+
+官方来源：
+
+1. [完整项目/2027费用/材料](https://www.ntu.edu.sg/education/graduate-programme/master-of-science-in-data-science-(msds)) - https://www.ntu.edu.sg/education/graduate-programme/master-of-science-in-data-science-(msds)
+2. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+3. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+### National University of Singapore - Master of Science in Data Science and Machine Learning（候选名称，2027待完整核实）
+
+地区：新加坡 | 方法匹配：Unknown | 难度：Unknown | 核查状态：Waiting on source
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | Singapore |
+| University | National University of Singapore |
+| Program name | Master of Science in Data Science and Machine Learning（候选名称，2027待完整核实） |
+| Track | Data Science / Statistical Learning |
+| Master type | 未核实（候选授课型，结构待确认） |
+| Duration | 2027未核实 |
+| GPA requirement | 2027未核实 |
+| GRE requirement | 未核实（官方正文未读取） |
+| TOEFL / IELTS | U of T 英语授课证明的适用规则未核实 |
+| Prerequisites | 2027对Physics入口与数学/统计/CS要求未核实 |
+| Recommendation letters | 未核实 |
+| Cohort size | 未核实（官方正文未读取） |
+| Deadline | 2027 具体截止日未核实 |
+| Funding / Tuition | 学费及奖学金/TA/RA 未核实；不可假定全额资助 |
+| Research / Thesis / Project | 未核实 |
+| Curriculum | 未核实 |
+| Ranking evidence | QS Overall2027：10；CS2026：4；DS/AI2026：3；Stats2026：7；Physics2026：11。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Pass（按QS overall或允许相关subject） |
+| Eligibility | Unknown：网页返回访问检查/空正文 |
+| Match | Unknown |
+| Difficulty | Unknown |
+| Priority | 等待官方核实 |
+| Status | Waiting on source |
+| Last verified | 2026-10-02 |
+
+匹配说明：候选强校项目，当前官方正文未能读取，不能判断3.0资格或课程匹配。
+
+回加拿大就业判断（分析）：回加拿大就业价值主要取决于项目作品、实习、工程能力及校友联系；未找到可直接比较的加拿大就业率。
+
+备注与未解决项：多次HTTPS页面受限。学制、费用、推荐、时间、GPA均保留未核实，未套用旧年度或第三方信息。
+
+官方来源：
+
+1. [系项目（本次受限）](https://www.math.nus.edu.sg/pg/msc-dsml/) - https://www.math.nus.edu.sg/pg/msc-dsml/
+2. [中央项目（本次受限）](https://masters.nus.edu.sg/programmes/master-of-science-in-data-science-and-machine-learning/) - https://masters.nus.edu.sg/programmes/master-of-science-in-data-science-and-machine-learning/
+3. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+4. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+## 中国香港 - 项目详情
+
+### The Hong Kong University of Science and Technology - MSc in Big Data Technology
+
+地区：中国香港 | 方法匹配：High | 难度：Reach | 核查状态：In progress
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | Hong Kong SAR, China |
+| University | The Hong Kong University of Science and Technology |
+| Program name | MSc in Big Data Technology |
+| Track | Data Science / Statistical Learning |
+| Master type | Professional / taught |
+| Duration | full-time1年；part-time2年；30credits |
+| GPA requirement | 认可本科；项目未给数字线，择优 |
+| GRE requirement | 已读项目页未提及；不等于明确不要求 |
+| TOEFL / IELTS | 英语授课本科可免；否则IELTS6.5且各5.5或TOEFL80/新4.5 |
+| Prerequisites | ComputerEngineering/CS/Math/relatedarea，或其他学位+IT/Math相关工作；Physics related是否认可需确认 |
+| Recommendation letters | 是否/数量未核实 |
+| Cohort size | 未在已读官方页面公布 |
+| Deadline | 2027/28 Fall：2026-12-01 Round1，2027-03-01 Round2；rolling |
+| Funding / Tuition | 2027/28full-timeHKD350,000；2026/27catalog330,000为旧价，不混用 |
+| Research / Thesis / Project | core12+electives18；IndependentProject为选项，非保证行业实习 |
+| Curriculum | bigdata engineering、analysis/mining、数学；ML/NLP/AI等选修 |
+| Ranking evidence | QS Overall2027：33；CS2026：33；DS/AI2026：25；Stats2026：31；Physics2026：83。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Pass（按QS overall或允许相关subject） |
+| Eligibility | Pending：Physics relatedarea与计算课程 |
+| Match | High |
+| Difficulty | Reach |
+| Priority | 先核资格 |
+| Status | In progress |
+| Last verified | 2026-10-02 |
+
+匹配说明：能补数据工程/DB短板，但专业资格是否接受Physics需明确。
+
+回加拿大就业判断（分析）：回加拿大就业价值主要取决于项目作品、实习、工程能力及校友联系；未找到可直接比较的加拿大就业率。
+
+备注与未解决项：按较新学院2027/28费表覆盖旧catalog费；不据项目就业宣传推加拿大结果。
+
+官方来源：
+
+1. [2027/28费表/轮次](https://seng.hkust.edu.hk/msc/bdt) - https://seng.hkust.edu.hk/msc/bdt
+2. [2026/27资格/课程参照](https://prog-crs.hkust.edu.hk/pgprog/2026-27/msc-bdt) - https://prog-crs.hkust.edu.hk/pgprog/2026-27/msc-bdt
+3. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+4. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+### The University of Hong Kong - Master of Data Science (MDASC)
+
+地区：中国香港 | 方法匹配：High | 难度：Match-Reach | 核查状态：In progress
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | Hong Kong SAR, China |
+| University | The University of Hong Kong |
+| Program name | Master of Data Science (MDASC) |
+| Track | Data Science / Statistical Learning |
+| Master type | Professional / taught |
+| Duration | 全日制1.5学年；part-time2.5学年。现行链接条例注明2024-25及以后入学，2027变更仍需确认 |
+| GPA requirement | 条例要求认可本科或同等资格；未列数字入学GPA。条文2.0是毕业要求，不能当入学门槛 |
+| GRE requirement | 已读条例未提及；2027招生材料清单待核 |
+| TOEFL / IELTS | U of T 英语授课证明的适用规则未核实 |
+| Prerequisites | 至少分别修过calculus and algebra、computer programming、introductory statistics各1门大学/高等教育证书课程或相关领域；可要求qualifying exam |
+| Recommendation letters | 未核实 |
+| Cohort size | 未在已读官方条例公布 |
+| Deadline | 2027 具体截止日未核实 |
+| Funding / Tuition | 学费及奖学金/TA/RA 未核实；不可假定全额资助 |
+| Research / Thesis / Project | 72 credits：capstone12；可选DASC7600 Data science project12，或DASC8088 practicum6 + elective6 |
+| Curriculum | 必修24：computational intelligence/ML、statistical inference、advanced database systems、advanced statistical modelling；选修36含cloud、deep learning、time series等 |
+| Ranking evidence | QS Overall2027：11；CS2026：27；DS/AI2026：18；Stats2026：32；Physics2026：63。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Pass（按QS overall或允许相关subject） |
+| Eligibility | Pending：正式introductory statistics课程及2027招生标准 |
+| Match | High |
+| Difficulty | Match-Reach |
+| Priority | 先核统计与2027招生 |
+| Status | In progress |
+| Last verified | 2026-10-02 |
+
+匹配说明：统计推断与ML可发挥研究优势，DB/cloud与项目结构能补工程训练；正式统计先修仍需证明。
+
+回加拿大就业判断（分析）：1.5年统计+数据库+capstone能形成科学分析到工程应用的作品；加拿大行业履历仍需自行建立。
+
+备注与未解决项：本次通过Science学院现行链接读取条例（2024-25 and thereafter），确认MDASC正式学位、1.5年和72学分。招生portal旧详情失效，新CDS项目域TLS失败；不把条例的持续适用文字当作2027费用、截止、推荐或语言已确认。
+
+官方来源：
+
+1. [学院taught programme列表](https://www.scifac.hku.hk/prospective/tpg) - https://www.scifac.hku.hk/prospective/tpg
+2. [学院提供的失效详情（本次无项目）](https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-data-science-sci&mode=0) - https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-data-science-sci&mode=0
+3. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+4. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+5. [学院当前条例入口](https://www.scifac.hku.hk/current/tpg/MDASC) - https://www.scifac.hku.hk/current/tpg/MDASC
+6. [官方Regulations2024-25 and thereafter](https://www.scifac.hku.hk/f/page/7282/22113/MDASC%20Reg_Syl%202024-25%20%28S56_424%29%20%2820240816%29.pdf) - https://www.scifac.hku.hk/f/page/7282/22113/MDASC%20Reg_Syl%202024-25%20%28S56_424%29%20%2820240816%29.pdf
+7. [学院指向新CDS项目站（TLS受限）](https://mdasc.cds.hku.hk/) - https://mdasc.cds.hku.hk/
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+### The Hong Kong Polytechnic University - Master of Science in Data Science and Analytics
+
+地区：中国香港 | 方法匹配：High | 难度：Match-Reach | 核查状态：In progress
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | Hong Kong SAR, China |
+| University | The Hong Kong Polytechnic University |
+| Program name | Master of Science in Data Science and Analytics |
+| Track | Data Science / Statistical Learning |
+| Master type | Professional / taught |
+| Duration | full-time1.5年；part-time3年；31credits |
+| GPA requirement | Honours本科或等效；无已核数字最低 |
+| GRE requirement | 已读项目页未提及；不等于明确不要求 |
+| TOEFL / IELTS | 英语授课本科可作为路径；U of T适用，材料审核 |
+| Prerequisites | Math/Stats/CS/IT/Engineering/Econ/Science；其他本科有足够Math/IT也可 |
+| Recommendation letters | 项目页未列推荐数量，application documents另核 |
+| Cohort size | 未在已读官方页面公布 |
+| Deadline | **近期窗口：Sept2027：Early2026-10-20；Main2027-02-25，非本地同日** |
+| Funding / Tuition | 2027HKD13,500/credit；1creditethics免收费，30收费学分合计HKD405,000（据官网单价计算），自资 |
+| Research / Thesis / Project | 18core+12electives；或18core+3elective+9dissertation；thesis需第1年S2coreGPA≥3.0及批准；另1ethics |
+| Curriculum | 数学/统计/CS整合，DS建模与计算；是否可保证thesis取决于入学后成绩 |
+| Ranking evidence | QS Overall2027：50；CS2026：70；DS/AI2026：51-100；Stats2026：40；Physics2026：151-200。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Pass（按QS overall或允许相关subject） |
+| Eligibility | PlausibleScience入口；honours/成绩审核仍需 |
+| Match | High |
+| Difficulty | Match-Reach |
+| Priority | 香港优先核费用 |
+| Status | In progress |
+| Last verified | 2026-10-02 |
+
+匹配说明：Science明确被接纳，统计建模与计算相关，工程项目质量和高成本需权衡。
+
+回加拿大就业判断（分析）：回加拿大就业价值主要取决于项目作品、实习、工程能力及校友联系；未找到可直接比较的加拿大就业率。
+
+备注与未解决项：31总学分不能直接×13,500，ethics免收费。非本地只能full-time。
+
+官方来源：
+
+1. [2027完整项目/费用/论文](https://www.polyu.edu.hk/study/pg/tpg/2027/62027-dfm-dpm) - https://www.polyu.edu.hk/study/pg/tpg/2027/62027-dfm-dpm
+2. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+3. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+### The Chinese University of Hong Kong - MSc in Data Science and Business Statistics
+
+地区：中国香港 | 方法匹配：High | 难度：Match | 核查状态：In progress
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | Hong Kong SAR, China |
+| University | The Chinese University of Hong Kong |
+| Program name | MSc in Data Science and Business Statistics |
+| Track | Data Science / Statistical Learning |
+| Master type | Professional / taught |
+| Duration | full-time1年（2026/27起新增）；part-time2年；24credits |
+| GPA requirement | 认可本科，通常honours不低于SecondClass或平均不低于B |
+| GRE requirement | 不要求；可作为补充 |
+| TOEFL / IELTS | 英语授课学位可满足，不需要另交语言测试；U of T适用 |
+| Prerequisites | 明确无专业限制，非统计/非定量本科也可申；期待能适应数学/编程 |
+| Recommendation letters | 需按研究生院supporting documents核实数量 |
+| Cohort size | 未在已读官方页面公布 |
+| Deadline | 2027/28 priority：2026-12-31；final：2027-02-28；rolling |
+| Funding / Tuition | 2027/28full-timeHKD231,000全1年；part-time102,500/年×2；本地补助不能假定适用非本地 |
+| Research / Thesis / Project | Project course可选行业问题或校内研究，报告/展示；不写成全部学生必修thesis |
+| Curriculum | FoundationsDS、RegressioninPractice、ProgrammingDS；应用统计、Bayes、ML、DB/API、time-series/risk选修 |
+| Ranking evidence | QS Overall2027：18；CS2026：37；DS/AI2026：28；Stats2026：51-100；Physics2026：131。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Pass（按QS overall或允许相关subject） |
+| Eligibility | Plausible：B/secondclass等效学校确认，学科入口友好 |
+| Match | High |
+| Difficulty | Match |
+| Priority | 香港优先准备 |
+| Status | In progress |
+| Last verified | 2026-10-02 |
+
+匹配说明：非统计入口、推断与Bayes选修适合物理转DS；工程深度仍需自己补。
+
+回加拿大就业判断（分析）：回加拿大就业价值主要取决于项目作品、实习、工程能力及校友联系；未找到可直接比较的加拿大就业率。
+
+备注与未解决项：本项目偏businessstats，与另一个AdvancedStudiesinStatsandDS不同，后者不重复列入；毕业GPA2.0不是入学门槛。
+
+官方来源：
+
+1. [2027/28完整课程/费用/入学/FAQ](https://dsbs.cuhk.edu.hk/programme-details/) - https://dsbs.cuhk.edu.hk/programme-details/
+2. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+3. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+### City University of Hong Kong - MSc Data Science - P81（2027正式名称待核）
+
+地区：中国香港 | 方法匹配：Unknown | 难度：Unknown | 核查状态：Waiting on source
+
+| 字段 | 官方事实 / 核查结果 |
+|---|---|
+| Country | Hong Kong SAR, China |
+| University | City University of Hong Kong |
+| Program name | MSc Data Science - P81（2027正式名称待核） |
+| Track | Data Science / Statistical Learning |
+| Master type | 未核实（候选授课型，结构待确认） |
+| Duration | 2027未核实 |
+| GPA requirement | 未核实 |
+| GRE requirement | 未核实（官方正文未读取） |
+| TOEFL / IELTS | U of T 英语授课证明的适用规则未核实 |
+| Prerequisites | 未核实 |
+| Recommendation letters | 未核实 |
+| Cohort size | 未核实（官方正文未读取） |
+| Deadline | 2027 具体截止日未核实 |
+| Funding / Tuition | 学费及奖学金/TA/RA 未核实；不可假定全额资助 |
+| Research / Thesis / Project | 未核实 |
+| Curriculum | 未核实 |
+| Ranking evidence | QS Overall2027：52；CS2026：67；DS/AI2026：51-100；Stats2026：101-150；Physics2026：144。排名属于院校/学科，不是此硕士排名 |
+| Ranking filter | Pass（按QS overall或允许相关subject） |
+| Eligibility | Unknown：官方页面受限 |
+| Match | Unknown |
+| Difficulty | Unknown |
+| Priority | 等待官方核实 |
+| Status | Waiting on source |
+| Last verified | 2026-10-02 |
+
+匹配说明：官方目标页返回空白/检查页面，缺少可评估资格和课程的正文。
+
+回加拿大就业判断（分析）：回加拿大就业价值主要取决于项目作品、实习、工程能力及校友联系；未找到可直接比较的加拿大就业率。
+
+备注与未解决项：不从旧catalog或第三方补数字；需官方programme specification恢复后更新。
+
+官方来源：
+
+1. [项目P81（本次受限）](https://www.cityu.edu.hk/pg/programme/p81) - https://www.cityu.edu.hk/pg/programme/p81
+2. [学院项目（本次受限）](https://www.cityu.edu.hk/sdsc/programmes/msc-data-science) - https://www.cityu.edu.hk/sdsc/programmes/msc-data-science
+3. [QS2027综合官方XLSX](https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx) - https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+4. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
+
+字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+## 10. 维护与再次核验
+
+索引与每项档案由同一数据快照生成，50项数量与关键事实一致；美国15所独立大学，其他地区各不超过5项。EXAMPLE_UBC_MDS.md为模板；Canada_Data_Science_Masters.md是2026-09-16更广泛加拿大策略，不计本次加拿大五项。Source访问日期不表示已满足招生条件；未核字段关闭后再改状态为Verified。
+
+2027申请前应再次核费用、deadline、语言、referee数量；本报告保留不确定项，避免下次模型把研究候选池当投递完成清单。

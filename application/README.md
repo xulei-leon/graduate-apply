@@ -26,7 +26,7 @@
 | [后续待确认问题](follow-up-questions.md) | 已确认事实、待用户回答的问题与后续核查事项 |
 | [2026 年 10 月硕士导师定制材料](202610-phy-master/README.md) | 2 校、2 位目标 + 1 位备选；新增 Van Waerbeke 中英文 CV / 邮件，活动推荐 4 篇；UT 资料已取消并保留历史记录 |
 | [物理硕士申请规划](phy-master-plan/master-application-plan-2027.md) | 申请时间线、项目分析、导师名单与 UBC statement 草稿 |
-| [数据科学硕士申请规划](ds-master-plan/README.md) | 数据科学及相关硕士项目的索引与规划 |
+| [数据科学硕士申请规划](ds-master-plan/README.md) | 综合调研、跨项目比较与申请策略；学校档案和索引见 [ds-master/](../ds-master/README.md) |
 
 两版定稿 CV 均列出 Higgs、MaNGA 和早期银河系模型项目，主要区别是项目顺序：CV_astro 以 MaNGA 为先，CV 以 Higgs 为先。研究兴趣、教育背景、项目内容、个人贡献与手稿状态一致。本次仅据定稿 CV 更新咨询信，未修改 CV；后续事实更新需同步两版及对应咨询信。
 
