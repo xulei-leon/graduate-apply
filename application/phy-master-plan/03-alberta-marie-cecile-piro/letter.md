@@ -2,7 +2,7 @@ Subject: Fall 2027 Physics MSc inquiry: dark-matter modelling and directional de
 
 Dear Professor Piro,
 
-I am pursuing an Honours Bachelor of Science (HBSc) in the Physics Specialist program at the University of Toronto, expecting to graduate in June 2027. I plan to apply to the University of Alberta's MSc in Physics for Fall 2027.
+I am an HBSc student in the Physics Specialist program at the University of Toronto, expecting to graduate in June 2027. I plan to apply to the University of Alberta's MSc in Physics for Fall 2027.
 
 Your co-authored paper, [Directional dark matter signatures of the Large Magellanic Cloud](https://arxiv.org/abs/2606.12535), raises a question I would like to understand further: how changes in the local dark-matter velocity distribution propagate into directional recoil predictions and the event counts needed to reject isotropy. This connects to my interest in how astrophysical assumptions affect dark-matter inference.
 
@@ -15,5 +15,5 @@ Are you considering MSc students for Fall 2027, and might my background suit a f
 Best regards,
 
 Hongyi Xu
-Honours Bachelor of Science (HBSc) student, Physics Specialist, University of Toronto
+HBSc student, Physics Specialist, University of Toronto
 hyi.xu@mail.utoronto.ca

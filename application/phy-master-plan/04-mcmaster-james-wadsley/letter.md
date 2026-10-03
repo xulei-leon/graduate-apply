@@ -2,7 +2,7 @@ Subject: Fall 2027 thesis MSc inquiry: dwarf-galaxy rotation curves and simulati
 
 Dear Professor Wadsley,
 
-I am pursuing an Honours Bachelor of Science (HBSc) in the Physics Specialist program at the University of Toronto, expecting to graduate in June 2027. I plan to apply to McMaster University's thesis MSc in Physics and Astronomy for Fall 2027.
+I am an HBSc student in the Physics Specialist program at the University of Toronto, expecting to graduate in June 2027. I plan to apply to McMaster University's thesis MSc in Physics and Astronomy for Fall 2027.
 
 Your co-authored paper, [Dwarf diversity in ΛCDM with baryons](https://arxiv.org/abs/2510.11800), interests me because it examines how star formation and feedback models affect both rotation-curve shapes and galaxy sizes. I would like to understand how such effects should be accounted for when interpreting halo parameters inferred from observed rotation curves.
 
@@ -15,5 +15,5 @@ Are you considering thesis MSc students for Fall 2027, and might my background s
 Best regards,
 
 Hongyi Xu
-Honours Bachelor of Science (HBSc) student, Physics Specialist, University of Toronto
+HBSc student, Physics Specialist, University of Toronto
 hyi.xu@mail.utoronto.ca

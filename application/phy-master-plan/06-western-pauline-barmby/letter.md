@@ -2,7 +2,7 @@ Subject: Fall 2027 Astronomy MSc inquiry: statistical methods and feature select
 
 Dear Professor Barmby,
 
-I am pursuing an Honours Bachelor of Science (HBSc) in the Physics Specialist program at the University of Toronto, expecting to graduate in June 2027. I plan to apply to Western University's MSc in Astronomy for Fall 2027, with an interest in computational and statistical approaches to galaxy research.
+I am an HBSc student in the Physics Specialist program at the University of Toronto, expecting to graduate in June 2027. I plan to apply to Western University's MSc in Astronomy for Fall 2027, with an interest in computational and statistical approaches to galaxy research.
 
 Your co-authored paper, [The contribution of the color space in LSST-like photometry for the selection of extragalactic globular cluster candidates](https://arxiv.org/abs/2512.17644), interests me because it compares different input representations and highlights the limits imposed by photometric information. I would like to understand how input selection and measurement uncertainty affect the contamination and completeness of astronomical classifications.
 
@@ -15,5 +15,5 @@ Are you considering MSc students for Fall 2027, and might my background suit a f
 Best regards,
 
 Hongyi Xu
-Honours Bachelor of Science (HBSc) student, Physics Specialist, University of Toronto
+HBSc student, Physics Specialist, University of Toronto
 hyi.xu@mail.utoronto.ca

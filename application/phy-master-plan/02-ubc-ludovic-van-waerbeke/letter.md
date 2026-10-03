@@ -2,7 +2,7 @@ Subject: Fall 2027 Astronomy MSc inquiry: dark-matter halo inference
 
 Dear Professor Van Waerbeke,
 
-I am pursuing an Honours Bachelor of Science (HBSc) in the Physics Specialist program at the University of Toronto, expecting to graduate in June 2027. I plan to apply to the Master of Science in Astronomy (MSc) program at the University of British Columbia for Fall 2027.
+I am an HBSc student in the Physics Specialist program at the University of Toronto, expecting to graduate in June 2027. I plan to apply to the Master of Science in Astronomy (MSc) program at the University of British Columbia for Fall 2027.
 
 I was particularly interested in how the paper you co-authored, [Measuring satellite galaxy subhalo masses in redMaPPer clusters with UNIONS weak lensing data (2026)](https://arxiv.org/abs/2607.14207), models the host-halo contribution and cluster miscentring when inferring satellite subhalo masses. This connects to my MaNGA rotation-curve work, where I examined the sensitivity of inferred halo parameters to inclination and prior assumptions.
 
@@ -15,5 +15,5 @@ Are you considering MSc students for Fall 2027, and might my background suit pot
 Best regards,
 
 Hongyi Xu  
-Honours Bachelor of Science (HBSc) student, Physics Specialist, University of Toronto
+HBSc student, Physics Specialist, University of Toronto
 hyi.xu@mail.utoronto.ca

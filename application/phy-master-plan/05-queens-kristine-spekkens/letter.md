@@ -2,7 +2,7 @@ Subject: Fall 2027 MSc inquiry: Bayesian inference for HI galaxy studies
 
 Dear Professor Spekkens,
 
-I am pursuing an Honours Bachelor of Science (HBSc) in the Physics Specialist program at the University of Toronto, expecting to graduate in June 2027. Your departmental page lists MSc and PhD opportunities for Fall 2027, and I would like to enquire about MSc research in your group at Queen's University.
+I am an HBSc student in the Physics Specialist program at the University of Toronto, expecting to graduate in June 2027. Your departmental page lists MSc and PhD opportunities for Fall 2027, and I would like to enquire about MSc research in your group at Queen's University.
 
 Your co-authored paper, [Bayesian Galaxy Asymmetry](https://arxiv.org/abs/2609.26472), interests me because it estimates an underlying asymmetry distribution from noisy HI observations and supplies uncertainties that can support galaxy-population studies. I would like to understand how correlated noise affects these posteriors and their reliability.
 
@@ -15,5 +15,5 @@ Might my background suit one of your Fall 2027 MSc opportunities, and what proje
 Best regards,
 
 Hongyi Xu
-Honours Bachelor of Science (HBSc) student, Physics Specialist, University of Toronto
+HBSc student, Physics Specialist, University of Toronto
 hyi.xu@mail.utoronto.ca
