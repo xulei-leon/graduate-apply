@@ -7,7 +7,7 @@
 | 文件 | 用途 |
 |---|---|
 | [CV_astro_cn.md](../../CV/CV_astro_cn.md) / [CV_astro_en.md](../../CV/CV_astro_en.md) | 共享的天体物理版中文 / 英文 CV；MaNGA 为主，Higgs 作为计算推断补充 |
-| [cover_letter_email_en.md](cover_letter_email_en.md) | 英文 MSc 研究机会咨询信；按[英文基础模板](../../CV/cover_letter_en.md)定制 |
+| [letter.md](letter.md) | 英文 MSc 研究机会咨询信；按[英文基础模板](../../CV/cover_letter_en.md)定制 |
 | [paper_reading_notes.md](paper_reading_notes.md) | 1 篇推荐论文、原文定位、阅读顺序与邮件联系点 |
 
 当前是导师咨询材料包；不是已满足申请系统全部要求的正式申请。信中按基础模板写 “My CV is attached.”；发送前需实际附上排版后的 CV，若不附则改为 “I can provide my CV upon request.”。内部说明不随信发送。
@@ -54,5 +54,5 @@ Jim Cline 属原名单两位首选之一，其主页确认研究集中于 partic
 - 院系申请：https://www.physics.mcgill.ca/grads/application.html （同日读取）
 - Schutz 当前岗位说明：https://katelinschutz.com/contact （同日读取）
 - Liu 当前招生说明：https://sites.google.com/view/acliu/home （同日读取）
-- [原始导师名单](../../phy-master-plan/mcgill-utoronto-ubc-supervisor-outreach-list-2027.md)
+- [当前导师索引及选择依据](../README.md)
 - [申请人英文天体物理 CV](../../CV/CV_astro_en.md)、[批次说明与待确认项](../README.md)

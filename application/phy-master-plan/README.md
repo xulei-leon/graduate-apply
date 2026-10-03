@@ -8,6 +8,9 @@ PDF开头新增“Summary · 申请数量汇总”，随后为“地区候选总
 
 - [地区候选总览 PDF](Physics_Masters_Overview.pdf)
 - [同版 Markdown](Physics_Masters_Overview.md)
+- [2027 入学申请时间表](Physics_Masters_Application_Timeline_2027.md)
+- [Paris-Saclay M1 / DS / EEF 专项核查](ParisSaclay_M1_Physics_DS_EEF_20261003.md)
+- [法国物理项目 2026 申请人数与容量](France_Physics_2026_Applications_Capacity.md)
 - [39所学校索引及档案](../../physics-master/README.md)
 - [结构化事实快照](Physics_Masters_Overview.json)
 - [18 个重点硕士与 ANU 普通／Advanced 的学术及博士申请比较（2026-10-03）](Physics_Masters_vs_ANU_PhD_Analysis.md)
@@ -22,7 +25,18 @@ PDF开头新增“Summary · 申请数量汇总”，随后为“地区候选总
 
 下方保留既有申请决定与历史记录，并同步当前活动导师索引。新增四位的导师、论文与相应招生条款核查日期为2026-10-03；McGill、UBC 及已取消的多大材料仍按原核查日期使用，不追溯标为全部重核。所有咨询邮件尚未发送，正式申请未提交。
 
-## 既有导师咨询材料与申请规划（保留原说明）
+## 保留的专题参考与历史材料
+
+2026-10-03 清理后，学校选择及招生事实以当前总览和 `physics-master/` 项目档案为准，申请日期以时间表及其来源为准；活动导师以本页下方索引为准。
+
+- [TUM AEP 申请分析](tum-physics-msc-application-analysis.md)：保留课程等同性、VPD、评分和动机信准备细节；旧核查日期不变，执行前复核现行要求。
+- [多大 Physics MSc 申请分析](uoft-physics-msc-application-analysis.md)：保留本校研究机会、导师联系与推荐信策略；旧行动日期仅作历史参考。
+- [UBC Statement of Interest 规划及旧稿](ubc-physics-msc-statement-of-interest.md)：保留独立文书内容，旧 Physics MSc 草稿需按当前 Astronomy MSc 目标改写。
+- `utoronto-gwendolyn-eadie/`：已取消路径的历史咨询材料，停止使用。
+
+已删除旧15项目总计划、旧LMU Physics分析、旧McGill材料、旧三校导师汇总及两份推荐信补充前的总览PDF。其旧日期、目标路径或导师排序已被当前材料替代；历史版本可从Git找回。本次清理未重新核验招生网站。
+
+## 既有导师咨询材料与申请决定
 
 **2026-09-30：多大天文学与天体物理系已从 Fall 2027 申请计划移除。** 原因：硕士停招（准确口径：系里当前不开放独立 MSc 招生，SGS 学位目录仍保留 MSc）；本科直博要求最后两年平均成绩达到 University of Toronto A− 或以上，申请人确认 GPA 不满足条件。不再联系导师或准备该系 MSc / PhD 申请。多大 Physics MSc 不受此决定影响。
 
@@ -33,7 +47,7 @@ PDF开头新增“Summary · 申请数量汇总”，随后为“地区候选总
 
 > 此取消决定仅针对多大天文学与天体物理系；其他申请计划继续执行。
 
-创建：2026-09-28；UBC 目标与索引更新：2026-09-29。其他导师核查日期见各自说明。目录名按用户要求为 `202610-phy-master`，目标入学为 **Fall 2027**，不是 2026 年入学。
+创建：2026-09-28；UBC 目标与索引更新：2026-09-29。其他导师核查日期见各自说明。目录现统一为 `application/phy-master-plan`，目标入学为 **Fall 2027**，不是 2026 年入学。
 
 截至 **2026-10-03**，活动目标共 **6 所加拿大大学、6 位目标导师及 1 位备选导师**。七个活动导师目录各含三个 Markdown 文件，合计 **21 个**；多大 Eadie 的四个历史文件单列为已取消，不纳入活动材料计数。Jim Cline、Ludovic Van Waerbeke 继续保留；Alison Lister 为 UBC 备选；本次新增四位目标导师。UBC 与 Western 本批导师目标分别按 **Astronomy MSc** 准备。
 
@@ -112,7 +126,7 @@ Higgs 公共仓库 README 当前使用 test01 标签，而本地科研背景曾�
 
 - 已确认事实与待确认问题（历史引用文件目前不存在）
 - [最新英文天体物理 CV](../CV/CV_en.md)与[中文天体物理 CV](../CV/CV_cn.md)
-- [原导师推荐名单](../phy-master-plan/mcgill-utoronto-ubc-supervisor-outreach-list-2027.md)
+- [当前活动导师索引](#当前活动人选截至2026-10-03)
 - [科研背景](../../research-background.md)：用于方法与结果边界；如时间、导师、作者状态与较新已确认事实冲突，以前述 CV / 问题清单为准。
 
 共同事实以后更改时，同步相关 CV、咨询信及本批目标与备选材料。招生更新已注明核验日期，不将整份历史名单追溯标成全部重新核验。

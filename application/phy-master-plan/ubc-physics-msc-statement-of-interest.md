@@ -1,10 +1,12 @@
 # UBC MSc — Statement of Interest 规划与导师记录
 
+> 2026-10-03 清理说明：保留文书大纲及英文旧稿。当前主目标为Astronomy MSc，导师材料见[Van Waerbeke目录](02-ubc-ludovic-van-waerbeke/README.md)。旧Physics MSc草稿及未更新的经历表述不能直接提交；事实以[当前总览](Physics_Masters_Overview.md)、当前CV和导师材料为准。 原核查日期保留，本次未重新核验官网。
+
 导师与路径更新：2026-09-29。新增 Ludovic Van Waerbeke 与 Allison Man 的研究方向、MaNGA 匹配、论文和招生记录。当前 UBC 目标为 Van Waerbeke 的 **Astronomy MSc** 路径；Allison Man 为新增天文候选；Alison Lister 保留 Physics MSc 备选。
 
-科研背景以[最新确认清单](../follow-up-questions.md)为准：MaNGA 第一作者手稿已完成但未投稿；Higgs 由 Mario Campanelli 指导，第一作者手稿仍需人工修订。第三节保留原 Physics MSc 英文草稿供后续改写，其研究状态、课程表述与导师段不能直接作为当前提交版本。
+科研背景以[最新确认清单](README.md)为准：MaNGA 第一作者手稿已完成但未投稿；Higgs 由 Mario Campanelli 指导，第一作者手稿仍需人工修订。第三节保留原 Physics MSc 英文草稿供后续改写，其研究状态、课程表述与导师段不能直接作为当前提交版本。
 
-最后更新：2026-09-29。状态：规划稿；当前导师咨询材料见 [Van Waerbeke 定制目录](../202610-phy-master/ubc-ludovic-van-waerbeke/README.md)。申请系统开放后，需按具体项目、正式题目和字数限制改写 Statement of Interest。
+最后更新：2026-09-29。状态：规划稿；当前导师咨询材料见 [Van Waerbeke 定制目录](02-ubc-ludovic-van-waerbeke/README.md)。申请系统开放后，需按具体项目、正式题目和字数限制改写 Statement of Interest。
 
 ## 一、文书定位
 
@@ -77,7 +79,7 @@
 |---|---|---|---|
 | **Ludovic Van Waerbeke — 已选目标**；Professor，Department of Physics & Astronomy | 弱引力透镜、暗物质分布、星系与结构形成 | **High**：MaNGA 晕质量推断、质量—浓度简并及模型敏感性可迁移至透镜质量建模；需要补学弱透镜 | 官方列 Astronomy MSc / Physics MSc 指导资格；2027 名额、经费未确认。https://www.grad.ubc.ca/researcher/13409-van-waerbeke |
 | **Allison Man — 新增天文候选**；Associate Professor，Department of Physics & Astronomy | Cosmology and extragalactic astronomy；galaxy formation and evolution；近期工作涉及气体分布与运动学 | **High（空间分辨星系运动学）**；与暗物质 c–M 主题的直接重合有限，不能据此认定有相同课题 | 官方列 Astronomy MSc / Physics MSc，并明确招收 Master's students；2027 具体名额、经费仍待问。https://www.grad.ubc.ca/researcher/20350-man |
-| Alison Lister — Physics MSc 备选 | ATLAS、暗物质、超出标准模型、机器学习、长寿命粒子 | Higgs 模拟分类、似然推断与不确定性评估 | [备选材料](../202610-phy-master/ubc-alison-lister-backup/README.md)；https://www.grad.ubc.ca/researcher/14742-lister |
+| Alison Lister — Physics MSc 备选 | ATLAS、暗物质、超出标准模型、机器学习、长寿命粒子 | Higgs 模拟分类、似然推断与不确定性评估 | [备选材料](ubc-alison-lister/README.md)；https://www.grad.ubc.ca/researcher/14742-lister |
 | Christopher Hearty — 既有 Physics MSc 候选 | Belle II、dark sector、暗物质、超出标准模型 | 似然分析与计算粒子物理；现有经历不等于 Belle II 分析经验 | 本轮未重新核查招生；https://www.grad.ubc.ca/researcher/14720-hearty |
 
 两位新增导师的信息与论文核查日期为 **2026-09-29**；采用直接 HTTPS 读取官方资料及 arXiv。联系状态均为“未见既往联系记录，本轮未发送”，不等同申请人已确认从未联系。导师邮箱尚未核实，不猜写。公开指导资格或招聘偏好不代表已经获得同意。
@@ -90,7 +92,7 @@
 - **具体联系：** §2 将透镜信号分解为宿主晕、卫星子晕及恒星项；§2.2 处理星系团中心偏移；§5–6 讨论子晕质量、宿主晕缩放和偏移尺度的拟合及模型局限。对应你在 MaNGA 中对参数简并、几何假设和推断稳健性的关注。
 - **适合写入文书的方向：** 希望把已有贝叶斯晕推断训练延伸至弱透镜质量建模，研究观测和模型假设怎样影响质量恢复。邮件已提出模拟轮廓中“纳入或忽略中心偏移”的比较，作为未实施、待讨论的学习任务。
 - **边界：** 论文采用 c–M 关系假设，不是独立测量你的 MaNGA c–M 关系；弱透镜与旋转曲线观测不同，不增加 UNIONS、ShapePipe 或 dsigma 的已有熟练度。共同署名不代表导师负责全部分析。
-- **材料：** [六份定制材料与项目核查](../202610-phy-master/ubc-ludovic-van-waerbeke/README.md)；[阅读顺序、图表和问题](../202610-phy-master/ubc-ludovic-van-waerbeke/paper_reading_notes.md)。
+- **材料：** [六份定制材料与项目核查](02-ubc-ludovic-van-waerbeke/README.md)；[阅读顺序、图表和问题](02-ubc-ludovic-van-waerbeke/paper_reading_notes.md)。
 
 #### Allison Man：空间分辨星系观测与气体运动学
 
@@ -105,7 +107,7 @@
 
 两位导师均列在相关 MSc 指导记录中；本轮以 Astronomy MSc 作为天文研究路径。官方项目页说明：申请前不要求导师承诺，但鼓励联系；先修为物理或天文 B.Sc.，预期大三、大四课程总平均至少 **80%**，GRE 不要求。当前页面尚未配置 upcoming intake 的申请开放与截止时间。累计 GPA 3.0/4.0 不能直接判断是否满足该口径，成绩单核对按用户要求暂缓；2027 经费与名额均未确认，不套用 Physics MSc 的资助承诺。
 
-官方来源：https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-astronomy （2026-09-29 核查）。详细项目事实见 [Van Waerbeke README](../202610-phy-master/ubc-ludovic-van-waerbeke/README.md)。
+官方来源：https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-astronomy （2026-09-29 核查）。详细项目事实见 [Van Waerbeke README](02-ubc-ludovic-van-waerbeke/README.md)。
 
 ### 6. 未来目标
 
@@ -115,7 +117,7 @@
 
 ## 三、原 Physics MSc 英文草稿（历史版本，待按目标路径改写）
 
-以下英文保留原文供参考，仍以 Lister / Hearty、粒子物理和 TRIUMF 为主；**尚未改写为 Van Waerbeke 或 Allison Man 的 Astronomy MSc 版本，不宜直接提交**。当前可用的 Van Waerbeke 导师咨询邮件见[英文材料](../202610-phy-master/ubc-ludovic-van-waerbeke/cover_letter_email_en.md)。
+以下英文保留原文供参考，仍以 Lister / Hearty、粒子物理和 TRIUMF 为主；**尚未改写为 Van Waerbeke 或 Allison Man 的 Astronomy MSc 版本，不宜直接提交**。当前可用的 Van Waerbeke 导师咨询邮件见[英文材料](02-ubc-ludovic-van-waerbeke/letter.md)。
 
 ### Statement of Interest
 

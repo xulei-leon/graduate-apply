@@ -2,7 +2,7 @@
 
 整理与官方页面核查：2026-09-28。地区：Canada。目标：Fall 2027 **Master of Science in Physics (MSc)**，The University of British Columbia，Department of Physics & Astronomy。草稿未发送；未见既往联系记录，须由申请人确认。
 
-2026-09-29 用户将 UBC 目标导师改为 [Ludovic Van Waerbeke](../ubc-ludovic-van-waerbeke/README.md)，本目录保留作为 Physics MSc 粒子物理方向备选；原招生核查日期不变。
+2026-09-29 用户将 UBC 目标导师改为 [Ludovic Van Waerbeke](../02-ubc-ludovic-van-waerbeke/README.md)，本目录保留作为 Physics MSc 粒子物理方向备选；原招生核查日期不变。
 
 ## 材料
 
