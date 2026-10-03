@@ -1,5 +1,8 @@
 # Physics Master — 2027六国学校索引
 
+2026法国项目申请量/名额专项核查：[统计与证据边界](../application/phy-master-plan/France_Physics_2026_Applications_Capacity.md)；[Paris-Saclay M1物理、DS与EEF分析](../application/phy-master-plan/ParisSaclay_M1_Physics_DS_EEF_20261003.md)。已核General Physics 2026–2027项目capacity 35，非国际生专属配额；五校目标项目的2026国际生申请人数均未找到官方公开数字，不能计算录取率。Sorbonne/Paris Cité的PPM共用一个统计口径。
+
+
 本轮共 **39所学校记录**：加拿大12、澳大利亚2、美国10、法国5、德国5、瑞士5。含ANU已获普通版Astronomy and Astrophysics offer，其他38所保留为候选。Sorbonne与Paris Cité共同开设Paris Physics Master，不能把39所学校当作39次独立申请机会。目标为2027年6月本科毕业后的入学，实际ANU offer入学期仍以个人录取信为准。核查/访问尝试日期：2026-10-02。
 
 本版已合并用户全部追加条件。加拿大按指定扩展名单，澳洲只留ANU/Melbourne；美国用Tufts和Texas A&M替换UIUC/BU；法国按旧小文档开头五校；德国与瑞士只保留已核查为英语授课、无非英语入学语言要求的具体路径。LMU改选Astrophysics，RWTH换为Hamburg英语Physics。排名是大学/学科筛选依据，不能称为硕士项目官方排名；更新后不再机械宣称各国原始top5。

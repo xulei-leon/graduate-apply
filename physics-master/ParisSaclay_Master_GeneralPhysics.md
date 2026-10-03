@@ -23,7 +23,7 @@
 | Recommendation required / 是否需要推荐信 | 入学/奖学金分别核对 |
 | Recommendation count / 推荐数量 | 入学信件未列；奖学金2位 |
 | Recommendation policy / 提交与例外 | M1 General Physics入学清单未列必交推荐信，只列Referring contact information且括注compulsory for non-international applicants；固定人数未列。国际奖学金如适用须2位references在线推荐。不能把奖学金要求套成入学必交2封。 |
-| Cohort size / 年度规模 | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。 |
+| Cohort size / 年度规模 | 2026–2027 M1 General Physics项目capacity为35（Available Places）；国际生专属配额、实际录取/注册人数未核实。2027入学容量待发布。 |
 | Deadline / 主申请与奖学金 | 当前列Inception 2026-01-01至2026-07-06，仅2026入学；2027待发布。 |
 | Deadline evidence / 时间依据 | 仅公布2026周期，2027待发布 |
 | International tuition / 学费 | 2027学费未核实；须使用本人国际学生费率报价。 |
@@ -92,3 +92,20 @@ M1 General Physics入学清单未列必交推荐信，只列Referring contact in
 官方日期来源：https://www.universite-paris-saclay.fr/en/education/masters-degree/physique-fondamentale-et-applications/m1-general-physics
 
 **申请周期 Last-verified / last-attempted：2026-10-03。**
+
+
+## 2026申请数量与名额补核（2026-10-03）
+
+统计对象：2026年秋季 / 2026–2027学年 M1 General Physics。
+
+| 字段 | 本轮核查 |
+|---|---|
+| 2026项目申请数量 | 未找到官方公开数字；不表示零申请 |
+| 2026国际生申请数量 | 未找到官方公开数字 |
+| 2026项目名额 | 35（Available Places / capacity）；非实际录取或注册人数 |
+| 2026国际生专属配额 | 未找到已核实的单列数字 |
+| 2026国际生录取率 | 数据不足，不能计算 |
+
+官方来源：https://www.universite-paris-saclay.fr/en/education/masters-degree/physique-fondamentale-et-applications/m1-general-physics
+
+完整口径、访问缺口和教育部公开数据年份见[法国五校2026统计核查](../application/phy-master-plan/France_Physics_2026_Applications_Capacity.md)。**Last-verified：2026-10-03。**
