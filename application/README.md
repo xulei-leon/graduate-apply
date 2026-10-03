@@ -15,7 +15,7 @@
 
 | 文件 | 用途 |
 |---|---|
-| [推荐人材料](recommenders/README.md) | PHY254H1 Classical Mechanics（98分 / A+）任课老师推荐信请求中文草稿；老师姓名及修读学期待补充 |
+| [推荐人材料](recommenders/README.md) | PHY254H1 Classical Mechanics（98分 / A+）任课老师推荐信请求中文草稿；Princeton 科研课程教授的 MaNGA 研究进展英文邮件（论文 PDF 与 CV 作为附件，含致谢许可请求）；均未发送，姓名和课程信息待补充 |
 | [硕士研究机会咨询信](CV/cover_letter_cn.md) | 唯一中文基础模板；以已完成的 MaNGA 为主，项目段末简述正在进行的 Higgs 研究 |
 | [天体物理 CV](CV/CV_astro_cn.md) | MaNGA 项目优先，突出星系动力学与贝叶斯推断 |
 | [咨询信使用与定制说明](CV/README.md) | 固定段落顺序、论文兴趣定制、研究表述、附件及交流请求 |
