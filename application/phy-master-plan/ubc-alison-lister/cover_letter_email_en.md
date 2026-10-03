@@ -8,7 +8,7 @@ Since May 2026, I have worked under Professor Mario Campanelli at UCL on simulat
 
 Previously, I completed a MaNGA dark-matter halo project independently, using PyMC, MCMC and population inference for 620 selected disk galaxies. I wrote a first-author manuscript, now complete but not submitted; a preview is available at https://hyi03.github.io/manga-dm/paper-preview.
 
-If relevant to an MSc project in your group, I would be interested in a small simulation study testing how classifier selection and background mismodelling affect a profile-likelihood result. I would need to learn the relevant ATLAS analysis and detector context. Do you anticipate considering Fall 2027 MSc students, and might this background fit a project with available funding?
+If relevant to an MSc project in your group, I would be interested in a small simulation study testing how classifier selection and background mismodelling affect a profile-likelihood result. I would need to learn the relevant ATLAS analysis and detector context. Are you considering MSc students for Fall 2027?
 
 I can provide my CV and further research details. Thank you for your time.
 
