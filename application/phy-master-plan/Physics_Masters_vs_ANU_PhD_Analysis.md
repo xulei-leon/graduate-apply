@@ -1,6 +1,6 @@
 # 18 个重点物理硕士与 ANU 的比较：学术能力与博士申请
 
-分析日期：**2026-10-03**。范围严格对应 [Physics_Masters_Overview.md](Physics_Masters_Overview.md) 黄色标记的 **18 所学校**，另设 ANU 普通版与 Advanced 两个比较基准。官方资料通过直接 HTTPS 请求读取；逐页访问情况见 [本次来源核查记录](anu-comparison-source-audit-20261003.md)。
+分析日期：**2026-10-03**。范围严格对应 [Physics_Masters_Overview.md](Physics_Masters_Overview.md) 黄色标记的 **18 所学校**，另设 ANU 普通版与 Advanced 两个比较基准。官方资料通过直接 HTTPS 请求读取。
 
 **核心判断：以将来申请博士为目标，值得换校的是能落实更合适的导师、持续原创研究和有内容的推荐信的项目。ANU 普通版的最低研究要求较少，因此不少 thesis MSc 有结构上的优势；如果成功转入 ANU Advanced 并落实匹配导师，18 个项目中没有一个能仅凭校名或学位名称判定为全面优于 ANU。**
 

@@ -119,7 +119,18 @@
       "recommendation_sources": [
         "https://www.physics.utoronto.ca/graduate/prospective-students/graduate-admissions-department-physics/admissions-procedure/"
       ],
-      "priority_application": false
+      "priority_application": false,
+      "application_cycle": "年度09-16 → 12-11；2027批次待确认",
+      "application_cycle_sources": [
+        "https://www.physics.utoronto.ca/graduate/prospective-students/graduate-admissions-department-physics/application-information/"
+      ],
+      "application_cycle_verified": "2026-10-03",
+      "application_cycle_source_check": {
+        "url": "https://www.physics.utoronto.ca/graduate/prospective-students/graduate-admissions-department-physics/application-information/",
+        "status": 200,
+        "final_url": "https://www.physics.utoronto.ca/graduate/prospective-students/graduate-admissions-department-physics/application-information/"
+      },
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
     },
     {
       "country": "Canada",
@@ -193,7 +204,18 @@
       "recommendation_sources": [
         "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics"
       ],
-      "priority_application": false
+      "priority_application": false,
+      "application_cycle": "启动待公布 → 截止待公布；官网未配置下一批次日期",
+      "application_cycle_sources": [
+        "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics"
+      ],
+      "application_cycle_verified": "2026-10-03",
+      "application_cycle_source_check": {
+        "url": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics",
+        "status": 200,
+        "final_url": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics"
+      },
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
     },
     {
       "country": "Canada",
@@ -293,7 +315,18 @@
       "recommendation_sources": [
         "https://www.physics.mcgill.ca/grads/application.html"
       ],
-      "priority_application": true
+      "priority_application": true,
+      "application_cycle": "年度09-15 → 12-15；2027批次待确认",
+      "application_cycle_sources": [
+        "https://www.mcgill.ca/gradapplicants/program/physics-msc"
+      ],
+      "application_cycle_verified": "2026-10-03",
+      "application_cycle_source_check": {
+        "url": "https://www.mcgill.ca/gradapplicants/program/physics-msc",
+        "status": 200,
+        "final_url": "https://www.mcgill.ca/gradapplicants/program/physics-msc"
+      },
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
     },
     {
       "country": "Canada",
@@ -367,7 +400,18 @@
       "recommendation_sources": [
         "https://uwaterloo.ca/physics-astronomy/graduate-studies/how-apply"
       ],
-      "priority_application": false
+      "priority_application": false,
+      "application_cycle": "启动未公布 → 年度01-09；2027批次待确认",
+      "application_cycle_sources": [
+        "https://uwaterloo.ca/physics-astronomy/graduate-studies/how-apply"
+      ],
+      "application_cycle_verified": "2026-10-03",
+      "application_cycle_source_check": {
+        "url": "https://uwaterloo.ca/physics-astronomy/graduate-studies/how-apply",
+        "status": 200,
+        "final_url": "https://uwaterloo.ca/physics-astronomy/graduate-studies/how-apply"
+      },
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
     },
     {
       "country": "Canada",
@@ -441,7 +485,18 @@
       "recommendation_sources": [
         "https://www.ualberta.ca/en/physics/graduate-studies/admissions.html"
       ],
-      "priority_application": true
+      "priority_application": true,
+      "application_cycle": "启动待核 → 截止待核；官方正文访问受限",
+      "application_cycle_sources": [
+        "https://www.ualberta.ca/en/physics/graduate-studies/admissions.html"
+      ],
+      "application_cycle_verified": "2026-10-03",
+      "application_cycle_source_check": {
+        "url": "https://www.ualberta.ca/en/physics/graduate-studies/admissions.html",
+        "status": 403,
+        "final_url": "https://www.ualberta.ca/en/physics/graduate-studies/admissions.html"
+      },
+      "application_cycle_note": "核心官方正文HTTP403，保留明确待核状态，不推断申请日期。"
     },
     {
       "country": "Canada",
@@ -533,7 +588,18 @@
           3
         ]
       },
-      "priority_application": true
+      "priority_application": true,
+      "application_cycle": "启动未公布 → 年度04-30；奖学金优先01-31，2027待确认",
+      "application_cycle_sources": [
+        "https://gs.mcmaster.ca/program/physics-and-astronomy/"
+      ],
+      "application_cycle_verified": "2026-10-03",
+      "application_cycle_source_check": {
+        "url": "https://gs.mcmaster.ca/program/physics-and-astronomy/",
+        "status": 200,
+        "final_url": "https://gs.mcmaster.ca/program/physics-and-astronomy/"
+      },
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
     },
     {
       "country": "Canada",
@@ -625,7 +691,18 @@
           3
         ]
       },
-      "priority_application": true
+      "priority_application": true,
+      "application_cycle": "启动待核 → 截止待核；2027项目窗口未核实",
+      "application_cycle_sources": [
+        "https://www.queensu.ca/physics/grad-studies/admission-requirements"
+      ],
+      "application_cycle_verified": "2026-10-03",
+      "application_cycle_source_check": {
+        "url": "https://www.queensu.ca/physics/grad-studies/admission-requirements",
+        "status": 200,
+        "final_url": "https://www.queensu.ca/physics/grad-studies/admission-requirements"
+      },
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
     },
     {
       "country": "Canada",
@@ -795,7 +872,18 @@
       "recommendation_sources": [
         "https://grad.uwo.ca/admissions/apply.html"
       ],
-      "priority_application": true
+      "priority_application": true,
+      "application_cycle": "启动未公布 → 2027-03-01（国际生；含推荐信与成绩单）",
+      "application_cycle_sources": [
+        "https://physics.uwo.ca/graduate/future_students/admission_requirements.html"
+      ],
+      "application_cycle_verified": "2026-10-03",
+      "application_cycle_source_check": {
+        "url": "https://physics.uwo.ca/graduate/future_students/admission_requirements.html",
+        "status": 200,
+        "final_url": "https://physics.uwo.ca/graduate/future_students/admission_requirements.html"
+      },
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
     },
     {
       "country": "Canada",
@@ -931,7 +1019,18 @@
         "https://futurestudents.yorku.ca/graduate/programs/physics-and-astronomy",
         "https://www.yorku.ca/gradstudies/physics-astronomy/future-students/how-to-apply/"
       ],
-      "priority_application": false
+      "priority_application": false,
+      "application_cycle": "2026-09-30 → 2027-01-15（Fall 2027）",
+      "application_cycle_sources": [
+        "https://www.yorku.ca/gradstudies/physics-astronomy/future-students/how-to-apply/"
+      ],
+      "application_cycle_verified": "2026-10-03",
+      "application_cycle_source_check": {
+        "url": "https://www.yorku.ca/gradstudies/physics-astronomy/future-students/how-to-apply/",
+        "status": 200,
+        "final_url": "https://www.yorku.ca/gradstudies/physics-astronomy/future-students/how-to-apply/"
+      },
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
     },
     {
       "country": "Canada",
@@ -1074,7 +1173,18 @@
       "recommendation_sources": [
         "https://www.uvic.ca/graduate/admissions/admission-requirements/index.php"
       ],
-      "priority_application": false
+      "priority_application": false,
+      "application_cycle": "启动未公布 → 入学前一年12-01（优先）；次年08-01补录，年度规则",
+      "application_cycle_sources": [
+        "https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/physics-and-astronomy-cred/physics-msc.php"
+      ],
+      "application_cycle_verified": "2026-10-03",
+      "application_cycle_source_check": {
+        "url": "https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/physics-and-astronomy-cred/physics-msc.php",
+        "status": 200,
+        "final_url": "https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/physics-and-astronomy-cred/physics-msc.php"
+      },
+      "application_cycle_note": "按年度规则，Fall 2027的优先节点推算为2026-12-01；之后至2027-08-01可考虑申请但无优先及UVic entrance scholarship待遇；上述年份是推算，非独立2027公告。"
     },
     {
       "country": "Canada",
@@ -1234,7 +1344,18 @@
       "recommendation_sources": [
         "https://www.sfu.ca/physics/graduate/prospective/applying.html"
       ],
-      "priority_application": false
+      "priority_application": false,
+      "application_cycle": "启动未公布 → 年度05-31；奖学金建议01-15前，2027待确认",
+      "application_cycle_sources": [
+        "https://www.sfu.ca/physics/graduate/prospective/deadlines.html"
+      ],
+      "application_cycle_verified": "2026-10-03",
+      "application_cycle_source_check": {
+        "url": "https://www.sfu.ca/physics/graduate/prospective/deadlines.html",
+        "status": 200,
+        "final_url": "https://www.sfu.ca/physics/graduate/prospective/deadlines.html"
+      },
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
     },
     {
       "country": "Canada",
@@ -1351,7 +1472,18 @@
       "recommendation_sources": [
         "https://grad.ucalgary.ca/future-students/explore-programs/physics-and-astronomy-msc-thesis"
       ],
-      "priority_application": false
+      "priority_application": false,
+      "application_cycle": "启动未公布 → 年度01-15；2027批次待确认",
+      "application_cycle_sources": [
+        "https://grad.ucalgary.ca/future-students/explore-programs/physics-and-astronomy-msc-thesis"
+      ],
+      "application_cycle_verified": "2026-10-03",
+      "application_cycle_source_check": {
+        "url": "https://grad.ucalgary.ca/future-students/explore-programs/physics-and-astronomy-msc-thesis",
+        "status": 200,
+        "final_url": "https://grad.ucalgary.ca/future-students/graduate/discover-opportunities/explore-programs/physics-and-astronomy-msc-thesis"
+      },
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
     },
     {
       "country": "Australia",
@@ -1457,7 +1589,18 @@
       "recommendation_sources": [
         "https://programsandcourses.anu.edu.au/2027/program/NSCAA"
       ],
-      "priority_application": false
+      "priority_application": false,
+      "application_cycle": "已获Offer；原申请启动/截止未核；接受截止须查个人录取信",
+      "application_cycle_sources": [
+        "https://science.anu.edu.au/study/masters/master-science-astronomy-astrophysics"
+      ],
+      "application_cycle_verified": "2026-10-03",
+      "application_cycle_source_check": {
+        "url": "https://science.anu.edu.au/study/masters/master-science-astronomy-astrophysics",
+        "status": 200,
+        "final_url": "https://science.anu.edu.au/study/masters/master-science-astronomy-astrophysics"
+      },
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
     },
     {
       "country": "Australia",
@@ -1544,7 +1687,18 @@
       "recommendation_sources": [
         "https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/"
       ],
-      "priority_application": true
+      "priority_application": true,
+      "application_cycle": "启动待核 → 截止待核；2027 mid-year是否开放待核",
+      "application_cycle_sources": [
+        "https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/"
+      ],
+      "application_cycle_verified": "2026-10-03",
+      "application_cycle_source_check": {
+        "url": "https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/",
+        "status": 403,
+        "final_url": "https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/"
+      },
+      "application_cycle_note": "核心官方正文HTTP403，保留明确待核状态，不推断申请日期。"
     },
     {
       "country": "USA",
@@ -1618,7 +1772,18 @@
       "recommendation_sources": [
         "https://graduateprograms.brown.edu/graduate-program/physics-scm"
       ],
-      "priority_application": false
+      "priority_application": false,
+      "application_cycle": "启动未公布 → 04-01；优先02-01（Fall；年份按系统复核）",
+      "application_cycle_sources": [
+        "https://graduateprograms.brown.edu/graduate-program/physics-scm"
+      ],
+      "application_cycle_verified": "2026-10-03",
+      "application_cycle_source_check": {
+        "url": "https://graduateprograms.brown.edu/graduate-program/physics-scm",
+        "status": 200,
+        "final_url": "https://graduateprograms.brown.edu/graduate-program/physics-scm"
+      },
+      "application_cycle_note": "本轮页面列Fall priority February 1、final April 1但未标年份；启动日未见公布，入学年份与实际系统周期仍须确认。"
     },
     {
       "country": "USA",
@@ -1723,7 +1888,18 @@
           4
         ]
       },
-      "priority_application": true
+      "priority_application": true,
+      "application_cycle": "启动待核 → 截止待核；须查MS专属窗口，不套用PhD",
+      "application_cycle_sources": [
+        "https://www.physics.northwestern.edu/graduate/master-degree/index.html"
+      ],
+      "application_cycle_verified": "2026-10-03",
+      "application_cycle_source_check": {
+        "url": "https://www.physics.northwestern.edu/graduate/master-degree/index.html",
+        "status": 200,
+        "final_url": "https://physics.northwestern.edu/graduate/master-degree/"
+      },
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
     },
     {
       "country": "USA",
@@ -1797,7 +1973,18 @@
       "recommendation_sources": [
         "https://www.stonybrook.edu/physics/graduate/degrees/ma.html"
       ],
-      "priority_application": false
+      "priority_application": false,
+      "application_cycle": "年度12-15 → 次年05-01（国际生）；滚动录取，2027待确认",
+      "application_cycle_sources": [
+        "https://www.stonybrook.edu/physics/graduate/apply.html"
+      ],
+      "application_cycle_verified": "2026-10-03",
+      "application_cycle_source_check": {
+        "url": "https://www.stonybrook.edu/physics/graduate/apply.html",
+        "status": 200,
+        "final_url": "https://www.stonybrook.edu/physics/graduate/apply.html"
+      },
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
     },
     {
       "country": "USA",
@@ -1902,7 +2089,18 @@
           4
         ]
       },
-      "priority_application": true
+      "priority_application": true,
+      "application_cycle": "启动未公布 → 年度12-30 17:00 ET；2027批次待确认",
+      "application_cycle_sources": [
+        "https://gsas.nyu.edu/admissions/arc/programs/physics.html"
+      ],
+      "application_cycle_verified": "2026-10-03",
+      "application_cycle_source_check": {
+        "url": "https://gsas.nyu.edu/admissions/arc/programs/physics.html",
+        "status": 200,
+        "final_url": "https://gsas.nyu.edu/admissions/arc/programs/physics.html"
+      },
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。 如遇周末或美国联邦假日，顺延至下一工作日。"
     },
     {
       "country": "USA",
@@ -2024,7 +2222,18 @@
           5
         ]
       },
-      "priority_application": true
+      "priority_application": true,
+      "application_cycle": "启动待核 → 截止待核；2027 MA专属日期未核实",
+      "application_cycle_sources": [
+        "https://physics.wustl.edu/how-apply"
+      ],
+      "application_cycle_verified": "2026-10-03",
+      "application_cycle_source_check": {
+        "url": "https://physics.wustl.edu/how-apply",
+        "status": 200,
+        "final_url": "https://physics.washu.edu/how-apply"
+      },
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
     },
     {
       "country": "USA",
@@ -2085,7 +2294,18 @@
       "recommendation_sources": [
         "https://physics.utexas.edu/academics/admissions"
       ],
-      "priority_application": true
+      "priority_application": true,
+      "application_cycle": "启动未公布 → 年度12-01 23:59 CST；2027待确认",
+      "application_cycle_sources": [
+        "https://physics.utexas.edu/academics/admissions"
+      ],
+      "application_cycle_verified": "2026-10-03",
+      "application_cycle_source_check": {
+        "url": "https://physics.utexas.edu/academics/admissions",
+        "status": 200,
+        "final_url": "https://physics.utexas.edu/academics/admissions"
+      },
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
     },
     {
       "country": "USA",
@@ -2190,7 +2410,18 @@
           4
         ]
       },
-      "priority_application": false
+      "priority_application": false,
+      "application_cycle": "启动未公布 → 年度12-15；2027 MS批次待确认",
+      "application_cycle_sources": [
+        "https://physics.gatech.edu/academics/graduate/admissions-info"
+      ],
+      "application_cycle_verified": "2026-10-03",
+      "application_cycle_source_check": {
+        "url": "https://physics.gatech.edu/academics/graduate/admissions-info",
+        "status": 200,
+        "final_url": "https://physics.gatech.edu/academics/graduate/admissions-info"
+      },
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
     },
     {
       "country": "USA",
@@ -2282,7 +2513,18 @@
           3
         ]
       },
-      "priority_application": false
+      "priority_application": false,
+      "application_cycle": "启动待核 → 截止待核；2027专属日期未核实",
+      "application_cycle_sources": [
+        "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/applied-physics-applied-mathematics/graduate-programs/applied-physics-ms/"
+      ],
+      "application_cycle_verified": "2026-10-03",
+      "application_cycle_source_check": {
+        "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/applied-physics-applied-mathematics/graduate-programs/applied-physics-ms/",
+        "status": 200,
+        "final_url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/applied-physics-applied-mathematics/graduate-programs/applied-physics-ms/"
+      },
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
     },
     {
       "country": "USA",
@@ -2432,7 +2674,18 @@
         "https://artsci.tamu.edu/physics-astronomy/academics/prospective-graduates/how-to-apply.html",
         "https://artsci.tamu.edu/physics-astronomy/academics/prospective-graduates/faqs.html"
       ],
-      "priority_application": false
+      "priority_application": false,
+      "application_cycle": "2026-08-01 → 2027-01-10（优先）；网页仍误写Fall 2026，须核CAS周期",
+      "application_cycle_sources": [
+        "https://artsci.tamu.edu/physics-astronomy/academics/prospective-graduates/how-to-apply.html"
+      ],
+      "application_cycle_verified": "2026-10-03",
+      "application_cycle_source_check": {
+        "url": "https://artsci.tamu.edu/physics-astronomy/academics/prospective-graduates/how-to-apply.html",
+        "status": 200,
+        "final_url": "https://artsci.tamu.edu/physics-astronomy/academics/prospective-graduates/how-to-apply.html"
+      },
+      "application_cycle_note": "官网明确列August 1, 2026启动和January 10, 2027截止，但同段仍称fall 2026；FAQ将01-10解释为充分考虑录取和assistantships的节点，之后仍可提交。提交前核对GraduateCAS周期。"
     },
     {
       "country": "USA",
@@ -2591,7 +2844,18 @@
         "https://asegrad.tufts.edu/program/physics-and-physics-astrophysics-masters",
         "https://as.tufts.edu/physics/academics/graduate-programs"
       ],
-      "priority_application": false
+      "priority_application": false,
+      "application_cycle": "启动未公布 → 年度04-15；优先01-15，滚动至08-01；2027待确认",
+      "application_cycle_sources": [
+        "https://asegrad.tufts.edu/program/physics-and-physics-astrophysics-masters"
+      ],
+      "application_cycle_verified": "2026-10-03",
+      "application_cycle_source_check": {
+        "url": "https://asegrad.tufts.edu/program/physics-and-physics-astrophysics-masters",
+        "status": 200,
+        "final_url": "https://asegrad.tufts.edu/program/physics-and-physics-astrophysics-masters"
+      },
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
     },
     {
       "country": "France",
@@ -2670,7 +2934,18 @@
           1
         ]
       },
-      "priority_application": true
+      "priority_application": true,
+      "application_cycle": "2027待公布；2026参考：2026-01-01 → 2026-07-06",
+      "application_cycle_sources": [
+        "https://www.universite-paris-saclay.fr/en/education/masters-degree/physique-fondamentale-et-applications/m1-general-physics"
+      ],
+      "application_cycle_verified": "2026-10-03",
+      "application_cycle_source_check": {
+        "url": "https://www.universite-paris-saclay.fr/en/education/masters-degree/physique-fondamentale-et-applications/m1-general-physics",
+        "status": 200,
+        "final_url": "https://www.universite-paris-saclay.fr/en/education/masters-degree/physique-fondamentale-et-applications/m1-general-physics"
+      },
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
     },
     {
       "country": "France",
@@ -2751,7 +3026,18 @@
           2
         ]
       },
-      "priority_application": true
+      "priority_application": true,
+      "application_cycle": "2027待公布；2026 M1参考：2025-11-24 → 2026-01-23 23:59 CET",
+      "application_cycle_sources": [
+        "https://psl.eu/en/education/master-s-degree-physics"
+      ],
+      "application_cycle_verified": "2026-10-03",
+      "application_cycle_source_check": {
+        "url": "https://psl.eu/en/education/master-s-degree-physics",
+        "status": 200,
+        "final_url": "https://psl.eu/en/education/master-s-degree-physics"
+      },
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
     },
     {
       "country": "France",
@@ -2839,7 +3125,17 @@
       "recommendation_sources": [
         "https://master.physique.sorbonne-universite.fr/fr/candidatures-inscription.html"
       ],
-      "priority_application": true
+      "priority_application": true,
+      "application_cycle": "启动待核 → 截止待核；2027 English M1专属窗口未核实",
+      "application_cycle_sources": [
+        "https://master.physique.sorbonne-universite.fr/fr/candidatures-inscription.html"
+      ],
+      "application_cycle_verified": "2026-10-03",
+      "application_cycle_source_check": {
+        "url": "https://master.physique.sorbonne-universite.fr/fr/candidatures-inscription.html",
+        "error": "HTTPSConnectionPool(host='master.physique.sorbonne-universite.fr', port=443): Max retries exceeded with url: /fr/candidatures-inscription.html (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))"
+      },
+      "application_cycle_note": "Sorbonne与Paris Cité联办PPM，不能当作两次独立申请。加拿大EEF 2027/28日历不是项目专属窗口，具体渠道仍须确认。"
     },
     {
       "country": "France",
@@ -2939,7 +3235,18 @@
       "recommendation_sources": [
         "https://www.ip-paris.fr/en/education/useful-information/admissions"
       ],
-      "priority_application": false
+      "priority_application": false,
+      "application_cycle": "2027待公布；2026参考三轮：2025-10-29 → 2026-01-08；2026-01-09 → 03-26；2026-03-27 → 05-28",
+      "application_cycle_sources": [
+        "https://www.ip-paris.fr/en/education/useful-information/admissions"
+      ],
+      "application_cycle_verified": "2026-10-03",
+      "application_cycle_source_check": {
+        "url": "https://www.ip-paris.fr/en/education/useful-information/admissions",
+        "status": 200,
+        "final_url": "https://www.ip-paris.fr/en/education/useful-information/admissions"
+      },
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
     },
     {
       "country": "France",
@@ -3064,7 +3371,18 @@
       "recommendation_sources": [
         "https://u-paris.fr/candidater-a-universite-paris-cite/"
       ],
-      "priority_application": false
+      "priority_application": false,
+      "application_cycle": "启动待核 → 截止待核；联合PPM窗口未核，EEF不是项目截止",
+      "application_cycle_sources": [
+        "https://u-paris.fr/candidater-a-universite-paris-cite/"
+      ],
+      "application_cycle_verified": "2026-10-03",
+      "application_cycle_source_check": {
+        "url": "https://u-paris.fr/candidater-a-universite-paris-cite/",
+        "status": 200,
+        "final_url": "https://u-paris.fr/candidater-a-universite-paris-cite/"
+      },
+      "application_cycle_note": "Sorbonne与Paris Cité联办PPM，不能当作两次独立申请。加拿大EEF 2027/28日历不是项目专属窗口，具体渠道仍须确认。"
     },
     {
       "country": "Germany",
@@ -3148,7 +3466,18 @@
       "recommendation_sources": [
         "https://www.tum.de/en/studies/degree-programs/detail/physics-applied-and-engineering-physics-master-of-science-msc"
       ],
-      "priority_application": false
+      "priority_application": false,
+      "application_cycle": "年度冬季01-01 → 05-31；夏季09-01 → 11-30；2027待确认",
+      "application_cycle_sources": [
+        "https://www.tum.de/en/studies/degree-programs/detail/physics-applied-and-engineering-physics-master-of-science-msc"
+      ],
+      "application_cycle_verified": "2026-10-03",
+      "application_cycle_source_check": {
+        "url": "https://www.tum.de/en/studies/degree-programs/detail/physics-applied-and-engineering-physics-master-of-science-msc",
+        "status": 200,
+        "final_url": "https://www.tum.de/en/studies/degree-programs/detail/physics-applied-and-engineering-physics-master-of-science-msc"
+      },
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
     },
     {
       "country": "Germany",
@@ -3253,7 +3582,18 @@
       "recommendation_sources": [
         "https://www.physik.lmu.de/en/studies/study-programs/applying-to-a-masters-program/"
       ],
-      "priority_application": true
+      "priority_application": true,
+      "application_cycle": "年度11-01 → 次年01-15；05-01 → 07-15；2027批次待确认",
+      "application_cycle_sources": [
+        "https://www.physik.lmu.de/en/studies/study-programs/applying-to-a-masters-program/"
+      ],
+      "application_cycle_verified": "2026-10-03",
+      "application_cycle_source_check": {
+        "url": "https://www.physik.lmu.de/en/studies/study-programs/applying-to-a-masters-program/",
+        "status": 200,
+        "final_url": "https://www.physik.lmu.de/en/studies/study-programs/applying-to-a-masters-program/"
+      },
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。 January 15可申请同年April或October；July 15可申请同年October或次年April；非德国本科申请人另须并行申请International Office。"
     },
     {
       "country": "Germany",
@@ -3380,7 +3720,18 @@
         "https://www.physik.uni-heidelberg.de/c/image/exp/f/front/study/MScZulassungsvoraussetzungen_DE.pdf",
         "https://www.uni-heidelberg.de/md/studium/interesse/faecher/6._anderungssatzung_zulassungsordnung_ma_physik_internet_15.05.2015.pdf"
       ],
-      "priority_application": true
+      "priority_application": true,
+      "application_cycle": "启动未公布 → 年度07-15（non-EU冬季）；2027待确认",
+      "application_cycle_sources": [
+        "https://www.physik.uni-heidelberg.de/studium/master?lang=en"
+      ],
+      "application_cycle_verified": "2026-10-03",
+      "application_cycle_source_check": {
+        "url": "https://www.physik.uni-heidelberg.de/studium/master?lang=en",
+        "status": 200,
+        "final_url": "https://www.physik.uni-heidelberg.de/studium/master?lang=en"
+      },
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
     },
     {
       "country": "Germany",
@@ -3492,7 +3843,18 @@
       "recommendation_sources": [
         "https://www.intl.kit.edu/istudies/9074.php"
       ],
-      "priority_application": true
+      "priority_application": true,
+      "application_cycle": "启动未公布 → 年度07-15（non-EU冬季）；2027待确认",
+      "application_cycle_sources": [
+        "https://www.sle.kit.edu/english/vorstudium/master-physics.php"
+      ],
+      "application_cycle_verified": "2026-10-03",
+      "application_cycle_source_check": {
+        "url": "https://www.sle.kit.edu/english/vorstudium/master-physics.php",
+        "status": 200,
+        "final_url": "https://www.sle.kit.edu/english/vorstudium/master-physics.php"
+      },
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
     },
     {
       "country": "Germany",
@@ -3647,7 +4009,18 @@
       "recommendation_sources": [
         "https://www.uni-hamburg.de/onTEAM/studiengaenge/physics_e.pdf"
       ],
-      "priority_application": false
+      "priority_application": false,
+      "application_cycle": "年度02-15 → 03-31（10月入学）；2027批次待确认",
+      "application_cycle_sources": [
+        "https://www.physik.uni-hamburg.de/studium/studiengaenge/masterstudiengaenge/msc-physics.html"
+      ],
+      "application_cycle_verified": "2026-10-03",
+      "application_cycle_source_check": {
+        "url": "https://www.physik.uni-hamburg.de/studium/studiengaenge/masterstudiengaenge/msc-physics.html",
+        "status": 200,
+        "final_url": "https://www.physik.uni-hamburg.de/studium/studiengaenge/masterstudiengaenge/msc-physics.html"
+      },
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
     },
     {
       "country": "Switzerland",
@@ -3774,7 +4147,18 @@
         "https://ethz.ch/content/dam/ethz/common/docs/master-profile/englisch/naturwissenschaften/MSc-Physics-Appendix.pdf",
         "https://ethz.ch/en/studies/master/application/dates.html"
       ],
-      "priority_application": false
+      "priority_application": false,
+      "application_cycle": "2026-11-01 → 2026-11-30 11:59 AM CET（Fall 2027；国际本科）",
+      "application_cycle_sources": [
+        "https://ethz.ch/en/studies/master/application/dates.html"
+      ],
+      "application_cycle_verified": "2026-10-03",
+      "application_cycle_source_check": {
+        "url": "https://ethz.ch/en/studies/master/application/dates.html",
+        "status": 200,
+        "final_url": "https://ethz.ch/en/studies/master/application/dates.html"
+      },
+      "application_cycle_note": "已明确公布Autumn Semester 2027国际本科窗口；2026-11-30 11:59 AM CET约为北京时间18:59，不是午夜；不使用Swiss Bachelor窗口。"
     },
     {
       "country": "Switzerland",
@@ -3886,7 +4270,18 @@
       "recommendation_sources": [
         "https://www.epfl.ch/education/admission/master-admission-criteria-application/online-application/"
       ],
-      "priority_application": true
+      "priority_application": true,
+      "application_cycle": "年度11月中旬 → 12-15；12-16 → 次年03-31；2027待确认",
+      "application_cycle_sources": [
+        "https://www.epfl.ch/education/admission/master-admission-criteria-application/online-application/"
+      ],
+      "application_cycle_verified": "2026-10-03",
+      "application_cycle_source_check": {
+        "url": "https://www.epfl.ch/education/admission/master-admission-criteria-application/online-application/",
+        "status": 200,
+        "final_url": "https://www.epfl.ch/education/admission/admission-2/master-admission-criteria-application/online-application/"
+      },
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
     },
     {
       "country": "Switzerland",
@@ -3970,7 +4365,18 @@
       "recommendation_sources": [
         "https://www.unige.ch/sciences/physique/enseignement/master"
       ],
-      "priority_application": false
+      "priority_application": false,
+      "application_cycle": "启动未公布 → 年度02-28（需visa）；2027待确认",
+      "application_cycle_sources": [
+        "https://www.unige.ch/sciences/physique/enseignement/master"
+      ],
+      "application_cycle_verified": "2026-10-03",
+      "application_cycle_source_check": {
+        "url": "https://www.unige.ch/sciences/physique/enseignement/master",
+        "status": 200,
+        "final_url": "https://www.unige.ch/sciences/physique/enseignement/master"
+      },
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
     },
     {
       "country": "Switzerland",
@@ -4111,7 +4517,18 @@
         "https://www.physik.uzh.ch/en/study/Study-Degree-Programmes/Master/admission.html",
         "https://www.uzh.ch/en/studies/application/master.html"
       ],
-      "priority_application": true
+      "priority_application": true,
+      "application_cycle": "年度01-01 → 02-28（需visa）；2027批次待确认",
+      "application_cycle_sources": [
+        "https://www.uzh.ch/en/studies/application/deadlines.html"
+      ],
+      "application_cycle_verified": "2026-10-03",
+      "application_cycle_source_check": {
+        "url": "https://www.uzh.ch/en/studies/application/deadlines.html",
+        "status": 200,
+        "final_url": "https://www.uzh.ch/en/studies/application/deadlines.html"
+      },
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
     },
     {
       "country": "Switzerland",
@@ -4211,7 +4628,18 @@
         "https://www.unibe.ch/studium/studienangebote/master/bewerbung/international/index_ger.html",
         "https://www.unibe.ch/e1006/e1029/e1041/e1046/e9395/e9454/e11071/e1803186/MasterCheckliste_ger.pdf"
       ],
-      "priority_application": false
+      "priority_application": false,
+      "application_cycle": "启动待核 → 在线截止待核；年度05-31为秋季纸质材料截止",
+      "application_cycle_sources": [
+        "https://www.unibe.ch/e1006/e1029/e1041/e1046/e9395/e9454/e11071/e1803186/MasterCheckliste_ger.pdf"
+      ],
+      "application_cycle_verified": "2026-10-03",
+      "application_cycle_source_check": {
+        "url": "https://www.unibe.ch/e1006/e1029/e1041/e1046/e9395/e9454/e11071/e1803186/MasterCheckliste_ger.pdf",
+        "status": 200,
+        "final_url": "https://www.unibe.ch/e1006/e1029/e1041/e1046/e9395/e9454/e11071/e1803186/MasterCheckliste_ger.pdf"
+      },
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
     }
   ],
   "scope_revision": {

@@ -10,9 +10,7 @@ PDF开头新增“Summary · 申请数量汇总”，随后为“地区候选总
 - [同版 Markdown](Physics_Masters_Overview.md)
 - [39所学校索引及档案](../../physics-master/README.md)
 - [结构化事实快照](Physics_Masters_Overview.json)
-- [来源访问审计](source-audit-20261002.md)
 - [18 个重点硕士与 ANU 普通／Advanced 的学术及博士申请比较（2026-10-03）](Physics_Masters_vs_ANU_PhD_Analysis.md)
-- [ANU 比较的官方来源核查记录（2026-10-03）](anu-comparison-source-audit-20261003.md)
 
 美国新增Tufts与Texas A&M论文路径；法国恢复指定五校；德国LMU改选Astrophysics，Hamburg替换RWTH；德瑞十个选定路径均核查English-only与无非英语入学语言门槛。当前语言结论不代替课程等效、GPA、研究名额、个人offer条件或英语证明审核。Alberta、Melbourne核心正文及WashU排名仍保留明确待核项。
 

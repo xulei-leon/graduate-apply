@@ -1,6 +1,6 @@
 # Physics Master — 2027六国学校索引
 
-2026法国项目申请量/名额专项核查：[统计与证据边界](../application/phy-master-plan/France_Physics_2026_Applications_Capacity.md)；[Paris-Saclay M1物理、DS与EEF分析](../application/phy-master-plan/ParisSaclay_M1_Physics_DS_EEF_20261003.md)。已核General Physics 2026–2027项目capacity 35，非国际生专属配额；五校目标项目的2026国际生申请人数均未找到官方公开数字，不能计算录取率。Sorbonne/Paris Cité的PPM共用一个统计口径。
+2026法国项目申请量/名额专项核查：[完整统计与证据边界](../application/phy-master-plan/France_Physics_2026_Applications_Capacity.md)。Paris-Saclay M1 General Physics已核2026–2027项目capacity 35，非国际生专属配额；五校目标项目的2026国际生申请人数均未找到官方公开数字，不能计算录取率。Sorbonne/Paris Cité的PPM共用一个统计口径；本次不改变学校数量。
 
 
 本轮共 **39所学校记录**：加拿大12、澳大利亚2、美国10、法国5、德国5、瑞士5。含ANU已获普通版Astronomy and Astrophysics offer，其他38所保留为候选。Sorbonne与Paris Cité共同开设Paris Physics Master，不能把39所学校当作39次独立申请机会。目标为2027年6月本科毕业后的入学，实际ANU offer入学期仍以个人录取信为准。核查/访问尝试日期：2026-10-02。
@@ -15,7 +15,6 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 
 - [地区候选总览 Markdown](../application/phy-master-plan/Physics_Masters_Overview.md)
 - [地区候选总览 PDF](../application/phy-master-plan/Physics_Masters_Overview.pdf)
-- [来源访问审计](../application/phy-master-plan/source-audit-20261002.md)
 - [加拿大历史策略](Canada_Academic_Physics_Masters.md)；[法国五校分析](France_Physics_Masters.md)
 
 | 国家 | 学校记录数 | 优先申请数 | 名单口径 |
@@ -740,4 +739,3 @@ Montréal、Sydney、UNSW、Monash、UIUC、BU已移出本轮；ANU原Theoretica
 - QS Subject Rankings 2026 results：https://magazine.qs.com/qs-insights-magazine-39/qs-subject-rankings-results
 - QS Subjects 2026 official XLSX：https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
 
-申请周期日期与官方来源汇总：[2026-10-03补核记录](../application/phy-master-plan/application-cycle-source-audit-20261003.md)。
