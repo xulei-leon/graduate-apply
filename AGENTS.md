@@ -131,6 +131,7 @@ Do not use Safe/Match/Reach as a guarantee. These labels are only planning aids.
 
 ## 6. Output and file rules
 
+- 所有文件使用 Unix（LF，`\n`）换行格式保存；新建或修改文件时不得使用 Windows（CRLF）换行。
 - Create one markdown file per school or advisor before updating the folder summary table
 - Use the naming convention already defined in each folder
 - Keep source URLs visible in every file
