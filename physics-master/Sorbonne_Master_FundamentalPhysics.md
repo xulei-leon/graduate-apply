@@ -89,3 +89,20 @@ S3. **Dedicated applications (TLS issue on this check)**：https://master.physiq
 联合PPM专属清单未闭环；系通用清单/EEF未列或可选规则不能证明PPM免推荐，也不能直接套用M2 ICFP的2封。
 
 - 官方证据：https://master.physique.sorbonne-universite.fr/fr/candidatures-inscription.html
+
+
+## 2026申请数量与名额补核（2026-10-03）
+
+统计对象：2026年秋季 / 2026–2027学年 Paris Physics Master（与Paris Cité联办）。
+
+| 字段 | 本轮核查 |
+|---|---|
+| 2026项目申请数量 | 未找到官方公开数字；不表示零申请 |
+| 2026国际生申请数量 | 未找到官方公开数字 |
+| 2026项目名额 | 未找到PPM的2026官方公开数字；普通M1历史约250学生/年不适用 |
+| 2026国际生专属配额 | 未找到已核实的单列数字 |
+| 2026国际生录取率 | 数据不足，不能计算 |
+
+官方来源：https://sciences.sorbonne-universite.fr/en/masters/master-fundamental-physics-and-applications/m1-first-year-master
+
+完整口径、访问缺口和教育部公开数据年份见[法国五校2026统计核查](../application/phy-master-plan/France_Physics_2026_Applications_Capacity.md)。**Last-verified：2026-10-03。**

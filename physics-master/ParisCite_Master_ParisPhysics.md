@@ -95,3 +95,20 @@ S4. **Canada EEF 2027 calendar**：https://www.canada.campusfrance.org/fr/candid
 与Sorbonne同一联合PPM；项目专属推荐人数待核。EEF允许添加推荐信，不代表本项目统一免推荐或必须2封。
 
 - 官方证据：https://u-paris.fr/candidater-a-universite-paris-cite/
+
+
+## 2026申请数量与名额补核（2026-10-03）
+
+统计对象：2026年秋季 / 2026–2027学年 Paris Physics Master（与Sorbonne联办）。
+
+| 字段 | 本轮核查 |
+|---|---|
+| 2026项目申请数量 | 未找到官方公开数字；不表示零申请 |
+| 2026国际生申请数量 | 未找到官方公开数字 |
+| 2026项目名额 | 未找到PPM的2026官方公开数字；不与Sorbonne重复统计 |
+| 2026国际生专属配额 | 未找到已核实的单列数字 |
+| 2026国际生录取率 | 数据不足，不能计算 |
+
+官方来源：https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/physique-fondamentale-et-applications-K2VO0C50/master-physique-fondamentale-et-applications-m1-parcours-paris-physics-master-JS1XR1EO.html
+
+完整口径、访问缺口和教育部公开数据年份见[法国五校2026统计核查](../application/phy-master-plan/France_Physics_2026_Applications_Capacity.md)。**Last-verified：2026-10-03。**
