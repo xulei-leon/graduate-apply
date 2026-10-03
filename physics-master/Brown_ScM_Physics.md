@@ -77,3 +77,14 @@ S2. **Department masters / thesis / references**：https://physics.brown.edu/aca
 中央ScM项目页要求3封，Physics系MSc页要求2封；准备3封，提交时以申请系统清单确认，不消除官网冲突。
 
 - 官方证据：https://graduateprograms.brown.edu/graduate-program/physics-scm
+
+## 申请周期补核（2026-10-03）
+
+| 字段 | 信息 |
+|---|---|
+| Application cycle / 启动至截止 | 启动未公布 → 04-01；优先02-01（Fall；年份按系统复核） |
+| 周期说明 | 本轮页面列Fall priority February 1、final April 1但未标年份；启动日未见公布，入学年份与实际系统周期仍须确认。 |
+
+官方日期来源：https://graduateprograms.brown.edu/graduate-program/physics-scm
+
+**申请周期 Last-verified / last-attempted：2026-10-03。**

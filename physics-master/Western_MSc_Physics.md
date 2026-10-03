@@ -107,3 +107,14 @@ S6. **Physics research themes**：https://physics.uwo.ca/research/physics/index.
 系里明确截止包含reference letters，Western以在线推荐表收集；本轮公开核心页未列Physics MSc固定封数。
 
 - 官方证据：https://grad.uwo.ca/admissions/apply.html
+
+## 申请周期补核（2026-10-03）
+
+| 字段 | 信息 |
+|---|---|
+| Application cycle / 启动至截止 | 启动未公布 → 2027-03-01（国际生；含推荐信与成绩单） |
+| 周期说明 | 年度月日仅作准备依据；2027批次须按申请系统确认。 |
+
+官方日期来源：https://physics.uwo.ca/graduate/future_students/admission_requirements.html
+
+**申请周期 Last-verified / last-attempted：2026-10-03。**

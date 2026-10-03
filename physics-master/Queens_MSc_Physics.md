@@ -79,3 +79,14 @@ S2. **MSc structure / funding**：https://www.queensu.ca/physics/grad-studies/ms
 研究型项目校级要求2份current academic recommendations，通常来自最近任课教授；推荐人完成在线表单，信件可上传。系级附加数量待申请系统确认。
 
 - 官方证据：https://www.queensu.ca/grad-postdoc/grad-studies/apply
+
+## 申请周期补核（2026-10-03）
+
+| 字段 | 信息 |
+|---|---|
+| Application cycle / 启动至截止 | 启动待核 → 截止待核；2027项目窗口未核实 |
+| 周期说明 | 年度月日仅作准备依据；2027批次须按申请系统确认。 |
+
+官方日期来源：https://www.queensu.ca/physics/grad-studies/admission-requirements
+
+**申请周期 Last-verified / last-attempted：2026-10-03。**

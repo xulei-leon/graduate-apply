@@ -81,3 +81,14 @@ S2. **Requirements / dates / GRE / funding**：https://www.stonybrook.edu/physic
 Physics graduate申请页要求3封电子推荐信。
 
 - 官方证据：https://www.stonybrook.edu/physics/graduate/degrees/ma.html
+
+## 申请周期补核（2026-10-03）
+
+| 字段 | 信息 |
+|---|---|
+| Application cycle / 启动至截止 | 年度12-15 → 次年05-01（国际生）；滚动录取，2027待确认 |
+| 周期说明 | 年度月日仅作准备依据；2027批次须按申请系统确认。 |
+
+官方日期来源：https://www.stonybrook.edu/physics/graduate/apply.html
+
+**申请周期 Last-verified / last-attempted：2026-10-03。**

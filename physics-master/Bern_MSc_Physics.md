@@ -98,3 +98,14 @@ international Master checklist的Physics项需本科论文摘要或无论文说�
 - 官方证据：https://www.philnat.unibe.ch/studium/studienprogramme/master_physik/index_ger.html
 - 官方证据：https://www.unibe.ch/studium/studienangebote/master/bewerbung/international/index_ger.html
 - 官方证据：https://www.unibe.ch/e1006/e1029/e1041/e1046/e9395/e9454/e11071/e1803186/MasterCheckliste_ger.pdf
+
+## 申请周期补核（2026-10-03）
+
+| 字段 | 信息 |
+|---|---|
+| Application cycle / 启动至截止 | 启动待核 → 在线截止待核；年度05-31为秋季纸质材料截止 |
+| 周期说明 | 年度月日仅作准备依据；2027批次须按申请系统确认。 |
+
+官方日期来源：https://www.unibe.ch/e1006/e1029/e1041/e1046/e9395/e9454/e11071/e1803186/MasterCheckliste_ger.pdf
+
+**申请周期 Last-verified / last-attempted：2026-10-03。**

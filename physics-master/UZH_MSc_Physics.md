@@ -115,3 +115,14 @@ Physics foreign Bachelor入学资料未列固定推荐信要求；如审核时�
 
 - 官方证据：https://www.physik.uzh.ch/en/study/Study-Degree-Programmes/Master/admission.html
 - 官方证据：https://www.uzh.ch/en/studies/application/master.html
+
+## 申请周期补核（2026-10-03）
+
+| 字段 | 信息 |
+|---|---|
+| Application cycle / 启动至截止 | 年度01-01 → 02-28（需visa）；2027批次待确认 |
+| 周期说明 | 年度月日仅作准备依据；2027批次须按申请系统确认。 |
+
+官方日期来源：https://www.uzh.ch/en/studies/application/deadlines.html
+
+**申请周期 Last-verified / last-attempted：2026-10-03。**

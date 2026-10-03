@@ -374,8 +374,6 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 
 ## 法国（5所）
 
-**2026申请量/名额补核（2026-10-03）：** [法国五校专项统计](France_Physics_2026_Applications_Capacity.md)。Paris-Saclay M1 General Physics的2026–2027项目capacity为**35**；五校目标项目的2026国际生申请数量及专属配额均未取得可核实公开数字。Sorbonne与Paris Cité的PPM只计一个项目，不能用Sorbonne普通M1历史约250学生/年来代替。Mon Master已发布结果数据当前仅覆盖2024/2025，不能作为2026统计。
-
 严格恢复用户指定的五校顺序：PSL、IP Paris、Sorbonne、Paris-Saclay、Paris Cité，均选择已有分析的英语入口；Grenoble移出。Paris Cité按用户选择作排名例外。Sorbonne与Paris Cité的PPM为联合项目，五校资料不等于五次独立申请机会。
 
 <table style="border-collapse:collapse;width:100%">

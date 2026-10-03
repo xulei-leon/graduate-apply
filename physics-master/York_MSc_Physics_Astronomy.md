@@ -96,3 +96,14 @@ S4. **Department funding package**：https://www.yorku.ca/gradstudies/physics-as
 
 - 官方证据：https://futurestudents.yorku.ca/graduate/programs/physics-and-astronomy
 - 官方证据：https://www.yorku.ca/gradstudies/physics-astronomy/future-students/how-to-apply/
+
+## 申请周期补核（2026-10-03）
+
+| 字段 | 信息 |
+|---|---|
+| Application cycle / 启动至截止 | 2026-09-30 → 2027-01-15（Fall 2027） |
+| 周期说明 | 年度月日仅作准备依据；2027批次须按申请系统确认。 |
+
+官方日期来源：https://www.yorku.ca/gradstudies/physics-astronomy/future-students/how-to-apply/
+
+**申请周期 Last-verified / last-attempted：2026-10-03。**

@@ -85,3 +85,14 @@ S2. **Astronomy and Astrophysics / ordinary versus Advanced / intakes**：https:
 普通版coursework项目公开入学条件未列推荐信固定数量；这不等于个人offer后续不会要求补充材料，须按录取信办理。
 
 - 官方证据：https://programsandcourses.anu.edu.au/2027/program/NSCAA
+
+## 申请周期补核（2026-10-03）
+
+| 字段 | 信息 |
+|---|---|
+| Application cycle / 启动至截止 | 已获Offer；原申请启动/截止未核；接受截止须查个人录取信 |
+| 周期说明 | 年度月日仅作准备依据；2027批次须按申请系统确认。 |
+
+官方日期来源：https://science.anu.edu.au/study/masters/master-science-astronomy-astrophysics
+
+**申请周期 Last-verified / last-attempted：2026-10-03。**

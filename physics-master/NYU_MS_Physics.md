@@ -87,3 +87,14 @@ S3. **Department FAQ / MS funding**：https://as.nyu.edu/nyu-as/as/departments/p
 GSAS要求3封，优先熟悉学术、研究能力的推荐人；不套用non-degree申请的optional规则。
 
 - 官方证据：https://gsas.nyu.edu/nyu-as/gsas/admissions/arc/letters-of-recommendation.html
+
+## 申请周期补核（2026-10-03）
+
+| 字段 | 信息 |
+|---|---|
+| Application cycle / 启动至截止 | 启动未公布 → 年度12-30 17:00 ET；2027批次待确认 |
+| 周期说明 | 年度月日仅作准备依据；2027批次须按申请系统确认。 如遇周末或美国联邦假日，顺延至下一工作日。 |
+
+官方日期来源：https://gsas.nyu.edu/admissions/arc/programs/physics.html
+
+**申请周期 Last-verified / last-attempted：2026-10-03。**

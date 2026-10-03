@@ -102,3 +102,14 @@ S4. **General fee components**：https://www.intl.kit.edu/istudies/3363.php
 Physics专属页面未列必交推荐信；国际招生通用页说部分项目需推荐信，不可将其他专业要求套入Physics。
 
 - 官方证据：https://www.intl.kit.edu/istudies/9074.php
+
+## 申请周期补核（2026-10-03）
+
+| 字段 | 信息 |
+|---|---|
+| Application cycle / 启动至截止 | 启动未公布 → 年度07-15（non-EU冬季）；2027待确认 |
+| 周期说明 | 年度月日仅作准备依据；2027批次须按申请系统确认。 |
+
+官方日期来源：https://www.sle.kit.edu/english/vorstudium/master-physics.php
+
+**申请周期 Last-verified / last-attempted：2026-10-03。**

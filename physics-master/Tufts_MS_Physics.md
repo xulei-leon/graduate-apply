@@ -106,3 +106,14 @@ Physics及Physics/Astrophysics硕士项目页明确three letters；由推荐人�
 
 - 官方证据：https://asegrad.tufts.edu/program/physics-and-physics-astrophysics-masters
 - 官方证据：https://as.tufts.edu/physics/academics/graduate-programs
+
+## 申请周期补核（2026-10-03）
+
+| 字段 | 信息 |
+|---|---|
+| Application cycle / 启动至截止 | 启动未公布 → 年度04-15；优先01-15，滚动至08-01；2027待确认 |
+| 周期说明 | 年度月日仅作准备依据；2027批次须按申请系统确认。 |
+
+官方日期来源：https://asegrad.tufts.edu/program/physics-and-physics-astrophysics-masters
+
+**申请周期 Last-verified / last-attempted：2026-10-03。**

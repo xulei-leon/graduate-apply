@@ -79,3 +79,14 @@ S2. **Department / funding model**：https://physics.mcmaster.ca/graduate-studie
 研究生院要求至少2位熟悉学术工作的推荐人完成eReference；个别项目可要求3位，Physics专属增额本轮未核。
 
 - 官方证据：https://gs.mcmaster.ca/how-to-apply/
+
+## 申请周期补核（2026-10-03）
+
+| 字段 | 信息 |
+|---|---|
+| Application cycle / 启动至截止 | 启动未公布 → 年度04-30；奖学金优先01-31，2027待确认 |
+| 周期说明 | 年度月日仅作准备依据；2027批次须按申请系统确认。 |
+
+官方日期来源：https://gs.mcmaster.ca/program/physics-and-astronomy/
+
+**申请周期 Last-verified / last-attempted：2026-10-03。**

@@ -108,3 +108,14 @@ S5. **Official programme page content / fees**：https://www.uni-hamburg.de/onTE
 英语Physics官方申请PDF列完整上传材料，未列推荐信；最终以STiNE项目清单与补件通知为准。
 
 - 官方证据：https://www.uni-hamburg.de/onTEAM/studiengaenge/physics_e.pdf
+
+## 申请周期补核（2026-10-03）
+
+| 字段 | 信息 |
+|---|---|
+| Application cycle / 启动至截止 | 年度02-15 → 03-31（10月入学）；2027批次待确认 |
+| 周期说明 | 年度月日仅作准备依据；2027批次须按申请系统确认。 |
+
+官方日期来源：https://www.physik.uni-hamburg.de/studium/studiengaenge/masterstudiengaenge/msc-physics.html
+
+**申请周期 Last-verified / last-attempted：2026-10-03。**

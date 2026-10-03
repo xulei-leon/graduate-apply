@@ -87,3 +87,14 @@ S3. **TGS program**：https://www.tgs.northwestern.edu/admission/academic-progra
 TGS最低2封，允许项目增额；MS Physics公开页面未核到额外数量，不能将校级最低写为项目恰好2封。
 
 - 官方证据：https://www.tgs.northwestern.edu/admission/application-procedures/application-requirements/letters-of-recommendation.html
+
+## 申请周期补核（2026-10-03）
+
+| 字段 | 信息 |
+|---|---|
+| Application cycle / 启动至截止 | 启动待核 → 截止待核；须查MS专属窗口，不套用PhD |
+| 周期说明 | 年度月日仅作准备依据；2027批次须按申请系统确认。 |
+
+官方日期来源：https://www.physics.northwestern.edu/graduate/master-degree/index.html
+
+**申请周期 Last-verified / last-attempted：2026-10-03。**

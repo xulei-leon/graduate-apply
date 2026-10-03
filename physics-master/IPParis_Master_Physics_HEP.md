@@ -90,19 +90,13 @@ HEP M1项目页明确2份，由推荐人直接在线提交。FAQ中内部学生�
 
 - 官方证据：https://www.ip-paris.fr/en/education/useful-information/admissions
 
+## 申请周期补核（2026-10-03）
 
-## 2026申请数量与名额补核（2026-10-03）
-
-统计对象：2026年秋季 / 2026–2027学年 M1 High Energy Physics。
-
-| 字段 | 本轮核查 |
+| 字段 | 信息 |
 |---|---|
-| 2026项目申请数量 | 未找到官方公开数字；不表示零申请 |
-| 2026国际生申请数量 | 未找到官方公开数字 |
-| 2026项目名额 | 未找到官方公开数字 |
-| 2026国际生专属配额 | 未找到已核实的单列数字 |
-| 2026国际生录取率 | 数据不足，不能计算 |
+| Application cycle / 启动至截止 | 2027待公布；2026参考三轮：2025-10-29 → 2026-01-08；2026-01-09 → 03-26；2026-03-27 → 05-28 |
+| 周期说明 | 年度月日仅作准备依据；2027批次须按申请系统确认。 |
 
-官方来源：https://www.ip-paris.fr/en/education/graduate-programs/masters-science/physics-program/master-year-1-high-energy-physics
+官方日期来源：https://www.ip-paris.fr/en/education/useful-information/admissions
 
-完整口径、访问缺口和教育部公开数据年份见[法国五校2026统计核查](../application/phy-master-plan/France_Physics_2026_Applications_Capacity.md)。**Last-verified：2026-10-03。**
+**申请周期 Last-verified / last-attempted：2026-10-03。**

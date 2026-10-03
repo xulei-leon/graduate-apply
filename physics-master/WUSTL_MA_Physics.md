@@ -93,3 +93,14 @@ S4. **US News latest ranking (access attempted)**：https://www.usnews.com/best-
 Physics系明确Masters须letters；Graduate Studies FAQ仅说明系统最多接收3封，没有据此确认MA最低数。
 
 - 官方证据：https://gradstudies.artsci.washu.edu/application-process
+
+## 申请周期补核（2026-10-03）
+
+| 字段 | 信息 |
+|---|---|
+| Application cycle / 启动至截止 | 启动待核 → 截止待核；2027 MA专属日期未核实 |
+| 周期说明 | 年度月日仅作准备依据；2027批次须按申请系统确认。 |
+
+官方日期来源：https://physics.wustl.edu/how-apply
+
+**申请周期 Last-verified / last-attempted：2026-10-03。**

@@ -100,3 +100,14 @@ Physics & Astronomy系How to Apply要求at least three letters of recommendation
 
 - 官方证据：https://artsci.tamu.edu/physics-astronomy/academics/prospective-graduates/how-to-apply.html
 - 官方证据：https://artsci.tamu.edu/physics-astronomy/academics/prospective-graduates/faqs.html
+
+## 申请周期补核（2026-10-03）
+
+| 字段 | 信息 |
+|---|---|
+| Application cycle / 启动至截止 | 2026-08-01 → 2027-01-10（优先）；网页仍误写Fall 2026，须核CAS周期 |
+| 周期说明 | 官网明确列August 1, 2026启动和January 10, 2027截止，但同段仍称fall 2026；FAQ将01-10解释为充分考虑录取和assistantships的节点，之后仍可提交。提交前核对GraduateCAS周期。 |
+
+官方日期来源：https://artsci.tamu.edu/physics-astronomy/academics/prospective-graduates/how-to-apply.html
+
+**申请周期 Last-verified / last-attempted：2026-10-03。**

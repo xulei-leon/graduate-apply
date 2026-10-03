@@ -101,3 +101,14 @@ S5. **Astrophysics / cosmology research groups**：https://www.sfu.ca/physics/re
 Physics Applying页明确3位scientists的姓名及联系信息，由推荐人完成在线recommendations；相关学科及获认可的industry referee规则见FAQ。
 
 - 官方证据：https://www.sfu.ca/physics/graduate/prospective/applying.html
+
+## 申请周期补核（2026-10-03）
+
+| 字段 | 信息 |
+|---|---|
+| Application cycle / 启动至截止 | 启动未公布 → 年度05-31；奖学金建议01-15前，2027待确认 |
+| 周期说明 | 年度月日仅作准备依据；2027批次须按申请系统确认。 |
+
+官方日期来源：https://www.sfu.ca/physics/graduate/prospective/deadlines.html
+
+**申请周期 Last-verified / last-attempted：2026-10-03。**

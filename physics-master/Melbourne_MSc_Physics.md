@@ -87,3 +87,14 @@ S3. **Official handbook (challenge on this check)**：https://handbook.unimelb.e
 核心课程/entry网页正文访问受限，未核到该Physics MSc推荐信清单。
 
 - 官方证据：https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/
+
+## 申请周期补核（2026-10-03）
+
+| 字段 | 信息 |
+|---|---|
+| Application cycle / 启动至截止 | 启动待核 → 截止待核；2027 mid-year是否开放待核 |
+| 周期说明 | 核心官方正文HTTP403，保留明确待核状态，不推断申请日期。 |
+
+官方日期来源：https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/
+
+**申请周期 Last-verified / last-attempted：2026-10-03。**

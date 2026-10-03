@@ -90,3 +90,14 @@ S2. **Language certificates**：https://www.tum.de/en/studies/application/applic
 本轮English Physics项目的公开申请材料清单未列推荐信；以TUMonline最终申请清单及个案补件为准，未列不自动写成0封。
 
 - 官方证据：https://www.tum.de/en/studies/degree-programs/detail/physics-applied-and-engineering-physics-master-of-science-msc
+
+## 申请周期补核（2026-10-03）
+
+| 字段 | 信息 |
+|---|---|
+| Application cycle / 启动至截止 | 年度冬季01-01 → 05-31；夏季09-01 → 11-30；2027待确认 |
+| 周期说明 | 年度月日仅作准备依据；2027批次须按申请系统确认。 |
+
+官方日期来源：https://www.tum.de/en/studies/degree-programs/detail/physics-applied-and-engineering-physics-master-of-science-msc
+
+**申请周期 Last-verified / last-attempted：2026-10-03。**

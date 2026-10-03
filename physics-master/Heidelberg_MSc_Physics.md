@@ -109,3 +109,14 @@ S5. **Admission regulations linked by faculty**：https://www.uni-heidelberg.de/
 
 - 官方证据：https://www.physik.uni-heidelberg.de/c/image/exp/f/front/study/MScZulassungsvoraussetzungen_DE.pdf
 - 官方证据：https://www.uni-heidelberg.de/md/studium/interesse/faecher/6._anderungssatzung_zulassungsordnung_ma_physik_internet_15.05.2015.pdf
+
+## 申请周期补核（2026-10-03）
+
+| 字段 | 信息 |
+|---|---|
+| Application cycle / 启动至截止 | 启动未公布 → 年度07-15（non-EU冬季）；2027待确认 |
+| 周期说明 | 年度月日仅作准备依据；2027批次须按申请系统确认。 |
+
+官方日期来源：https://www.physik.uni-heidelberg.de/studium/master?lang=en
+
+**申请周期 Last-verified / last-attempted：2026-10-03。**

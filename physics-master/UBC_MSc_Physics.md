@@ -79,3 +79,14 @@ S2. **Physics calendar**：https://vancouver.calendar.ubc.ca/faculties-colleges-
 Physics MSc明确要求3份references；推荐人按学校在线渠道提交。
 
 - 官方证据：https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics
+
+## 申请周期补核（2026-10-03）
+
+| 字段 | 信息 |
+|---|---|
+| Application cycle / 启动至截止 | 启动待公布 → 截止待公布；官网未配置下一批次日期 |
+| 周期说明 | 年度月日仅作准备依据；2027批次须按申请系统确认。 |
+
+官方日期来源：https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics
+
+**申请周期 Last-verified / last-attempted：2026-10-03。**

@@ -109,3 +109,14 @@ Physics-specific application材料及推荐信要求尚未核清；课程admissi
 
 - 官方证据：https://ethz.ch/content/dam/ethz/common/docs/master-profile/englisch/naturwissenschaften/MSc-Physics-Appendix.pdf
 - 官方证据：https://ethz.ch/en/studies/master/application/dates.html
+
+## 申请周期补核（2026-10-03）
+
+| 字段 | 信息 |
+|---|---|
+| Application cycle / 启动至截止 | 2026-11-01 → 2026-11-30 11:59 AM CET（Fall 2027；国际本科） |
+| 周期说明 | 已明确公布Autumn Semester 2027国际本科窗口；2026-11-30 11:59 AM CET约为北京时间18:59，不是午夜；不使用Swiss Bachelor窗口。 |
+
+官方日期来源：https://ethz.ch/en/studies/master/application/dates.html
+
+**申请周期 Last-verified / last-attempted：2026-10-03。**

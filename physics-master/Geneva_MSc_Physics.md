@@ -90,3 +90,14 @@ S2. **Cosmology and Astrophysics of Particles track**：https://www.unige.ch/sci
 Physics programme page未核到完整推荐材料要求，不能由项目介绍未提及就断言无需推荐。
 
 - 官方证据：https://www.unige.ch/sciences/physique/enseignement/master
+
+## 申请周期补核（2026-10-03）
+
+| 字段 | 信息 |
+|---|---|
+| Application cycle / 启动至截止 | 启动未公布 → 年度02-28（需visa）；2027待确认 |
+| 周期说明 | 年度月日仅作准备依据；2027批次须按申请系统确认。 |
+
+官方日期来源：https://www.unige.ch/sciences/physique/enseignement/master
+
+**申请周期 Last-verified / last-attempted：2026-10-03。**

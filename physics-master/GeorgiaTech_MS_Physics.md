@@ -83,3 +83,14 @@ S3. **English policy effective Fall2027**：https://grad.gatech.edu/english-prof
 校级graduate招生流程将letters列为申请材料；Physics MS专属数量未在可读官方正文确认，不把PhD数量套给MS。
 
 - 官方证据：https://catalog.gatech.edu/admissions/grad/process-requirements/
+
+## 申请周期补核（2026-10-03）
+
+| 字段 | 信息 |
+|---|---|
+| Application cycle / 启动至截止 | 启动未公布 → 年度12-15；2027 MS批次待确认 |
+| 周期说明 | 年度月日仅作准备依据；2027批次须按申请系统确认。 |
+
+官方日期来源：https://physics.gatech.edu/academics/graduate/admissions-info
+
+**申请周期 Last-verified / last-attempted：2026-10-03。**

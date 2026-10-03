@@ -90,19 +90,13 @@ S3. **Dedicated applications (TLS issue on this check)**：https://master.physiq
 
 - 官方证据：https://master.physique.sorbonne-universite.fr/fr/candidatures-inscription.html
 
+## 申请周期补核（2026-10-03）
 
-## 2026申请数量与名额补核（2026-10-03）
-
-统计对象：2026年秋季 / 2026–2027学年 Paris Physics Master（与Paris Cité联办）。
-
-| 字段 | 本轮核查 |
+| 字段 | 信息 |
 |---|---|
-| 2026项目申请数量 | 未找到官方公开数字；不表示零申请 |
-| 2026国际生申请数量 | 未找到官方公开数字 |
-| 2026项目名额 | 未找到PPM的2026官方公开数字；普通M1历史约250学生/年不适用 |
-| 2026国际生专属配额 | 未找到已核实的单列数字 |
-| 2026国际生录取率 | 数据不足，不能计算 |
+| Application cycle / 启动至截止 | 启动待核 → 截止待核；2027 English M1专属窗口未核实 |
+| 周期说明 | Sorbonne与Paris Cité联办PPM，不能当作两次独立申请。加拿大EEF 2027/28日历不是项目专属窗口，具体渠道仍须确认。 |
 
-官方来源：https://sciences.sorbonne-universite.fr/en/masters/master-fundamental-physics-and-applications/m1-first-year-master
+官方日期来源：https://master.physique.sorbonne-universite.fr/fr/candidatures-inscription.html
 
-完整口径、访问缺口和教育部公开数据年份见[法国五校2026统计核查](../application/phy-master-plan/France_Physics_2026_Applications_Capacity.md)。**Last-verified：2026-10-03。**
+**申请周期 Last-verified / last-attempted：2026-10-03。**

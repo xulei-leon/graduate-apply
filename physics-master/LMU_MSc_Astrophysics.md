@@ -90,3 +90,14 @@ S2. **Astrophysics admission / no German / optional GRE**：https://www.physik.l
 Astrophysics招生页明确recommendation not required，可由推荐人直接发送one or more letters；申请人自行提交的信件不考虑。
 
 - 官方证据：https://www.physik.lmu.de/en/studies/study-programs/applying-to-a-masters-program/
+
+## 申请周期补核（2026-10-03）
+
+| 字段 | 信息 |
+|---|---|
+| Application cycle / 启动至截止 | 年度11-01 → 次年01-15；05-01 → 07-15；2027批次待确认 |
+| 周期说明 | 年度月日仅作准备依据；2027批次须按申请系统确认。 January 15可申请同年April或October；July 15可申请同年October或次年April；非德国本科申请人另须并行申请International Office。 |
+
+官方日期来源：https://www.physik.lmu.de/en/studies/study-programs/applying-to-a-masters-program/
+
+**申请周期 Last-verified / last-attempted：2026-10-03。**

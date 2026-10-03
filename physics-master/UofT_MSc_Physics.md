@@ -95,3 +95,14 @@ S4. **Financial support**：https://www.physics.utoronto.ca/graduate/prospective
 2封academic references，官网要求不要多于2封。
 
 - 官方证据：https://www.physics.utoronto.ca/graduate/prospective-students/graduate-admissions-department-physics/admissions-procedure/
+
+## 申请周期补核（2026-10-03）
+
+| 字段 | 信息 |
+|---|---|
+| Application cycle / 启动至截止 | 年度09-16 → 12-11；2027批次待确认 |
+| 周期说明 | 年度月日仅作准备依据；2027批次须按申请系统确认。 |
+
+官方日期来源：https://www.physics.utoronto.ca/graduate/prospective-students/graduate-admissions-department-physics/application-information/
+
+**申请周期 Last-verified / last-attempted：2026-10-03。**

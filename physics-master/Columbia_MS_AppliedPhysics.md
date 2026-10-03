@@ -81,3 +81,14 @@ S2. **Engineering graduate catalog**：https://bulletin.columbia.edu/columbia-en
 Columbia Engineering Graduate Admissions明确普通申请者须3封；仅限本校等身份的MS Express豁免不适用于UofT外部申请。
 
 - 官方证据：https://bulletin.columbia.edu/columbia-engineering/graduate-studies/graduate-admissions/
+
+## 申请周期补核（2026-10-03）
+
+| 字段 | 信息 |
+|---|---|
+| Application cycle / 启动至截止 | 启动待核 → 截止待核；2027专属日期未核实 |
+| 周期说明 | 年度月日仅作准备依据；2027批次须按申请系统确认。 |
+
+官方日期来源：https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/applied-physics-applied-mathematics/graduate-programs/applied-physics-ms/
+
+**申请周期 Last-verified / last-attempted：2026-10-03。**

@@ -83,3 +83,14 @@ S2. **Admissions (403 on this check)**：https://www.ualberta.ca/en/physics/grad
 现有核心官方招生页访问403，不能确认必需性或数量，不能当作免推荐。
 
 - 官方证据：https://www.ualberta.ca/en/physics/graduate-studies/admissions.html
+
+## 申请周期补核（2026-10-03）
+
+| 字段 | 信息 |
+|---|---|
+| Application cycle / 启动至截止 | 启动待核 → 截止待核；官方正文访问受限 |
+| 周期说明 | 核心官方正文HTTP403，保留明确待核状态，不推断申请日期。 |
+
+官方日期来源：https://www.ualberta.ca/en/physics/graduate-studies/admissions.html
+
+**申请周期 Last-verified / last-attempted：2026-10-03。**

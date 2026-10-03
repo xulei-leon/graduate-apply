@@ -102,3 +102,14 @@ S4. **Master eligibility and offered French course**：https://www.epfl.ch/educa
 须登记3位熟悉本人工作的academic referees，至少收到2封才处理申请。推荐人系统提交；收信截止为申请截止后1周，按确认邮件具体日期。Swiss同领域本科豁免不适用于UofT。
 
 - 官方证据：https://www.epfl.ch/education/admission/master-admission-criteria-application/online-application/
+
+## 申请周期补核（2026-10-03）
+
+| 字段 | 信息 |
+|---|---|
+| Application cycle / 启动至截止 | 年度11月中旬 → 12-15；12-16 → 次年03-31；2027待确认 |
+| 周期说明 | 年度月日仅作准备依据；2027批次须按申请系统确认。 |
+
+官方日期来源：https://www.epfl.ch/education/admission/master-admission-criteria-application/online-application/
+
+**申请周期 Last-verified / last-attempted：2026-10-03。**

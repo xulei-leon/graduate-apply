@@ -101,3 +101,14 @@ S5. **Research / computational astrophysics**：https://www.uvic.ca/science/phys
 项目清单需2位推荐人姓名及邮箱；推荐人按学校流程提交推荐。
 
 - 官方证据：https://www.uvic.ca/graduate/admissions/admission-requirements/index.php
+
+## 申请周期补核（2026-10-03）
+
+| 字段 | 信息 |
+|---|---|
+| Application cycle / 启动至截止 | 启动未公布 → 入学前一年12-01（优先）；次年08-01补录，年度规则 |
+| 周期说明 | 按年度规则，Fall 2027的优先节点推算为2026-12-01；之后至2027-08-01可考虑申请但无优先及UVic entrance scholarship待遇；上述年份是推算，非独立2027公告。 |
+
+官方日期来源：https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/physics-and-astronomy-cred/physics-msc.php
+
+**申请周期 Last-verified / last-attempted：2026-10-03。**
