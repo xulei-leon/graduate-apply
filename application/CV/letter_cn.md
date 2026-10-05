@@ -1,22 +1,31 @@
 
 
-主题：2027 年秋季 Astronomy/Physics MSc 研究机会咨询：【具体研究关键词】
+主题：2027 年秋季 MSc 招生咨询
 
 尊敬的【姓氏】教授：
 
-您好！我是 Hongyi Xu，目前就读于 University of Toronto 的 Physics Specialist 本科专业，攻读 Honours Bachelor of Science（HBSc）学位，预计于 2027 年 6 月毕业，计划申请 2027 年秋季入学的【学校及项目正式名称】。
+您好！我是 Hongyi Xu，目前就读于 University of Toronto 的 Physics Specialist 本科专业，攻读 Honours Bachelor of Science（HBSc）学位，预计于 2027 年 6 月毕业。我计划申请【学校】的【MSc 项目正式名称】，于 2027 年秋季入学。
 
-您参与撰写的论文【英文题名与年份，链接】中，【具体问题或方法】引起了我的兴趣。这与我在 MaNGA 分析中遇到的【具体问题】相联系：两者都需要【共同的推断或检验步骤】。
+我对您的论文【论文题名】（【论文链接】）中的【具体结果、比较或方法】尤其感兴趣。在 MaNGA 项目中，我利用星系运动学推断暗物质晕的质量和浓度，并保留二者之间的不确定性相关性。这段经历使我开始思考【将自身研究与该论文联系起来的具体研究问题】。
 
-2025—2026 年，我独立完成了 MaNGA 暗物质晕项目的研究分析。针对旋转曲线拟合中的晕质量—浓度简并，我使用 PyMC 进行贝叶斯建模与 MCMC 采样，刻画联合后验，再以先验校正的重要性采样推断 620 个筛选后盘星系的群体浓度—质量关系。我通过先验敏感性、倾角假设与后验重加权稳定性检验，评估群体约束的可靠性。这段经历使我学会将单星系参数的不确定性传递到群体推断，并识别结论对模型假设的依赖。我的第一作者手稿已完成：[手稿 PDF](https://hyi03.github.io/manga-dm/paper/Local_Concentration__Mass_Relation_from_MaNGA.pdf)。
-在另一个正在进行的项目中，我利用 ATLAS 公开模拟样本，研究运动学输入的选择如何影响统计约束的可靠性。
+我的研究经历包括：
 
-我希望在硕士阶段，在您的指导下开展研究，夯实物理基础，提升数值计算与统计分析能力。结合已有建模与推断经验，我希望更好地提出问题、选择方法和解释结果，并结合组内研究与自身兴趣，逐步明确研究方向。
+- MaNGA 星系动力学：使用 PyMC，为 620 个筛选后的 MaNGA 盘星系构建旋转曲线建模流程，将单星系后验分布用于群体浓度—质量关系的推断。
+- 不确定性分析：子样本检验表明，纳入倾角不确定性后，浓度—质量关系的约束区间会变宽。
+- 正在进行的 Higgs 项目：利用 ATLAS 公开的 H → ZZ* → 2e2μ 模拟样本，构建剖面似然（profile likelihood）分析流程，研究运动学输入如何影响对 Higgs 信号强度的约束。
 
-请问您是否考虑招收 2027 年秋季入学的硕士生？随信附上 CV，供您参考。我希望有机会与您简短交流，了解可能的研究项目及所需准备。感谢您的时间。
+MaNGA 项目的研究内容已整理为我的第一作者手稿（尚未投稿）：
+https://hyi03.github.io/manga-dm/paper/Local_Concentration__Mass_Relation_from_MaNGA.pdf
+
+在硕士阶段，我希望在已有数值建模与统计推断经验的基础上，开展计算物理研究。我尤其关注您课题组在【具体研究领域】方面的工作，希望有机会在您的指导下探索相关研究。
+
+请问您是否考虑招收 2027 年秋季入学的 MSc 学生？随信附上我的 CV。如果您认为我的背景与课题组的研究方向契合，我很愿意进一步交流潜在的研究机会。
+
+感谢您的时间与考虑。
 
 此致
 
 Hongyi Xu
-Honours Bachelor of Science（HBSc）在读，Physics Specialist，University of Toronto
+HBSc 在读，Physics Specialist
+University of Toronto
 hyi.xu@mail.utoronto.ca

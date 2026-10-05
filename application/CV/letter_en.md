@@ -1,19 +1,28 @@
-Subject: Fall 2027 Astronomy/Physics MSc inquiry: 【specific research focus】
+Subject: Fall 2027 MSc Inquiry
 
-Dear Professor 【Surname】,
+Dear Professor [Surname],
 
-I am pursuing an Honours Bachelor of Science (HBSc) in the Physics Specialist program at the University of Toronto, expecting to graduate in June 2027. I plan to apply to 【official university and program name】 for Fall 2027.
+I am an Honours Bachelor of Science (HBSc) student in the Physics Specialist program at the University of Toronto, expecting to graduate in June 2027. I plan to apply to [University]’s [official MSc program name] for Fall 2027.
 
-The paper you co-authored, [【paper title and year】](【paper URL】), interested me particularly for its treatment of 【specific question or method】. This relates to 【specific problem】 in my MaNGA analysis: both involve 【shared inference or validation step】.
+I am particularly interested in [specific result, comparison, or method] in your paper, [paper title] ([paper URL]). My MaNGA work uses galaxy kinematics to infer halo masses and concentrations while retaining their correlated uncertainties. This experience has led me to ask [a concrete research question connecting your work to the paper].
 
-In 2025–2026, I independently studied halo mass–concentration degeneracy in MaNGA rotation-curve fits using PyMC Bayesian modeling and MCMC sampling. Using prior-corrected importance sampling of joint posterior samples, I inferred the population concentration–mass relation for 620 selected disk galaxies. This work taught me to propagate individual-galaxy uncertainties into population inference and assess reliability through prior-sensitivity, inclination, and posterior-reweighting stability checks. My [first-author manuscript](https://hyi03.github.io/manga-dm/paper/Local_Concentration__Mass_Relation_from_MaNGA.pdf) is complete. In a separate ongoing project using public ATLAS simulations, I am studying how the choice of kinematic inputs affects the reliability of statistical constraints.
+My research experience includes:
 
-During my master's studies, I hope to strengthen my physics foundations and numerical and statistical skills through research under your supervision. Building on my modeling and inference experience, I aim to better formulate questions, select methods, and interpret results, while refining my research direction through your group's work and my own interests.
+- MaNGA galaxy dynamics: Developed a rotation-curve modeling pipeline using PyMC for 620 selected MaNGA disk galaxies, linking galaxy-level posteriors to inference of the population concentration–mass relation.
+- Uncertainty analysis: Subsample tests showed that allowing for inclination uncertainty broadened the constraints on the concentration–mass relation.
+- Ongoing Higgs project: Built a profile-likelihood workflow using public ATLAS simulations of H → ZZ* → 2e2μ to study how kinematic inputs affect constraints on the Higgs signal strength.
 
-Are you considering master's students for Fall 2027? My CV is attached. I would welcome a brief discussion of possible research projects and how I could prepare. Thank you for your time.
+The MaNGA work is described in my first-author manuscript (not yet submitted):
+https://hyi03.github.io/manga-dm/paper/Local_Concentration__Mass_Relation_from_MaNGA.pdf
+
+For my MSc, I hope to pursue research in computational physics, building on my experience in numerical modeling and statistical inference. I am particularly interested in your group’s work on [specific research area] and would welcome the opportunity to explore related research under your supervision.
+
+Are you considering new MSc students for Fall 2027? My CV is attached. I would be very happy to discuss potential research opportunities if you think my background could be a good fit for your group.
+
+Thank you for your time and consideration.
 
 Best regards,
-
-Hongyi Xu  
-Honours Bachelor of Science (HBSc) student, Physics Specialist, University of Toronto  
+Hongyi Xu
+HBSc Student, Physics Specialist
+University of Toronto
 hyi.xu@mail.utoronto.ca
