@@ -118,3 +118,14 @@ S6. **Physics research themes**：https://physics.uwo.ca/research/physics/index.
 官方日期来源：https://physics.uwo.ca/graduate/future_students/admission_requirements.html
 
 **申请周期 Last-verified / last-attempted：2026-10-03。**
+
+## 申请前导师联系要求补核（2026-10-05）
+
+| 字段 | 信息 |
+|---|---|
+| 申请前联系导师 | 强烈建议提前联系 |
+| 要求与时间点 | 所有录取与faculty supervisor共同作出；系强烈鼓励申请前联系，但未规定提交申请前必须获承诺。 |
+
+官方来源：https://physics.uwo.ca/graduate/future_students/how_to_apply.html
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

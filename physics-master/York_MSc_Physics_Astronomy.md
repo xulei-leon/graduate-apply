@@ -107,3 +107,14 @@ S4. **Department funding package**：https://www.yorku.ca/gradstudies/physics-as
 官方日期来源：https://www.yorku.ca/gradstudies/physics-astronomy/future-students/how-to-apply/
 
 **申请周期 Last-verified / last-attempted：2026-10-03。**
+
+## 申请前导师联系要求补核（2026-10-05）
+
+| 字段 | 信息 |
+|---|---|
+| 申请前联系导师 | 未列提前联系要求 |
+| 要求与时间点 | 所查申请页未列申请前必须获导师承诺；Thesis研究需supervisor及supervisory committee，名额另核。 |
+
+官方来源：https://www.yorku.ca/gradstudies/physics-astronomy/future-students/how-to-apply/
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

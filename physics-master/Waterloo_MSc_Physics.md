@@ -94,3 +94,14 @@ MSc需3份references，其中至少2份academic，第三份可academic或profess
 官方日期来源：https://uwaterloo.ca/physics-astronomy/graduate-studies/how-apply
 
 **申请周期 Last-verified / last-attempted：2026-10-03。**
+
+## 申请前导师联系要求补核（2026-10-05）
+
+| 字段 | 信息 |
+|---|---|
+| 申请前联系导师 | 可申请后联系；录取前须匹配 |
+| 要求与时间点 | Thesis导师须在录取前确定；官网明确可申请前或申请后联系，强烈建议申请中列潜在导师。 |
+
+官方来源：https://uwaterloo.ca/physics-astronomy/graduate-studies/how-apply
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

@@ -100,3 +100,14 @@ Physics and Astronomy MSc Thesis项目页明确Reference letters: Two。
 官方日期来源：https://grad.ucalgary.ca/future-students/explore-programs/physics-and-astronomy-msc-thesis
 
 **申请周期 Last-verified / last-attempted：2026-10-03。**
+
+## 申请前导师联系要求补核（2026-10-05）
+
+| 字段 | 信息 |
+|---|---|
+| 申请前联系导师 | 无需入学前确定导师 |
+| 要求与时间点 | 官网明确需要supervisor，但无需在项目开始前确定；可先申请，后续仍须落实指导关系。 |
+
+官方来源：https://grad.ucalgary.ca/future-students/explore-programs/physics-and-astronomy-msc-thesis
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

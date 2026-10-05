@@ -126,3 +126,14 @@ Physics foreign Bachelor入学资料未列固定推荐信要求；如审核时�
 官方日期来源：https://www.uzh.ch/en/studies/application/deadlines.html
 
 **申请周期 Last-verified / last-attempted：2026-10-03。**
+
+## 申请前导师联系要求补核（2026-10-05）
+
+| 字段 | 信息 |
+|---|---|
+| 申请前联系导师 | 未列提前联系；论文前落实 |
+| 要求与时间点 | foreign Bachelor入学页未列申请前导师同意；learning agreement在开始Master thesis前与项目主任及/或论文导师确定。 |
+
+官方来源：https://www.physik.uzh.ch/en/study/Study-Degree-Programmes/Master/admission.html
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

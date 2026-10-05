@@ -112,3 +112,14 @@ S5. **Research / computational astrophysics**：https://www.uvic.ca/science/phys
 官方日期来源：https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/physics-and-astronomy-cred/physics-msc.php
 
 **申请周期 Last-verified / last-attempted：2026-10-03。**
+
+## 申请前导师联系要求补核（2026-10-05）
+
+| 字段 | 信息 |
+|---|---|
+| 申请前联系导师 | 申请时无需列导师 |
+| 要求与时间点 | Physics MSc官网明确申请表无需列supervisor；该声明不能扩大为整个研究学位无需指导关系。 |
+
+官方来源：https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/physics-and-astronomy-cred/physics-msc.php
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

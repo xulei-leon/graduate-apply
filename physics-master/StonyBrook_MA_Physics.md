@@ -92,3 +92,14 @@ Physics graduate申请页要求3封电子推荐信。
 官方日期来源：https://www.stonybrook.edu/physics/graduate/apply.html
 
 **申请周期 Last-verified / last-attempted：2026-10-03。**
+
+## 申请前导师联系要求补核（2026-10-05）
+
+| 字段 | 信息 |
+|---|---|
+| 申请前联系导师 | 无需联系个别导师 |
+| 要求与时间点 | 系招生页明确由Admissions Committee集中评审，无需联系individual faculty；申请应列有兴趣合作的faculty。 |
+
+官方来源：https://www.stonybrook.edu/physics/graduate/apply.html
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

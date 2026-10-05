@@ -106,3 +106,14 @@ ICFP官方材料清单明确M1需2 Letters of Reference；M2是两位referees联
 官方来源：https://psl.eu/en/education/master-s-degree-physics
 
 完整口径、访问缺口和教育部公开数据年份见[法国五校2026统计核查](../application/phy-master-plan/France_Physics_2026_Applications_Capacity.md)。**Last-verified：2026-10-03。**
+
+## 申请前导师联系要求补核（2026-10-05）
+
+| 字段 | 信息 |
+|---|---|
+| 申请前联系导师 | 所查页面未列提前联系要求 |
+| 要求与时间点 | 所查本项目公开招生／课程页面未列申请前必须联系或获导师同意；这不是明确免除声明，提交前仍按项目申请系统及补件通知确认。研究实习或论文导师另行安排。 |
+
+官方来源：https://psl.eu/en/education/master-s-degree-physics
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

@@ -98,3 +98,14 @@ S3. **Official handbook (challenge on this check)**：https://handbook.unimelb.e
 官方日期来源：https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/
 
 **申请周期 Last-verified / last-attempted：2026-10-03。**
+
+## 申请前导师联系要求补核（2026-10-05）
+
+| 字段 | 信息 |
+|---|---|
+| 申请前联系导师 | 待核：官网访问受限 |
+| 要求与时间点 | 课程及入学要求正文HTTP403；handbook虽返回200，正文为访问拦截页，无法确认申请前导师要求。 |
+
+官方来源：https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/entry-requirements/
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

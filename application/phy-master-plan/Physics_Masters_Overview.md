@@ -6,7 +6,7 @@
 |---|---:|---:|---|
 | 加拿大 | 12 | 5 | McGill、Alberta、McMaster、Queen’s、Western |
 | 澳大利亚 | 2 | 1 | Melbourne |
-| 美国 | 10 | 4 | Northwestern、NYU、WashU、UT Austin |
+| 美国 | 10 | 4 | Northwestern、NYU、UT Austin、Texas A&M |
 | 法国 | 5 | 3 | Paris-Saclay、PSL / ENS、Sorbonne |
 | 德国 | 5 | 3 | LMU、Heidelberg、KIT |
 | 瑞士 | 5 | 2 | EPFL、UZH |
@@ -42,7 +42,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <th style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">学制 / 研究形式 / 申请周期</th>
 <th style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">个人资格焦点</th>
 <th style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">申请优先级</th>
-<th style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">是否需要推荐信</th>
+<th style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">推荐信 / 申请前联系导师</th>
 <th style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">推荐信数量要求</th>
 </tr>
 <tr>
@@ -50,7 +50,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">1年，3 sessions；研究项目与研究报告；不应写成固定2年thesis MSc。<a href="https://www.physics.utoronto.ca/graduate/prospective-students/graduate-admissions-department-physics/application-information/" style="color:inherit"><br><br><strong>申请周期：</strong><br>年度09-16 → 12-11；2027批次待确认</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">系里要求B+；CGPA 3.0不能证明达标。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">冲刺；先核末年GPA</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需<br><br><strong>申请前联系导师：</strong><br><a href="https://www.physics.utoronto.ca/graduate/prospective-students/graduate-admissions-department-physics/admissions-procedure/">未列提前联系要求</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">2封</td>
 </tr>
 <tr>
@@ -58,7 +58,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">通常约2年；官网历史平均2.3年；至少30 credits，其中18-credit thesis、12 credits graduate coursework；须public research presentation。<a href="https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics" style="color:inherit"><br><br><strong>申请周期：</strong><br>启动待公布 → 截止待公布；官网未配置下一批次日期</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">项目期望三、四年级平均80%+；3.0须分段审查。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">冲刺；导师方向先匹配</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需<br><br><strong>申请前联系导师：</strong><br><a href="https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics">无需先获承诺；鼓励联系</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">3份</td>
 </tr>
 <tr style="background-color:#FFFF00" data-priority-application="true">
@@ -66,7 +66,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">2年；45 credits；5门课共15 credits，另30 credits研究论文。<a href="https://www.mcgill.ca/gradapplicants/program/physics-msc" style="color:inherit"><br><br><strong>申请周期：</strong><br>年度09-15 → 12-15；2027批次待确认</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">大学最低3.0；系级门槛及竞争分布未公开。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">冲刺；门槛边缘</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需<br><br><strong>申请前联系导师：</strong><br><a href="https://www.physics.mcgill.ca/grads/application.html">官方建议提前联系</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">2封</td>
 </tr>
 <tr>
@@ -74,7 +74,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">2年，6 terms；4门研究生课与thesis；本轮选择Thesis选项。<a href="https://uwaterloo.ca/physics-astronomy/graduate-studies/how-apply" style="color:inherit"><br><br><strong>申请周期：</strong><br>启动未公布 → 年度01-09；2027批次待确认</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">Honours Science至少75%；必须落实导师。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">导师匹配后优先</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需<br><br><strong>申请前联系导师：</strong><br><a href="https://uwaterloo.ca/physics-astronomy/graduate-studies/how-apply">可申请后联系；录取前须匹配</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">3份</td>
 </tr>
 <tr style="background-color:#FFFF00" data-priority-application="true">
@@ -82,7 +82,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">Thesis 2年；coursework 1年；两条路线；本轮优先2年thesis研究。<a href="https://gs.mcmaster.ca/program/physics-and-astronomy/" style="color:inherit"><br><br><strong>申请周期：</strong><br>启动未公布 → 年度04-30；奖学金优先01-31，2027待确认</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">Honours Physics/Astronomy；数值GPA未核闭环。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">条件备选；先核成绩</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需<br><br><strong>申请前联系导师：</strong><br><a href="https://gs.mcmaster.ca/how-to-apply/">官方建议联系研究组</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">至少2位（校级）</td>
 </tr>
 <tr style="background-color:#FFFF00" data-priority-application="true">
@@ -90,7 +90,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">2年；至少4门term courses、研究项目及thesis，2年内完成。<a href="https://www.queensu.ca/physics/grad-studies/admission-requirements" style="color:inherit"><br><br><strong>申请周期：</strong><br>启动待核 → 截止待核；2027项目窗口未核实</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">Honours Science second class；导师及名额未落实。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">条件备选；需研究名额</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需<br><br><strong>申请前联系导师：</strong><br><a href="https://www.queensu.ca/physics/grad-studies/admission-requirements">申请前要求待核</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">2份（校级）</td>
 </tr>
 <tr>
@@ -98,7 +98,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">6 full-time terms，约2年；本轮选择Thesis：至少9 course credits、Research Evaluation、研究论文及oral examination；Research Project选项为15 course credits加报告。国际生不接受coursework-only MSc。<a href="https://www.yorku.ca/gradstudies/physics-astronomy/future-students/how-to-apply/" style="color:inherit"><br><br><strong>申请周期：</strong><br>2026-09-30 → 2027-01-15（Fall 2027）</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">最低B+；国际学生不接受coursework MSc。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">资格确认后冲刺；国际生选Thesis</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需<br><br><strong>申请前联系导师：</strong><br><a href="https://www.yorku.ca/gradstudies/physics-astronomy/future-students/how-to-apply/">未列提前联系要求</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">2份</td>
 </tr>
 <tr>
@@ -106,7 +106,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">2年 /6 terms；15 graduate coursework units（含professional development/core courses）及独立研究thesis和defence。<a href="https://www.sfu.ca/physics/graduate/prospective/deadlines.html" style="color:inherit"><br><br><strong>申请周期：</strong><br>启动未公布 → 年度05-31；奖学金建议01-15前，2027待确认</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">系级累计GPA等效3.5；3.0低于常规门槛。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">先问系级GPA例外；高风险冲刺</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需<br><br><strong>申请前联系导师：</strong><br><a href="https://www.sfu.ca/physics/graduate/prospective/faq.html">无需先找导师；鼓励联系</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">3位推荐人</td>
 </tr>
 <tr>
@@ -114,7 +114,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">全日制2年；最长4年；Thesis及公开oral defence；4-8门课，取决specialization。本轮选Physics/Astrophysics研究，不选Medical Physics或course-based。<a href="https://grad.ucalgary.ca/future-students/explore-programs/physics-and-astronomy-msc-thesis" style="color:inherit"><br><br><strong>申请周期：</strong><br>启动未公布 → 年度01-15；2027批次待确认</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">最近两年≥3.3；国际申请人需Physics Subject GRE。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">先核3.3与Physics GRE；条件冲刺</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需<br><br><strong>申请前联系导师：</strong><br><a href="https://grad.ucalgary.ca/future-students/explore-programs/physics-and-astronomy-msc-thesis">无需入学前确定导师</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">2封</td>
 </tr>
 <tr style="background-color:#FFFF00" data-priority-application="true">
@@ -122,7 +122,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">旧档约2年；本轮未重新核实；旧档为thesis MSc；当前学位规则待恢复后核实。<a href="https://www.ualberta.ca/en/physics/graduate-studies/admissions.html" style="color:inherit"><br><br><strong>申请周期：</strong><br>启动待核 → 截止待核；官方正文访问受限</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">当前GPA与招生条款无法重新核实。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">待核心官网恢复</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">待核</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">待核<br><br><strong>申请前联系导师：</strong><br><a href="https://www.ualberta.ca/en/physics/graduate-studies/admissions.html">待核：官网访问受限</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">待核</td>
 </tr>
 <tr style="background-color:#FFFF00" data-priority-application="true">
@@ -130,7 +130,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">通常不超过2年 /6 terms（系研究生手册）；3.0 HCE课程，至少2.0来自Physics and Astronomy；研究报告或thesis按项目安排，须导师与advisory committee。<a href="https://physics.uwo.ca/graduate/future_students/admission_requirements.html" style="color:inherit"><br><br><strong>申请周期：</strong><br>启动未公布 → 2027-03-01（国际生；含推荐信与成绩单）</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">三四年级课程平均≥70%（B）；录取需导师参与。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">优先推进；先核高年级成绩和导师</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需<br><br><strong>申请前联系导师：</strong><br><a href="https://physics.uwo.ca/graduate/future_students/how_to_apply.html">强烈建议提前联系</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">数量待核</td>
 </tr>
 <tr>
@@ -138,7 +138,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">2年，全日制；Research thesis；可选Physics或Astronomy concentration；不是course-based MSc。具体课程学分需核JS calendar，不将concentration重复计数。<a href="https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/physics-and-astronomy-cred/physics-msc.php" style="color:inherit"><br><br><strong>申请周期：</strong><br>启动未公布 → 入学前一年12-01（优先）；次年08-01补录，年度规则</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">最近两年B；相关Honours等效；申请无需列导师。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">优先推进；天体/计算研究匹配</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需<br><br><strong>申请前联系导师：</strong><br><a href="https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/physics-and-astronomy-cred/physics-msc.php">申请时无需列导师</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">2位推荐人</td>
 </tr>
 </table>
@@ -200,7 +200,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <th style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">学制 / 研究形式 / 申请周期</th>
 <th style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">个人资格焦点</th>
 <th style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">申请优先级</th>
-<th style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">是否需要推荐信</th>
+<th style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">推荐信 / 申请前联系导师</th>
 <th style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">推荐信数量要求</th>
 </tr>
 <tr>
@@ -208,7 +208,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">2年全日制 /96 units；普通版定位coursework；强制6 units research course：ASTR8031 Astrophysics Literature Research Project或ASTR8001 Astronomy and Astrophysics Research Project；不是48-unit research thesis MSc。<a href="https://science.anu.edu.au/study/masters/master-science-astronomy-astrophysics" style="color:inherit"><br><br><strong>申请周期：</strong><br>已获Offer；原申请启动/截止未核；接受截止须查个人录取信</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">已获普通版offer；入学期、学历/英语条件及接受截止待核。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">已获offer；核对条件与研究路线</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">官方清单未列必交</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">官方清单未列必交<br><br><strong>申请前联系导师：</strong><br><a href="https://programsandcourses.anu.edu.au/2027/program/NSCAA">普通版未列提前联系要求</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">未列固定数量</td>
 </tr>
 <tr style="background-color:#FFFF00" data-priority-application="true">
@@ -216,7 +216,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">旧档2年；当前手册正文受访问限制；旧档含major research project；本轮无法核到当前项目学分、论文及导师规则。<a href="https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/" style="color:inherit"><br><br><strong>申请周期：</strong><br>启动待核 → 截止待核；2027 mid-year是否开放待核</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">核心课程及2027入口受限，当前资格未闭环。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">待官网恢复；不直接提交</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">待核</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">待核<br><br><strong>申请前联系导师：</strong><br><a href="https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/entry-requirements/">待核：官网访问受限</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">待核</td>
 </tr>
 </table>
@@ -248,7 +248,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <th style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">学制 / 研究形式 / 申请周期</th>
 <th style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">个人资格焦点</th>
 <th style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">申请优先级</th>
-<th style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">是否需要推荐信</th>
+<th style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">推荐信 / 申请前联系导师</th>
 <th style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">推荐信数量要求</th>
 </tr>
 <tr>
@@ -256,7 +256,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">1-2年，可2 /3 /4 semesters；8门课；department明确coursework与thesis option，thesis recommended；另main page称including thesis，存在表述差异。<a href="https://graduateprograms.brown.edu/graduate-program/physics-scm" style="color:inherit"><br><br><strong>申请周期：</strong><br>启动未公布 → 04-01；优先02-01（Fall；年份按系统复核）</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">无公开数值最低；强Physics准备，3.0偏弱。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">优先冲刺；自费</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需<br><br><strong>申请前联系导师：</strong><br><a href="https://graduateprograms.brown.edu/graduate-program/physics-scm">所查页面未列提前联系要求</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">3封/2封冲突</td>
 </tr>
 <tr style="background-color:#FFFF00" data-priority-application="true">
@@ -264,7 +264,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">具体MS路线及时长待当前degree regulations核实；存在terminal masters入口；当前thesis/non-thesis学分细则未闭环。<a href="https://physics.utexas.edu/academics/admissions" style="color:inherit"><br><br><strong>申请周期：</strong><br>启动未公布 → 年度12-01 23:59 CST；2027待确认</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">无minimum undergrad GPA可申请；核心Phys需强。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">冲刺；硕士自费入口明确</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需<br><br><strong>申请前联系导师：</strong><br><a href="https://physics.utexas.edu/academics/admissions">所查页面未列提前联系要求</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">3封</td>
 </tr>
 <tr>
@@ -272,7 +272,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">30 credits；固定日历学制未公开于所查页；Thesis6 credits或Non-thesis Special Problems / Practicum6 credits。<a href="https://physics.gatech.edu/academics/graduate/admissions-info" style="color:inherit"><br><br><strong>申请周期：</strong><br>启动未公布 → 年度12-15；2027 MS批次待确认</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">外部MS自费可申请；本科数字最低未确认。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">条件冲刺；可选thesis</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需；数量待核</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需；数量待核<br><br><strong>申请前联系导师：</strong><br><a href="https://physics.gatech.edu/academics/graduate/admissions-info">可联系；委员会统一录取</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">待核</td>
 </tr>
 <tr>
@@ -280,15 +280,15 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">30 points；固定日历时长待核；以课程为主；所查degree条款无强制thesis。<a href="https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/applied-physics-applied-mathematics/graduate-programs/applied-physics-ms/" style="color:inherit"><br><br><strong>申请周期：</strong><br>启动待核 → 截止待核；2027专属日期未核实</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">Physics背景相关；GPA/GRE现行条款仍需闭环。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">有兴趣再投；方法相邻</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需<br><br><strong>申请前联系导师：</strong><br><a href="https://bulletin.columbia.edu/columbia-engineering/graduate-studies/graduate-admissions/">所查页面未列提前联系要求</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">3封</td>
 </tr>
-<tr style="background-color:#FFFF00" data-priority-application="true">
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top"><strong>重点申请</strong><br><a href="../../physics-master/WUSTL_MA_Physics.md">WashU · MA Physics</a><br>Unknown / Medium<br>QS综合162 / 物理301-350</td>
+<tr>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top"><a href="../../physics-master/WUSTL_MA_Physics.md">WashU · MA Physics</a><br>Unknown / Medium<br>QS综合162 / 物理301-350</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">约2年；36 credits；非thesis MA，最多6 credits research；不自动成为研究型硕士。<a href="https://physics.wustl.edu/how-apply" style="color:inherit"><br><br><strong>申请周期：</strong><br>启动待核 → 截止待核；2027 MA专属日期未核实</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">外部MA明确；不公布GPA最低，最新排名未闭环。</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">条件备选；排名与资助待闭环</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">取消重点；无thesis，不符合论文型要求</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需<br><br><strong>申请前联系导师：</strong><br><a href="https://physics.wustl.edu/how-apply">所查页面未列提前联系要求</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">最多3封；下限待核</td>
 </tr>
 <tr style="background-color:#FFFF00" data-priority-application="true">
@@ -296,7 +296,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">Standard约1年；Broad约15个月；历史均值4.5/5 quarters；Standard：9 graded courses + thesis；Broad：12 courses，无同样thesis要求。<a href="https://www.physics.northwestern.edu/graduate/master-degree/index.html" style="color:inherit"><br><br><strong>申请周期：</strong><br>启动待核 → 截止待核；须查MS专属窗口，不套用PhD</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">外部MS入口明确；本科数值最低未公开。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">美国重点；选Standard / Thesis</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需<br><br><strong>申请前联系导师：</strong><br><a href="https://physics.northwestern.edu/documents/nu-pa-masters-handbook-03.20.25.pdf">未列提前联系；入学前选导师</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">至少2封（校级）</td>
 </tr>
 <tr>
@@ -304,7 +304,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">通常2年 /4 semesters；最长3年；30 credits；thesis或comprehensive exam；本轮优先thesis。<a href="https://www.stonybrook.edu/physics/graduate/apply.html" style="color:inherit"><br><br><strong>申请周期：</strong><br>年度12-15 → 次年05-01（国际生）；滚动录取，2027待确认</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">最低overall 3.0，且本科总评和math/science B。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">美国重点；明确申请门槛</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需<br><br><strong>申请前联系导师：</strong><br><a href="https://www.stonybrook.edu/physics/graduate/apply.html">无需联系个别导师</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">3封</td>
 </tr>
 <tr style="background-color:#FFFF00" data-priority-application="true">
@@ -312,15 +312,15 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">32或36 credits；日历时长未核明确；Thesis32 / Examination32 / Report36 credits三条路线。<a href="https://gsas.nyu.edu/admissions/arc/programs/physics.html" style="color:inherit"><br><br><strong>申请周期：</strong><br>启动未公布 → 年度12-30 17:00 ET；2027批次待确认</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">无公开minimum score；课程与科研可整体评估。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">美国重点；选thesis</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需<br><br><strong>申请前联系导师：</strong><br><a href="https://gsas.nyu.edu/admissions/arc/programs/physics.html">所查页面未列提前联系要求</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">3封</td>
 </tr>
-<tr>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top"><a href="../../physics-master/TAMU_MS_Physics.md">Texas A&amp;M · MS Physics</a><br>Match / High<br>QS综合169 / 物理124</td>
+<tr style="background-color:#FFFF00" data-priority-application="true">
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top"><strong>重点申请</strong><br><a href="../../physics-master/TAMU_MS_Physics.md">Texas A&amp;M · MS Physics</a><br>Match / High<br>QS综合169 / 物理124</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">Thesis至少32 semester credit hours；non-thesis至少36。官方本轮未给典型完成年限，需按导师与课程计划确认。；本轮选Fundamental Physics / Thesis：研究、written thesis及final examination；官方亦有non-thesis，不能与论文型混写。<a href="https://artsci.tamu.edu/physics-astronomy/academics/prospective-graduates/how-to-apply.html" style="color:inherit"><br><br><strong>申请周期：</strong><br>2026-08-01 → 2027-01-10（优先）；网页仍误写Fall 2026，须核CAS周期</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">系不设GPA截断；高能/计算研究吻合，录取仍依赖研究组需求。</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">美国重点补充；论文与研究组匹配</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">美国重点；选择Thesis路径</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需<br><br><strong>申请前联系导师：</strong><br><a href="https://artsci.tamu.edu/physics-astronomy/academics/prospective-graduates/how-to-apply.html">所查页面未列提前联系要求</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">至少3封</td>
 </tr>
 <tr>
@@ -328,7 +328,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">项目总览2年 /36 credits；系内学术要求以8门研究生课程描述，需确认论文路线的credit登记。；可选择Master thesis并答辩，最多替代3门elective；本轮选Physics MS论文路线，不将Astrophysics coursework路线自动认作同样论文安排。<a href="https://asegrad.tufts.edu/program/physics-and-physics-astrophysics-masters" style="color:inherit"><br><br><strong>申请周期：</strong><br>启动未公布 → 年度04-15；优先01-15，滚动至08-01；2027待确认</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">独立MS；数字GPA未公布，3.0需核心成绩与研究推荐补强。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">美国重点补充；优先论文与研究匹配</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需<br><br><strong>申请前联系导师：</strong><br><a href="https://as.tufts.edu/physics/academics/graduate-programs">所查页面未列提前联系要求</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">3封</td>
 </tr>
 </table>
@@ -386,7 +386,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <th style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">学制 / 研究形式 / 申请周期</th>
 <th style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">个人资格焦点</th>
 <th style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">申请优先级</th>
-<th style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">是否需要推荐信</th>
+<th style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">推荐信 / 申请前联系导师</th>
 <th style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">推荐信数量要求</th>
 </tr>
 <tr style="background-color:#FFFF00" data-priority-application="true">
@@ -394,7 +394,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">2年 /120 ECTS；本科毕业应申请M1；M1/M2 research internships与research-based training；各年论文/实习具体学分按track。<a href="https://psl.eu/en/education/master-s-degree-physics" style="color:inherit"><br><br><strong>申请周期：</strong><br>2027待公布；2026 M1参考：2025-11-24 → 2026-01-23 23:59 CET</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">高强度fundamental Physics选拔；无公开GPA数值。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">强冲刺；需突出科研</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需<br><br><strong>申请前联系导师：</strong><br><a href="https://psl.eu/en/education/master-s-degree-physics">所查页面未列提前联系要求</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">2封（M1）</td>
 </tr>
 <tr>
@@ -402,7 +402,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">M1+M2 2年 /120 ECTS；M1至少16周internship；M2至少4个月thesis / internship，30 ECTS。<a href="https://www.ip-paris.fr/en/education/useful-information/admissions" style="color:inherit"><br><br><strong>申请周期：</strong><br>2027待公布；2026参考三轮：2025-10-29 → 2026-01-08；2026-01-09 → 03-26；2026-03-27 → 05-28</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">扎实Physics与数学；本科入口M1。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">科研最贴近；强冲刺</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需（外部M1）</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需（外部M1）<br><br><strong>申请前联系导师：</strong><br><a href="https://www.ip-paris.fr/en/education/useful-information/admissions">所查页面未列提前联系要求</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">2份academic references</td>
 </tr>
 <tr style="background-color:#FFFF00" data-priority-application="true">
@@ -410,7 +410,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">M1+M2 2年 /120 ECTS；核心Physics、numerical methods与research internship；joint Paris Physics Master路线。<a href="https://master.physique.sorbonne-universite.fr/fr/candidatures-inscription.html" style="color:inherit"><br><br><strong>申请周期：</strong><br>启动待核 → 截止待核；2027 English M1专属窗口未核实</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">English Physics M1；课程与研究背景适合。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">法国重点；核专属M1入口</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">项目专属要求待核</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">项目专属要求待核<br><br><strong>申请前联系导师：</strong><br><a href="https://master.physique.sorbonne-universite.fr/fr/candidatures-inscription.html">PPM申请前要求待核</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">待核</td>
 </tr>
 <tr style="background-color:#FFFF00" data-priority-application="true">
@@ -418,7 +418,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">M1 1年60 ECTS；完整M1+M2通常2年120 ECTS；M1研究实习；须后续获相容M2录取，完整thesis要求取决M2 track。<a href="https://www.universite-paris-saclay.fr/en/education/masters-degree/physique-fondamentale-et-applications/m1-general-physics" style="color:inherit"><br><br><strong>申请周期：</strong><br>2027待公布；2026参考：2026-01-01 → 2026-07-06</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">Bachelor Physics；英文B2，3.0整体竞争需科研补强。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">法国重点；优先早轮</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">入学/奖学金分别核对</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">入学/奖学金分别核对<br><br><strong>申请前联系导师：</strong><br><a href="https://www.universite-paris-saclay.fr/en/education/masters-degree/physique-fondamentale-et-applications/m1-general-physics">所查页面未列提前联系要求</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">入学信件未列；奖学金2位</td>
 </tr>
 <tr>
@@ -426,7 +426,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">2年英语硕士；本科学历申请M1，后续M2的录取和注册须另确认。；M1有数值方法、实验项目及4–6月研究实习；M2研究阶段按所选路径另审，不能保证自动升入ICFP。<a href="https://u-paris.fr/candidater-a-universite-paris-cite/" style="color:inherit"><br><br><strong>申请周期：</strong><br>启动待核 → 截止待核；联合PPM窗口未核，EEF不是项目截止</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">物理本科相符；PPM与Sorbonne联办，不另计独立录取机会。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">保留；与Sorbonne联合入口统筹</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">项目专属要求待核</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">项目专属要求待核<br><br><strong>申请前联系导师：</strong><br><a href="https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/physique-fondamentale-et-applications-K2VO0C50/master-physique-fondamentale-et-applications-m1-parcours-paris-physics-master-JS1XR1EO.html">PPM申请前要求待核</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">待核</td>
 </tr>
 </table>
@@ -467,7 +467,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <th style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">学制 / 研究形式 / 申请周期</th>
 <th style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">个人资格焦点</th>
 <th style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">申请优先级</th>
-<th style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">是否需要推荐信</th>
+<th style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">推荐信 / 申请前联系导师</th>
 <th style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">推荐信数量要求</th>
 </tr>
 <tr>
@@ -475,7 +475,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">2年 /4 semesters，120 ECTS；第一年高级课程；第二年research phase + Master thesis。<a href="https://www.tum.de/en/studies/degree-programs/detail/physics-applied-and-engineering-physics-master-of-science-msc" style="color:inherit"><br><br><strong>申请周期：</strong><br>年度冬季01-01 → 05-31；夏季09-01 → 11-30；2027待确认</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">aptitude assessment；相关Physics本科与VPD；全英语，无非英语语言门槛。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">研究冲刺；课程+成本先核</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">官方清单未列必交</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">官方清单未列必交<br><br><strong>申请前联系导师：</strong><br><a href="https://www.tum.de/en/studies/degree-programs/detail/physics-applied-and-engineering-physics-master-of-science-msc">所查页面未列提前联系要求</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">未列固定数量</td>
 </tr>
 <tr style="background-color:#FFFF00" data-priority-application="true">
@@ -483,7 +483,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">2年 /4 semesters /120 ECTS；最长6 semesters。；前两学期课程；第三学期研究训练；第四学期23周Master thesis，可在LMU Observatory及符合规定的MPA/MPE/ESO研究组进行。<a href="https://www.physik.lmu.de/en/studies/study-programs/applying-to-a-masters-program/" style="color:inherit"><br><br><strong>申请周期：</strong><br>年度11-01 → 次年01-15；05-01 → 07-15；2027批次待确认</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">高于平均的物理成绩与研究经历；需系和International Office双重录取；全英语，无非英语语言门槛。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">德国高匹配冲刺；英语且GRE可选</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">可选，不强制</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">可选，不强制<br><br><strong>申请前联系导师：</strong><br><a href="https://www.physik.lmu.de/en/studies/study-programs/applying-to-a-masters-program/">所查页面未列提前联系要求</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">0封必交；可选1封或更多</td>
 </tr>
 <tr>
@@ -491,7 +491,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">2年 /4 semesters /120 CP。；课程48 CP与complementary subject12 CP；第三学期introductory及preparatory project各15 CP；第四学期6个月thesis30 CP。2026/27及以后新课程规则。<a href="https://www.physik.uni-hamburg.de/studium/studiengaenge/masterstudiengaenge/msc-physics.html" style="color:inherit"><br><br><strong>申请周期：</strong><br>年度02-15 → 03-31（10月入学）；2027批次待确认</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">比较Physics课程与成绩；英语版入学无需德语；全英语，无非英语语言门槛。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">德国研究型重点；替代RWTH</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">官方清单未列必交</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">官方清单未列必交<br><br><strong>申请前联系导师：</strong><br><a href="https://www.physik.uni-hamburg.de/studium/studiengaenge/masterstudiengaenge/msc-physics.html">所查页面未列提前联系要求</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">未列固定数量</td>
 </tr>
 <tr style="background-color:#FFFF00" data-priority-application="true">
@@ -499,7 +499,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">2年 /4 semesters，120 ECTS；research-oriented Physics，Master thesis；具体模块按所选方向。<a href="https://www.physik.uni-heidelberg.de/studium/master?lang=en" style="color:inherit"><br><br><strong>申请周期：</strong><br>启动未公布 → 年度07-15（non-EU冬季）；2027待确认</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">German grade 2.9或更好；有oral selection；全英语，无非英语语言门槛。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">条件主申；核德制等效与面试</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">官方清单未列必交</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">官方清单未列必交<br><br><strong>申请前联系导师：</strong><br><a href="https://www.uni-heidelberg.de/en/study/all-subjects/physics/physics-master">所查页面未列提前联系要求</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">未列固定数量</td>
 </tr>
 <tr style="background-color:#FFFF00" data-priority-application="true">
@@ -507,7 +507,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">2年 /4 semesters，120 ECTS；advanced Physics coursework与research /Master thesis。<a href="https://www.sle.kit.edu/english/vorstudium/master-physics.php" style="color:inherit"><br><br><strong>申请周期：</strong><br>启动未公布 → 年度07-15（non-EU冬季）；2027待确认</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">理论32 /实验32 /lab18 ECTS；最多有限补课；全英语，无非英语语言门槛。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">重点条件主申；严格课程核对</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">官方清单未列必交</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">官方清单未列必交<br><br><strong>申请前联系导师：</strong><br><a href="https://www.sle.kit.edu/english/vorstudium/master-physics.php">所查页面未列提前联系要求</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">未列固定数量</td>
 </tr>
 </table>
@@ -556,7 +556,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <th style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">学制 / 研究形式 / 申请周期</th>
 <th style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">个人资格焦点</th>
 <th style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">申请优先级</th>
-<th style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">是否需要推荐信</th>
+<th style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">推荐信 / 申请前联系导师</th>
 <th style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">推荐信数量要求</th>
 </tr>
 <tr>
@@ -564,7 +564,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">1.5年 /3 semesters；90 ECTS；第三学期约半年Master thesis；之前proseminar /semester project。<a href="https://ethz.ch/en/studies/master/application/dates.html" style="color:inherit"><br><br><strong>申请周期：</strong><br>2026-11-01 → 2026-11-30 11:59 AM CET（Fall 2027；国际本科）</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">foreign Bachelor等效与高水平成绩；3.0明显弱；全英语，无非英语语言门槛。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">早期强冲刺；11月截止</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">待核</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">待核<br><br><strong>申请前联系导师：</strong><br><a href="https://www.phys.ethz.ch/studies/master.html">普通MSc未列提前联系要求</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">待核</td>
 </tr>
 <tr style="background-color:#FFFF00" data-priority-application="true">
@@ -572,7 +572,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">2年 /120 ECTS；research-oriented coursework、laboratory work与Master project。<a href="https://www.epfl.ch/education/admission/master-admission-criteria-application/online-application/" style="color:inherit"><br><br><strong>申请周期：</strong><br>年度11月中旬 → 12-15；12-16 → 次年03-31；2027待确认</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">foreign Physics bachelor要求excellent academic records；全英语，无非英语语言门槛。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">研究强冲刺；优先第一轮</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需（UofT外部申请）</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需（UofT外部申请）<br><br><strong>申请前联系导师：</strong><br><a href="https://www.epfl.ch/education/admission/master-admission-criteria-application/online-application/">所查页面未列提前联系要求</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">登记3位；至少收到2封</td>
 </tr>
 <tr>
@@ -580,7 +580,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">2年 /4 semesters，120 ECTS；Master thesis60 ECTS；Cosmology and Astrophysics of Particles等tracks。<a href="https://www.unige.ch/sciences/physique/enseignement/master" style="color:inherit"><br><br><strong>申请周期：</strong><br>启动未公布 → 年度02-28（需visa）；2027待确认</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">非Bologna本科须committee equivalence；全英语，无非英语语言门槛。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">瑞士重点；particle/astro路线</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">待核</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">待核<br><br><strong>申请前联系导师：</strong><br><a href="https://www.unige.ch/sciences/physique/enseignement/master">所查页面未列提前联系要求</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">待核</td>
 </tr>
 <tr style="background-color:#FFFF00" data-priority-application="true">
@@ -588,7 +588,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">约1.5年 /90 ECTS；Master thesis为30或50 ECTS，分别约6或10个月；required research seminar；须导师同意并订learning agreement。<a href="https://www.uzh.ch/en/studies/application/deadlines.html" style="color:inherit"><br><br><strong>申请周期：</strong><br>年度01-01 → 02-28（需visa）；2027批次待确认</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">foreign180ECTS本科，个案审查可附补课；全英语，无非英语语言门槛。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">瑞士重点；核课程等效</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">官方清单未列必交</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">官方清单未列必交<br><br><strong>申请前联系导师：</strong><br><a href="https://www.physik.uzh.ch/en/study/Study-Degree-Programmes/Master/admission.html">未列提前联系；论文前落实</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">未列固定数量</td>
 </tr>
 <tr>
@@ -596,7 +596,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">1.5年 /3 semesters，90 ECTS；Master thesis45 ECTS，加Master examination；English research-oriented degree。<a href="https://www.unibe.ch/e1006/e1029/e1041/e1046/e9395/e9454/e11071/e1803186/MasterCheckliste_ger.pdf" style="color:inherit"><br><br><strong>申请周期：</strong><br>启动待核 → 在线截止待核；年度05-31为秋季纸质材料截止</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">须90Physics+30Math或60+60 ECTS等效；全英语，无非英语语言门槛。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">瑞士条件主申；排名例外</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">官方清单未列必交</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">官方清单未列必交<br><br><strong>申请前联系导师：</strong><br><a href="https://www.philnat.unibe.ch/studium/studienprogramme/master_physik/index_ger.html">所查页面未列提前联系要求</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">未列固定数量</td>
 </tr>
 </table>
@@ -642,3 +642,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 - QS Subject Rankings 2026 results：https://magazine.qs.com/qs-insights-magazine-39/qs-subject-rankings-results
 - QS Subjects 2026 official XLSX：https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
 
+
+导师联系要求补核（2026-10-05）：明确无需、官方建议、录取前／入学后安排、公开页面未列及待核分别记录。未列不等于明确免除；所有39条记录的说明与可见官方URL见[导师联系核查记录](supervisor-contact-source-audit-20261005.md)。
+
+2026-10-05重点调整：WashU MA Physics无thesis，不符合当前论文型硕士要求，取消重点；替换为Texas A&M Physics MS Thesis。保留39条学校记录、18所重点申请学校，美国重点仍为4所。

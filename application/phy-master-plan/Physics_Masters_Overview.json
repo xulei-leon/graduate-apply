@@ -130,7 +130,18 @@
         "status": 200,
         "final_url": "https://www.physics.utoronto.ca/graduate/prospective-students/graduate-admissions-department-physics/application-information/"
       },
-      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。",
+      "supervisor_contact_required_before_application": "未列提前联系要求",
+      "supervisor_contact_note": "所查Physics MSc招生程序未列申请前必须联系或取得导师承诺；录取仍受研究指导及资金容量影响。",
+      "supervisor_contact_sources": [
+        "https://www.physics.utoronto.ca/graduate/prospective-students/graduate-admissions-department-physics/admissions-procedure/"
+      ],
+      "supervisor_contact_verified": "2026-10-05",
+      "supervisor_contact_source_check": {
+        "url": "https://www.physics.utoronto.ca/graduate/prospective-students/graduate-admissions-department-physics/admissions-procedure/",
+        "status": 200,
+        "final_url": "https://www.physics.utoronto.ca/graduate/prospective-students/graduate-admissions-department-physics/admissions-procedure/"
+      }
     },
     {
       "country": "Canada",
@@ -215,7 +226,18 @@
         "status": 200,
         "final_url": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics"
       },
-      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。",
+      "supervisor_contact_required_before_application": "无需先获承诺；鼓励联系",
+      "supervisor_contact_note": "官网明确申请前无需导师承诺，鼓励联系；申请中须填写感兴趣的faculty。",
+      "supervisor_contact_sources": [
+        "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics"
+      ],
+      "supervisor_contact_verified": "2026-10-05",
+      "supervisor_contact_source_check": {
+        "url": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics",
+        "status": 200,
+        "final_url": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics"
+      }
     },
     {
       "country": "Canada",
@@ -326,7 +348,18 @@
         "status": 200,
         "final_url": "https://www.mcgill.ca/gradapplicants/program/physics-msc"
       },
-      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。",
+      "supervisor_contact_required_before_application": "官方建议提前联系",
+      "supervisor_contact_note": "系建议申请中注明研究兴趣及导师偏好，并尝试邮件联系心仪导师；未写成先获导师承诺的硬性提交条件。",
+      "supervisor_contact_sources": [
+        "https://www.physics.mcgill.ca/grads/application.html"
+      ],
+      "supervisor_contact_verified": "2026-10-05",
+      "supervisor_contact_source_check": {
+        "url": "https://www.physics.mcgill.ca/grads/application.html",
+        "status": 200,
+        "final_url": "https://www.physics.mcgill.ca/grads/application.html"
+      }
     },
     {
       "country": "Canada",
@@ -411,7 +444,18 @@
         "status": 200,
         "final_url": "https://uwaterloo.ca/physics-astronomy/graduate-studies/how-apply"
       },
-      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。",
+      "supervisor_contact_required_before_application": "可申请后联系；录取前须匹配",
+      "supervisor_contact_note": "Thesis导师须在录取前确定；官网明确可申请前或申请后联系，强烈建议申请中列潜在导师。",
+      "supervisor_contact_sources": [
+        "https://uwaterloo.ca/physics-astronomy/graduate-studies/how-apply"
+      ],
+      "supervisor_contact_verified": "2026-10-05",
+      "supervisor_contact_source_check": {
+        "url": "https://uwaterloo.ca/physics-astronomy/graduate-studies/how-apply",
+        "status": 200,
+        "final_url": "https://uwaterloo.ca/physics-astronomy/graduate-studies/how-apply"
+      }
     },
     {
       "country": "Canada",
@@ -496,7 +540,18 @@
         "status": 403,
         "final_url": "https://www.ualberta.ca/en/physics/graduate-studies/admissions.html"
       },
-      "application_cycle_note": "核心官方正文HTTP403，保留明确待核状态，不推断申请日期。"
+      "application_cycle_note": "核心官方正文HTTP403，保留明确待核状态，不推断申请日期。",
+      "supervisor_contact_required_before_application": "待核：官网访问受限",
+      "supervisor_contact_note": "核心招生正文HTTP403；无法确认申请前联系或导师承诺要求。",
+      "supervisor_contact_sources": [
+        "https://www.ualberta.ca/en/physics/graduate-studies/admissions.html"
+      ],
+      "supervisor_contact_verified": "2026-10-05",
+      "supervisor_contact_source_check": {
+        "url": "https://www.ualberta.ca/en/physics/graduate-studies/admissions.html",
+        "status": 403,
+        "final_url": "https://www.ualberta.ca/en/physics/graduate-studies/admissions.html"
+      }
     },
     {
       "country": "Canada",
@@ -599,7 +654,18 @@
         "status": 200,
         "final_url": "https://gs.mcmaster.ca/program/physics-and-astronomy/"
       },
-      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。",
+      "supervisor_contact_required_before_application": "官方建议联系研究组",
+      "supervisor_contact_note": "系建议有特定研究组意向者直接联系faculty、询问招生名额；未列申请前必须取得承诺。",
+      "supervisor_contact_sources": [
+        "https://gs.mcmaster.ca/how-to-apply/"
+      ],
+      "supervisor_contact_verified": "2026-10-05",
+      "supervisor_contact_source_check": {
+        "url": "https://gs.mcmaster.ca/how-to-apply/",
+        "status": 200,
+        "final_url": "https://gs.mcmaster.ca/how-to-apply/"
+      }
     },
     {
       "country": "Canada",
@@ -702,7 +768,18 @@
         "status": 200,
         "final_url": "https://www.queensu.ca/physics/grad-studies/admission-requirements"
       },
-      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。",
+      "supervisor_contact_required_before_application": "申请前要求待核",
+      "supervisor_contact_note": "系招生页未说明申请前必须联系或取得承诺；研究型MSc须有指导关系，但不能据此推断申请前硬性条件。",
+      "supervisor_contact_sources": [
+        "https://www.queensu.ca/physics/grad-studies/admission-requirements"
+      ],
+      "supervisor_contact_verified": "2026-10-05",
+      "supervisor_contact_source_check": {
+        "url": "https://www.queensu.ca/physics/grad-studies/admission-requirements",
+        "status": 200,
+        "final_url": "https://www.queensu.ca/physics/grad-studies/admission-requirements"
+      }
     },
     {
       "country": "Canada",
@@ -883,7 +960,18 @@
         "status": 200,
         "final_url": "https://physics.uwo.ca/graduate/future_students/admission_requirements.html"
       },
-      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。",
+      "supervisor_contact_required_before_application": "强烈建议提前联系",
+      "supervisor_contact_note": "所有录取与faculty supervisor共同作出；系强烈鼓励申请前联系，但未规定提交申请前必须获承诺。",
+      "supervisor_contact_sources": [
+        "https://physics.uwo.ca/graduate/future_students/how_to_apply.html"
+      ],
+      "supervisor_contact_verified": "2026-10-05",
+      "supervisor_contact_source_check": {
+        "url": "https://physics.uwo.ca/graduate/future_students/how_to_apply.html",
+        "status": 200,
+        "final_url": "https://physics.uwo.ca/graduate/future_students/how_to_apply.html"
+      }
     },
     {
       "country": "Canada",
@@ -1030,7 +1118,18 @@
         "status": 200,
         "final_url": "https://www.yorku.ca/gradstudies/physics-astronomy/future-students/how-to-apply/"
       },
-      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。",
+      "supervisor_contact_required_before_application": "未列提前联系要求",
+      "supervisor_contact_note": "所查申请页未列申请前必须获导师承诺；Thesis研究需supervisor及supervisory committee，名额另核。",
+      "supervisor_contact_sources": [
+        "https://www.yorku.ca/gradstudies/physics-astronomy/future-students/how-to-apply/"
+      ],
+      "supervisor_contact_verified": "2026-10-05",
+      "supervisor_contact_source_check": {
+        "url": "https://www.yorku.ca/gradstudies/physics-astronomy/future-students/how-to-apply/",
+        "status": 200,
+        "final_url": "https://www.yorku.ca/gradstudies/physics-astronomy/future-students/how-to-apply/"
+      }
     },
     {
       "country": "Canada",
@@ -1184,7 +1283,18 @@
         "status": 200,
         "final_url": "https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/physics-and-astronomy-cred/physics-msc.php"
       },
-      "application_cycle_note": "按年度规则，Fall 2027的优先节点推算为2026-12-01；之后至2027-08-01可考虑申请但无优先及UVic entrance scholarship待遇；上述年份是推算，非独立2027公告。"
+      "application_cycle_note": "按年度规则，Fall 2027的优先节点推算为2026-12-01；之后至2027-08-01可考虑申请但无优先及UVic entrance scholarship待遇；上述年份是推算，非独立2027公告。",
+      "supervisor_contact_required_before_application": "申请时无需列导师",
+      "supervisor_contact_note": "Physics MSc官网明确申请表无需列supervisor；该声明不能扩大为整个研究学位无需指导关系。",
+      "supervisor_contact_sources": [
+        "https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/physics-and-astronomy-cred/physics-msc.php"
+      ],
+      "supervisor_contact_verified": "2026-10-05",
+      "supervisor_contact_source_check": {
+        "url": "https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/physics-and-astronomy-cred/physics-msc.php",
+        "status": 200,
+        "final_url": "https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/physics-and-astronomy-cred/physics-msc.php"
+      }
     },
     {
       "country": "Canada",
@@ -1355,7 +1465,18 @@
         "status": 200,
         "final_url": "https://www.sfu.ca/physics/graduate/prospective/deadlines.html"
       },
-      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。",
+      "supervisor_contact_required_before_application": "无需先找导师；鼓励联系",
+      "supervisor_contact_note": "FAQ明确申请前无需确定导师，鼓励尽早联系；第一学期末确认senior supervisor。此处为正常Fall MSc，非off-cycle。",
+      "supervisor_contact_sources": [
+        "https://www.sfu.ca/physics/graduate/prospective/faq.html"
+      ],
+      "supervisor_contact_verified": "2026-10-05",
+      "supervisor_contact_source_check": {
+        "url": "https://www.sfu.ca/physics/graduate/prospective/faq.html",
+        "status": 200,
+        "final_url": "https://www.sfu.ca/physics/graduate/prospective/faq.html"
+      }
     },
     {
       "country": "Canada",
@@ -1483,7 +1604,18 @@
         "status": 200,
         "final_url": "https://grad.ucalgary.ca/future-students/graduate/discover-opportunities/explore-programs/physics-and-astronomy-msc-thesis"
       },
-      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。",
+      "supervisor_contact_required_before_application": "无需入学前确定导师",
+      "supervisor_contact_note": "官网明确需要supervisor，但无需在项目开始前确定；可先申请，后续仍须落实指导关系。",
+      "supervisor_contact_sources": [
+        "https://grad.ucalgary.ca/future-students/explore-programs/physics-and-astronomy-msc-thesis"
+      ],
+      "supervisor_contact_verified": "2026-10-05",
+      "supervisor_contact_source_check": {
+        "url": "https://grad.ucalgary.ca/future-students/explore-programs/physics-and-astronomy-msc-thesis",
+        "status": 200,
+        "final_url": "https://grad.ucalgary.ca/future-students/graduate/discover-opportunities/explore-programs/physics-and-astronomy-msc-thesis"
+      }
     },
     {
       "country": "Australia",
@@ -1600,7 +1732,18 @@
         "status": 200,
         "final_url": "https://science.anu.edu.au/study/masters/master-science-astronomy-astrophysics"
       },
-      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。",
+      "supervisor_contact_required_before_application": "普通版未列提前联系要求",
+      "supervisor_contact_note": "2027普通版NSCAA入学要求未列申请前导师同意；转Advanced须已确定导师批准，不能套到当前普通版offer。",
+      "supervisor_contact_sources": [
+        "https://programsandcourses.anu.edu.au/2027/program/NSCAA"
+      ],
+      "supervisor_contact_verified": "2026-10-05",
+      "supervisor_contact_source_check": {
+        "url": "https://programsandcourses.anu.edu.au/2027/program/NSCAA",
+        "status": 200,
+        "final_url": "https://programsandcourses.anu.edu.au/2027/program/NSCAA"
+      }
     },
     {
       "country": "Australia",
@@ -1698,7 +1841,18 @@
         "status": 403,
         "final_url": "https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/"
       },
-      "application_cycle_note": "核心官方正文HTTP403，保留明确待核状态，不推断申请日期。"
+      "application_cycle_note": "核心官方正文HTTP403，保留明确待核状态，不推断申请日期。",
+      "supervisor_contact_required_before_application": "待核：官网访问受限",
+      "supervisor_contact_note": "课程及入学要求正文HTTP403；handbook虽返回200，正文为访问拦截页，无法确认申请前导师要求。",
+      "supervisor_contact_sources": [
+        "https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/entry-requirements/"
+      ],
+      "supervisor_contact_verified": "2026-10-05",
+      "supervisor_contact_source_check": {
+        "url": "https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/entry-requirements/",
+        "status": 403,
+        "final_url": "https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/entry-requirements/"
+      }
     },
     {
       "country": "USA",
@@ -1783,7 +1937,18 @@
         "status": 200,
         "final_url": "https://graduateprograms.brown.edu/graduate-program/physics-scm"
       },
-      "application_cycle_note": "本轮页面列Fall priority February 1、final April 1但未标年份；启动日未见公布，入学年份与实际系统周期仍须确认。"
+      "application_cycle_note": "本轮页面列Fall priority February 1、final April 1但未标年份；启动日未见公布，入学年份与实际系统周期仍须确认。",
+      "supervisor_contact_required_before_application": "所查页面未列提前联系要求",
+      "supervisor_contact_note": "所查本项目公开招生／课程页面未列申请前必须联系或获导师同意；这不是明确免除声明，提交前仍按项目申请系统及补件通知确认。研究实习或论文导师另行安排。",
+      "supervisor_contact_sources": [
+        "https://graduateprograms.brown.edu/graduate-program/physics-scm"
+      ],
+      "supervisor_contact_verified": "2026-10-05",
+      "supervisor_contact_source_check": {
+        "url": "https://graduateprograms.brown.edu/graduate-program/physics-scm",
+        "status": 200,
+        "final_url": "https://graduateprograms.brown.edu/graduate-program/physics-scm"
+      }
     },
     {
       "country": "USA",
@@ -1899,7 +2064,18 @@
         "status": 200,
         "final_url": "https://physics.northwestern.edu/graduate/master-degree/"
       },
-      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。",
+      "supervisor_contact_required_before_application": "未列提前联系；入学前选导师",
+      "supervisor_contact_note": "MS手册要求第一季度开始前寻找研究advisor；此为入学研究安排，未写成提交申请前的导师承诺条件。",
+      "supervisor_contact_sources": [
+        "https://physics.northwestern.edu/documents/nu-pa-masters-handbook-03.20.25.pdf"
+      ],
+      "supervisor_contact_verified": "2026-10-05",
+      "supervisor_contact_source_check": {
+        "url": "https://physics.northwestern.edu/documents/nu-pa-masters-handbook-03.20.25.pdf",
+        "status": 200,
+        "final_url": "https://physics.northwestern.edu/documents/nu-pa-masters-handbook-03.20.25.pdf"
+      }
     },
     {
       "country": "USA",
@@ -1984,7 +2160,18 @@
         "status": 200,
         "final_url": "https://www.stonybrook.edu/physics/graduate/apply.html"
       },
-      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。",
+      "supervisor_contact_required_before_application": "无需联系个别导师",
+      "supervisor_contact_note": "系招生页明确由Admissions Committee集中评审，无需联系individual faculty；申请应列有兴趣合作的faculty。",
+      "supervisor_contact_sources": [
+        "https://www.stonybrook.edu/physics/graduate/apply.html"
+      ],
+      "supervisor_contact_verified": "2026-10-05",
+      "supervisor_contact_source_check": {
+        "url": "https://www.stonybrook.edu/physics/graduate/apply.html",
+        "status": 200,
+        "final_url": "https://www.stonybrook.edu/physics/graduate/apply.html"
+      }
     },
     {
       "country": "USA",
@@ -2100,7 +2287,18 @@
         "status": 200,
         "final_url": "https://gsas.nyu.edu/admissions/arc/programs/physics.html"
       },
-      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。 如遇周末或美国联邦假日，顺延至下一工作日。"
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。 如遇周末或美国联邦假日，顺延至下一工作日。",
+      "supervisor_contact_required_before_application": "所查页面未列提前联系要求",
+      "supervisor_contact_note": "所查本项目公开招生／课程页面未列申请前必须联系或获导师同意；这不是明确免除声明，提交前仍按项目申请系统及补件通知确认。研究实习或论文导师另行安排。",
+      "supervisor_contact_sources": [
+        "https://gsas.nyu.edu/admissions/arc/programs/physics.html"
+      ],
+      "supervisor_contact_verified": "2026-10-05",
+      "supervisor_contact_source_check": {
+        "url": "https://gsas.nyu.edu/admissions/arc/programs/physics.html",
+        "status": 200,
+        "final_url": "https://gsas.nyu.edu/admissions/arc/programs/physics.html"
+      }
     },
     {
       "country": "USA",
@@ -2111,7 +2309,7 @@
       "rank_key": "Washington University in St. Louis",
       "match": "Medium",
       "difficulty": "Unknown",
-      "priority": "条件备选；排名与资助待闭环",
+      "priority": "取消重点；无thesis，不符合论文型要求",
       "qualification": "外部MA明确；不公布GPA最低，最新排名未闭环。",
       "duration": "约2年；36 credits",
       "research": "非thesis MA，最多6 credits research；不自动成为研究型硕士。",
@@ -2222,7 +2420,7 @@
           5
         ]
       },
-      "priority_application": true,
+      "priority_application": false,
       "application_cycle": "启动待核 → 截止待核；2027 MA专属日期未核实",
       "application_cycle_sources": [
         "https://physics.wustl.edu/how-apply"
@@ -2233,7 +2431,19 @@
         "status": 200,
         "final_url": "https://physics.washu.edu/how-apply"
       },
-      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。",
+      "supervisor_contact_required_before_application": "所查页面未列提前联系要求",
+      "supervisor_contact_note": "所查本项目公开招生／课程页面未列申请前必须联系或获导师同意；这不是明确免除声明，提交前仍按项目申请系统及补件通知确认。研究实习或论文导师另行安排。",
+      "supervisor_contact_sources": [
+        "https://physics.wustl.edu/how-apply"
+      ],
+      "supervisor_contact_verified": "2026-10-05",
+      "supervisor_contact_source_check": {
+        "url": "https://physics.wustl.edu/how-apply",
+        "status": 200,
+        "final_url": "https://physics.washu.edu/how-apply"
+      },
+      "priority_application_note": "2026-10-05用户取消重点：MA无thesis，不符合当前论文型硕士要求；保留学校记录。"
     },
     {
       "country": "USA",
@@ -2305,7 +2515,18 @@
         "status": 200,
         "final_url": "https://physics.utexas.edu/academics/admissions"
       },
-      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。",
+      "supervisor_contact_required_before_application": "所查页面未列提前联系要求",
+      "supervisor_contact_note": "所查本项目公开招生／课程页面未列申请前必须联系或获导师同意；这不是明确免除声明，提交前仍按项目申请系统及补件通知确认。研究实习或论文导师另行安排。",
+      "supervisor_contact_sources": [
+        "https://physics.utexas.edu/academics/admissions"
+      ],
+      "supervisor_contact_verified": "2026-10-05",
+      "supervisor_contact_source_check": {
+        "url": "https://physics.utexas.edu/academics/admissions",
+        "status": 200,
+        "final_url": "https://physics.utexas.edu/academics/admissions"
+      }
     },
     {
       "country": "USA",
@@ -2421,7 +2642,18 @@
         "status": 200,
         "final_url": "https://physics.gatech.edu/academics/graduate/admissions-info"
       },
-      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。",
+      "supervisor_contact_required_before_application": "可联系；委员会统一录取",
+      "supervisor_contact_note": "系欢迎联系faculty了解研究，但个人导师不能直接接收学生，申请由School of Physics Graduate Committee审查。",
+      "supervisor_contact_sources": [
+        "https://physics.gatech.edu/academics/graduate/admissions-info"
+      ],
+      "supervisor_contact_verified": "2026-10-05",
+      "supervisor_contact_source_check": {
+        "url": "https://physics.gatech.edu/academics/graduate/admissions-info",
+        "status": 200,
+        "final_url": "https://physics.gatech.edu/academics/graduate/admissions-info"
+      }
     },
     {
       "country": "USA",
@@ -2524,7 +2756,18 @@
         "status": 200,
         "final_url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/applied-physics-applied-mathematics/graduate-programs/applied-physics-ms/"
       },
-      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。",
+      "supervisor_contact_required_before_application": "所查页面未列提前联系要求",
+      "supervisor_contact_note": "所查本项目公开招生／课程页面未列申请前必须联系或获导师同意；这不是明确免除声明，提交前仍按项目申请系统及补件通知确认。研究实习或论文导师另行安排。",
+      "supervisor_contact_sources": [
+        "https://bulletin.columbia.edu/columbia-engineering/graduate-studies/graduate-admissions/"
+      ],
+      "supervisor_contact_verified": "2026-10-05",
+      "supervisor_contact_source_check": {
+        "url": "https://bulletin.columbia.edu/columbia-engineering/graduate-studies/graduate-admissions/",
+        "status": 200,
+        "final_url": "https://bulletin.columbia.edu/columbia-engineering/graduate-studies/graduate-admissions/"
+      }
     },
     {
       "country": "USA",
@@ -2556,7 +2799,7 @@
       "refs": "至少3封推荐信、CV、application essay、research personal statement、transcripts。系建议通过招生委员会确认兴趣组，不群发导师。",
       "deadline": "系申请页和FAQ均列2027-01-10为full consideration截止（含assistantships优先审理）；申请页仍残留Fall2026字样和2026 CAS链接，同时主Apply Now指向2027 CAS，提交前核对周期。",
       "deadline_status": "2027-01-10已公布并由FAQ互证；页面旧年份/旧CAS链接冲突已注明",
-      "priority": "美国重点补充；论文与研究组匹配",
+      "priority": "美国重点；选择Thesis路径",
       "qualification": "系不设GPA截断；高能/计算研究吻合，录取仍依赖研究组需求。",
       "reason": "官方MS明确Computational Physics与High Energy Physics研究，Higgs MLP/pyhf统计推断及Bayesian计算可直接支撑申请叙述。",
       "action": "优先整理核心物理成绩与本人研究证据，经GraduateCAS选择College Station Physics MS；核英语豁免、MS专属资助和2027入口。",
@@ -2674,7 +2917,7 @@
         "https://artsci.tamu.edu/physics-astronomy/academics/prospective-graduates/how-to-apply.html",
         "https://artsci.tamu.edu/physics-astronomy/academics/prospective-graduates/faqs.html"
       ],
-      "priority_application": false,
+      "priority_application": true,
       "application_cycle": "2026-08-01 → 2027-01-10（优先）；网页仍误写Fall 2026，须核CAS周期",
       "application_cycle_sources": [
         "https://artsci.tamu.edu/physics-astronomy/academics/prospective-graduates/how-to-apply.html"
@@ -2685,7 +2928,19 @@
         "status": 200,
         "final_url": "https://artsci.tamu.edu/physics-astronomy/academics/prospective-graduates/how-to-apply.html"
       },
-      "application_cycle_note": "官网明确列August 1, 2026启动和January 10, 2027截止，但同段仍称fall 2026；FAQ将01-10解释为充分考虑录取和assistantships的节点，之后仍可提交。提交前核对GraduateCAS周期。"
+      "application_cycle_note": "官网明确列August 1, 2026启动和January 10, 2027截止，但同段仍称fall 2026；FAQ将01-10解释为充分考虑录取和assistantships的节点，之后仍可提交。提交前核对GraduateCAS周期。",
+      "supervisor_contact_required_before_application": "所查页面未列提前联系要求",
+      "supervisor_contact_note": "所查本项目公开招生／课程页面未列申请前必须联系或获导师同意；这不是明确免除声明，提交前仍按项目申请系统及补件通知确认。研究实习或论文导师另行安排。",
+      "supervisor_contact_sources": [
+        "https://artsci.tamu.edu/physics-astronomy/academics/prospective-graduates/how-to-apply.html"
+      ],
+      "supervisor_contact_verified": "2026-10-05",
+      "supervisor_contact_source_check": {
+        "url": "https://artsci.tamu.edu/physics-astronomy/academics/prospective-graduates/how-to-apply.html",
+        "status": 200,
+        "final_url": "https://artsci.tamu.edu/physics-astronomy/academics/prospective-graduates/how-to-apply.html"
+      },
+      "priority_application_note": "2026-10-05用户指定替换WashU为重点；仅对应Physics MS Thesis路径。"
     },
     {
       "country": "USA",
@@ -2855,7 +3110,18 @@
         "status": 200,
         "final_url": "https://asegrad.tufts.edu/program/physics-and-physics-astrophysics-masters"
       },
-      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。",
+      "supervisor_contact_required_before_application": "所查页面未列提前联系要求",
+      "supervisor_contact_note": "所查本项目公开招生／课程页面未列申请前必须联系或获导师同意；这不是明确免除声明，提交前仍按项目申请系统及补件通知确认。研究实习或论文导师另行安排。",
+      "supervisor_contact_sources": [
+        "https://as.tufts.edu/physics/academics/graduate-programs"
+      ],
+      "supervisor_contact_verified": "2026-10-05",
+      "supervisor_contact_source_check": {
+        "url": "https://as.tufts.edu/physics/academics/graduate-programs",
+        "status": 200,
+        "final_url": "https://as.tufts.edu/physics/academics/graduate-programs"
+      }
     },
     {
       "country": "France",
@@ -2945,7 +3211,18 @@
         "status": 200,
         "final_url": "https://www.universite-paris-saclay.fr/en/education/masters-degree/physique-fondamentale-et-applications/m1-general-physics"
       },
-      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。",
+      "supervisor_contact_required_before_application": "所查页面未列提前联系要求",
+      "supervisor_contact_note": "所查本项目公开招生／课程页面未列申请前必须联系或获导师同意；这不是明确免除声明，提交前仍按项目申请系统及补件通知确认。研究实习或论文导师另行安排。",
+      "supervisor_contact_sources": [
+        "https://www.universite-paris-saclay.fr/en/education/masters-degree/physique-fondamentale-et-applications/m1-general-physics"
+      ],
+      "supervisor_contact_verified": "2026-10-05",
+      "supervisor_contact_source_check": {
+        "url": "https://www.universite-paris-saclay.fr/en/education/masters-degree/physique-fondamentale-et-applications/m1-general-physics",
+        "status": 200,
+        "final_url": "https://www.universite-paris-saclay.fr/en/education/masters-degree/physique-fondamentale-et-applications/m1-general-physics"
+      }
     },
     {
       "country": "France",
@@ -3037,7 +3314,18 @@
         "status": 200,
         "final_url": "https://psl.eu/en/education/master-s-degree-physics"
       },
-      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。",
+      "supervisor_contact_required_before_application": "所查页面未列提前联系要求",
+      "supervisor_contact_note": "所查本项目公开招生／课程页面未列申请前必须联系或获导师同意；这不是明确免除声明，提交前仍按项目申请系统及补件通知确认。研究实习或论文导师另行安排。",
+      "supervisor_contact_sources": [
+        "https://psl.eu/en/education/master-s-degree-physics"
+      ],
+      "supervisor_contact_verified": "2026-10-05",
+      "supervisor_contact_source_check": {
+        "url": "https://psl.eu/en/education/master-s-degree-physics",
+        "status": 200,
+        "final_url": "https://psl.eu/en/education/master-s-degree-physics"
+      }
     },
     {
       "country": "France",
@@ -3135,7 +3423,17 @@
         "url": "https://master.physique.sorbonne-universite.fr/fr/candidatures-inscription.html",
         "error": "HTTPSConnectionPool(host='master.physique.sorbonne-universite.fr', port=443): Max retries exceeded with url: /fr/candidatures-inscription.html (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))"
       },
-      "application_cycle_note": "Sorbonne与Paris Cité联办PPM，不能当作两次独立申请。加拿大EEF 2027/28日历不是项目专属窗口，具体渠道仍须确认。"
+      "application_cycle_note": "Sorbonne与Paris Cité联办PPM，不能当作两次独立申请。加拿大EEF 2027/28日历不是项目专属窗口，具体渠道仍须确认。",
+      "supervisor_contact_required_before_application": "PPM申请前要求待核",
+      "supervisor_contact_note": "联合PPM目录未列提前联系条件，专属招生页TLS失败；不能据目录未提及就断言无需联系。",
+      "supervisor_contact_sources": [
+        "https://master.physique.sorbonne-universite.fr/fr/candidatures-inscription.html"
+      ],
+      "supervisor_contact_verified": "2026-10-05",
+      "supervisor_contact_source_check": {
+        "url": "https://master.physique.sorbonne-universite.fr/fr/candidatures-inscription.html",
+        "error": "HTTPSConnectionPool(host='master.physique.sorbonne-universite.fr', port=443): Max retries exceeded with url: /fr/candidatures-inscription.html (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))"
+      }
     },
     {
       "country": "France",
@@ -3246,7 +3544,18 @@
         "status": 200,
         "final_url": "https://www.ip-paris.fr/en/education/useful-information/admissions"
       },
-      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。",
+      "supervisor_contact_required_before_application": "所查页面未列提前联系要求",
+      "supervisor_contact_note": "所查本项目公开招生／课程页面未列申请前必须联系或获导师同意；这不是明确免除声明，提交前仍按项目申请系统及补件通知确认。研究实习或论文导师另行安排。",
+      "supervisor_contact_sources": [
+        "https://www.ip-paris.fr/en/education/useful-information/admissions"
+      ],
+      "supervisor_contact_verified": "2026-10-05",
+      "supervisor_contact_source_check": {
+        "url": "https://www.ip-paris.fr/en/education/useful-information/admissions",
+        "status": 200,
+        "final_url": "https://www.ip-paris.fr/en/education/useful-information/admissions"
+      }
     },
     {
       "country": "France",
@@ -3382,7 +3691,18 @@
         "status": 200,
         "final_url": "https://u-paris.fr/candidater-a-universite-paris-cite/"
       },
-      "application_cycle_note": "Sorbonne与Paris Cité联办PPM，不能当作两次独立申请。加拿大EEF 2027/28日历不是项目专属窗口，具体渠道仍须确认。"
+      "application_cycle_note": "Sorbonne与Paris Cité联办PPM，不能当作两次独立申请。加拿大EEF 2027/28日历不是项目专属窗口，具体渠道仍须确认。",
+      "supervisor_contact_required_before_application": "PPM申请前要求待核",
+      "supervisor_contact_note": "与Sorbonne同一联合PPM；已查项目目录未列提前联系条件，专属申请要求仍待核。",
+      "supervisor_contact_sources": [
+        "https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/physique-fondamentale-et-applications-K2VO0C50/master-physique-fondamentale-et-applications-m1-parcours-paris-physics-master-JS1XR1EO.html"
+      ],
+      "supervisor_contact_verified": "2026-10-05",
+      "supervisor_contact_source_check": {
+        "url": "https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/physique-fondamentale-et-applications-K2VO0C50/master-physique-fondamentale-et-applications-m1-parcours-paris-physics-master-JS1XR1EO.html",
+        "status": 200,
+        "final_url": "https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/physique-fondamentale-et-applications-K2VO0C50/master-physique-fondamentale-et-applications-m1-parcours-paris-physics-master-JS1XR1EO.html"
+      }
     },
     {
       "country": "Germany",
@@ -3477,7 +3797,18 @@
         "status": 200,
         "final_url": "https://www.tum.de/en/studies/degree-programs/detail/physics-applied-and-engineering-physics-master-of-science-msc"
       },
-      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。",
+      "supervisor_contact_required_before_application": "所查页面未列提前联系要求",
+      "supervisor_contact_note": "所查本项目公开招生／课程页面未列申请前必须联系或获导师同意；这不是明确免除声明，提交前仍按项目申请系统及补件通知确认。研究实习或论文导师另行安排。",
+      "supervisor_contact_sources": [
+        "https://www.tum.de/en/studies/degree-programs/detail/physics-applied-and-engineering-physics-master-of-science-msc"
+      ],
+      "supervisor_contact_verified": "2026-10-05",
+      "supervisor_contact_source_check": {
+        "url": "https://www.tum.de/en/studies/degree-programs/detail/physics-applied-and-engineering-physics-master-of-science-msc",
+        "status": 200,
+        "final_url": "https://www.tum.de/en/studies/degree-programs/detail/physics-applied-and-engineering-physics-master-of-science-msc"
+      }
     },
     {
       "country": "Germany",
@@ -3593,7 +3924,18 @@
         "status": 200,
         "final_url": "https://www.physik.lmu.de/en/studies/study-programs/applying-to-a-masters-program/"
       },
-      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。 January 15可申请同年April或October；July 15可申请同年October或次年April；非德国本科申请人另须并行申请International Office。"
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。 January 15可申请同年April或October；July 15可申请同年October或次年April；非德国本科申请人另须并行申请International Office。",
+      "supervisor_contact_required_before_application": "所查页面未列提前联系要求",
+      "supervisor_contact_note": "所查本项目公开招生／课程页面未列申请前必须联系或获导师同意；这不是明确免除声明，提交前仍按项目申请系统及补件通知确认。研究实习或论文导师另行安排。",
+      "supervisor_contact_sources": [
+        "https://www.physik.lmu.de/en/studies/study-programs/applying-to-a-masters-program/"
+      ],
+      "supervisor_contact_verified": "2026-10-05",
+      "supervisor_contact_source_check": {
+        "url": "https://www.physik.lmu.de/en/studies/study-programs/applying-to-a-masters-program/",
+        "status": 200,
+        "final_url": "https://www.physik.lmu.de/en/studies/study-programs/applying-to-a-masters-program/"
+      }
     },
     {
       "country": "Germany",
@@ -3731,7 +4073,18 @@
         "status": 200,
         "final_url": "https://www.physik.uni-heidelberg.de/studium/master?lang=en"
       },
-      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。",
+      "supervisor_contact_required_before_application": "所查页面未列提前联系要求",
+      "supervisor_contact_note": "所查本项目公开招生／课程页面未列申请前必须联系或获导师同意；这不是明确免除声明，提交前仍按项目申请系统及补件通知确认。研究实习或论文导师另行安排。",
+      "supervisor_contact_sources": [
+        "https://www.uni-heidelberg.de/en/study/all-subjects/physics/physics-master"
+      ],
+      "supervisor_contact_verified": "2026-10-05",
+      "supervisor_contact_source_check": {
+        "url": "https://www.uni-heidelberg.de/en/study/all-subjects/physics/physics-master",
+        "status": 200,
+        "final_url": "https://www.uni-heidelberg.de/en/study/all-subjects/physics/physics-master"
+      }
     },
     {
       "country": "Germany",
@@ -3854,7 +4207,18 @@
         "status": 200,
         "final_url": "https://www.sle.kit.edu/english/vorstudium/master-physics.php"
       },
-      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。",
+      "supervisor_contact_required_before_application": "所查页面未列提前联系要求",
+      "supervisor_contact_note": "所查本项目公开招生／课程页面未列申请前必须联系或获导师同意；这不是明确免除声明，提交前仍按项目申请系统及补件通知确认。研究实习或论文导师另行安排。",
+      "supervisor_contact_sources": [
+        "https://www.sle.kit.edu/english/vorstudium/master-physics.php"
+      ],
+      "supervisor_contact_verified": "2026-10-05",
+      "supervisor_contact_source_check": {
+        "url": "https://www.sle.kit.edu/english/vorstudium/master-physics.php",
+        "status": 200,
+        "final_url": "https://www.sle.kit.edu/english/vorstudium/master-physics.php"
+      }
     },
     {
       "country": "Germany",
@@ -4020,7 +4384,18 @@
         "status": 200,
         "final_url": "https://www.physik.uni-hamburg.de/studium/studiengaenge/masterstudiengaenge/msc-physics.html"
       },
-      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。",
+      "supervisor_contact_required_before_application": "所查页面未列提前联系要求",
+      "supervisor_contact_note": "所查本项目公开招生／课程页面未列申请前必须联系或获导师同意；这不是明确免除声明，提交前仍按项目申请系统及补件通知确认。研究实习或论文导师另行安排。",
+      "supervisor_contact_sources": [
+        "https://www.physik.uni-hamburg.de/studium/studiengaenge/masterstudiengaenge/msc-physics.html"
+      ],
+      "supervisor_contact_verified": "2026-10-05",
+      "supervisor_contact_source_check": {
+        "url": "https://www.physik.uni-hamburg.de/studium/studiengaenge/masterstudiengaenge/msc-physics.html",
+        "status": 200,
+        "final_url": "https://www.physik.uni-hamburg.de/studium/studiengaenge/masterstudiengaenge/msc-physics.html"
+      }
     },
     {
       "country": "Switzerland",
@@ -4158,7 +4533,18 @@
         "status": 200,
         "final_url": "https://ethz.ch/en/studies/master/application/dates.html"
       },
-      "application_cycle_note": "已明确公布Autumn Semester 2027国际本科窗口；2026-11-30 11:59 AM CET约为北京时间18:59，不是午夜；不使用Swiss Bachelor窗口。"
+      "application_cycle_note": "已明确公布Autumn Semester 2027国际本科窗口；2026-11-30 11:59 AM CET约为北京时间18:59，不是午夜；不使用Swiss Bachelor窗口。",
+      "supervisor_contact_required_before_application": "普通MSc未列提前联系要求",
+      "supervisor_contact_note": "所查普通Physics MSc与课程准入资料未列申请前导师确认；Direct Doctorate明确需导师及资金确认，不能套用到普通MSc。",
+      "supervisor_contact_sources": [
+        "https://www.phys.ethz.ch/studies/master.html"
+      ],
+      "supervisor_contact_verified": "2026-10-05",
+      "supervisor_contact_source_check": {
+        "url": "https://www.phys.ethz.ch/studies/master.html",
+        "status": 200,
+        "final_url": "https://www.phys.ethz.ch/studies/master.html"
+      }
     },
     {
       "country": "Switzerland",
@@ -4281,7 +4667,18 @@
         "status": 200,
         "final_url": "https://www.epfl.ch/education/admission/admission-2/master-admission-criteria-application/online-application/"
       },
-      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。",
+      "supervisor_contact_required_before_application": "所查页面未列提前联系要求",
+      "supervisor_contact_note": "所查本项目公开招生／课程页面未列申请前必须联系或获导师同意；这不是明确免除声明，提交前仍按项目申请系统及补件通知确认。研究实习或论文导师另行安排。",
+      "supervisor_contact_sources": [
+        "https://www.epfl.ch/education/admission/master-admission-criteria-application/online-application/"
+      ],
+      "supervisor_contact_verified": "2026-10-05",
+      "supervisor_contact_source_check": {
+        "url": "https://www.epfl.ch/education/admission/master-admission-criteria-application/online-application/",
+        "status": 200,
+        "final_url": "https://www.epfl.ch/education/admission/admission-2/master-admission-criteria-application/online-application/"
+      }
     },
     {
       "country": "Switzerland",
@@ -4376,7 +4773,18 @@
         "status": 200,
         "final_url": "https://www.unige.ch/sciences/physique/enseignement/master"
       },
-      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。",
+      "supervisor_contact_required_before_application": "所查页面未列提前联系要求",
+      "supervisor_contact_note": "所查本项目公开招生／课程页面未列申请前必须联系或获导师同意；这不是明确免除声明，提交前仍按项目申请系统及补件通知确认。研究实习或论文导师另行安排。",
+      "supervisor_contact_sources": [
+        "https://www.unige.ch/sciences/physique/enseignement/master"
+      ],
+      "supervisor_contact_verified": "2026-10-05",
+      "supervisor_contact_source_check": {
+        "url": "https://www.unige.ch/sciences/physique/enseignement/master",
+        "status": 200,
+        "final_url": "https://www.unige.ch/sciences/physique/enseignement/master"
+      }
     },
     {
       "country": "Switzerland",
@@ -4528,7 +4936,18 @@
         "status": 200,
         "final_url": "https://www.uzh.ch/en/studies/application/deadlines.html"
       },
-      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。",
+      "supervisor_contact_required_before_application": "未列提前联系；论文前落实",
+      "supervisor_contact_note": "foreign Bachelor入学页未列申请前导师同意；learning agreement在开始Master thesis前与项目主任及/或论文导师确定。",
+      "supervisor_contact_sources": [
+        "https://www.physik.uzh.ch/en/study/Study-Degree-Programmes/Master/admission.html"
+      ],
+      "supervisor_contact_verified": "2026-10-05",
+      "supervisor_contact_source_check": {
+        "url": "https://www.physik.uzh.ch/en/study/Study-Degree-Programmes/Master/admission.html",
+        "status": 200,
+        "final_url": "https://www.physik.uzh.ch/en/study/Study-Degree-Programmes/Master/admission.html"
+      }
     },
     {
       "country": "Switzerland",
@@ -4639,7 +5058,18 @@
         "status": 200,
         "final_url": "https://www.unibe.ch/e1006/e1029/e1041/e1046/e9395/e9454/e11071/e1803186/MasterCheckliste_ger.pdf"
       },
-      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。"
+      "application_cycle_note": "年度月日仅作准备依据；2027批次须按申请系统确认。",
+      "supervisor_contact_required_before_application": "所查页面未列提前联系要求",
+      "supervisor_contact_note": "所查本项目公开招生／课程页面未列申请前必须联系或获导师同意；这不是明确免除声明，提交前仍按项目申请系统及补件通知确认。研究实习或论文导师另行安排。",
+      "supervisor_contact_sources": [
+        "https://www.philnat.unibe.ch/studium/studienprogramme/master_physik/index_ger.html"
+      ],
+      "supervisor_contact_verified": "2026-10-05",
+      "supervisor_contact_source_check": {
+        "url": "https://www.philnat.unibe.ch/studium/studienprogramme/master_physik/index_ger.html",
+        "status": 200,
+        "final_url": "https://www.philnat.unibe.ch/studium/studienprogramme/master_physik/index_ger.html"
+      }
     }
   ],
   "scope_revision": {
@@ -4707,7 +5137,7 @@
     }
   },
   "recommendation_scope_note": "推荐信口径：必需、可选、官方清单未列必交和待核分别记录。未列要求不等于已确认0封；推荐人联系信息、在线评估与信件按官方实际形式区分。校级最低数与项目专属加额、入学与奖学金要求分别注明。",
-  "priority_application_scope": "用户指定18所重点申请：McGill、Alberta、McMaster、Queen’s、Western、Melbourne、Northwestern、NYU、WashU、UT Austin、Paris-Saclay、PSL / ENS、Sorbonne、LMU、Heidelberg、KIT、EPFL、UZH；汇总表整行荧光黄色 #FFFF00。此标记不改变学术资格或难度判断。",
+  "priority_application_scope": "用户指定18所重点申请：McGill、Alberta、McMaster、Queen’s、Western、Melbourne、Northwestern、NYU、UT Austin、Texas A&M、Paris-Saclay、PSL / ENS、Sorbonne、LMU、Heidelberg、KIT、EPFL、UZH；汇总表整行荧光黄色 #FFFF00。WashU因无thesis取消重点，由Texas A&M Physics MS Thesis替代（2026-10-05）。此标记不改变学术资格或难度判断。",
   "summary": {
     "by_country": [
       {
@@ -4740,8 +5170,8 @@
         "priority_schools": [
           "Northwestern",
           "NYU",
-          "WashU",
-          "UT Austin"
+          "UT Austin",
+          "Texas A&M"
         ]
       },
       {

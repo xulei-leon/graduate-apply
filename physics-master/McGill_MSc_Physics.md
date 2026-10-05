@@ -106,3 +106,14 @@ S4. **English proficiency**：https://www.mcgill.ca/gradapplicants/how-apply/app
 官方日期来源：https://www.mcgill.ca/gradapplicants/program/physics-msc
 
 **申请周期 Last-verified / last-attempted：2026-10-03。**
+
+## 申请前导师联系要求补核（2026-10-05）
+
+| 字段 | 信息 |
+|---|---|
+| 申请前联系导师 | 官方建议提前联系 |
+| 要求与时间点 | 系建议申请中注明研究兴趣及导师偏好，并尝试邮件联系心仪导师；未写成先获导师承诺的硬性提交条件。 |
+
+官方来源：https://www.physics.mcgill.ca/grads/application.html
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

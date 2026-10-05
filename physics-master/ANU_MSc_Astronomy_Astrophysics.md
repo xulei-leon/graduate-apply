@@ -96,3 +96,14 @@ S2. **Astronomy and Astrophysics / ordinary versus Advanced / intakes**：https:
 官方日期来源：https://science.anu.edu.au/study/masters/master-science-astronomy-astrophysics
 
 **申请周期 Last-verified / last-attempted：2026-10-03。**
+
+## 申请前导师联系要求补核（2026-10-05）
+
+| 字段 | 信息 |
+|---|---|
+| 申请前联系导师 | 普通版未列提前联系要求 |
+| 要求与时间点 | 2027普通版NSCAA入学要求未列申请前导师同意；转Advanced须已确定导师批准，不能套到当前普通版offer。 |
+
+官方来源：https://programsandcourses.anu.edu.au/2027/program/NSCAA
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

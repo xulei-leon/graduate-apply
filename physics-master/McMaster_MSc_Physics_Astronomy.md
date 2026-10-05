@@ -90,3 +90,14 @@ S2. **Department / funding model**：https://physics.mcmaster.ca/graduate-studie
 官方日期来源：https://gs.mcmaster.ca/program/physics-and-astronomy/
 
 **申请周期 Last-verified / last-attempted：2026-10-03。**
+
+## 申请前导师联系要求补核（2026-10-05）
+
+| 字段 | 信息 |
+|---|---|
+| 申请前联系导师 | 官方建议联系研究组 |
+| 要求与时间点 | 系建议有特定研究组意向者直接联系faculty、询问招生名额；未列申请前必须取得承诺。 |
+
+官方来源：https://gs.mcmaster.ca/how-to-apply/
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

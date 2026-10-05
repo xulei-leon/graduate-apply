@@ -106,3 +106,14 @@ S4. **Financial support**：https://www.physics.utoronto.ca/graduate/prospective
 官方日期来源：https://www.physics.utoronto.ca/graduate/prospective-students/graduate-admissions-department-physics/application-information/
 
 **申请周期 Last-verified / last-attempted：2026-10-03。**
+
+## 申请前导师联系要求补核（2026-10-05）
+
+| 字段 | 信息 |
+|---|---|
+| 申请前联系导师 | 未列提前联系要求 |
+| 要求与时间点 | 所查Physics MSc招生程序未列申请前必须联系或取得导师承诺；录取仍受研究指导及资金容量影响。 |
+
+官方来源：https://www.physics.utoronto.ca/graduate/prospective-students/graduate-admissions-department-physics/admissions-procedure/
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

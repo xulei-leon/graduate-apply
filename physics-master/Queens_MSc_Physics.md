@@ -90,3 +90,14 @@ S2. **MSc structure / funding**：https://www.queensu.ca/physics/grad-studies/ms
 官方日期来源：https://www.queensu.ca/physics/grad-studies/admission-requirements
 
 **申请周期 Last-verified / last-attempted：2026-10-03。**
+
+## 申请前导师联系要求补核（2026-10-05）
+
+| 字段 | 信息 |
+|---|---|
+| 申请前联系导师 | 申请前要求待核 |
+| 要求与时间点 | 系招生页未说明申请前必须联系或取得承诺；研究型MSc须有指导关系，但不能据此推断申请前硬性条件。 |
+
+官方来源：https://www.queensu.ca/physics/grad-studies/admission-requirements
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

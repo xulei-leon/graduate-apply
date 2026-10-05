@@ -98,3 +98,14 @@ GSAS要求3封，优先熟悉学术、研究能力的推荐人；不套用non-de
 官方日期来源：https://gsas.nyu.edu/admissions/arc/programs/physics.html
 
 **申请周期 Last-verified / last-attempted：2026-10-03。**
+
+## 申请前导师联系要求补核（2026-10-05）
+
+| 字段 | 信息 |
+|---|---|
+| 申请前联系导师 | 所查页面未列提前联系要求 |
+| 要求与时间点 | 所查本项目公开招生／课程页面未列申请前必须联系或获导师同意；这不是明确免除声明，提交前仍按项目申请系统及补件通知确认。研究实习或论文导师另行安排。 |
+
+官方来源：https://gsas.nyu.edu/admissions/arc/programs/physics.html
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

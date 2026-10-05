@@ -98,3 +98,14 @@ TGS最低2封，允许项目增额；MS Physics公开页面未核到额外数量
 官方日期来源：https://www.physics.northwestern.edu/graduate/master-degree/index.html
 
 **申请周期 Last-verified / last-attempted：2026-10-03。**
+
+## 申请前导师联系要求补核（2026-10-05）
+
+| 字段 | 信息 |
+|---|---|
+| 申请前联系导师 | 未列提前联系；入学前选导师 |
+| 要求与时间点 | MS手册要求第一季度开始前寻找研究advisor；此为入学研究安排，未写成提交申请前的导师承诺条件。 |
+
+官方来源：https://physics.northwestern.edu/documents/nu-pa-masters-handbook-03.20.25.pdf
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

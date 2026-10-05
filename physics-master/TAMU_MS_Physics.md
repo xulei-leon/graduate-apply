@@ -41,7 +41,7 @@ QS World University Rankings 2027综合 169；QS Physics & Astronomy 2026 124；
 |---|---|
 | Match | High — 官方MS明确Computational Physics与High Energy Physics研究，Higgs MLP/pyhf统计推断及Bayesian计算可直接支撑申请叙述。 |
 | Difficulty | Match；申请规划判断，非百分比录取率。 |
-| 申请优先级 | 美国重点补充；论文与研究组匹配 |
+| 申请优先级 | 美国重点；选择Thesis路径 |
 | 当前资格焦点 | 系不设GPA截断；高能/计算研究吻合，录取仍依赖研究组需求。 |
 | 下一步 | 优先整理核心物理成绩与本人研究证据，经GraduateCAS选择College Station Physics MS；核英语豁免、MS专属资助和2027入口。 |
 
@@ -111,3 +111,18 @@ Physics & Astronomy系How to Apply要求at least three letters of recommendation
 官方日期来源：https://artsci.tamu.edu/physics-astronomy/academics/prospective-graduates/how-to-apply.html
 
 **申请周期 Last-verified / last-attempted：2026-10-03。**
+
+## 申请前导师联系要求补核（2026-10-05）
+
+| 字段 | 信息 |
+|---|---|
+| 申请前联系导师 | 所查页面未列提前联系要求 |
+| 要求与时间点 | 所查本项目公开招生／课程页面未列申请前必须联系或获导师同意；这不是明确免除声明，提交前仍按项目申请系统及补件通知确认。研究实习或论文导师另行安排。 |
+
+官方来源：https://artsci.tamu.edu/physics-astronomy/academics/prospective-graduates/how-to-apply.html
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## 重点申请调整（2026-10-05）
+
+2026-10-05用户指定替换WashU为重点；仅对应Physics MS Thesis路径。

@@ -120,3 +120,14 @@ Physics-specific application材料及推荐信要求尚未核清；课程admissi
 官方日期来源：https://ethz.ch/en/studies/master/application/dates.html
 
 **申请周期 Last-verified / last-attempted：2026-10-03。**
+
+## 申请前导师联系要求补核（2026-10-05）
+
+| 字段 | 信息 |
+|---|---|
+| 申请前联系导师 | 普通MSc未列提前联系要求 |
+| 要求与时间点 | 所查普通Physics MSc与课程准入资料未列申请前导师确认；Direct Doctorate明确需导师及资金确认，不能套用到普通MSc。 |
+
+官方来源：https://www.phys.ethz.ch/studies/master.html
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

@@ -112,3 +112,14 @@ Physics Applying页明确3位scientists的姓名及联系信息，由推荐人�
 官方日期来源：https://www.sfu.ca/physics/graduate/prospective/deadlines.html
 
 **申请周期 Last-verified / last-attempted：2026-10-03。**
+
+## 申请前导师联系要求补核（2026-10-05）
+
+| 字段 | 信息 |
+|---|---|
+| 申请前联系导师 | 无需先找导师；鼓励联系 |
+| 要求与时间点 | FAQ明确申请前无需确定导师，鼓励尽早联系；第一学期末确认senior supervisor。此处为正常Fall MSc，非off-cycle。 |
+
+官方来源：https://www.sfu.ca/physics/graduate/prospective/faq.html
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

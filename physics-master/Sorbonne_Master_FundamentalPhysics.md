@@ -117,3 +117,14 @@ S3. **Dedicated applications (TLS issue on this check)**：https://master.physiq
 官方来源：https://sciences.sorbonne-universite.fr/en/masters/master-fundamental-physics-and-applications/m1-first-year-master
 
 完整口径、访问缺口和教育部公开数据年份见[法国五校2026统计核查](../application/phy-master-plan/France_Physics_2026_Applications_Capacity.md)。**Last-verified：2026-10-03。**
+
+## 申请前导师联系要求补核（2026-10-05）
+
+| 字段 | 信息 |
+|---|---|
+| 申请前联系导师 | PPM申请前要求待核 |
+| 要求与时间点 | 联合PPM目录未列提前联系条件，专属招生页TLS失败；不能据目录未提及就断言无需联系。 |
+
+官方来源：https://master.physique.sorbonne-universite.fr/fr/candidatures-inscription.html
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

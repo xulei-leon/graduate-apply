@@ -41,7 +41,7 @@ QS World University Rankings 2027综合 162；QS Physics & Astronomy 2026 301-35
 |---|---|
 | Match | Medium — 有独立Physics MA但非强制论文，具体计算/天体课题证据不足，保守Medium。 |
 | Difficulty | Unknown；申请规划判断，非百分比录取率。 |
-| 申请优先级 | 条件备选；排名与资助待闭环 |
+| 申请优先级 | 取消重点；无thesis，不符合论文型要求 |
 | 当前资格焦点 | 外部MA明确；不公布GPA最低，最新排名未闭环。 |
 | 下一步 | 先闭合最新US News前50排名门槛、2027 MAdeadline及学费/资助，再决定提交。 |
 
@@ -104,3 +104,18 @@ Physics系明确Masters须letters；Graduate Studies FAQ仅说明系统最多接
 官方日期来源：https://physics.wustl.edu/how-apply
 
 **申请周期 Last-verified / last-attempted：2026-10-03。**
+
+## 申请前导师联系要求补核（2026-10-05）
+
+| 字段 | 信息 |
+|---|---|
+| 申请前联系导师 | 所查页面未列提前联系要求 |
+| 要求与时间点 | 所查本项目公开招生／课程页面未列申请前必须联系或获导师同意；这不是明确免除声明，提交前仍按项目申请系统及补件通知确认。研究实习或论文导师另行安排。 |
+
+官方来源：https://physics.wustl.edu/how-apply
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## 重点申请调整（2026-10-05）
+
+2026-10-05用户取消重点：MA无thesis，不符合当前论文型硕士要求；保留学校记录。

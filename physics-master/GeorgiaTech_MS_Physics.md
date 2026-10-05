@@ -94,3 +94,14 @@ S3. **English policy effective Fall2027**：https://grad.gatech.edu/english-prof
 官方日期来源：https://physics.gatech.edu/academics/graduate/admissions-info
 
 **申请周期 Last-verified / last-attempted：2026-10-03。**
+
+## 申请前导师联系要求补核（2026-10-05）
+
+| 字段 | 信息 |
+|---|---|
+| 申请前联系导师 | 可联系；委员会统一录取 |
+| 要求与时间点 | 系欢迎联系faculty了解研究，但个人导师不能直接接收学生，申请由School of Physics Graduate Committee审查。 |
+
+官方来源：https://physics.gatech.edu/academics/graduate/admissions-info
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

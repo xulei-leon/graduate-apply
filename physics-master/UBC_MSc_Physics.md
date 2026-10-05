@@ -90,3 +90,14 @@ Physics MSc明确要求3份references；推荐人按学校在线渠道提交。
 官方日期来源：https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics
 
 **申请周期 Last-verified / last-attempted：2026-10-03。**
+
+## 申请前导师联系要求补核（2026-10-05）
+
+| 字段 | 信息 |
+|---|---|
+| 申请前联系导师 | 无需先获承诺；鼓励联系 |
+| 要求与时间点 | 官网明确申请前无需导师承诺，鼓励联系；申请中须填写感兴趣的faculty。 |
+
+官方来源：https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
