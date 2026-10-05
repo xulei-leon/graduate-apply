@@ -43,7 +43,7 @@ QS World University Rankings 2027综合 312；QS Physics & Astronomy 2026 401-45
 |---|---|
 | Match | High — 官方Galaxy evolution与cosmology（CMB、early universe、dark energy、testing gravity）研究组与天体物理统计方法重合；累计3.5门槛限制当前申请可行性。 |
 | Difficulty | Reach；申请规划判断，非百分比录取率。 |
-| 申请优先级 | 先问系级GPA例外；高风险冲刺 |
+| 申请优先级 | 先问系级GPA例外；高风险冲刺；计算相关：数值／模拟研究 |
 | 当前资格焦点 | 系级累计GPA等效3.5；3.0低于常规门槛。 |
 | 下一步 | 以成绩单和科研证据先询问低于3.5的conditional/qualifying考虑条件；只有明确可考虑时投入完整申请，不把FAQ例外当录取承诺。 |
 
@@ -121,5 +121,22 @@ Physics Applying页明确3位scientists的姓名及联系信息，由推荐人�
 | 要求与时间点 | FAQ明确申请前无需确定导师，鼓励尽早联系；第一学期末确认senior supervisor。此处为正常Fall MSc，非off-cycle。 |
 
 官方来源：https://www.sfu.ca/physics/graduate/prospective/faq.html
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## Computational Physics方向补核（2026-10-05）
+
+| 字段 | 核查结果 |
+|---|---|
+| 分类 | 综合项目中的计算研究 |
+| 独立specialization | 未确认 |
+| 单列研究领域 | 未确认 |
+| 申请优先级备注 | 计算相关：数值／模拟研究 |
+
+系研究页列数值宇宙学工具、hydrodynamical simulations及天文学machine learning，并有theoretical/computational biophysics。计算研究分布于领域内，未确认独立Computational Physics方向。
+
+官方来源：
+
+- https://www.sfu.ca/physics/research.html
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

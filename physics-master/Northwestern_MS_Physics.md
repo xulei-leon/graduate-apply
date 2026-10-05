@@ -41,7 +41,7 @@ QS World University Rankings 2027综合 45；QS Physics & Astronomy 2026 76。
 |---|---|
 | Match | High — 明确的thesis路线及天体/宇宙学选课与暗物质研究重合，适合作为科研型主申请。 |
 | Difficulty | Match；申请规划判断，非百分比录取率。 |
-| 申请优先级 | 美国重点；选Standard / Thesis |
+| 申请优先级 | 美国重点；选Standard / Thesis；计算物理：待核 |
 | 当前资格焦点 | 外部MS入口明确；本科数值最低未公开。 |
 | 下一步 | 优先核2027 MS deadline / GRE / English，并寻找可做thesis的研究方向。 |
 
@@ -107,5 +107,22 @@ TGS最低2封，允许项目增额；MS Physics公开页面未核到额外数量
 | 要求与时间点 | MS手册要求第一季度开始前寻找研究advisor；此为入学研究安排，未写成提交申请前的导师承诺条件。 |
 
 官方来源：https://physics.northwestern.edu/documents/nu-pa-masters-handbook-03.20.25.pdf
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## Computational Physics方向补核（2026-10-05）
+
+| 字段 | 核查结果 |
+|---|---|
+| 分类 | 未确认／待核 |
+| 独立specialization | 未确认 |
+| 单列研究领域 | 未确认 |
+| 申请优先级备注 | 计算物理：待核 |
+
+所查MS项目与手册未确认独立Computational Physics方向；毕业生Machine Learning Engineer就业例子不能当作项目方向证据。
+
+官方来源：
+
+- https://www.physics.northwestern.edu/graduate/master-degree/index.html
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

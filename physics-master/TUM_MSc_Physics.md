@@ -50,7 +50,7 @@ QS World University Rankings 2027综合 25；QS Physics & Astronomy 2026 27。
 |---|---|
 | Match | High — 计算、实验与应用研究阶段可承接HEP和Python推断，但需要审查具体方向与课程等效。 |
 | Difficulty | Reach；申请规划判断，非百分比录取率。 |
-| 申请优先级 | 研究冲刺；课程+成本先核 |
+| 申请优先级 | 研究冲刺；课程+成本先核；计算物理：列入高能方向 |
 | 当前资格焦点 | aptitude assessment；相关Physics本科与VPD；全英语，无非英语语言门槛。 |
 | 下一步 | 先做Physics课程映射与VPD；计算含non-EU学费的2年预算后再决定。 |
 
@@ -110,5 +110,22 @@ S2. **Language certificates**：https://www.tum.de/en/studies/application/applic
 | 要求与时间点 | 所查本项目公开招生／课程页面未列申请前必须联系或获导师同意；这不是明确免除声明，提交前仍按项目申请系统及补件通知确认。研究实习或论文导师另行安排。 |
 
 官方来源：https://www.tum.de/en/studies/degree-programs/detail/physics-applied-and-engineering-physics-master-of-science-msc
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## Computational Physics方向补核（2026-10-05）
+
+| 字段 | 核查结果 |
+|---|---|
+| 分类 | 合列计算物理研究 |
+| 独立specialization | 未确认 |
+| 单列研究领域 | 未确认 |
+| 申请优先级备注 | 计算物理：列入高能方向 |
+
+当前Applied and Engineering Physics MSc官网在High energy physics主题中明确列computational physics、data analysis和Monte Carlo methods；计算物理包含在高能主题内，未确认独立Computational Physics specialization。
+
+官方来源：
+
+- https://www.tum.de/en/studies/degree-programs/detail/physics-applied-and-engineering-physics-master-of-science-msc
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

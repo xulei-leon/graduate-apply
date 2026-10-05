@@ -41,7 +41,7 @@ QS World University Rankings 2027综合 142；QS Physics & Astronomy 2026 53。
 |---|---|
 | Match | Medium — 可选研究论文并接受Physics背景，但当前计算天体/暗物质具体课题未核，保守Medium。 |
 | Difficulty | Reach；申请规划判断，非百分比录取率。 |
-| 申请优先级 | 条件冲刺；可选thesis |
+| 申请优先级 | 条件冲刺；可选thesis；计算相关：AI／数值相对论 |
 | 当前资格焦点 | 外部MS自费可申请；本科数字最低未确认。 |
 | 下一步 | 先解决申请时未毕业的英语证明，再确认thesis项目；按自费冲刺安排。 |
 
@@ -103,5 +103,22 @@ S3. **English policy effective Fall2027**：https://grad.gatech.edu/english-prof
 | 要求与时间点 | 系欢迎联系faculty了解研究，但个人导师不能直接接收学生，申请由School of Physics Graduate Committee审查。 |
 
 官方来源：https://physics.gatech.edu/academics/graduate/admissions-info
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## Computational Physics方向补核（2026-10-05）
+
+| 字段 | 核查结果 |
+|---|---|
+| 分类 | 综合项目中的计算研究 |
+| 独立specialization | 未确认 |
+| 单列研究领域 | 未确认 |
+| 申请优先级备注 | 计算相关：AI／数值相对论 |
+
+系研究页单列Artificial Intelligence and Machine Learning，并提numerical relativity；页面明确M.S.与Ph.D.学生参与研究。属于计算相关领域，未确认名为Computational Physics的独立硕士方向。
+
+官方来源：
+
+- https://physics.gatech.edu/research
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

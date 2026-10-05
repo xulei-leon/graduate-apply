@@ -50,7 +50,7 @@ QS World University Rankings 2027综合 209；QS Physics & Astronomy 2026 76。
 |---|---|
 | Match | High — 官方同时覆盖天体物理和粒子物理，与DESY合作并有一年研究阶段，匹配两段计算/数据研究。 |
 | Difficulty | Reach；申请规划判断，非百分比录取率。 |
-| 申请优先级 | 德国研究型重点；替代RWTH |
+| 申请优先级 | 德国研究型重点；替代RWTH；计算相关：计算天体物理模块 |
 | 当前资格焦点 | 比较Physics课程与成绩；英语版入学无需德语；全英语，无非英语语言门槛。 |
 | 下一步 | 按英文Physics而非德文Physik申请；整理核心课、成绩转换和项目证明，在年度3月31日前准备完整材料。 |
 
@@ -128,5 +128,22 @@ S5. **Official programme page content / fees**：https://www.uni-hamburg.de/onTE
 | 要求与时间点 | 所查本项目公开招生／课程页面未列申请前必须联系或获导师同意；这不是明确免除声明，提交前仍按项目申请系统及补件通知确认。研究实习或论文导师另行安排。 |
 
 官方来源：https://www.physik.uni-hamburg.de/studium/studiengaenge/masterstudiengaenge/msc-physics.html
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## Computational Physics方向补核（2026-10-05）
+
+| 字段 | 核查结果 |
+|---|---|
+| 分类 | 相关计算课程 |
+| 独立specialization | 未确认 |
+| 单列研究领域 | 未确认 |
+| 申请优先级备注 | 计算相关：计算天体物理模块 |
+
+2026官方MSc模块手册列Computational Astrophysics（PHY-MV-T102，6 CP）及MHD Simulations with the FLASH Code等，明确适用于Physics (M.Sc.)。是模块证据，未确认独立Computational Physics方向；计算天体模块考试语言列English or German，所选英语项目的实际英语开课须确认。
+
+官方来源：
+
+- https://www.physik.uni-hamburg.de/studium/dokumente/physik-physics-msc-modulhandbuch-2026-final.pdf
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

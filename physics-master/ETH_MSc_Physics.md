@@ -50,7 +50,7 @@ QS World University Rankings 2027综合 8；QS Physics & Astronomy 2026 9。
 |---|---|
 | Match | High — 自由Physics研究选课及正式论文适合计算物理科研，但GPA与高竞争使其只能作少量Reach。 |
 | Difficulty | Reach；申请规划判断，非百分比录取率。 |
-| 申请优先级 | 早期强冲刺；11月截止 |
+| 申请优先级 | 早期强冲刺；11月截止；计算物理：待核 |
 | 当前资格焦点 | foreign Bachelor等效与高水平成绩；3.0明显弱；全英语，无非英语语言门槛。 |
 | 下一步 | 10月完成课程映射、registrar English证明和科研推荐；11月30日中午CET前提交全部材料。 |
 
@@ -129,5 +129,22 @@ Physics-specific application材料及推荐信要求尚未核清；课程admissi
 | 要求与时间点 | 所查普通Physics MSc与课程准入资料未列申请前导师确认；Direct Doctorate明确需导师及资金确认，不能套用到普通MSc。 |
 
 官方来源：https://www.phys.ethz.ch/studies/master.html
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## Computational Physics方向补核（2026-10-05）
+
+| 字段 | 核查结果 |
+|---|---|
+| 分类 | 未确认／待核 |
+| 独立specialization | 未确认 |
+| 单列研究领域 | 未确认 |
+| 申请优先级备注 | 计算物理：待核 |
+
+所查Physics MSc页未确认独立Computational Physics方向；入学先修Numerical Methods不算硕士方向，尝试访问计算物理研究组网站TLS失败。
+
+官方来源：
+
+- https://www.phys.ethz.ch/studies/master.html
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

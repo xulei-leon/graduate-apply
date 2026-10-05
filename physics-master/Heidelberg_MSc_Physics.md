@@ -50,7 +50,7 @@ QS World University Rankings 2027综合 86；QS Physics & Astronomy 2026 43。
 |---|---|
 | Match | High — Physics and Astronomy环境及研究型训练符合计算天体/粒子方向，申请价值取决于课程和面试。 |
 | Difficulty | Match；申请规划判断，非百分比录取率。 |
-| 申请优先级 | 条件主申；核德制等效与面试 |
+| 申请优先级 | 条件主申；核德制等效与面试；计算物理：独立细分方向 |
 | 当前资格焦点 | German grade 2.9或更好；有oral selection；全英语，无非英语语言门槛。 |
 | 下一步 | 先由招生方确认德制2.9等效，准备核心Physics口试与研究讲解。 |
 
@@ -129,5 +129,22 @@ S5. **Admission regulations linked by faculty**：https://www.uni-heidelberg.de/
 | 要求与时间点 | 所查本项目公开招生／课程页面未列申请前必须联系或获导师同意；这不是明确免除声明，提交前仍按项目申请系统及补件通知确认。研究实习或论文导师另行安排。 |
 
 官方来源：https://www.uni-heidelberg.de/en/study/all-subjects/physics/physics-master
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## Computational Physics方向补核（2026-10-05）
+
+| 字段 | 核查结果 |
+|---|---|
+| 分类 | 正式Computational Physics specialization |
+| 独立specialization | 已确认 |
+| 单列研究领域 | 未确认 |
+| 申请优先级备注 | 计算物理：独立细分方向 |
+
+由当前官方Physics Master页链接的MSc Module Manual第3.4节明确列Specialization Computational Physics，并给出独立模块表及MSc Model study plan。核心专业模块包括Fundamentals of Simulation Methods与Computational Statistics and Data Analysis，另有Monte Carlo、并行计算及机器学习等课程。属于Physics MSc内正式命名的specialization；各课实际开课与2027规则仍按届时手册确认。
+
+官方来源：
+
+- https://www.physik.uni-heidelberg.de/c/image/d/studium/master/pdf/MScModuleManual.pdf
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

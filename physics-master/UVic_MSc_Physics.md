@@ -43,7 +43,7 @@ QS World University Rankings 2027综合 370；QS Physics & Astronomy 2026 301-35
 |---|---|
 | Match | High — 官方astronomy/astrophysics/cosmology、星系演化数值模拟与粒子物理可承接MaNGA/Bayesian和Higgs统计两条研究叙事。 |
 | Difficulty | Match；申请规划判断，非百分比录取率。 |
-| 申请优先级 | 优先推进；天体/计算研究匹配 |
+| 申请优先级 | 优先推进；天体/计算研究匹配；计算相关：天体计算模拟 |
 | 当前资格焦点 | 最近两年B；相关Honours等效；申请无需列导师。 |
 | 下一步 | 核最近两年平均及Honours等效，优先筛computational astrophysics或particle导师；以2026-11-20为内部材料目标，不因未回复错过优先截止。 |
 
@@ -121,5 +121,22 @@ S5. **Research / computational astrophysics**：https://www.uvic.ca/science/phys
 | 要求与时间点 | Physics MSc官网明确申请表无需列supervisor；该声明不能扩大为整个研究学位无需指导关系。 |
 
 官方来源：https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/physics-and-astronomy-cred/physics-msc.php
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## Computational Physics方向补核（2026-10-05）
+
+| 字段 | 核查结果 |
+|---|---|
+| 分类 | 综合项目中的计算研究 |
+| 独立specialization | 未确认 |
+| 单列研究领域 | 未确认 |
+| 申请优先级备注 | 计算相关：天体计算模拟 |
+
+系研究页描述利用computer simulations检验宇宙演化理论；属于天体物理计算方法证据，未确认本MSc独立Computational Physics方向，具体导师及名额另核。
+
+官方来源：
+
+- https://www.uvic.ca/science/physics/research/index.php
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

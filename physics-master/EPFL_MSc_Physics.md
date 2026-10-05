@@ -50,7 +50,7 @@ QS World University Rankings 2027综合 22；QS Physics & Astronomy 2026 15。
 |---|---|
 | Match | High — particle与广泛Physics研究及Master project符合当前科研主题，成绩与选拔仍构成强冲刺。 |
 | Difficulty | Reach；申请规划判断，非百分比录取率。 |
-| 申请优先级 | 研究强冲刺；优先第一轮 |
+| 申请优先级 | 研究强冲刺；优先第一轮；计算物理：待核 |
 | 当前资格焦点 | foreign Physics bachelor要求excellent academic records；全英语，无非英语语言门槛。 |
 | 下一步 | 优先Dec15前轮，推荐信至少2封按时到；以具体研究内容补强但不推断足以抵消GPA。 |
 
@@ -122,5 +122,22 @@ S4. **Master eligibility and offered French course**：https://www.epfl.ch/educa
 | 要求与时间点 | 所查本项目公开招生／课程页面未列申请前必须联系或获导师同意；这不是明确免除声明，提交前仍按项目申请系统及补件通知确认。研究实习或论文导师另行安排。 |
 
 官方来源：https://www.epfl.ch/education/admission/master-admission-criteria-application/online-application/
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## Computational Physics方向补核（2026-10-05）
+
+| 字段 | 核查结果 |
+|---|---|
+| 分类 | 未确认／待核 |
+| 独立specialization | 未确认 |
+| 单列研究领域 | 未确认 |
+| 申请优先级备注 | 计算物理：待核 |
+
+Physics项目概览未确认独立Computational Physics方向；课程计划URL返回404，进一步访问EPFL主页受拦截。其他Computational Science and Engineering硕士不归入本Physics记录。
+
+官方来源：
+
+- https://www.epfl.ch/education/master/programs/physics/
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

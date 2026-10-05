@@ -43,7 +43,7 @@ QS World University Rankings 2027综合 32；QS Physics & Astronomy 2026 29。
 |---|---|
 | Match | High — 暗物质、天体物理及粒子物理方向与两段科研有较强学科重合，但是否有适合的MSc课题仍需核实。 |
 | Difficulty | Reach；申请规划判断，非百分比录取率。 |
-| 申请优先级 | 冲刺；先核末年GPA |
+| 申请优先级 | 冲刺；先核末年GPA；计算相关：科学计算课程 |
 | 当前资格焦点 | 系里要求B+；CGPA 3.0不能证明达标。 |
 | 下一步 | 先计算final-year与Physics平均分，再决定是否投入申请；用科研材料解释成绩，不把本校本科身份视为录取优势保证。 |
 
@@ -115,5 +115,22 @@ S4. **Financial support**：https://www.physics.utoronto.ca/graduate/prospective
 | 要求与时间点 | 所查Physics MSc招生程序未列申请前必须联系或取得导师承诺；录取仍受研究指导及资金容量影响。 |
 
 官方来源：https://www.physics.utoronto.ca/graduate/prospective-students/graduate-admissions-department-physics/admissions-procedure/
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## Computational Physics方向补核（2026-10-05）
+
+| 字段 | 核查结果 |
+|---|---|
+| 分类 | 相关计算课程 |
+| 独立specialization | 未确认 |
+| 单列研究领域 | 未确认 |
+| 申请优先级备注 | 计算相关：科学计算课程 |
+
+2026-27研究生课表列PHY1610H Scientific Computing for Physicists及Physics of Machine Learning；属于课程层面，未确认独立Computational Physics方向。
+
+官方来源：
+
+- https://www.physics.utoronto.ca/graduate/graduate-courses/
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

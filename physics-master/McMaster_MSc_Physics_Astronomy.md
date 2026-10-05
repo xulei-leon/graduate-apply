@@ -43,7 +43,7 @@ QS World University Rankings 2027综合 174；QS Physics & Astronomy 2026 201-25
 |---|---|
 | Match | High — 官网明确计算/理论、天体和粒子研究，能承接科学计算与推断经历。 |
 | Difficulty | Reach；申请规划判断，非百分比录取率。 |
-| 申请优先级 | 条件备选；先核成绩 |
+| 申请优先级 | 条件备选；先核成绩；计算物理：与理论物理合列 |
 | 当前资格焦点 | Honours Physics/Astronomy；数值GPA未核闭环。 |
 | 下一步 | 补查正式graduate calendar数值要求；以研究课题和推荐信质量决定是否升级优先。 |
 
@@ -99,5 +99,22 @@ S2. **Department / funding model**：https://physics.mcmaster.ca/graduate-studie
 | 要求与时间点 | 系建议有特定研究组意向者直接联系faculty、询问招生名额；未列申请前必须取得承诺。 |
 
 官方来源：https://gs.mcmaster.ca/how-to-apply/
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## Computational Physics方向补核（2026-10-05）
+
+| 字段 | 核查结果 |
+|---|---|
+| 分类 | 合列计算物理研究 |
+| 独立specialization | 未确认 |
+| 单列研究领域 | 未确认 |
+| 申请优先级备注 | 计算物理：与理论物理合列 |
+
+MSc的Areas of Research列Computational and theoretical physics；计算与理论物理在同一研究领域条目内，未确认单独Computational Physics specialization。
+
+官方来源：
+
+- https://gs.mcmaster.ca/program/physics-and-astronomy/
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

@@ -43,7 +43,7 @@ QS World University Rankings 2027综合 96；QS Physics & Astronomy 2026 201-250
 |---|---|
 | Match | Medium — 旧分析显示物理研究方向可作候选；未得到当前方法/课题证据，保守降为Medium。 |
 | Difficulty | Unknown；申请规划判断，非百分比录取率。 |
-| 申请优先级 | 待核心官网恢复 |
+| 申请优先级 | 待核心官网恢复；计算物理：待核 |
 | 当前资格焦点 | 当前GPA与招生条款无法重新核实。 |
 | 下一步 | 恢复官网后优先核GPA、导师、截止和资助；目前只保留排名候选，不标成可申请主申。 |
 
@@ -103,5 +103,22 @@ S2. **Admissions (403 on this check)**：https://www.ualberta.ca/en/physics/grad
 | 要求与时间点 | 核心招生正文HTTP403；无法确认申请前联系或导师承诺要求。 |
 
 官方来源：https://www.ualberta.ca/en/physics/graduate-studies/admissions.html
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## Computational Physics方向补核（2026-10-05）
+
+| 字段 | 核查结果 |
+|---|---|
+| 分类 | 未确认／待核 |
+| 独立specialization | 未确认 |
+| 单列研究领域 | 未确认 |
+| 申请优先级备注 | 计算物理：待核 |
+
+招生与研究主页均返回HTTP403，无法确认计算物理方向；留待核，不推断不存在。
+
+官方来源：
+
+- https://www.ualberta.ca/en/physics/graduate-studies/index.html
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

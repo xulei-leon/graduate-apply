@@ -41,7 +41,7 @@ QS World University Rankings 2027综合 162；QS Physics & Astronomy 2026 301-35
 |---|---|
 | Match | Medium — 有独立Physics MA但非强制论文，具体计算/天体课题证据不足，保守Medium。 |
 | Difficulty | Unknown；申请规划判断，非百分比录取率。 |
-| 申请优先级 | 取消重点；无thesis，不符合论文型要求 |
+| 申请优先级 | 取消重点；无thesis，不符合论文型要求；计算物理：待核 |
 | 当前资格焦点 | 外部MA明确；不公布GPA最低，最新排名未闭环。 |
 | 下一步 | 先闭合最新US News前50排名门槛、2027 MAdeadline及学费/资助，再决定提交。 |
 
@@ -119,3 +119,20 @@ Physics系明确Masters须letters；Graduate Studies FAQ仅说明系统最多接
 ## 重点申请调整（2026-10-05）
 
 2026-10-05用户取消重点：MA无thesis，不符合当前论文型硕士要求；保留学校记录。
+
+## Computational Physics方向补核（2026-10-05）
+
+| 字段 | 核查结果 |
+|---|---|
+| 分类 | 未确认／待核 |
+| 独立specialization | 未确认 |
+| 单列研究领域 | 未确认 |
+| 申请优先级备注 | 计算物理：待核 |
+
+所查MA目录及系研究页面未确认独立Computational Physics方向；无thesis及已取消重点的既有判断不变。
+
+官方来源：
+
+- https://physics.wustl.edu/how-apply
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

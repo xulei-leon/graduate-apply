@@ -43,7 +43,7 @@ QS World University Rankings 2027综合 73；QS Physics & Astronomy 2026 32。
 |---|---|
 | Match | High — 英语研究路径含数值方法、astro/cosmology与HEP，适合申请人科研方向。 |
 | Difficulty | Match；申请规划判断，非百分比录取率。 |
-| 申请优先级 | 法国重点；核专属M1入口 |
+| 申请优先级 | 法国重点；核专属M1入口；计算相关：PPM数值物理课程 |
 | 当前资格焦点 | English Physics M1；课程与研究背景适合。 |
 | 下一步 | 确认English PPM具体注册学校及M1渠道；保持joint Paris Cité只算同一候选，不重复增加名额。 |
 
@@ -126,5 +126,22 @@ S3. **Dedicated applications (TLS issue on this check)**：https://master.physiq
 | 要求与时间点 | 联合PPM目录未列提前联系条件，专属招生页TLS失败；不能据目录未提及就断言无需联系。 |
 
 官方来源：https://master.physique.sorbonne-universite.fr/fr/candidatures-inscription.html
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## Computational Physics方向补核（2026-10-05）
+
+| 字段 | 核查结果 |
+|---|---|
+| 分类 | 相关计算课程 |
+| 独立specialization | 未确认 |
+| 单列研究领域 | 未确认 |
+| 申请优先级备注 | 计算相关：PPM数值物理课程 |
+
+所选联合Paris Physics Master M1列Numerical methods for physics并说明numerical physics训练；未确认独立Computational Physics方向。此证据来自共同授予方Université Paris Cité的项目目录。
+
+官方来源：
+
+- https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/physique-fondamentale-et-applications-K2VO0C50/master-physique-fondamentale-et-applications-m1-parcours-paris-physics-master-JS1XR1EO.html
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

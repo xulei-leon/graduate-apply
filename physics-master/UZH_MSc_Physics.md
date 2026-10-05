@@ -50,7 +50,7 @@ QS World University Rankings 2027综合 98；QS Physics & Astronomy 2026 116。
 |---|---|
 | Match | High — astro/cosmology与particle研究训练与两段科研相符，需具体选课与论文项目落实。 |
 | Difficulty | Match；申请规划判断，非百分比录取率。 |
-| 申请优先级 | 瑞士重点；核课程等效 |
+| 申请优先级 | 瑞士重点；核课程等效；计算相关：计算科学／数值课程 |
 | 当前资格焦点 | foreign180ECTS本科，个案审查可附补课；全英语，无非英语语言门槛。 |
 | 下一步 | 先核foreign Bachelor课程等效与英语材料；按February28 visa deadline准备。 |
 
@@ -135,5 +135,22 @@ Physics foreign Bachelor入学资料未列固定推荐信要求；如审核时�
 | 要求与时间点 | foreign Bachelor入学页未列申请前导师同意；learning agreement在开始Master thesis前与项目主任及/或论文导师确定。 |
 
 官方来源：https://www.physik.uzh.ch/en/study/Study-Degree-Programmes/Master/admission.html
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## Computational Physics方向补核（2026-10-05）
+
+| 字段 | 核查结果 |
+|---|---|
+| 分类 | 相关计算课程 |
+| 独立specialization | 未确认 |
+| 单列研究领域 | 未确认 |
+| 申请优先级备注 | 计算相关：计算科学／数值课程 |
+
+Master course content页列ESC411 Computational Science I与PHY233 Numerical Methods I，涵盖ODE/PDE、Monte Carlo、inverse problems等；是课程层面证据，未确认Physics mono内独立Computational Physics方向。
+
+官方来源：
+
+- https://www.physik.uzh.ch/en/study/Study-Degree-Programmes/Master/course-content.html
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

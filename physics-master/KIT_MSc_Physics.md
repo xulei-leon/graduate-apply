@@ -50,7 +50,7 @@ QS World University Rankings 2027综合 110；QS Physics & Astronomy 2026 55。
 |---|---|
 | Match | High — particle/astroparticle与高级计算研究相关，课程合格后比纯按GPA排序更有实际申请价值。 |
 | Difficulty | Match；申请规划判断，非百分比录取率。 |
-| 申请优先级 | 重点条件主申；严格课程核对 |
+| 申请优先级 | 重点条件主申；严格课程核对；计算物理：待核 |
 | 当前资格焦点 | 理论32 /实验32 /lab18 ECTS；最多有限补课；全英语，无非英语语言门槛。 |
 | 下一步 | 先制作理论、实验、lab和数学学分证据表；明确实验课学时/学分，不把Python科研替代lab。 |
 
@@ -122,5 +122,22 @@ Physics专属页面未列必交推荐信；国际招生通用页说部分项目�
 | 要求与时间点 | 所查本项目公开招生／课程页面未列申请前必须联系或获导师同意；这不是明确免除声明，提交前仍按项目申请系统及补件通知确认。研究实习或论文导师另行安排。 |
 
 官方来源：https://www.sle.kit.edu/english/vorstudium/master-physics.php
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## Computational Physics方向补核（2026-10-05）
+
+| 字段 | 核查结果 |
+|---|---|
+| 分类 | 未确认／待核 |
+| 独立specialization | 未确认 |
+| 单列研究领域 | 未确认 |
+| 申请优先级备注 | 计算物理：待核 |
+
+所查Physics项目与模块手册入口未确认独立Computational Physics方向；导航中的Computational and Data Science是另一个硕士，不归入本Physics记录。
+
+官方来源：
+
+- https://www.sle.kit.edu/english/vorstudium/master-physics.php
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

@@ -11,7 +11,7 @@
 | Country / 国家 | 美国（United States of America） |
 | University / 大学 | Texas A&M University |
 | Exact program / 学位 | Master of Science in Physics — Thesis option |
-| Track / 专业方向 | Physics / computational and data methods |
+| Track / 专业方向 | Physics；官方单列Computational Physics研究领域，正式concentration未确认 |
 | Master type / 项目类型 | Academic / Research |
 | Duration / 学制 | Thesis至少32 semester credit hours；non-thesis至少36。官方本轮未给典型完成年限，需按导师与课程计划确认。 [S5](#s5) |
 | Research / thesis | 本轮选Fundamental Physics / Thesis：研究、written thesis及final examination；官方亦有non-thesis，不能与论文型混写。 [S1](#s1) [S5](#s5) |
@@ -41,7 +41,7 @@ QS World University Rankings 2027综合 169；QS Physics & Astronomy 2026 124；
 |---|---|
 | Match | High — 官方MS明确Computational Physics与High Energy Physics研究，Higgs MLP/pyhf统计推断及Bayesian计算可直接支撑申请叙述。 |
 | Difficulty | Match；申请规划判断，非百分比录取率。 |
-| 申请优先级 | 美国重点；选择Thesis路径 |
+| 申请优先级 | 美国重点；选择Thesis路径；计算物理：单列研究领域 |
 | 当前资格焦点 | 系不设GPA截断；高能/计算研究吻合，录取仍依赖研究组需求。 |
 | 下一步 | 优先整理核心物理成绩与本人研究证据，经GraduateCAS选择College Station Physics MS；核英语豁免、MS专属资助和2027入口。 |
 
@@ -126,3 +126,21 @@ Physics & Astronomy系How to Apply要求at least three letters of recommendation
 ## 重点申请调整（2026-10-05）
 
 2026-10-05用户指定替换WashU为重点；仅对应Physics MS Thesis路径。
+
+## Computational Physics方向补核（2026-10-05）
+
+| 字段 | 核查结果 |
+|---|---|
+| 分类 | 单列Computational Physics研究领域 |
+| 独立specialization | 未确认 |
+| 单列研究领域 | Computational Physics |
+| 申请优先级备注 | 计算物理：单列研究领域 |
+
+Physics MS官方项目页及MS目录均在Areas of research中将Computational physics单独列项，区别于High-energy physics等领域。可明确写“有单独的Computational Physics研究领域”；未核到独立学位、正式concentration或单独申请入口，申请仍对应Physics MS Thesis。
+
+官方来源：
+
+- https://artsci.tamu.edu/physics-astronomy/academics/degrees/graduate/physics-ms.html
+- https://catalog.tamu.edu/graduate/colleges-schools-interdisciplinary/arts-and-sciences/physics-astronomy/physics-ms/
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

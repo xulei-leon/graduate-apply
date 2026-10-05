@@ -41,7 +41,7 @@ QS World University Rankings 2027综合 43；QS Physics & Astronomy 2026 23。
 |---|---|
 | Match | Medium — 数值、数学和Data Science选课可承接方法技能，但主方向偏plasma / fusion、optics和solid state。 |
 | Difficulty | Reach；申请规划判断，非百分比录取率。 |
-| 申请优先级 | 有兴趣再投；方法相邻 |
+| 申请优先级 | 有兴趣再投；方法相邻；计算物理：待核 |
 | 当前资格焦点 | Physics背景相关；GPA/GRE现行条款仍需闭环。 |
 | 下一步 | 仅在愿意转应用物理时投；先核GRE与2027MSdeadline。 |
 
@@ -101,5 +101,22 @@ Columbia Engineering Graduate Admissions明确普通申请者须3封；仅限本
 | 要求与时间点 | 所查本项目公开招生／课程页面未列申请前必须联系或获导师同意；这不是明确免除声明，提交前仍按项目申请系统及补件通知确认。研究实习或论文导师另行安排。 |
 
 官方来源：https://bulletin.columbia.edu/columbia-engineering/graduate-studies/graduate-admissions/
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## Computational Physics方向补核（2026-10-05）
+
+| 字段 | 核查结果 |
+|---|---|
+| 分类 | 未确认／待核 |
+| 独立specialization | 未确认 |
+| 单列研究领域 | 未确认 |
+| 申请优先级备注 | 计算物理：待核 |
+
+Applied Physics MS允许CS、Data Science等跨系选修，但此项不是Computational Physics方向证据；APAM研究页403，方向仍待核。
+
+官方来源：
+
+- https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/applied-physics-applied-mathematics/graduate-programs/applied-physics-ms/
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

@@ -50,7 +50,7 @@ QS World University Rankings 2027综合 61；QS Physics & Astronomy 2026 39。
 |---|---|
 | Match | High — 项目明确gravitational dynamics、cosmology、statistics、data science与ML，与MaNGA/Bayesian研究高度重合。 |
 | Difficulty | Reach；申请规划判断，非百分比录取率。 |
-| 申请优先级 | 德国高匹配冲刺；英语且GRE可选 |
+| 申请优先级 | 德国高匹配冲刺；英语且GRE可选；计算相关：天体数据／ML课程 |
 | 当前资格焦点 | 高于平均的物理成绩与研究经历；需系和International Office双重录取；全英语，无非英语语言门槛。 |
 | 下一步 | 优先以暗物质晕项目写英文essay、补强高年级物理成绩，准备UofT授课语言证明及真实研究推荐。 |
 
@@ -110,5 +110,22 @@ Astrophysics招生页明确recommendation not required，可由推荐人直接�
 | 要求与时间点 | 所查本项目公开招生／课程页面未列申请前必须联系或获导师同意；这不是明确免除声明，提交前仍按项目申请系统及补件通知确认。研究实习或论文导师另行安排。 |
 
 官方来源：https://www.physik.lmu.de/en/studies/study-programs/applying-to-a-masters-program/
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## Computational Physics方向补核（2026-10-05）
+
+| 字段 | 核查结果 |
+|---|---|
+| 分类 | 相关计算课程 |
+| 独立specialization | 未确认 |
+| 单列研究领域 | 未确认 |
+| 申请优先级备注 | 计算相关：天体数据／ML课程 |
+
+当前Astrophysics MSc课程池明确含statistics、data science、machine learning；属于计算与数据训练，未确认独立Computational Physics方向，不改成已移出的普通Physics MSc。
+
+官方来源：
+
+- https://www.physik.lmu.de/en/studies/study-programs/msc-astrophysics/
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

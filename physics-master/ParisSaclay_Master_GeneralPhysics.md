@@ -41,7 +41,7 @@ QS World University Rankings 2027综合 76；QS Physics & Astronomy 2026 21。
 |---|---|
 | Match | High — particle、astrophysics与研究实习明确，能把Bayesian暗物质和Higgs计算科研同时用于申请。 |
 | Difficulty | Match；申请规划判断，非百分比录取率。 |
-| 申请优先级 | 法国重点；优先早轮 |
+| 申请优先级 | 法国重点；优先早轮；计算相关：统计／数据分析课程 |
 | 当前资格焦点 | Bachelor Physics；英文B2，3.0整体竞争需科研补强。 |
 | 下一步 | 优先早轮以保留奖学金机会；确认M2衔接而非假定两年自动连读。 |
 
@@ -118,5 +118,22 @@ M1 General Physics入学清单未列必交推荐信，只列Referring contact in
 | 要求与时间点 | 所查本项目公开招生／课程页面未列申请前必须联系或获导师同意；这不是明确免除声明，提交前仍按项目申请系统及补件通知确认。研究实习或论文导师另行安排。 |
 
 官方来源：https://www.universite-paris-saclay.fr/en/education/masters-degree/physique-fondamentale-et-applications/m1-general-physics
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## Computational Physics方向补核（2026-10-05）
+
+| 字段 | 核查结果 |
+|---|---|
+| 分类 | 相关计算课程 |
+| 独立specialization | 未确认 |
+| 单列研究领域 | 未确认 |
+| 申请优先级备注 | 计算相关：统计／数据分析课程 |
+
+所选M1 General Physics官网介绍从实验及模拟数据提取信息、data mining与multivariate analysis的选修训练；这是统计计算方法证据，未确认本M1独立Computational Physics方向。其他M2路径不自动归入当前M1。
+
+官方来源：
+
+- https://www.universite-paris-saclay.fr/en/education/masters-degree/physique-fondamentale-et-applications/m1-general-physics
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

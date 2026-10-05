@@ -41,7 +41,7 @@ QS World University Rankings 2027综合 66；QS Physics & Astronomy 2026 137。
 |---|---|
 | Match | Medium — 通用Physics进阶和研究论文选项适合补成绩与准备PhD；当前未核具体计算天体课题，保守Medium。 |
 | Difficulty | Reach；申请规划判断，非百分比录取率。 |
-| 申请优先级 | 优先冲刺；自费 |
+| 申请优先级 | 优先冲刺；自费；计算物理：待核 |
 | 当前资格焦点 | 无公开数值最低；强Physics准备，3.0偏弱。 |
 | 下一步 | 选thesis route，准备3封推荐并确认论文/推荐数量冲突；GPA低于常见竞争者，定位冲刺。 |
 
@@ -97,5 +97,22 @@ S2. **Department masters / thesis / references**：https://physics.brown.edu/aca
 | 要求与时间点 | 所查本项目公开招生／课程页面未列申请前必须联系或获导师同意；这不是明确免除声明，提交前仍按项目申请系统及补件通知确认。研究实习或论文导师另行安排。 |
 
 官方来源：https://graduateprograms.brown.edu/graduate-program/physics-scm
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## Computational Physics方向补核（2026-10-05）
+
+| 字段 | 核查结果 |
+|---|---|
+| 分类 | 未确认／待核 |
+| 独立specialization | 未确认 |
+| 单列研究领域 | 未确认 |
+| 申请优先级备注 | 计算物理：待核 |
+
+所查ScM项目、系研究及课程概览未确认独立Computational Physics方向或当前项目的相关明确列项；需继续核具体课程和导师。
+
+官方来源：
+
+- https://graduateprograms.brown.edu/graduate-program/physics-scm
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

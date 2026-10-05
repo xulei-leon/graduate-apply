@@ -41,7 +41,7 @@ QS World University Rankings 2027综合 468；QS Physics & Astronomy 2026 85。
 |---|---|
 | Match | High — 外部MA、论文路线及particle/astro训练与两段科研适合，门槛比只有PhD入口的名校更明确。 |
 | Difficulty | Match；申请规划判断，非百分比录取率。 |
-| 申请优先级 | 美国重点；明确申请门槛 |
+| 申请优先级 | 美国重点；明确申请门槛；计算相关：MA＋计算科学证书 |
 | 当前资格焦点 | 最低overall 3.0，且本科总评和math/science B。 |
 | 下一步 | 优先核总评及math/science B，选择thesis并准备3封科研/任课推荐。 |
 
@@ -101,5 +101,22 @@ Physics graduate申请页要求3封电子推荐信。
 | 要求与时间点 | 系招生页明确由Admissions Committee集中评审，无需联系individual faculty；申请应列有兴趣合作的faculty。 |
 
 官方来源：https://www.stonybrook.edu/physics/graduate/apply.html
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## Computational Physics方向补核（2026-10-05）
+
+| 字段 | 核查结果 |
+|---|---|
+| 分类 | 计算证书配套路径 |
+| 独立specialization | 未确认 |
+| 单列研究领域 | 未确认 |
+| 申请优先级备注 | 计算相关：MA＋计算科学证书 |
+
+MA官方Schedule IV单列搭配Graduate Certificate in Data and Computational Science的学习安排，含计算研究、论文及Computational Methods课程；是Physics MA加证书路径，不是独立Computational Physics学位。此路径须全日制第四学期，须另核证书规则。
+
+官方来源：
+
+- https://www.stonybrook.edu/physics/graduate/degrees/ma.html
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

@@ -41,7 +41,7 @@ QS World University Rankings 2027综合 43；QS Physics & Astronomy 2026 45。
 |---|---|
 | Match | High — HEP、长研究实习和M2 thesis直接对应H→ZZ*推断项目，是本轮研究主题最贴近的法国冲刺。 |
 | Difficulty | Reach；申请规划判断，非百分比录取率。 |
-| 申请优先级 | 科研最贴近；强冲刺 |
+| 申请优先级 | 科研最贴近；强冲刺；计算相关：数值物理课程 |
 | 当前资格焦点 | 扎实Physics与数学；本科入口M1。 |
 | 下一步 | 以National Master M1申请，突出本人完成的统计推断贡献；不申请错为自动带资助PhD Track。 |
 
@@ -126,5 +126,23 @@ HEP M1项目页明确2份，由推荐人直接在线提交。FAQ中内部学生�
 | 要求与时间点 | 所查本项目公开招生／课程页面未列申请前必须联系或获导师同意；这不是明确免除声明，提交前仍按项目申请系统及补件通知确认。研究实习或论文导师另行安排。 |
 
 官方来源：https://www.ip-paris.fr/en/education/useful-information/admissions
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## Computational Physics方向补核（2026-10-05）
+
+| 字段 | 核查结果 |
+|---|---|
+| 分类 | 相关计算课程 |
+| 独立specialization | 未确认 |
+| 单列研究领域 | 未确认 |
+| 申请优先级备注 | 计算相关：数值物理课程 |
+
+所选HEP M1列Numerical physics（36h、5 ECTS）；M2另列Methods of statistical analysis and simulation。计算方法嵌入High Energy Physics路径，未确认独立Computational Physics方向。
+
+官方来源：
+
+- https://www.ip-paris.fr/en/education/graduate-programs/masters-science/physics-program/master-year-1-high-energy-physics
+- https://www.ip-paris.fr/en/education/masters/physics-program/master-year-2-high-energy-physics
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

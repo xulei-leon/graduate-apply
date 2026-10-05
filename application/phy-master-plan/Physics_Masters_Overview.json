@@ -30,7 +30,7 @@
       "rank_key": "University of Toronto",
       "match": "High",
       "difficulty": "Reach",
-      "priority": "冲刺；先核末年GPA",
+      "priority": "冲刺；先核末年GPA；计算相关：科学计算课程",
       "qualification": "系里要求B+；CGPA 3.0不能证明达标。",
       "duration": "1年，3 sessions",
       "research": "研究项目与研究报告；不应写成固定2年thesis MSc。",
@@ -141,7 +141,25 @@
         "url": "https://www.physics.utoronto.ca/graduate/prospective-students/graduate-admissions-department-physics/admissions-procedure/",
         "status": 200,
         "final_url": "https://www.physics.utoronto.ca/graduate/prospective-students/graduate-admissions-department-physics/admissions-procedure/"
-      }
+      },
+      "computational_physics": {
+        "category": "相关计算课程",
+        "priority_label": "计算相关：科学计算课程",
+        "independent_specialization": "未确认",
+        "separately_listed_research_area": "未确认",
+        "note": "2026-27研究生课表列PHY1610H Scientific Computing for Physicists及Physics of Machine Learning；属于课程层面，未确认独立Computational Physics方向。",
+        "sources": [
+          "https://www.physics.utoronto.ca/graduate/graduate-courses/"
+        ],
+        "last_verified_or_attempted": "2026-10-05",
+        "check_scope": "当前所选硕士项目、官方研究与课程页；未确认不等于不存在",
+        "source_check": {
+          "url": "https://www.physics.utoronto.ca/graduate/graduate-courses/",
+          "status": 200,
+          "final_url": "https://www.physics.utoronto.ca/graduate/graduate-courses/"
+        }
+      },
+      "priority_before_computational_audit": "冲刺；先核末年GPA"
     },
     {
       "country": "Canada",
@@ -152,7 +170,7 @@
       "rank_key": "University of British Columbia",
       "match": "High",
       "difficulty": "Reach",
-      "priority": "冲刺；导师方向先匹配",
+      "priority": "冲刺；导师方向先匹配；计算物理：导师研究提及",
       "qualification": "项目期望三、四年级平均80%+；3.0须分段审查。",
       "duration": "通常约2年；官网历史平均2.3年",
       "research": "至少30 credits，其中18-credit thesis、12 credits graduate coursework；须public research presentation。",
@@ -237,7 +255,25 @@
         "url": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics",
         "status": 200,
         "final_url": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics"
-      }
+      },
+      "computational_physics": {
+        "category": "导师研究提及",
+        "priority_label": "计算物理：导师研究提及",
+        "independent_specialization": "未确认",
+        "separately_listed_research_area": "未确认",
+        "note": "Physics MSc官网将Matthew Choptuik的领域列为Relativity/Computational Physics。属于导师研究信息，未确认正式硕士Computational Physics specialization；本人是否接收MSc及2027名额另核。",
+        "sources": [
+          "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics"
+        ],
+        "last_verified_or_attempted": "2026-10-05",
+        "check_scope": "当前所选硕士项目、官方研究与课程页；未确认不等于不存在",
+        "source_check": {
+          "url": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics",
+          "status": 200,
+          "final_url": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics"
+        }
+      },
+      "priority_before_computational_audit": "冲刺；导师方向先匹配"
     },
     {
       "country": "Canada",
@@ -248,7 +284,7 @@
       "rank_key": "McGill University",
       "match": "High",
       "difficulty": "Reach",
-      "priority": "冲刺；门槛边缘",
+      "priority": "冲刺；门槛边缘；计算物理：列有课程",
       "qualification": "大学最低3.0；系级门槛及竞争分布未公开。",
       "duration": "2年；45 credits",
       "research": "5门课共15 credits，另30 credits研究论文。",
@@ -359,7 +395,25 @@
         "url": "https://www.physics.mcgill.ca/grads/application.html",
         "status": 200,
         "final_url": "https://www.physics.mcgill.ca/grads/application.html"
-      }
+      },
+      "computational_physics": {
+        "category": "Computational Physics课程",
+        "priority_label": "计算物理：列有课程",
+        "independent_specialization": "未确认",
+        "separately_listed_research_area": "未确认",
+        "note": "研究生课程列表列PHYS 512 Computational Physics with Applications；这证明有计算物理课程，不证明独立方向，也不保证2027开课。",
+        "sources": [
+          "https://www.physics.mcgill.ca/grads/courses.html"
+        ],
+        "last_verified_or_attempted": "2026-10-05",
+        "check_scope": "当前所选硕士项目、官方研究与课程页；未确认不等于不存在",
+        "source_check": {
+          "url": "https://www.physics.mcgill.ca/grads/courses.html",
+          "status": 200,
+          "final_url": "https://www.physics.mcgill.ca/grads/courses.html"
+        }
+      },
+      "priority_before_computational_audit": "冲刺；门槛边缘"
     },
     {
       "country": "Canada",
@@ -370,7 +424,7 @@
       "rank_key": "University of Waterloo",
       "match": "High",
       "difficulty": "Reach",
-      "priority": "导师匹配后优先",
+      "priority": "导师匹配后优先；计算物理：待核",
       "qualification": "Honours Science至少75%；必须落实导师。",
       "duration": "2年，6 terms",
       "research": "4门研究生课与thesis；本轮选择Thesis选项。",
@@ -455,7 +509,25 @@
         "url": "https://uwaterloo.ca/physics-astronomy/graduate-studies/how-apply",
         "status": 200,
         "final_url": "https://uwaterloo.ca/physics-astronomy/graduate-studies/how-apply"
-      }
+      },
+      "computational_physics": {
+        "category": "未确认／待核",
+        "priority_label": "计算物理：待核",
+        "independent_specialization": "未确认",
+        "separately_listed_research_area": "未确认",
+        "note": "所查MSc选项、研究领域与课程页面未确认独立Computational Physics或相关正式方向；Quantum Information/Quantum Technology不能自动等同计算物理。",
+        "sources": [
+          "https://uwaterloo.ca/physics-astronomy/graduate-studies/msc-programs"
+        ],
+        "last_verified_or_attempted": "2026-10-05",
+        "check_scope": "当前所选硕士项目、官方研究与课程页；未确认不等于不存在",
+        "source_check": {
+          "url": "https://uwaterloo.ca/physics-astronomy/graduate-studies/msc-programs",
+          "status": 200,
+          "final_url": "https://uwaterloo.ca/physics-astronomy/graduate-studies/msc-programs"
+        }
+      },
+      "priority_before_computational_audit": "导师匹配后优先"
     },
     {
       "country": "Canada",
@@ -466,7 +538,7 @@
       "rank_key": "University of Alberta",
       "match": "Medium",
       "difficulty": "Unknown",
-      "priority": "待核心官网恢复",
+      "priority": "待核心官网恢复；计算物理：待核",
       "qualification": "当前GPA与招生条款无法重新核实。",
       "duration": "旧档约2年；本轮未重新核实",
       "research": "旧档为thesis MSc；当前学位规则待恢复后核实。",
@@ -551,7 +623,25 @@
         "url": "https://www.ualberta.ca/en/physics/graduate-studies/admissions.html",
         "status": 403,
         "final_url": "https://www.ualberta.ca/en/physics/graduate-studies/admissions.html"
-      }
+      },
+      "computational_physics": {
+        "category": "未确认／待核",
+        "priority_label": "计算物理：待核",
+        "independent_specialization": "未确认",
+        "separately_listed_research_area": "未确认",
+        "note": "招生与研究主页均返回HTTP403，无法确认计算物理方向；留待核，不推断不存在。",
+        "sources": [
+          "https://www.ualberta.ca/en/physics/graduate-studies/index.html"
+        ],
+        "last_verified_or_attempted": "2026-10-05",
+        "check_scope": "当前所选硕士项目、官方研究与课程页；未确认不等于不存在",
+        "source_check": {
+          "url": "https://www.ualberta.ca/en/physics/graduate-studies/index.html",
+          "status": 403,
+          "final_url": "https://www.ualberta.ca/en/physics/graduate-studies/index.html"
+        }
+      },
+      "priority_before_computational_audit": "待核心官网恢复"
     },
     {
       "country": "Canada",
@@ -562,7 +652,7 @@
       "rank_key": "McMaster University",
       "match": "High",
       "difficulty": "Reach",
-      "priority": "条件备选；先核成绩",
+      "priority": "条件备选；先核成绩；计算物理：与理论物理合列",
       "qualification": "Honours Physics/Astronomy；数值GPA未核闭环。",
       "duration": "Thesis 2年；coursework 1年",
       "research": "两条路线；本轮优先2年thesis研究。",
@@ -665,7 +755,25 @@
         "url": "https://gs.mcmaster.ca/how-to-apply/",
         "status": 200,
         "final_url": "https://gs.mcmaster.ca/how-to-apply/"
-      }
+      },
+      "computational_physics": {
+        "category": "合列计算物理研究",
+        "priority_label": "计算物理：与理论物理合列",
+        "independent_specialization": "未确认",
+        "separately_listed_research_area": "未确认",
+        "note": "MSc的Areas of Research列Computational and theoretical physics；计算与理论物理在同一研究领域条目内，未确认单独Computational Physics specialization。",
+        "sources": [
+          "https://gs.mcmaster.ca/program/physics-and-astronomy/"
+        ],
+        "last_verified_or_attempted": "2026-10-05",
+        "check_scope": "当前所选硕士项目、官方研究与课程页；未确认不等于不存在",
+        "source_check": {
+          "url": "https://gs.mcmaster.ca/program/physics-and-astronomy/",
+          "status": 200,
+          "final_url": "https://gs.mcmaster.ca/program/physics-and-astronomy/"
+        }
+      },
+      "priority_before_computational_audit": "条件备选；先核成绩"
     },
     {
       "country": "Canada",
@@ -676,7 +784,7 @@
       "rank_key": "Queen's University at Kingston",
       "match": "High",
       "difficulty": "Reach",
-      "priority": "条件备选；需研究名额",
+      "priority": "条件备选；需研究名额；计算物理：高性能计算课程",
       "qualification": "Honours Science second class；导师及名额未落实。",
       "duration": "2年",
       "research": "至少4门term courses、研究项目及thesis，2年内完成。",
@@ -779,7 +887,25 @@
         "url": "https://www.queensu.ca/physics/grad-studies/admission-requirements",
         "status": 200,
         "final_url": "https://www.queensu.ca/physics/grad-studies/admission-requirements"
-      }
+      },
+      "computational_physics": {
+        "category": "Computational Physics课程",
+        "priority_label": "计算物理：高性能计算课程",
+        "independent_specialization": "未确认",
+        "separately_listed_research_area": "未确认",
+        "note": "研究生课表列PHYS 879 (479) High Performance Computational Physics与PHYS 913 Computational Astrophysics；所查表这两门未标当学年开课学期，2027开课及选课条件待核；未确认独立方向。",
+        "sources": [
+          "https://www.queensu.ca/physics/grad-studies/current-students/grad-course-information"
+        ],
+        "last_verified_or_attempted": "2026-10-05",
+        "check_scope": "当前所选硕士项目、官方研究与课程页；未确认不等于不存在",
+        "source_check": {
+          "url": "https://www.queensu.ca/physics/grad-studies/current-students/grad-course-information",
+          "status": 200,
+          "final_url": "https://www.queensu.ca/physics/grad-studies/current-students/grad-course-information"
+        }
+      },
+      "priority_before_computational_audit": "条件备选；需研究名额"
     },
     {
       "country": "Canada",
@@ -797,7 +923,7 @@
       "verified": "2026-10-02",
       "status": "官方核心页面已访问；申请资格、导师和2027资金package仍须个案确认",
       "gate": "加拿大免全球排名过滤；本轮按用户更新后的12所清单选择，不宣称全国前八。",
-      "priority": "优先推进；先核高年级成绩和导师",
+      "priority": "优先推进；先核高年级成绩和导师；计算相关：单列科学计算领域",
       "qualification": "三四年级课程平均≥70%（B）；录取需导师参与。",
       "duration": "通常不超过2年 /6 terms（系研究生手册）",
       "research": "3.0 HCE课程，至少2.0来自Physics and Astronomy；研究报告或thesis按项目安排，须导师与advisory committee。",
@@ -971,7 +1097,25 @@
         "url": "https://physics.uwo.ca/graduate/future_students/how_to_apply.html",
         "status": 200,
         "final_url": "https://physics.uwo.ca/graduate/future_students/how_to_apply.html"
-      }
+      },
+      "computational_physics": {
+        "category": "单列相关计算研究领域",
+        "priority_label": "计算相关：单列科学计算领域",
+        "independent_specialization": "未确认",
+        "separately_listed_research_area": "Scientific Computing（相关领域）",
+        "note": "系单列Scientific Computing研究领域，并说明研究生可参加Graduate Program in Scientific Computing。它是相关科学计算领域；不将其改名为独立Computational Physics学位或本Physics MSc的已确认concentration。",
+        "sources": [
+          "https://physics.uwo.ca/research/physics/scientific_computing.html"
+        ],
+        "last_verified_or_attempted": "2026-10-05",
+        "check_scope": "当前所选硕士项目、官方研究与课程页；未确认不等于不存在",
+        "source_check": {
+          "url": "https://physics.uwo.ca/research/physics/scientific_computing.html",
+          "status": 200,
+          "final_url": "https://physics.uwo.ca/research/physics/scientific_computing.html"
+        }
+      },
+      "priority_before_computational_audit": "优先推进；先核高年级成绩和导师"
     },
     {
       "country": "Canada",
@@ -989,7 +1133,7 @@
       "verified": "2026-10-02",
       "status": "官方核心页面已访问；申请资格、导师和2027资金package仍须个案确认",
       "gate": "加拿大免全球排名过滤；本轮按用户更新后的12所清单选择，不宣称全国前八。",
-      "priority": "资格确认后冲刺；国际生选Thesis",
+      "priority": "资格确认后冲刺；国际生选Thesis；计算相关：理论／计算研究",
       "qualification": "最低B+；国际学生不接受coursework MSc。",
       "duration": "6 full-time terms，约2年",
       "research": "本轮选择Thesis：至少9 course credits、Research Evaluation、研究论文及oral examination；Research Project选项为15 course credits加报告。国际生不接受coursework-only MSc。",
@@ -1129,7 +1273,25 @@
         "url": "https://www.yorku.ca/gradstudies/physics-astronomy/future-students/how-to-apply/",
         "status": 200,
         "final_url": "https://www.yorku.ca/gradstudies/physics-astronomy/future-students/how-to-apply/"
-      }
+      },
+      "computational_physics": {
+        "category": "综合项目中的计算研究",
+        "priority_label": "计算相关：理论／计算研究",
+        "independent_specialization": "未确认",
+        "separately_listed_research_area": "未确认",
+        "note": "项目页明确学生进行theoretical/computational research，覆盖物理与天文学多个方向；未确认单独Computational Physics方向。",
+        "sources": [
+          "https://futurestudents.yorku.ca/graduate/programs/physics-and-astronomy"
+        ],
+        "last_verified_or_attempted": "2026-10-05",
+        "check_scope": "当前所选硕士项目、官方研究与课程页；未确认不等于不存在",
+        "source_check": {
+          "url": "https://futurestudents.yorku.ca/graduate/programs/physics-and-astronomy",
+          "status": 200,
+          "final_url": "https://futurestudents.yorku.ca/graduate/programs/physics-and-astronomy"
+        }
+      },
+      "priority_before_computational_audit": "资格确认后冲刺；国际生选Thesis"
     },
     {
       "country": "Canada",
@@ -1147,7 +1309,7 @@
       "verified": "2026-10-02",
       "status": "官方核心页面已访问；申请资格、导师和2027资金package仍须个案确认",
       "gate": "加拿大免全球排名过滤；本轮按用户更新后的12所清单选择，不宣称全国前八。",
-      "priority": "优先推进；天体/计算研究匹配",
+      "priority": "优先推进；天体/计算研究匹配；计算相关：天体计算模拟",
       "qualification": "最近两年B；相关Honours等效；申请无需列导师。",
       "duration": "2年，全日制",
       "research": "Research thesis；可选Physics或Astronomy concentration；不是course-based MSc。具体课程学分需核JS calendar，不将concentration重复计数。",
@@ -1294,7 +1456,25 @@
         "url": "https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/physics-and-astronomy-cred/physics-msc.php",
         "status": 200,
         "final_url": "https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/physics-and-astronomy-cred/physics-msc.php"
-      }
+      },
+      "computational_physics": {
+        "category": "综合项目中的计算研究",
+        "priority_label": "计算相关：天体计算模拟",
+        "independent_specialization": "未确认",
+        "separately_listed_research_area": "未确认",
+        "note": "系研究页描述利用computer simulations检验宇宙演化理论；属于天体物理计算方法证据，未确认本MSc独立Computational Physics方向，具体导师及名额另核。",
+        "sources": [
+          "https://www.uvic.ca/science/physics/research/index.php"
+        ],
+        "last_verified_or_attempted": "2026-10-05",
+        "check_scope": "当前所选硕士项目、官方研究与课程页；未确认不等于不存在",
+        "source_check": {
+          "url": "https://www.uvic.ca/science/physics/research/index.php",
+          "status": 200,
+          "final_url": "https://www.uvic.ca/science/physics/research/index.php"
+        }
+      },
+      "priority_before_computational_audit": "优先推进；天体/计算研究匹配"
     },
     {
       "country": "Canada",
@@ -1312,7 +1492,7 @@
       "verified": "2026-10-02",
       "status": "官方核心页面已访问；申请资格、导师和2027资金package仍须个案确认",
       "gate": "加拿大免全球排名过滤；本轮按用户更新后的12所清单选择，不宣称全国前八。",
-      "priority": "先问系级GPA例外；高风险冲刺",
+      "priority": "先问系级GPA例外；高风险冲刺；计算相关：数值／模拟研究",
       "qualification": "系级累计GPA等效3.5；3.0低于常规门槛。",
       "duration": "2年 /6 terms",
       "research": "15 graduate coursework units（含professional development/core courses）及独立研究thesis和defence。",
@@ -1476,7 +1656,25 @@
         "url": "https://www.sfu.ca/physics/graduate/prospective/faq.html",
         "status": 200,
         "final_url": "https://www.sfu.ca/physics/graduate/prospective/faq.html"
-      }
+      },
+      "computational_physics": {
+        "category": "综合项目中的计算研究",
+        "priority_label": "计算相关：数值／模拟研究",
+        "independent_specialization": "未确认",
+        "separately_listed_research_area": "未确认",
+        "note": "系研究页列数值宇宙学工具、hydrodynamical simulations及天文学machine learning，并有theoretical/computational biophysics。计算研究分布于领域内，未确认独立Computational Physics方向。",
+        "sources": [
+          "https://www.sfu.ca/physics/research.html"
+        ],
+        "last_verified_or_attempted": "2026-10-05",
+        "check_scope": "当前所选硕士项目、官方研究与课程页；未确认不等于不存在",
+        "source_check": {
+          "url": "https://www.sfu.ca/physics/research.html",
+          "status": 200,
+          "final_url": "https://www.sfu.ca/physics/research/areas.html"
+        }
+      },
+      "priority_before_computational_audit": "先问系级GPA例外；高风险冲刺"
     },
     {
       "country": "Canada",
@@ -1494,7 +1692,7 @@
       "verified": "2026-10-02",
       "status": "官方核心页面已访问；申请资格、导师和2027资金package仍须个案确认",
       "gate": "加拿大免全球排名过滤；本轮按用户更新后的12所清单选择，不宣称全国前八。",
-      "priority": "先核3.3与Physics GRE；条件冲刺",
+      "priority": "先核3.3与Physics GRE；条件冲刺；计算物理：列入复杂系统领域",
       "qualification": "最近两年≥3.3；国际申请人需Physics Subject GRE。",
       "duration": "全日制2年；最长4年",
       "research": "Thesis及公开oral defence；4-8门课，取决specialization。本轮选Physics/Astrophysics研究，不选Medical Physics或course-based。",
@@ -1615,7 +1813,25 @@
         "url": "https://grad.ucalgary.ca/future-students/explore-programs/physics-and-astronomy-msc-thesis",
         "status": 200,
         "final_url": "https://grad.ucalgary.ca/future-students/graduate/discover-opportunities/explore-programs/physics-and-astronomy-msc-thesis"
-      }
+      },
+      "computational_physics": {
+        "category": "合列计算物理研究",
+        "priority_label": "计算物理：列入复杂系统领域",
+        "independent_specialization": "未确认",
+        "separately_listed_research_area": "未确认",
+        "note": "MSc将statistical and computational physics放在Complexity研究领域，并在Astronomy & Astrophysics中提及computational astrophysics；未列独立Computational Physics specialization。Computational Neuroscience为另一跨学科选项，不能等同计算物理。",
+        "sources": [
+          "https://grad.ucalgary.ca/future-students/explore-programs/physics-and-astronomy-msc-thesis"
+        ],
+        "last_verified_or_attempted": "2026-10-05",
+        "check_scope": "当前所选硕士项目、官方研究与课程页；未确认不等于不存在",
+        "source_check": {
+          "url": "https://grad.ucalgary.ca/future-students/explore-programs/physics-and-astronomy-msc-thesis",
+          "status": 200,
+          "final_url": "https://grad.ucalgary.ca/future-students/graduate/discover-opportunities/explore-programs/physics-and-astronomy-msc-thesis"
+        }
+      },
+      "priority_before_computational_audit": "先核3.3与Physics GRE；条件冲刺"
     },
     {
       "country": "Australia",
@@ -1626,7 +1842,7 @@
       "rank_key": "Australian National University (ANU)",
       "match": "High",
       "difficulty": "Offer received",
-      "priority": "已获offer；核对条件与研究路线",
+      "priority": "已获offer；核对条件与研究路线；计算相关：科学计算选修",
       "qualification": "已获普通版offer；入学期、学历/英语条件及接受截止待核。",
       "duration": "2年全日制 /96 units",
       "research": "普通版定位coursework；强制6 units research course：ASTR8031 Astrophysics Literature Research Project或ASTR8001 Astronomy and Astrophysics Research Project；不是48-unit research thesis MSc。",
@@ -1743,7 +1959,25 @@
         "url": "https://programsandcourses.anu.edu.au/2027/program/NSCAA",
         "status": 200,
         "final_url": "https://programsandcourses.anu.edu.au/2027/program/NSCAA"
-      }
+      },
+      "computational_physics": {
+        "category": "相关计算课程",
+        "priority_label": "计算相关：科学计算选修",
+        "independent_specialization": "未确认",
+        "separately_listed_research_area": "未确认",
+        "note": "2027普通版NSCAA课程清单列High Performance Scientific Computing、Programming for Scientists、Scientific Computing等Complementary Science选修；该类最多6 units。当前offer仍是Astronomy and Astrophysics普通版，未确认独立Computational Physics方向。",
+        "sources": [
+          "https://programsandcourses.anu.edu.au/2027/program/NSCAA"
+        ],
+        "last_verified_or_attempted": "2026-10-05",
+        "check_scope": "当前所选硕士项目、官方研究与课程页；未确认不等于不存在",
+        "source_check": {
+          "url": "https://programsandcourses.anu.edu.au/2027/program/NSCAA",
+          "status": 200,
+          "final_url": "https://programsandcourses.anu.edu.au/2027/program/NSCAA"
+        }
+      },
+      "priority_before_computational_audit": "已获offer；核对条件与研究路线"
     },
     {
       "country": "Australia",
@@ -1754,7 +1988,7 @@
       "rank_key": "The University of Melbourne",
       "match": "Medium",
       "difficulty": "Unknown",
-      "priority": "待官网恢复；不直接提交",
+      "priority": "待官网恢复；不直接提交；计算物理：待核",
       "qualification": "核心课程及2027入口受限，当前资格未闭环。",
       "duration": "旧档2年；当前手册正文受访问限制",
       "research": "旧档含major research project；本轮无法核到当前项目学分、论文及导师规则。",
@@ -1852,7 +2086,25 @@
         "url": "https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/entry-requirements/",
         "status": 403,
         "final_url": "https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/entry-requirements/"
-      }
+      },
+      "computational_physics": {
+        "category": "未确认／待核",
+        "priority_label": "计算物理：待核",
+        "independent_specialization": "未确认",
+        "separately_listed_research_area": "未确认",
+        "note": "招生页HTTP403，Handbook的HTTP200正文实际为Incapsula访问拦截，未获取可用于确认的课程或方向内容。",
+        "sources": [
+          "https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/"
+        ],
+        "last_verified_or_attempted": "2026-10-05",
+        "check_scope": "当前所选硕士项目、官方研究与课程页；未确认不等于不存在",
+        "source_check": {
+          "url": "https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/",
+          "status": 403,
+          "final_url": "https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/"
+        }
+      },
+      "priority_before_computational_audit": "待官网恢复；不直接提交"
     },
     {
       "country": "USA",
@@ -1863,7 +2115,7 @@
       "rank_key": "Brown University",
       "match": "Medium",
       "difficulty": "Reach",
-      "priority": "优先冲刺；自费",
+      "priority": "优先冲刺；自费；计算物理：待核",
       "qualification": "无公开数值最低；强Physics准备，3.0偏弱。",
       "duration": "1-2年，可2 /3 /4 semesters",
       "research": "8门课；department明确coursework与thesis option，thesis recommended；另main page称including thesis，存在表述差异。",
@@ -1948,7 +2200,25 @@
         "url": "https://graduateprograms.brown.edu/graduate-program/physics-scm",
         "status": 200,
         "final_url": "https://graduateprograms.brown.edu/graduate-program/physics-scm"
-      }
+      },
+      "computational_physics": {
+        "category": "未确认／待核",
+        "priority_label": "计算物理：待核",
+        "independent_specialization": "未确认",
+        "separately_listed_research_area": "未确认",
+        "note": "所查ScM项目、系研究及课程概览未确认独立Computational Physics方向或当前项目的相关明确列项；需继续核具体课程和导师。",
+        "sources": [
+          "https://graduateprograms.brown.edu/graduate-program/physics-scm"
+        ],
+        "last_verified_or_attempted": "2026-10-05",
+        "check_scope": "当前所选硕士项目、官方研究与课程页；未确认不等于不存在",
+        "source_check": {
+          "url": "https://graduateprograms.brown.edu/graduate-program/physics-scm",
+          "status": 200,
+          "final_url": "https://graduateprograms.brown.edu/graduate-program/physics-scm"
+        }
+      },
+      "priority_before_computational_audit": "优先冲刺；自费"
     },
     {
       "country": "USA",
@@ -1959,7 +2229,7 @@
       "rank_key": "Northwestern University",
       "match": "High",
       "difficulty": "Match",
-      "priority": "美国重点；选Standard / Thesis",
+      "priority": "美国重点；选Standard / Thesis；计算物理：待核",
       "qualification": "外部MS入口明确；本科数值最低未公开。",
       "duration": "Standard约1年；Broad约15个月；历史均值4.5/5 quarters",
       "research": "Standard：9 graded courses + thesis；Broad：12 courses，无同样thesis要求。",
@@ -2075,7 +2345,25 @@
         "url": "https://physics.northwestern.edu/documents/nu-pa-masters-handbook-03.20.25.pdf",
         "status": 200,
         "final_url": "https://physics.northwestern.edu/documents/nu-pa-masters-handbook-03.20.25.pdf"
-      }
+      },
+      "computational_physics": {
+        "category": "未确认／待核",
+        "priority_label": "计算物理：待核",
+        "independent_specialization": "未确认",
+        "separately_listed_research_area": "未确认",
+        "note": "所查MS项目与手册未确认独立Computational Physics方向；毕业生Machine Learning Engineer就业例子不能当作项目方向证据。",
+        "sources": [
+          "https://www.physics.northwestern.edu/graduate/master-degree/index.html"
+        ],
+        "last_verified_or_attempted": "2026-10-05",
+        "check_scope": "当前所选硕士项目、官方研究与课程页；未确认不等于不存在",
+        "source_check": {
+          "url": "https://www.physics.northwestern.edu/graduate/master-degree/index.html",
+          "status": 200,
+          "final_url": "https://physics.northwestern.edu/graduate/master-degree/"
+        }
+      },
+      "priority_before_computational_audit": "美国重点；选Standard / Thesis"
     },
     {
       "country": "USA",
@@ -2086,7 +2374,7 @@
       "rank_key": "Stony Brook University, State University of New York",
       "match": "High",
       "difficulty": "Match",
-      "priority": "美国重点；明确申请门槛",
+      "priority": "美国重点；明确申请门槛；计算相关：MA＋计算科学证书",
       "qualification": "最低overall 3.0，且本科总评和math/science B。",
       "duration": "通常2年 /4 semesters；最长3年",
       "research": "30 credits；thesis或comprehensive exam；本轮优先thesis。",
@@ -2171,7 +2459,25 @@
         "url": "https://www.stonybrook.edu/physics/graduate/apply.html",
         "status": 200,
         "final_url": "https://www.stonybrook.edu/physics/graduate/apply.html"
-      }
+      },
+      "computational_physics": {
+        "category": "计算证书配套路径",
+        "priority_label": "计算相关：MA＋计算科学证书",
+        "independent_specialization": "未确认",
+        "separately_listed_research_area": "未确认",
+        "note": "MA官方Schedule IV单列搭配Graduate Certificate in Data and Computational Science的学习安排，含计算研究、论文及Computational Methods课程；是Physics MA加证书路径，不是独立Computational Physics学位。此路径须全日制第四学期，须另核证书规则。",
+        "sources": [
+          "https://www.stonybrook.edu/physics/graduate/degrees/ma.html"
+        ],
+        "last_verified_or_attempted": "2026-10-05",
+        "check_scope": "当前所选硕士项目、官方研究与课程页；未确认不等于不存在",
+        "source_check": {
+          "url": "https://www.stonybrook.edu/physics/graduate/degrees/ma.html",
+          "status": 200,
+          "final_url": "https://www.stonybrook.edu/physics/graduate/degrees/ma.html"
+        }
+      },
+      "priority_before_computational_audit": "美国重点；明确申请门槛"
     },
     {
       "country": "USA",
@@ -2182,7 +2488,7 @@
       "rank_key": "New York University (NYU)",
       "match": "High",
       "difficulty": "Match",
-      "priority": "美国重点；选thesis",
+      "priority": "美国重点；选thesis；计算物理：MS核心课列入",
       "qualification": "无公开minimum score；课程与科研可整体评估。",
       "duration": "32或36 credits；日历时长未核明确",
       "research": "Thesis32 / Examination32 / Report36 credits三条路线。",
@@ -2298,7 +2604,25 @@
         "url": "https://gsas.nyu.edu/admissions/arc/programs/physics.html",
         "status": 200,
         "final_url": "https://gsas.nyu.edu/admissions/arc/programs/physics.html"
-      }
+      },
+      "computational_physics": {
+        "category": "Computational Physics课程",
+        "priority_label": "计算物理：MS核心课列入",
+        "independent_specialization": "未确认",
+        "separately_listed_research_area": "未确认",
+        "note": "Physics MS目录将PHYS-GA 2000 Computational Physics列入六门核心课池（通常需完成其中五门），示范课表也列该课；是课程证据，未确认独立Computational Physics方向。",
+        "sources": [
+          "https://bulletins.nyu.edu/graduate/arts-science/programs/physics-ms/"
+        ],
+        "last_verified_or_attempted": "2026-10-05",
+        "check_scope": "当前所选硕士项目、官方研究与课程页；未确认不等于不存在",
+        "source_check": {
+          "url": "https://bulletins.nyu.edu/graduate/arts-science/programs/physics-ms/",
+          "status": 200,
+          "final_url": "https://bulletins.nyu.edu/graduate/arts-science/programs/physics-ms/"
+        }
+      },
+      "priority_before_computational_audit": "美国重点；选thesis"
     },
     {
       "country": "USA",
@@ -2309,7 +2633,7 @@
       "rank_key": "Washington University in St. Louis",
       "match": "Medium",
       "difficulty": "Unknown",
-      "priority": "取消重点；无thesis，不符合论文型要求",
+      "priority": "取消重点；无thesis，不符合论文型要求；计算物理：待核",
       "qualification": "外部MA明确；不公布GPA最低，最新排名未闭环。",
       "duration": "约2年；36 credits",
       "research": "非thesis MA，最多6 credits research；不自动成为研究型硕士。",
@@ -2443,7 +2767,25 @@
         "status": 200,
         "final_url": "https://physics.washu.edu/how-apply"
       },
-      "priority_application_note": "2026-10-05用户取消重点：MA无thesis，不符合当前论文型硕士要求；保留学校记录。"
+      "priority_application_note": "2026-10-05用户取消重点：MA无thesis，不符合当前论文型硕士要求；保留学校记录。",
+      "computational_physics": {
+        "category": "未确认／待核",
+        "priority_label": "计算物理：待核",
+        "independent_specialization": "未确认",
+        "separately_listed_research_area": "未确认",
+        "note": "所查MA目录及系研究页面未确认独立Computational Physics方向；无thesis及已取消重点的既有判断不变。",
+        "sources": [
+          "https://physics.wustl.edu/how-apply"
+        ],
+        "last_verified_or_attempted": "2026-10-05",
+        "check_scope": "当前所选硕士项目、官方研究与课程页；未确认不等于不存在",
+        "source_check": {
+          "url": "https://physics.wustl.edu/how-apply",
+          "status": 200,
+          "final_url": "https://physics.washu.edu/how-apply"
+        }
+      },
+      "priority_before_computational_audit": "取消重点；无thesis，不符合论文型要求"
     },
     {
       "country": "USA",
@@ -2454,7 +2796,7 @@
       "rank_key": "University of Texas at Austin",
       "match": "Medium",
       "difficulty": "Reach",
-      "priority": "冲刺；硕士自费入口明确",
+      "priority": "冲刺；硕士自费入口明确；计算物理：研究生课程",
       "qualification": "无minimum undergrad GPA可申请；核心Phys需强。",
       "duration": "具体MS路线及时长待当前degree regulations核实",
       "research": "存在terminal masters入口；当前thesis/non-thesis学分细则未闭环。",
@@ -2526,7 +2868,25 @@
         "url": "https://physics.utexas.edu/academics/admissions",
         "status": 200,
         "final_url": "https://physics.utexas.edu/academics/admissions"
-      }
+      },
+      "computational_physics": {
+        "category": "Computational Physics课程",
+        "priority_label": "计算物理：研究生课程",
+        "independent_specialization": "未确认",
+        "separately_listed_research_area": "未确认",
+        "note": "系课程页列研究生PHY 381C Computational Physics；PHY 329为本科课，不混作硕士方向。未确认独立Computational Physics硕士方向，具体MS选课与论文路线另核。",
+        "sources": [
+          "https://physics.utexas.edu/academics/courses"
+        ],
+        "last_verified_or_attempted": "2026-10-05",
+        "check_scope": "当前所选硕士项目、官方研究与课程页；未确认不等于不存在",
+        "source_check": {
+          "url": "https://physics.utexas.edu/academics/courses",
+          "status": 200,
+          "final_url": "https://physics.utexas.edu/academics/courses"
+        }
+      },
+      "priority_before_computational_audit": "冲刺；硕士自费入口明确"
     },
     {
       "country": "USA",
@@ -2537,7 +2897,7 @@
       "rank_key": "Georgia Institute of Technology",
       "match": "Medium",
       "difficulty": "Reach",
-      "priority": "条件冲刺；可选thesis",
+      "priority": "条件冲刺；可选thesis；计算相关：AI／数值相对论",
       "qualification": "外部MS自费可申请；本科数字最低未确认。",
       "duration": "30 credits；固定日历学制未公开于所查页",
       "research": "Thesis6 credits或Non-thesis Special Problems / Practicum6 credits。",
@@ -2653,7 +3013,25 @@
         "url": "https://physics.gatech.edu/academics/graduate/admissions-info",
         "status": 200,
         "final_url": "https://physics.gatech.edu/academics/graduate/admissions-info"
-      }
+      },
+      "computational_physics": {
+        "category": "综合项目中的计算研究",
+        "priority_label": "计算相关：AI／数值相对论",
+        "independent_specialization": "未确认",
+        "separately_listed_research_area": "未确认",
+        "note": "系研究页单列Artificial Intelligence and Machine Learning，并提numerical relativity；页面明确M.S.与Ph.D.学生参与研究。属于计算相关领域，未确认名为Computational Physics的独立硕士方向。",
+        "sources": [
+          "https://physics.gatech.edu/research"
+        ],
+        "last_verified_or_attempted": "2026-10-05",
+        "check_scope": "当前所选硕士项目、官方研究与课程页；未确认不等于不存在",
+        "source_check": {
+          "url": "https://physics.gatech.edu/research",
+          "status": 200,
+          "final_url": "https://physics.gatech.edu/research"
+        }
+      },
+      "priority_before_computational_audit": "条件冲刺；可选thesis"
     },
     {
       "country": "USA",
@@ -2664,7 +3042,7 @@
       "rank_key": "Columbia University",
       "match": "Medium",
       "difficulty": "Reach",
-      "priority": "有兴趣再投；方法相邻",
+      "priority": "有兴趣再投；方法相邻；计算物理：待核",
       "qualification": "Physics背景相关；GPA/GRE现行条款仍需闭环。",
       "duration": "30 points；固定日历时长待核",
       "research": "以课程为主；所查degree条款无强制thesis。",
@@ -2767,7 +3145,25 @@
         "url": "https://bulletin.columbia.edu/columbia-engineering/graduate-studies/graduate-admissions/",
         "status": 200,
         "final_url": "https://bulletin.columbia.edu/columbia-engineering/graduate-studies/graduate-admissions/"
-      }
+      },
+      "computational_physics": {
+        "category": "未确认／待核",
+        "priority_label": "计算物理：待核",
+        "independent_specialization": "未确认",
+        "separately_listed_research_area": "未确认",
+        "note": "Applied Physics MS允许CS、Data Science等跨系选修，但此项不是Computational Physics方向证据；APAM研究页403，方向仍待核。",
+        "sources": [
+          "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/applied-physics-applied-mathematics/graduate-programs/applied-physics-ms/"
+        ],
+        "last_verified_or_attempted": "2026-10-05",
+        "check_scope": "当前所选硕士项目、官方研究与课程页；未确认不等于不存在",
+        "source_check": {
+          "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/applied-physics-applied-mathematics/graduate-programs/applied-physics-ms/",
+          "status": 200,
+          "final_url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/applied-physics-applied-mathematics/graduate-programs/applied-physics-ms/"
+        }
+      },
+      "priority_before_computational_audit": "有兴趣再投；方法相邻"
     },
     {
       "country": "USA",
@@ -2799,7 +3195,7 @@
       "refs": "至少3封推荐信、CV、application essay、research personal statement、transcripts。系建议通过招生委员会确认兴趣组，不群发导师。",
       "deadline": "系申请页和FAQ均列2027-01-10为full consideration截止（含assistantships优先审理）；申请页仍残留Fall2026字样和2026 CAS链接，同时主Apply Now指向2027 CAS，提交前核对周期。",
       "deadline_status": "2027-01-10已公布并由FAQ互证；页面旧年份/旧CAS链接冲突已注明",
-      "priority": "美国重点；选择Thesis路径",
+      "priority": "美国重点；选择Thesis路径；计算物理：单列研究领域",
       "qualification": "系不设GPA截断；高能/计算研究吻合，录取仍依赖研究组需求。",
       "reason": "官方MS明确Computational Physics与High Energy Physics研究，Higgs MLP/pyhf统计推断及Bayesian计算可直接支撑申请叙述。",
       "action": "优先整理核心物理成绩与本人研究证据，经GraduateCAS选择College Station Physics MS；核英语豁免、MS专属资助和2027入口。",
@@ -2940,7 +3336,26 @@
         "status": 200,
         "final_url": "https://artsci.tamu.edu/physics-astronomy/academics/prospective-graduates/how-to-apply.html"
       },
-      "priority_application_note": "2026-10-05用户指定替换WashU为重点；仅对应Physics MS Thesis路径。"
+      "priority_application_note": "2026-10-05用户指定替换WashU为重点；仅对应Physics MS Thesis路径。",
+      "computational_physics": {
+        "category": "单列Computational Physics研究领域",
+        "priority_label": "计算物理：单列研究领域",
+        "independent_specialization": "未确认",
+        "separately_listed_research_area": "Computational Physics",
+        "note": "Physics MS官方项目页及MS目录均在Areas of research中将Computational physics单独列项，区别于High-energy physics等领域。可明确写“有单独的Computational Physics研究领域”；未核到独立学位、正式concentration或单独申请入口，申请仍对应Physics MS Thesis。",
+        "sources": [
+          "https://artsci.tamu.edu/physics-astronomy/academics/degrees/graduate/physics-ms.html",
+          "https://catalog.tamu.edu/graduate/colleges-schools-interdisciplinary/arts-and-sciences/physics-astronomy/physics-ms/"
+        ],
+        "last_verified_or_attempted": "2026-10-05",
+        "check_scope": "当前所选硕士项目、官方研究与课程页；未确认不等于不存在",
+        "source_check": {
+          "url": "https://artsci.tamu.edu/physics-astronomy/academics/degrees/graduate/physics-ms.html",
+          "status": 200,
+          "final_url": "https://artsci.tamu.edu/physics-astronomy/academics/degrees/graduate/physics-ms.html"
+        }
+      },
+      "priority_before_computational_audit": "美国重点；选择Thesis路径"
     },
     {
       "country": "USA",
@@ -2972,7 +3387,7 @@
       "refs": "3封推荐信、CV、personal statement、transcripts；硕士论文导师及名额未落实。",
       "deadline": "官网年度Fall：January15 priority、April15 regular，余位滚动至August1；2027专属日期未标年，奖助宜按priority轮准备。",
       "deadline_status": "年度日期，非已确认2027专属公告",
-      "priority": "美国重点补充；优先论文与研究匹配",
+      "priority": "美国重点补充；优先论文与研究匹配；计算物理：列有课程",
       "qualification": "独立MS；数字GPA未公布，3.0需核心成绩与研究推荐补强。",
       "reason": "官方研究方向覆盖星系演化、暗物质、宇宙学与粒子物理，且Physics MS有论文路径，能继续MaNGA/Bayesian或Higgs数据推断工作。",
       "action": "准备3封推荐信，确认与星系/粒子方向导师的MS论文机会、36 credits与论文计费、2027日期及奖助。",
@@ -3121,7 +3536,26 @@
         "url": "https://as.tufts.edu/physics/academics/graduate-programs",
         "status": 200,
         "final_url": "https://as.tufts.edu/physics/academics/graduate-programs"
-      }
+      },
+      "computational_physics": {
+        "category": "Computational Physics课程",
+        "priority_label": "计算物理：列有课程",
+        "independent_specialization": "未确认",
+        "separately_listed_research_area": "未确认",
+        "note": "系课程目录列PHY 0068与PHY 0118 Computational Physics，并说明graduate level credit requires additional work。属于可计研究生学分的课程证据，MS实际学位计划及2027开课另核；未确认独立Computational Physics方向。 MS项目页另将Timothy Atherton的研究兴趣列为Computational Physics；属于导师研究证据，2027指导名额另核。",
+        "sources": [
+          "https://as.tufts.edu/physics/academics/courses",
+          "https://asegrad.tufts.edu/program/physics-and-physics-astrophysics-masters"
+        ],
+        "last_verified_or_attempted": "2026-10-05",
+        "check_scope": "当前所选硕士项目、官方研究与课程页；未确认不等于不存在",
+        "source_check": {
+          "url": "https://as.tufts.edu/physics/academics/courses",
+          "status": 200,
+          "final_url": "https://as.tufts.edu/physics/academics/courses"
+        }
+      },
+      "priority_before_computational_audit": "美国重点补充；优先论文与研究匹配"
     },
     {
       "country": "France",
@@ -3132,7 +3566,7 @@
       "rank_key": "Université Paris-Saclay",
       "match": "High",
       "difficulty": "Match",
-      "priority": "法国重点；优先早轮",
+      "priority": "法国重点；优先早轮；计算相关：统计／数据分析课程",
       "qualification": "Bachelor Physics；英文B2，3.0整体竞争需科研补强。",
       "duration": "M1 1年60 ECTS；完整M1+M2通常2年120 ECTS",
       "research": "M1研究实习；须后续获相容M2录取，完整thesis要求取决M2 track。",
@@ -3222,7 +3656,25 @@
         "url": "https://www.universite-paris-saclay.fr/en/education/masters-degree/physique-fondamentale-et-applications/m1-general-physics",
         "status": 200,
         "final_url": "https://www.universite-paris-saclay.fr/en/education/masters-degree/physique-fondamentale-et-applications/m1-general-physics"
-      }
+      },
+      "computational_physics": {
+        "category": "相关计算课程",
+        "priority_label": "计算相关：统计／数据分析课程",
+        "independent_specialization": "未确认",
+        "separately_listed_research_area": "未确认",
+        "note": "所选M1 General Physics官网介绍从实验及模拟数据提取信息、data mining与multivariate analysis的选修训练；这是统计计算方法证据，未确认本M1独立Computational Physics方向。其他M2路径不自动归入当前M1。",
+        "sources": [
+          "https://www.universite-paris-saclay.fr/en/education/masters-degree/physique-fondamentale-et-applications/m1-general-physics"
+        ],
+        "last_verified_or_attempted": "2026-10-05",
+        "check_scope": "当前所选硕士项目、官方研究与课程页；未确认不等于不存在",
+        "source_check": {
+          "url": "https://www.universite-paris-saclay.fr/en/education/masters-degree/physique-fondamentale-et-applications/m1-general-physics",
+          "status": 200,
+          "final_url": "https://www.universite-paris-saclay.fr/en/education/masters-degree/physique-fondamentale-et-applications/m1-general-physics"
+        }
+      },
+      "priority_before_computational_audit": "法国重点；优先早轮"
     },
     {
       "country": "France",
@@ -3233,7 +3685,7 @@
       "rank_key": "Université PSL",
       "match": "High",
       "difficulty": "Reach",
-      "priority": "强冲刺；需突出科研",
+      "priority": "强冲刺；需突出科研；计算物理：待核",
       "qualification": "高强度fundamental Physics选拔；无公开GPA数值。",
       "duration": "2年 /120 ECTS；本科毕业应申请M1",
       "research": "M1/M2 research internships与research-based training；各年论文/实习具体学分按track。",
@@ -3325,7 +3777,25 @@
         "url": "https://psl.eu/en/education/master-s-degree-physics",
         "status": 200,
         "final_url": "https://psl.eu/en/education/master-s-degree-physics"
-      }
+      },
+      "computational_physics": {
+        "category": "未确认／待核",
+        "priority_label": "计算物理：待核",
+        "independent_specialization": "未确认",
+        "separately_listed_research_area": "未确认",
+        "note": "PSL项目概览未确认独立Computational Physics方向；ICFP专属网站HTTPS/TLS失败，具体课程和track待核。",
+        "sources": [
+          "https://psl.eu/en/education/master-s-degree-physics"
+        ],
+        "last_verified_or_attempted": "2026-10-05",
+        "check_scope": "当前所选硕士项目、官方研究与课程页；未确认不等于不存在",
+        "source_check": {
+          "url": "https://psl.eu/en/education/master-s-degree-physics",
+          "status": 200,
+          "final_url": "https://psl.eu/en/education/master-s-degree-physics"
+        }
+      },
+      "priority_before_computational_audit": "强冲刺；需突出科研"
     },
     {
       "country": "France",
@@ -3336,7 +3806,7 @@
       "rank_key": "Sorbonne University",
       "match": "High",
       "difficulty": "Match",
-      "priority": "法国重点；核专属M1入口",
+      "priority": "法国重点；核专属M1入口；计算相关：PPM数值物理课程",
       "qualification": "English Physics M1；课程与研究背景适合。",
       "duration": "M1+M2 2年 /120 ECTS",
       "research": "核心Physics、numerical methods与research internship；joint Paris Physics Master路线。",
@@ -3433,7 +3903,25 @@
       "supervisor_contact_source_check": {
         "url": "https://master.physique.sorbonne-universite.fr/fr/candidatures-inscription.html",
         "error": "HTTPSConnectionPool(host='master.physique.sorbonne-universite.fr', port=443): Max retries exceeded with url: /fr/candidatures-inscription.html (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))"
-      }
+      },
+      "computational_physics": {
+        "category": "相关计算课程",
+        "priority_label": "计算相关：PPM数值物理课程",
+        "independent_specialization": "未确认",
+        "separately_listed_research_area": "未确认",
+        "note": "所选联合Paris Physics Master M1列Numerical methods for physics并说明numerical physics训练；未确认独立Computational Physics方向。此证据来自共同授予方Université Paris Cité的项目目录。",
+        "sources": [
+          "https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/physique-fondamentale-et-applications-K2VO0C50/master-physique-fondamentale-et-applications-m1-parcours-paris-physics-master-JS1XR1EO.html"
+        ],
+        "last_verified_or_attempted": "2026-10-05",
+        "check_scope": "当前所选硕士项目、官方研究与课程页；未确认不等于不存在",
+        "source_check": {
+          "url": "https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/physique-fondamentale-et-applications-K2VO0C50/master-physique-fondamentale-et-applications-m1-parcours-paris-physics-master-JS1XR1EO.html",
+          "status": 200,
+          "final_url": "https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/physique-fondamentale-et-applications-K2VO0C50/master-physique-fondamentale-et-applications-m1-parcours-paris-physics-master-JS1XR1EO.html"
+        }
+      },
+      "priority_before_computational_audit": "法国重点；核专属M1入口"
     },
     {
       "country": "France",
@@ -3444,7 +3932,7 @@
       "rank_key": "Institut Polytechnique de Paris",
       "match": "High",
       "difficulty": "Reach",
-      "priority": "科研最贴近；强冲刺",
+      "priority": "科研最贴近；强冲刺；计算相关：数值物理课程",
       "qualification": "扎实Physics与数学；本科入口M1。",
       "duration": "M1+M2 2年 /120 ECTS",
       "research": "M1至少16周internship；M2至少4个月thesis / internship，30 ECTS。",
@@ -3555,7 +4043,26 @@
         "url": "https://www.ip-paris.fr/en/education/useful-information/admissions",
         "status": 200,
         "final_url": "https://www.ip-paris.fr/en/education/useful-information/admissions"
-      }
+      },
+      "computational_physics": {
+        "category": "相关计算课程",
+        "priority_label": "计算相关：数值物理课程",
+        "independent_specialization": "未确认",
+        "separately_listed_research_area": "未确认",
+        "note": "所选HEP M1列Numerical physics（36h、5 ECTS）；M2另列Methods of statistical analysis and simulation。计算方法嵌入High Energy Physics路径，未确认独立Computational Physics方向。",
+        "sources": [
+          "https://www.ip-paris.fr/en/education/graduate-programs/masters-science/physics-program/master-year-1-high-energy-physics",
+          "https://www.ip-paris.fr/en/education/masters/physics-program/master-year-2-high-energy-physics"
+        ],
+        "last_verified_or_attempted": "2026-10-05",
+        "check_scope": "当前所选硕士项目、官方研究与课程页；未确认不等于不存在",
+        "source_check": {
+          "url": "https://www.ip-paris.fr/en/education/graduate-programs/masters-science/physics-program/master-year-1-high-energy-physics",
+          "status": 200,
+          "final_url": "https://www.ip-paris.fr/en/education/graduate-programs/masters-science/physics-program/master-year-1-high-energy-physics"
+        }
+      },
+      "priority_before_computational_audit": "科研最贴近；强冲刺"
     },
     {
       "country": "France",
@@ -3587,7 +4094,7 @@
       "refs": "联合英语项目推荐信数量、导师要求及完整申请清单待核；准备成绩、在读/学位证明、CV、动机信与课程说明。",
       "deadline": "2027项目专属起止日和渠道待核。若个人身份及加拿大居住地适用EEF且该项目通过EEF招生，则Hors-DAP为2026-10-01至2027-02-15；不能当五校共同项目截止日。",
       "deadline_status": "加拿大EEF2027/28日历已公布；项目渠道和校内截止待核",
-      "priority": "保留；与Sorbonne联合入口统筹",
+      "priority": "保留；与Sorbonne联合入口统筹；计算相关：PPM数值物理课程",
       "qualification": "物理本科相符；PPM与Sorbonne联办，不另计独立录取机会。",
       "reason": "数值、粒子、天体与宇宙学课程可承接现有物理数据推断经历。",
       "action": "统一核实PPM申请渠道、注册学校、英语证明和M2去向，避免同一联合项目重复预算。",
@@ -3702,7 +4209,25 @@
         "url": "https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/physique-fondamentale-et-applications-K2VO0C50/master-physique-fondamentale-et-applications-m1-parcours-paris-physics-master-JS1XR1EO.html",
         "status": 200,
         "final_url": "https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/physique-fondamentale-et-applications-K2VO0C50/master-physique-fondamentale-et-applications-m1-parcours-paris-physics-master-JS1XR1EO.html"
-      }
+      },
+      "computational_physics": {
+        "category": "相关计算课程",
+        "priority_label": "计算相关：PPM数值物理课程",
+        "independent_specialization": "未确认",
+        "separately_listed_research_area": "未确认",
+        "note": "联合Paris Physics Master M1列Numerical methods for physics及numerical physics训练；未确认独立Computational Physics方向。与Sorbonne为同一个联合PPM，不增加独立申请次数。",
+        "sources": [
+          "https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/physique-fondamentale-et-applications-K2VO0C50/master-physique-fondamentale-et-applications-m1-parcours-paris-physics-master-JS1XR1EO.html"
+        ],
+        "last_verified_or_attempted": "2026-10-05",
+        "check_scope": "当前所选硕士项目、官方研究与课程页；未确认不等于不存在",
+        "source_check": {
+          "url": "https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/physique-fondamentale-et-applications-K2VO0C50/master-physique-fondamentale-et-applications-m1-parcours-paris-physics-master-JS1XR1EO.html",
+          "status": 200,
+          "final_url": "https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/physique-fondamentale-et-applications-K2VO0C50/master-physique-fondamentale-et-applications-m1-parcours-paris-physics-master-JS1XR1EO.html"
+        }
+      },
+      "priority_before_computational_audit": "保留；与Sorbonne联合入口统筹"
     },
     {
       "country": "Germany",
@@ -3713,7 +4238,7 @@
       "rank_key": "Technical University of Munich",
       "match": "High",
       "difficulty": "Reach",
-      "priority": "研究冲刺；课程+成本先核",
+      "priority": "研究冲刺；课程+成本先核；计算物理：列入高能方向",
       "qualification": "aptitude assessment；相关Physics本科与VPD；全英语，无非英语语言门槛。",
       "duration": "2年 /4 semesters，120 ECTS",
       "research": "第一年高级课程；第二年research phase + Master thesis。",
@@ -3808,7 +4333,25 @@
         "url": "https://www.tum.de/en/studies/degree-programs/detail/physics-applied-and-engineering-physics-master-of-science-msc",
         "status": 200,
         "final_url": "https://www.tum.de/en/studies/degree-programs/detail/physics-applied-and-engineering-physics-master-of-science-msc"
-      }
+      },
+      "computational_physics": {
+        "category": "合列计算物理研究",
+        "priority_label": "计算物理：列入高能方向",
+        "independent_specialization": "未确认",
+        "separately_listed_research_area": "未确认",
+        "note": "当前Applied and Engineering Physics MSc官网在High energy physics主题中明确列computational physics、data analysis和Monte Carlo methods；计算物理包含在高能主题内，未确认独立Computational Physics specialization。",
+        "sources": [
+          "https://www.tum.de/en/studies/degree-programs/detail/physics-applied-and-engineering-physics-master-of-science-msc"
+        ],
+        "last_verified_or_attempted": "2026-10-05",
+        "check_scope": "当前所选硕士项目、官方研究与课程页；未确认不等于不存在",
+        "source_check": {
+          "url": "https://www.tum.de/en/studies/degree-programs/detail/physics-applied-and-engineering-physics-master-of-science-msc",
+          "status": 200,
+          "final_url": "https://www.tum.de/en/studies/degree-programs/detail/physics-applied-and-engineering-physics-master-of-science-msc"
+        }
+      },
+      "priority_before_computational_audit": "研究冲刺；课程+成本先核"
     },
     {
       "country": "Germany",
@@ -3840,7 +4383,7 @@
       "refs": "推荐信可选且须推荐人直接发送；≤1,000词English essay、CV、成绩/学位或在读证明。国际生还须并行申请LMU International Office。",
       "deadline": "年度11月1日至1月15日、5月1日至7月15日；January15可申请当年October入学，July15可申请当年October或次年April。2027批次日历及International Office窗口须并行核对。",
       "deadline_status": "官方年度窗口；非2027专属日期公告",
-      "priority": "德国高匹配冲刺；英语且GRE可选",
+      "priority": "德国高匹配冲刺；英语且GRE可选；计算相关：天体数据／ML课程",
       "qualification": "高于平均的物理成绩与研究经历；需系和International Office双重录取；全英语，无非英语语言门槛。",
       "reason": "项目明确gravitational dynamics、cosmology、statistics、data science与ML，与MaNGA/Bayesian研究高度重合。",
       "action": "优先以暗物质晕项目写英文essay、补强高年级物理成绩，准备UofT授课语言证明及真实研究推荐。",
@@ -3935,7 +4478,25 @@
         "url": "https://www.physik.lmu.de/en/studies/study-programs/applying-to-a-masters-program/",
         "status": 200,
         "final_url": "https://www.physik.lmu.de/en/studies/study-programs/applying-to-a-masters-program/"
-      }
+      },
+      "computational_physics": {
+        "category": "相关计算课程",
+        "priority_label": "计算相关：天体数据／ML课程",
+        "independent_specialization": "未确认",
+        "separately_listed_research_area": "未确认",
+        "note": "当前Astrophysics MSc课程池明确含statistics、data science、machine learning；属于计算与数据训练，未确认独立Computational Physics方向，不改成已移出的普通Physics MSc。",
+        "sources": [
+          "https://www.physik.lmu.de/en/studies/study-programs/msc-astrophysics/"
+        ],
+        "last_verified_or_attempted": "2026-10-05",
+        "check_scope": "当前所选硕士项目、官方研究与课程页；未确认不等于不存在",
+        "source_check": {
+          "url": "https://www.physik.lmu.de/en/studies/study-programs/msc-astrophysics/",
+          "status": 200,
+          "final_url": "https://www.physik.lmu.de/en/studies/study-programs/msc-astrophysics/"
+        }
+      },
+      "priority_before_computational_audit": "德国高匹配冲刺；英语且GRE可选"
     },
     {
       "country": "Germany",
@@ -3946,7 +4507,7 @@
       "rank_key": "Universität Heidelberg",
       "match": "High",
       "difficulty": "Match",
-      "priority": "条件主申；核德制等效与面试",
+      "priority": "条件主申；核德制等效与面试；计算物理：独立细分方向",
       "qualification": "German grade 2.9或更好；有oral selection；全英语，无非英语语言门槛。",
       "duration": "2年 /4 semesters，120 ECTS",
       "research": "research-oriented Physics，Master thesis；具体模块按所选方向。",
@@ -4084,7 +4645,25 @@
         "url": "https://www.uni-heidelberg.de/en/study/all-subjects/physics/physics-master",
         "status": 200,
         "final_url": "https://www.uni-heidelberg.de/en/study/all-subjects/physics/physics-master"
-      }
+      },
+      "computational_physics": {
+        "category": "正式Computational Physics specialization",
+        "priority_label": "计算物理：独立细分方向",
+        "independent_specialization": "已确认",
+        "separately_listed_research_area": "未确认",
+        "note": "由当前官方Physics Master页链接的MSc Module Manual第3.4节明确列Specialization Computational Physics，并给出独立模块表及MSc Model study plan。核心专业模块包括Fundamentals of Simulation Methods与Computational Statistics and Data Analysis，另有Monte Carlo、并行计算及机器学习等课程。属于Physics MSc内正式命名的specialization；各课实际开课与2027规则仍按届时手册确认。",
+        "sources": [
+          "https://www.physik.uni-heidelberg.de/c/image/d/studium/master/pdf/MScModuleManual.pdf"
+        ],
+        "last_verified_or_attempted": "2026-10-05",
+        "check_scope": "当前所选硕士项目、官方研究与课程页；未确认不等于不存在",
+        "source_check": {
+          "url": "https://www.physik.uni-heidelberg.de/c/image/d/studium/master/pdf/MScModuleManual.pdf",
+          "status": 200,
+          "final_url": "https://www.physik.uni-heidelberg.de/c/image/d/studium/master/pdf/MScModuleManual.pdf"
+        }
+      },
+      "priority_before_computational_audit": "条件主申；核德制等效与面试"
     },
     {
       "country": "Germany",
@@ -4095,7 +4674,7 @@
       "rank_key": "KIT, Karlsruhe Institute of Technology",
       "match": "High",
       "difficulty": "Match",
-      "priority": "重点条件主申；严格课程核对",
+      "priority": "重点条件主申；严格课程核对；计算物理：待核",
       "qualification": "理论32 /实验32 /lab18 ECTS；最多有限补课；全英语，无非英语语言门槛。",
       "duration": "2年 /4 semesters，120 ECTS",
       "research": "advanced Physics coursework与research /Master thesis。",
@@ -4218,7 +4797,25 @@
         "url": "https://www.sle.kit.edu/english/vorstudium/master-physics.php",
         "status": 200,
         "final_url": "https://www.sle.kit.edu/english/vorstudium/master-physics.php"
-      }
+      },
+      "computational_physics": {
+        "category": "未确认／待核",
+        "priority_label": "计算物理：待核",
+        "independent_specialization": "未确认",
+        "separately_listed_research_area": "未确认",
+        "note": "所查Physics项目与模块手册入口未确认独立Computational Physics方向；导航中的Computational and Data Science是另一个硕士，不归入本Physics记录。",
+        "sources": [
+          "https://www.sle.kit.edu/english/vorstudium/master-physics.php"
+        ],
+        "last_verified_or_attempted": "2026-10-05",
+        "check_scope": "当前所选硕士项目、官方研究与课程页；未确认不等于不存在",
+        "source_check": {
+          "url": "https://www.sle.kit.edu/english/vorstudium/master-physics.php",
+          "status": 200,
+          "final_url": "https://www.sle.kit.edu/english/vorstudium/master-physics.php"
+        }
+      },
+      "priority_before_computational_audit": "重点条件主申；严格课程核对"
     },
     {
       "country": "Germany",
@@ -4250,7 +4847,7 @@
       "refs": "官方清单含cover sheet、成绩及学位/在读证明、德国成绩转换、CV及经历证明、英文motivation、英语证明；未列必需推荐信或申请前导师。",
       "deadline": "年度2月15日至3月31日，仅Winter/October入学；官网链接申请说明标2026/27且PDF更新January2026，2027/28系统开放仍须核对。奖学金截止未核。",
       "deadline_status": "年度窗口；2027专属申请说明待发布",
-      "priority": "德国研究型重点；替代RWTH",
+      "priority": "德国研究型重点；替代RWTH；计算相关：计算天体物理模块",
       "qualification": "比较Physics课程与成绩；英语版入学无需德语；全英语，无非英语语言门槛。",
       "reason": "官方同时覆盖天体物理和粒子物理，与DESY合作并有一年研究阶段，匹配两段计算/数据研究。",
       "action": "按英文Physics而非德文Physik申请；整理核心课、成绩转换和项目证明，在年度3月31日前准备完整材料。",
@@ -4395,7 +4992,25 @@
         "url": "https://www.physik.uni-hamburg.de/studium/studiengaenge/masterstudiengaenge/msc-physics.html",
         "status": 200,
         "final_url": "https://www.physik.uni-hamburg.de/studium/studiengaenge/masterstudiengaenge/msc-physics.html"
-      }
+      },
+      "computational_physics": {
+        "category": "相关计算课程",
+        "priority_label": "计算相关：计算天体物理模块",
+        "independent_specialization": "未确认",
+        "separately_listed_research_area": "未确认",
+        "note": "2026官方MSc模块手册列Computational Astrophysics（PHY-MV-T102，6 CP）及MHD Simulations with the FLASH Code等，明确适用于Physics (M.Sc.)。是模块证据，未确认独立Computational Physics方向；计算天体模块考试语言列English or German，所选英语项目的实际英语开课须确认。",
+        "sources": [
+          "https://www.physik.uni-hamburg.de/studium/dokumente/physik-physics-msc-modulhandbuch-2026-final.pdf"
+        ],
+        "last_verified_or_attempted": "2026-10-05",
+        "check_scope": "当前所选硕士项目、官方研究与课程页；未确认不等于不存在",
+        "source_check": {
+          "url": "https://www.physik.uni-hamburg.de/studium/dokumente/physik-physics-msc-modulhandbuch-2026-final.pdf",
+          "status": 200,
+          "final_url": "https://www.physik.uni-hamburg.de/studium/dokumente/physik-physics-msc-modulhandbuch-2026-final.pdf"
+        }
+      },
+      "priority_before_computational_audit": "德国研究型重点；替代RWTH"
     },
     {
       "country": "Switzerland",
@@ -4406,7 +5021,7 @@
       "rank_key": "ETH Zurich",
       "match": "High",
       "difficulty": "Reach",
-      "priority": "早期强冲刺；11月截止",
+      "priority": "早期强冲刺；11月截止；计算物理：待核",
       "qualification": "foreign Bachelor等效与高水平成绩；3.0明显弱；全英语，无非英语语言门槛。",
       "duration": "1.5年 /3 semesters；90 ECTS",
       "research": "第三学期约半年Master thesis；之前proseminar /semester project。",
@@ -4544,7 +5159,25 @@
         "url": "https://www.phys.ethz.ch/studies/master.html",
         "status": 200,
         "final_url": "https://www.phys.ethz.ch/studies/master.html"
-      }
+      },
+      "computational_physics": {
+        "category": "未确认／待核",
+        "priority_label": "计算物理：待核",
+        "independent_specialization": "未确认",
+        "separately_listed_research_area": "未确认",
+        "note": "所查Physics MSc页未确认独立Computational Physics方向；入学先修Numerical Methods不算硕士方向，尝试访问计算物理研究组网站TLS失败。",
+        "sources": [
+          "https://www.phys.ethz.ch/studies/master.html"
+        ],
+        "last_verified_or_attempted": "2026-10-05",
+        "check_scope": "当前所选硕士项目、官方研究与课程页；未确认不等于不存在",
+        "source_check": {
+          "url": "https://www.phys.ethz.ch/studies/master.html",
+          "status": 200,
+          "final_url": "https://www.phys.ethz.ch/studies/master.html"
+        }
+      },
+      "priority_before_computational_audit": "早期强冲刺；11月截止"
     },
     {
       "country": "Switzerland",
@@ -4555,7 +5188,7 @@
       "rank_key": "EPFL – École polytechnique fédérale de Lausanne",
       "match": "High",
       "difficulty": "Reach",
-      "priority": "研究强冲刺；优先第一轮",
+      "priority": "研究强冲刺；优先第一轮；计算物理：待核",
       "qualification": "foreign Physics bachelor要求excellent academic records；全英语，无非英语语言门槛。",
       "duration": "2年 /120 ECTS",
       "research": "research-oriented coursework、laboratory work与Master project。",
@@ -4678,7 +5311,25 @@
         "url": "https://www.epfl.ch/education/admission/master-admission-criteria-application/online-application/",
         "status": 200,
         "final_url": "https://www.epfl.ch/education/admission/admission-2/master-admission-criteria-application/online-application/"
-      }
+      },
+      "computational_physics": {
+        "category": "未确认／待核",
+        "priority_label": "计算物理：待核",
+        "independent_specialization": "未确认",
+        "separately_listed_research_area": "未确认",
+        "note": "Physics项目概览未确认独立Computational Physics方向；课程计划URL返回404，进一步访问EPFL主页受拦截。其他Computational Science and Engineering硕士不归入本Physics记录。",
+        "sources": [
+          "https://www.epfl.ch/education/master/programs/physics/"
+        ],
+        "last_verified_or_attempted": "2026-10-05",
+        "check_scope": "当前所选硕士项目、官方研究与课程页；未确认不等于不存在",
+        "source_check": {
+          "url": "https://www.epfl.ch/education/master/programs/physics/",
+          "status": 200,
+          "final_url": "https://www.epfl.ch/education/master/programs/physics/"
+        }
+      },
+      "priority_before_computational_audit": "研究强冲刺；优先第一轮"
     },
     {
       "country": "Switzerland",
@@ -4689,7 +5340,7 @@
       "rank_key": "University of Geneva",
       "match": "High",
       "difficulty": "Match",
-      "priority": "瑞士重点；particle/astro路线",
+      "priority": "瑞士重点；particle/astro路线；计算物理：待核",
       "qualification": "非Bologna本科须committee equivalence；全英语，无非英语语言门槛。",
       "duration": "2年 /4 semesters，120 ECTS",
       "research": "Master thesis60 ECTS；Cosmology and Astrophysics of Particles等tracks。",
@@ -4784,7 +5435,25 @@
         "url": "https://www.unige.ch/sciences/physique/enseignement/master",
         "status": 200,
         "final_url": "https://www.unige.ch/sciences/physique/enseignement/master"
-      }
+      },
+      "computational_physics": {
+        "category": "未确认／待核",
+        "priority_label": "计算物理：待核",
+        "independent_specialization": "未确认",
+        "separately_listed_research_area": "未确认",
+        "note": "所查Physics Master及Cosmology and Astrophysics of Particles页面未确认单独Computational Physics方向或明确同名列项。",
+        "sources": [
+          "https://www.unige.ch/sciences/physique/enseignement/master"
+        ],
+        "last_verified_or_attempted": "2026-10-05",
+        "check_scope": "当前所选硕士项目、官方研究与课程页；未确认不等于不存在",
+        "source_check": {
+          "url": "https://www.unige.ch/sciences/physique/enseignement/master",
+          "status": 200,
+          "final_url": "https://www.unige.ch/sciences/physique/enseignement/master"
+        }
+      },
+      "priority_before_computational_audit": "瑞士重点；particle/astro路线"
     },
     {
       "country": "Switzerland",
@@ -4795,7 +5464,7 @@
       "rank_key": "University of Zurich",
       "match": "High",
       "difficulty": "Match",
-      "priority": "瑞士重点；核课程等效",
+      "priority": "瑞士重点；核课程等效；计算相关：计算科学／数值课程",
       "qualification": "foreign180ECTS本科，个案审查可附补课；全英语，无非英语语言门槛。",
       "duration": "约1.5年 /90 ECTS",
       "research": "Master thesis为30或50 ECTS，分别约6或10个月；required research seminar；须导师同意并订learning agreement。",
@@ -4947,7 +5616,25 @@
         "url": "https://www.physik.uzh.ch/en/study/Study-Degree-Programmes/Master/admission.html",
         "status": 200,
         "final_url": "https://www.physik.uzh.ch/en/study/Study-Degree-Programmes/Master/admission.html"
-      }
+      },
+      "computational_physics": {
+        "category": "相关计算课程",
+        "priority_label": "计算相关：计算科学／数值课程",
+        "independent_specialization": "未确认",
+        "separately_listed_research_area": "未确认",
+        "note": "Master course content页列ESC411 Computational Science I与PHY233 Numerical Methods I，涵盖ODE/PDE、Monte Carlo、inverse problems等；是课程层面证据，未确认Physics mono内独立Computational Physics方向。",
+        "sources": [
+          "https://www.physik.uzh.ch/en/study/Study-Degree-Programmes/Master/course-content.html"
+        ],
+        "last_verified_or_attempted": "2026-10-05",
+        "check_scope": "当前所选硕士项目、官方研究与课程页；未确认不等于不存在",
+        "source_check": {
+          "url": "https://www.physik.uzh.ch/en/study/Study-Degree-Programmes/Master/course-content.html",
+          "status": 200,
+          "final_url": "https://www.physik.uzh.ch/en/study/Study-Degree-Programmes/Master/course-content.html"
+        }
+      },
+      "priority_before_computational_audit": "瑞士重点；核课程等效"
     },
     {
       "country": "Switzerland",
@@ -4958,7 +5645,7 @@
       "rank_key": "University of Bern",
       "match": "High",
       "difficulty": "Match",
-      "priority": "瑞士条件主申；排名例外",
+      "priority": "瑞士条件主申；排名例外；计算物理：待核",
       "qualification": "须90Physics+30Math或60+60 ECTS等效；全英语，无非英语语言门槛。",
       "duration": "1.5年 /3 semesters，90 ECTS",
       "research": "Master thesis45 ECTS，加Master examination；English research-oriented degree。",
@@ -5069,7 +5756,25 @@
         "url": "https://www.philnat.unibe.ch/studium/studienprogramme/master_physik/index_ger.html",
         "status": 200,
         "final_url": "https://www.philnat.unibe.ch/studium/studienprogramme/master_physik/index_ger.html"
-      }
+      },
+      "computational_physics": {
+        "category": "未确认／待核",
+        "priority_label": "计算物理：待核",
+        "independent_specialization": "未确认",
+        "separately_listed_research_area": "未确认",
+        "note": "所查Master概览和学程未确认独立Computational Physics；课程附件中的Numerical Methods in Physics位于本科安排，不能转写为已核硕士方向。",
+        "sources": [
+          "https://www.philnat.unibe.ch/studium/studienprogramme/master_physik/index_ger.html"
+        ],
+        "last_verified_or_attempted": "2026-10-05",
+        "check_scope": "当前所选硕士项目、官方研究与课程页；未确认不等于不存在",
+        "source_check": {
+          "url": "https://www.philnat.unibe.ch/studium/studienprogramme/master_physik/index_ger.html",
+          "status": 200,
+          "final_url": "https://www.philnat.unibe.ch/studium/studienprogramme/master_physik/index_ger.html"
+        }
+      },
+      "priority_before_computational_audit": "瑞士条件主申；排名例外"
     }
   ],
   "scope_revision": {
@@ -5210,5 +5915,23 @@
     "selected_total": 39,
     "priority_total": 18,
     "count_basis": "学校记录数；优先申请按用户指定的荧光黄色标记统计。ANU已获offer，Melbourne为优先申请学校。"
+  },
+  "computational_physics_audit": {
+    "checked": "2026-10-05",
+    "school_count": 39,
+    "source_method": "direct HTTPS",
+    "audit_file": "computational-physics-source-audit-20261005.md",
+    "classification_counts": {
+      "Computational Physics课程": 5,
+      "单列Computational Physics研究领域": 1,
+      "单列相关计算研究领域": 1,
+      "合列计算物理研究": 3,
+      "导师研究提及": 1,
+      "未确认／待核": 13,
+      "正式Computational Physics specialization": 1,
+      "相关计算课程": 9,
+      "综合项目中的计算研究": 4,
+      "计算证书配套路径": 1
+    }
   }
 }

@@ -43,7 +43,7 @@ QS World University Rankings 2027综合 249；QS Physics & Astronomy 2026 251-30
 |---|---|
 | Match | High — 官方computational astrophysics、statistical/computational physics与复杂系统方法可承接MaNGA和Bayesian研究；具体Higgs方向不直接匹配。 |
 | Difficulty | Reach；申请规划判断，非百分比录取率。 |
-| 申请优先级 | 先核3.3与Physics GRE；条件冲刺 |
+| 申请优先级 | 先核3.3与Physics GRE；条件冲刺；计算物理：列入复杂系统领域 |
 | 当前资格焦点 | 最近两年≥3.3；国际申请人需Physics Subject GRE。 |
 | 下一步 | 先核last-two-years≥3.3及Physics GRE安排，若未达则询问是否有正式例外；再匹配computational astrophysics/complexity导师，不按General GRE已考就视为材料齐全。 |
 
@@ -109,5 +109,22 @@ Physics and Astronomy MSc Thesis项目页明确Reference letters: Two。
 | 要求与时间点 | 官网明确需要supervisor，但无需在项目开始前确定；可先申请，后续仍须落实指导关系。 |
 
 官方来源：https://grad.ucalgary.ca/future-students/explore-programs/physics-and-astronomy-msc-thesis
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## Computational Physics方向补核（2026-10-05）
+
+| 字段 | 核查结果 |
+|---|---|
+| 分类 | 合列计算物理研究 |
+| 独立specialization | 未确认 |
+| 单列研究领域 | 未确认 |
+| 申请优先级备注 | 计算物理：列入复杂系统领域 |
+
+MSc将statistical and computational physics放在Complexity研究领域，并在Astronomy & Astrophysics中提及computational astrophysics；未列独立Computational Physics specialization。Computational Neuroscience为另一跨学科选项，不能等同计算物理。
+
+官方来源：
+
+- https://grad.ucalgary.ca/future-students/explore-programs/physics-and-astronomy-msc-thesis
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

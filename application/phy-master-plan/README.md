@@ -134,3 +134,5 @@ Higgs 公共仓库 README 当前使用 test01 标签，而本地科研背景曾�
 2026-10-05：总览“推荐信要求”列新增全部39条记录的申请前导师联系要求，保留原推荐信数量；[本字段官方来源与核查说明](supervisor-contact-source-audit-20261005.md)。
 
 2026-10-05：WashU MA无thesis，取消重点并替换为Texas A&M Physics MS Thesis；39条学校记录及18所重点总数不变。
+
+2026-10-05：全部39所补入Computational Physics核查，“申请优先级”区分独立specialization、单列／合列研究领域、课程及相关计算方法。[逐校官方依据](computational-physics-source-audit-20261005.md)。Texas A&M单列研究领域，Heidelberg有正式specialization。

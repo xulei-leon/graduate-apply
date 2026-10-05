@@ -43,7 +43,7 @@ QS World University Rankings 2027综合 142；QS Physics & Astronomy 2026 351-40
 |---|---|
 | Match | High — Scientific Computing与Theoretical Physics官方方向可承接Python/Bayesian计算和高能物理方法；具体课题与MSc名额未确认。 |
 | Difficulty | Match；申请规划判断，非百分比录取率。 |
-| 申请优先级 | 优先推进；先核高年级成绩和导师 |
+| 申请优先级 | 优先推进；先核高年级成绩和导师；计算相关：单列科学计算领域 |
 | 当前资格焦点 | 三四年级课程平均≥70%（B）；录取需导师参与。 |
 | 下一步 | 按三四年级课程重算平均并准备UCL研究摘要，定向确认computational/theoretical Physics导师、2027名额与资金；未联系状态保持不变。 |
 
@@ -127,5 +127,22 @@ S6. **Physics research themes**：https://physics.uwo.ca/research/physics/index.
 | 要求与时间点 | 所有录取与faculty supervisor共同作出；系强烈鼓励申请前联系，但未规定提交申请前必须获承诺。 |
 
 官方来源：https://physics.uwo.ca/graduate/future_students/how_to_apply.html
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## Computational Physics方向补核（2026-10-05）
+
+| 字段 | 核查结果 |
+|---|---|
+| 分类 | 单列相关计算研究领域 |
+| 独立specialization | 未确认 |
+| 单列研究领域 | Scientific Computing（相关领域） |
+| 申请优先级备注 | 计算相关：单列科学计算领域 |
+
+系单列Scientific Computing研究领域，并说明研究生可参加Graduate Program in Scientific Computing。它是相关科学计算领域；不将其改名为独立Computational Physics学位或本Physics MSc的已确认concentration。
+
+官方来源：
+
+- https://physics.uwo.ca/research/physics/scientific_computing.html
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

@@ -41,7 +41,7 @@ QS World University Rankings 2027综合 72；QS Physics & Astronomy 2026 31。
 |---|---|
 | Match | Medium — 广泛Physics训练有衔接潜力，但现行MS具体研究路线尚未核实，保守Medium。 |
 | Difficulty | Reach；申请规划判断，非百分比录取率。 |
-| 申请优先级 | 冲刺；硕士自费入口明确 |
+| 申请优先级 | 冲刺；硕士自费入口明确；计算物理：研究生课程 |
 | 当前资格焦点 | 无minimum undergrad GPA可申请；核心Phys需强。 |
 | 下一步 | 只有接受自费且确认具体MS研究路线后投；SOP不写成PhD申请。 |
 
@@ -95,5 +95,22 @@ S1. **Physics admissions / terminal MS / dates**：https://physics.utexas.edu/ac
 | 要求与时间点 | 所查本项目公开招生／课程页面未列申请前必须联系或获导师同意；这不是明确免除声明，提交前仍按项目申请系统及补件通知确认。研究实习或论文导师另行安排。 |
 
 官方来源：https://physics.utexas.edu/academics/admissions
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## Computational Physics方向补核（2026-10-05）
+
+| 字段 | 核查结果 |
+|---|---|
+| 分类 | Computational Physics课程 |
+| 独立specialization | 未确认 |
+| 单列研究领域 | 未确认 |
+| 申请优先级备注 | 计算物理：研究生课程 |
+
+系课程页列研究生PHY 381C Computational Physics；PHY 329为本科课，不混作硕士方向。未确认独立Computational Physics硕士方向，具体MS选课与论文路线另核。
+
+官方来源：
+
+- https://physics.utexas.edu/academics/courses
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

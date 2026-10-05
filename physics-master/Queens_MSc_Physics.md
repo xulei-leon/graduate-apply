@@ -43,7 +43,7 @@ QS World University Rankings 2027综合 179；QS Physics & Astronomy 2026 201-25
 |---|---|
 | Match | High — Physics / Astronomy研究训练与科研型硕士目标重合；具体计算或暗物质课题需导师确认。 |
 | Difficulty | Reach；申请规划判断，非百分比录取率。 |
-| 申请优先级 | 条件备选；需研究名额 |
+| 申请优先级 | 条件备选；需研究名额；计算物理：高性能计算课程 |
 | 当前资格焦点 | Honours Science second class；导师及名额未落实。 |
 | 下一步 | 先取得second-class等效结论与导师方向，再核2027截止和材料。 |
 
@@ -99,5 +99,22 @@ S2. **MSc structure / funding**：https://www.queensu.ca/physics/grad-studies/ms
 | 要求与时间点 | 系招生页未说明申请前必须联系或取得承诺；研究型MSc须有指导关系，但不能据此推断申请前硬性条件。 |
 
 官方来源：https://www.queensu.ca/physics/grad-studies/admission-requirements
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## Computational Physics方向补核（2026-10-05）
+
+| 字段 | 核查结果 |
+|---|---|
+| 分类 | Computational Physics课程 |
+| 独立specialization | 未确认 |
+| 单列研究领域 | 未确认 |
+| 申请优先级备注 | 计算物理：高性能计算课程 |
+
+研究生课表列PHYS 879 (479) High Performance Computational Physics与PHYS 913 Computational Astrophysics；所查表这两门未标当学年开课学期，2027开课及选课条件待核；未确认独立方向。
+
+官方来源：
+
+- https://www.queensu.ca/physics/grad-studies/current-students/grad-course-information
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

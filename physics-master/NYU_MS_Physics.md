@@ -41,7 +41,7 @@ QS World University Rankings 2027综合 58；QS Physics & Astronomy 2026 103。
 |---|---|
 | Match | High — 计算物理、particle与cosmology环境及论文选项与现有科研较贴近。 |
 | Difficulty | Match；申请规划判断，非百分比录取率。 |
-| 申请优先级 | 美国重点；选thesis |
+| 申请优先级 | 美国重点；选thesis；计算物理：MS核心课列入 |
 | 当前资格焦点 | 无公开minimum score；课程与科研可整体评估。 |
 | 下一步 | 用thesis目标明确SOP，展示可复现推断与计算成果；预算按自费。 |
 
@@ -107,5 +107,22 @@ GSAS要求3封，优先熟悉学术、研究能力的推荐人；不套用non-de
 | 要求与时间点 | 所查本项目公开招生／课程页面未列申请前必须联系或获导师同意；这不是明确免除声明，提交前仍按项目申请系统及补件通知确认。研究实习或论文导师另行安排。 |
 
 官方来源：https://gsas.nyu.edu/admissions/arc/programs/physics.html
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## Computational Physics方向补核（2026-10-05）
+
+| 字段 | 核查结果 |
+|---|---|
+| 分类 | Computational Physics课程 |
+| 独立specialization | 未确认 |
+| 单列研究领域 | 未确认 |
+| 申请优先级备注 | 计算物理：MS核心课列入 |
+
+Physics MS目录将PHYS-GA 2000 Computational Physics列入六门核心课池（通常需完成其中五门），示范课表也列该课；是课程证据，未确认独立Computational Physics方向。
+
+官方来源：
+
+- https://bulletins.nyu.edu/graduate/arts-science/programs/physics-ms/
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

@@ -50,7 +50,7 @@ QS World University Rankings 2027综合 191；QS Physics & Astronomy 2026 201-25
 |---|---|
 | Match | High — astro、experimental/theoretical Physics和占半数学分的thesis与科研延续目标吻合，资格主要取决学分等效。 |
 | Difficulty | Match；申请规划判断，非百分比录取率。 |
-| 申请优先级 | 瑞士条件主申；排名例外 |
+| 申请优先级 | 瑞士条件主申；排名例外；计算物理：待核 |
 | 当前资格焦点 | 须90Physics+30Math或60+60 ECTS等效；全英语，无非英语语言门槛。 |
 | 下一步 | 先做90+30或60+60课程核对，查online注册deadline并提早寄纸质材料；需visa不允许late registration。 |
 
@@ -118,5 +118,22 @@ international Master checklist的Physics项需本科论文摘要或无论文说�
 | 要求与时间点 | 所查本项目公开招生／课程页面未列申请前必须联系或获导师同意；这不是明确免除声明，提交前仍按项目申请系统及补件通知确认。研究实习或论文导师另行安排。 |
 
 官方来源：https://www.philnat.unibe.ch/studium/studienprogramme/master_physik/index_ger.html
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## Computational Physics方向补核（2026-10-05）
+
+| 字段 | 核查结果 |
+|---|---|
+| 分类 | 未确认／待核 |
+| 独立specialization | 未确认 |
+| 单列研究领域 | 未确认 |
+| 申请优先级备注 | 计算物理：待核 |
+
+所查Master概览和学程未确认独立Computational Physics；课程附件中的Numerical Methods in Physics位于本科安排，不能转写为已核硕士方向。
+
+官方来源：
+
+- https://www.philnat.unibe.ch/studium/studienprogramme/master_physik/index_ger.html
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

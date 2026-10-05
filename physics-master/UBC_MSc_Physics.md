@@ -43,7 +43,7 @@ QS World University Rankings 2027综合 45；QS Physics & Astronomy 2026 50。
 |---|---|
 | Match | High — 官网明确覆盖暗物质、天文及粒子研究，适合Bayesian和Higgs科研叙述。 |
 | Difficulty | Reach；申请规划判断，非百分比录取率。 |
-| 申请优先级 | 冲刺；导师方向先匹配 |
+| 申请优先级 | 冲刺；导师方向先匹配；计算物理：导师研究提及 |
 | 当前资格焦点 | 项目期望三、四年级平均80%+；3.0须分段审查。 |
 | 下一步 | 先计算三、四年级课程均分并核80%等效，再谈faculty匹配；2027deadline尚未配置。 |
 
@@ -99,5 +99,22 @@ Physics MSc明确要求3份references；推荐人按学校在线渠道提交。
 | 要求与时间点 | 官网明确申请前无需导师承诺，鼓励联系；申请中须填写感兴趣的faculty。 |
 
 官方来源：https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## Computational Physics方向补核（2026-10-05）
+
+| 字段 | 核查结果 |
+|---|---|
+| 分类 | 导师研究提及 |
+| 独立specialization | 未确认 |
+| 单列研究领域 | 未确认 |
+| 申请优先级备注 | 计算物理：导师研究提及 |
+
+Physics MSc官网将Matthew Choptuik的领域列为Relativity/Computational Physics。属于导师研究信息，未确认正式硕士Computational Physics specialization；本人是否接收MSc及2027名额另核。
+
+官方来源：
+
+- https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

@@ -41,7 +41,7 @@ QS World University Rankings 2027综合 29；QS Physics & Astronomy 2026 48。
 |---|---|
 | Match | High — Galaxies and Cosmology、Astronomical Computing及星系/宇宙学官方研究方向直接匹配MaNGA暗物质统计和Python科学计算。 |
 | Difficulty | Offer received；申请规划判断，非百分比录取率。 |
-| 申请优先级 | 已获offer；核对条件与研究路线 |
+| 申请优先级 | 已获offer；核对条件与研究路线；计算相关：科学计算选修 |
 | 当前资格焦点 | 已获普通版offer；入学期、学历/英语条件及接受截止待核。 |
 | 下一步 | 核对offer的入学期、接受截止及未满足条件；按PhD准备目标讨论普通版研究课程与是否转Advanced，先找真实导师和可行成绩计划。 |
 
@@ -105,5 +105,22 @@ S2. **Astronomy and Astrophysics / ordinary versus Advanced / intakes**：https:
 | 要求与时间点 | 2027普通版NSCAA入学要求未列申请前导师同意；转Advanced须已确定导师批准，不能套到当前普通版offer。 |
 
 官方来源：https://programsandcourses.anu.edu.au/2027/program/NSCAA
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## Computational Physics方向补核（2026-10-05）
+
+| 字段 | 核查结果 |
+|---|---|
+| 分类 | 相关计算课程 |
+| 独立specialization | 未确认 |
+| 单列研究领域 | 未确认 |
+| 申请优先级备注 | 计算相关：科学计算选修 |
+
+2027普通版NSCAA课程清单列High Performance Scientific Computing、Programming for Scientists、Scientific Computing等Complementary Science选修；该类最多6 units。当前offer仍是Astronomy and Astrophysics普通版，未确认独立Computational Physics方向。
+
+官方来源：
+
+- https://programsandcourses.anu.edu.au/2027/program/NSCAA
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

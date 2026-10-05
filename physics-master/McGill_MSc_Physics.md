@@ -43,7 +43,7 @@ QS World University Rankings 2027综合 30；QS Physics & Astronomy 2026 61。
 |---|---|
 | Match | High — 粒子、宇宙学及天体物理研究与申请人的两段科研方向相符；具体课题和导师名额尚未落实。 |
 | Difficulty | Reach；申请规划判断，非百分比录取率。 |
-| 申请优先级 | 冲刺；门槛边缘 |
+| 申请优先级 | 冲刺；门槛边缘；计算物理：列有课程 |
 | 当前资格焦点 | 大学最低3.0；系级门槛及竞争分布未公开。 |
 | 下一步 | 准备可信的科研贡献说明和2封推荐，先核当前导师接收情况。 |
 
@@ -115,5 +115,22 @@ S4. **English proficiency**：https://www.mcgill.ca/gradapplicants/how-apply/app
 | 要求与时间点 | 系建议申请中注明研究兴趣及导师偏好，并尝试邮件联系心仪导师；未写成先获导师承诺的硬性提交条件。 |
 
 官方来源：https://www.physics.mcgill.ca/grads/application.html
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## Computational Physics方向补核（2026-10-05）
+
+| 字段 | 核查结果 |
+|---|---|
+| 分类 | Computational Physics课程 |
+| 独立specialization | 未确认 |
+| 单列研究领域 | 未确认 |
+| 申请优先级备注 | 计算物理：列有课程 |
+
+研究生课程列表列PHYS 512 Computational Physics with Applications；这证明有计算物理课程，不证明独立方向，也不保证2027开课。
+
+官方来源：
+
+- https://www.physics.mcgill.ca/grads/courses.html
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

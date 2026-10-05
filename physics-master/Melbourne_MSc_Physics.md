@@ -41,7 +41,7 @@ QS World University Rankings 2027综合 22；QS Physics & Astronomy 2026 57。
 |---|---|
 | Match | Medium — 学校学科实力高且历史研究项目适合量化物理；当前未能验证具体训练内容，保守Medium。 |
 | Difficulty | Unknown；申请规划判断，非百分比录取率。 |
-| 申请优先级 | 待官网恢复；不直接提交 |
+| 申请优先级 | 待官网恢复；不直接提交；计算物理：待核 |
 | 当前资格焦点 | 核心课程及2027入口受限，当前资格未闭环。 |
 | 下一步 | 先恢复handbook核65%及mid-year入口，再决定是否纳入可提交申请清单。 |
 
@@ -107,5 +107,22 @@ S3. **Official handbook (challenge on this check)**：https://handbook.unimelb.e
 | 要求与时间点 | 课程及入学要求正文HTTP403；handbook虽返回200，正文为访问拦截页，无法确认申请前导师要求。 |
 
 官方来源：https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/entry-requirements/
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## Computational Physics方向补核（2026-10-05）
+
+| 字段 | 核查结果 |
+|---|---|
+| 分类 | 未确认／待核 |
+| 独立specialization | 未确认 |
+| 单列研究领域 | 未确认 |
+| 申请优先级备注 | 计算物理：待核 |
+
+招生页HTTP403，Handbook的HTTP200正文实际为Incapsula访问拦截，未获取可用于确认的课程或方向内容。
+
+官方来源：
+
+- https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

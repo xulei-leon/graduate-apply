@@ -43,7 +43,7 @@ QS World University Rankings 2027综合 303；QS Physics & Astronomy 2026 151-20
 |---|---|
 | Match | High — 数值、粒子、天体与宇宙学课程可承接现有物理数据推断经历。 |
 | Difficulty | Match；申请规划判断，非百分比录取率。 |
-| 申请优先级 | 保留；与Sorbonne联合入口统筹 |
+| 申请优先级 | 保留；与Sorbonne联合入口统筹；计算相关：PPM数值物理课程 |
 | 当前资格焦点 | 物理本科相符；PPM与Sorbonne联办，不另计独立录取机会。 |
 | 下一步 | 统一核实PPM申请渠道、注册学校、英语证明和M2去向，避免同一联合项目重复预算。 |
 
@@ -132,5 +132,22 @@ S4. **Canada EEF 2027 calendar**：https://www.canada.campusfrance.org/fr/candid
 | 要求与时间点 | 与Sorbonne同一联合PPM；已查项目目录未列提前联系条件，专属申请要求仍待核。 |
 
 官方来源：https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/physique-fondamentale-et-applications-K2VO0C50/master-physique-fondamentale-et-applications-m1-parcours-paris-physics-master-JS1XR1EO.html
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## Computational Physics方向补核（2026-10-05）
+
+| 字段 | 核查结果 |
+|---|---|
+| 分类 | 相关计算课程 |
+| 独立specialization | 未确认 |
+| 单列研究领域 | 未确认 |
+| 申请优先级备注 | 计算相关：PPM数值物理课程 |
+
+联合Paris Physics Master M1列Numerical methods for physics及numerical physics训练；未确认独立Computational Physics方向。与Sorbonne为同一个联合PPM，不增加独立申请次数。
+
+官方来源：
+
+- https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/physique-fondamentale-et-applications-K2VO0C50/master-physique-fondamentale-et-applications-m1-parcours-paris-physics-master-JS1XR1EO.html
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

@@ -41,7 +41,7 @@ QS World University Rankings 2027综合 34；QS Physics & Astronomy 2026 32。
 |---|---|
 | Match | High — fundamental、particle和astro方向及研究训练相符，但理论训练与成绩竞争明显，定位Reach。 |
 | Difficulty | Reach；申请规划判断，非百分比录取率。 |
-| 申请优先级 | 强冲刺；需突出科研 |
+| 申请优先级 | 强冲刺；需突出科研；计算物理：待核 |
 | 当前资格焦点 | 高强度fundamental Physics选拔；无公开GPA数值。 |
 | 下一步 | 少量高质量冲刺；核2027窗口、英语材料与科研推荐，不以排名推断成功率。 |
 
@@ -115,5 +115,22 @@ ICFP官方材料清单明确M1需2 Letters of Reference；M2是两位referees联
 | 要求与时间点 | 所查本项目公开招生／课程页面未列申请前必须联系或获导师同意；这不是明确免除声明，提交前仍按项目申请系统及补件通知确认。研究实习或论文导师另行安排。 |
 
 官方来源：https://psl.eu/en/education/master-s-degree-physics
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## Computational Physics方向补核（2026-10-05）
+
+| 字段 | 核查结果 |
+|---|---|
+| 分类 | 未确认／待核 |
+| 独立specialization | 未确认 |
+| 单列研究领域 | 未确认 |
+| 申请优先级备注 | 计算物理：待核 |
+
+PSL项目概览未确认独立Computational Physics方向；ICFP专属网站HTTPS/TLS失败，具体课程和track待核。
+
+官方来源：
+
+- https://psl.eu/en/education/master-s-degree-physics
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

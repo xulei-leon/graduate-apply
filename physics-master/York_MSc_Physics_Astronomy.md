@@ -43,7 +43,7 @@ QS World University Rankings 2027综合 322；QS Physics & Astronomy 2026 451-50
 |---|---|
 | Match | High — 官方theoretical/computational Physics、astronomy与ATLAS合作适合暗物质统计和Higgs分析；B+资格与导师名额仍是限制。 |
 | Difficulty | Reach；申请规划判断，非百分比录取率。 |
-| 申请优先级 | 资格确认后冲刺；国际生选Thesis |
+| 申请优先级 | 资格确认后冲刺；国际生选Thesis；计算相关：理论／计算研究 |
 | 当前资格焦点 | 最低B+；国际学生不接受coursework MSc。 |
 | 下一步 | 先核B+与录取GPA口径、国际Thesis路径，再筛具体研究组；未获得可考虑资格之前不作保障性主申。 |
 
@@ -116,5 +116,22 @@ S4. **Department funding package**：https://www.yorku.ca/gradstudies/physics-as
 | 要求与时间点 | 所查申请页未列申请前必须获导师承诺；Thesis研究需supervisor及supervisory committee，名额另核。 |
 
 官方来源：https://www.yorku.ca/gradstudies/physics-astronomy/future-students/how-to-apply/
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## Computational Physics方向补核（2026-10-05）
+
+| 字段 | 核查结果 |
+|---|---|
+| 分类 | 综合项目中的计算研究 |
+| 独立specialization | 未确认 |
+| 单列研究领域 | 未确认 |
+| 申请优先级备注 | 计算相关：理论／计算研究 |
+
+项目页明确学生进行theoretical/computational research，覆盖物理与天文学多个方向；未确认单独Computational Physics方向。
+
+官方来源：
+
+- https://futurestudents.yorku.ca/graduate/programs/physics-and-astronomy
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

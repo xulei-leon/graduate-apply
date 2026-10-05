@@ -50,7 +50,7 @@ QS World University Rankings 2027综合 168；QS Physics & Astronomy 2026 84。
 |---|---|
 | Match | High — 粒子宇宙学、天体粒子及60ECTS论文同时贴近暗物质与Higgs科研，研究延续价值高。 |
 | Difficulty | Match；申请规划判断，非百分比录取率。 |
-| 申请优先级 | 瑞士重点；particle/astro路线 |
+| 申请优先级 | 瑞士重点；particle/astro路线；计算物理：待核 |
 | 当前资格焦点 | 非Bologna本科须committee equivalence；全英语，无非英语语言门槛。 |
 | 下一步 | 优先准备non-Bologna课程等效与visa版日期；确认英语材料及thesis导师。 |
 
@@ -110,5 +110,22 @@ Physics programme page未核到完整推荐材料要求，不能由项目介绍�
 | 要求与时间点 | 所查本项目公开招生／课程页面未列申请前必须联系或获导师同意；这不是明确免除声明，提交前仍按项目申请系统及补件通知确认。研究实习或论文导师另行安排。 |
 
 官方来源：https://www.unige.ch/sciences/physique/enseignement/master
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## Computational Physics方向补核（2026-10-05）
+
+| 字段 | 核查结果 |
+|---|---|
+| 分类 | 未确认／待核 |
+| 独立specialization | 未确认 |
+| 单列研究领域 | 未确认 |
+| 申请优先级备注 | 计算物理：待核 |
+
+所查Physics Master及Cosmology and Astrophysics of Particles页面未确认单独Computational Physics方向或明确同名列项。
+
+官方来源：
+
+- https://www.unige.ch/sciences/physique/enseignement/master
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

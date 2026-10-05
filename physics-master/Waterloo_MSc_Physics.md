@@ -43,7 +43,7 @@ QS World University Rankings 2027综合 113；QS Physics & Astronomy 2026 78。
 |---|---|
 | Match | High — Physics / Astronomy研究和量化方法可承接暗物质、统计推断或计算粒子项目。 |
 | Difficulty | Reach；申请规划判断，非百分比录取率。 |
-| 申请优先级 | 导师匹配后优先 |
+| 申请优先级 | 导师匹配后优先；计算物理：待核 |
 | 当前资格焦点 | Honours Science至少75%；必须落实导师。 |
 | 下一步 | 先做课程和导师对应，再提交thesis路线；不把自费当作免除导师条件。 |
 
@@ -103,5 +103,22 @@ MSc需3份references，其中至少2份academic，第三份可academic或profess
 | 要求与时间点 | Thesis导师须在录取前确定；官网明确可申请前或申请后联系，强烈建议申请中列潜在导师。 |
 
 官方来源：https://uwaterloo.ca/physics-astronomy/graduate-studies/how-apply
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## Computational Physics方向补核（2026-10-05）
+
+| 字段 | 核查结果 |
+|---|---|
+| 分类 | 未确认／待核 |
+| 独立specialization | 未确认 |
+| 单列研究领域 | 未确认 |
+| 申请优先级备注 | 计算物理：待核 |
+
+所查MSc选项、研究领域与课程页面未确认独立Computational Physics或相关正式方向；Quantum Information/Quantum Technology不能自动等同计算物理。
+
+官方来源：
+
+- https://uwaterloo.ca/physics-astronomy/graduate-studies/msc-programs
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**

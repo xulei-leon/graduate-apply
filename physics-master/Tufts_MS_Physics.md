@@ -41,7 +41,7 @@ QS World University Rankings 2027综合 338；QS Physics & Astronomy 2026 301-35
 |---|---|
 | Match | High — 官方研究方向覆盖星系演化、暗物质、宇宙学与粒子物理，且Physics MS有论文路径，能继续MaNGA/Bayesian或Higgs数据推断工作。 |
 | Difficulty | Match；申请规划判断，非百分比录取率。 |
-| 申请优先级 | 美国重点补充；优先论文与研究匹配 |
+| 申请优先级 | 美国重点补充；优先论文与研究匹配；计算物理：列有课程 |
 | 当前资格焦点 | 独立MS；数字GPA未公布，3.0需核心成绩与研究推荐补强。 |
 | 下一步 | 准备3封推荐信，确认与星系/粒子方向导师的MS论文机会、36 credits与论文计费、2027日期及奖助。 |
 
@@ -126,5 +126,23 @@ Physics及Physics/Astrophysics硕士项目页明确three letters；由推荐人�
 | 要求与时间点 | 所查本项目公开招生／课程页面未列申请前必须联系或获导师同意；这不是明确免除声明，提交前仍按项目申请系统及补件通知确认。研究实习或论文导师另行安排。 |
 
 官方来源：https://as.tufts.edu/physics/academics/graduate-programs
+
+**本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## Computational Physics方向补核（2026-10-05）
+
+| 字段 | 核查结果 |
+|---|---|
+| 分类 | Computational Physics课程 |
+| 独立specialization | 未确认 |
+| 单列研究领域 | 未确认 |
+| 申请优先级备注 | 计算物理：列有课程 |
+
+系课程目录列PHY 0068与PHY 0118 Computational Physics，并说明graduate level credit requires additional work。属于可计研究生学分的课程证据，MS实际学位计划及2027开课另核；未确认独立Computational Physics方向。 MS项目页另将Timothy Atherton的研究兴趣列为Computational Physics；属于导师研究证据，2027指导名额另核。
+
+官方来源：
+
+- https://as.tufts.edu/physics/academics/courses
+- https://asegrad.tufts.edu/program/physics-and-physics-astrophysics-masters
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
