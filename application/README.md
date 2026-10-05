@@ -21,7 +21,7 @@
 | [咨询信使用与定制说明](CV/README.md) | 固定段落顺序、论文兴趣定制、研究表述、附件及交流请求 |
 | [Higgs 优先 CV](CV/CV_cn.md) | Higgs 项目优先，突出特征比较、似然推断与可靠性诊断 |
 | [天体方向英文 CV 打印版](CV/CV_astro_en.html) | A4 HTML，可在浏览器中打印为 PDF |
-| [Higgs 优先英文 CV 打印版](CV/CV_en.html) | A4 HTML，可在浏览器中打印为 PDF |
+| [Higgs 优先英文 CV 打印版](CV/CV_en_two_page.html) | 双页 A4 HTML，可在浏览器中打印为 PDF |
 | [咨询信模板意见审核](../docs/4-Reviews/cover-letter-review-confirm.md) | 2026-09-29 逐条意见判断、CV 同步依据与落实记录 |
 | [后续待确认问题](follow-up-questions.md) | 已确认事实、待用户回答的问题与后续核查事项 |
 | [硕士导师定制材料](phy-master-plan/README.md#当前活动人选截至2026-10-03) | 加拿大6校、6位目标 + 1位备选；多大天文材料仅作取消路径的历史记录 |

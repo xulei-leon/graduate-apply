@@ -69,11 +69,11 @@ PDF开头新增“Summary · 申请数量汇总”，随后为“地区候选总
 
 ## 推荐论文与已写入邮件的内容
 
-先由助手筛选并核查原文，提取合适内容写入邮件，申请人随后阅读。活动推荐共 **8 篇**（6 位目标导师各 1 篇、Lister 备选 2 篇）；每位活动导师的首封邮件引用一篇，不把助手读过写成申请人已读。新增四位的 README 另列近期补充代表作，用于导师背景核查，不计入这8篇首读／选读清单。
+先由助手筛选并核查原文，申请人随后阅读，不把助手读过写成申请人已读。2026-10-05 按申请人选择将 Cline 首读与邮件引用确定为 2021 年 core–cusp 论文，2024 年 final parsec 论文保留为补充。活动首读／选读共 **8 篇**（6 位目标导师各 1 篇、Lister 备选 2 篇），另有 **1 篇 Cline 补充阅读**，合计 **9 篇**。Cline 邮件草稿已同步；旧中微子振荡论文为历史备选，不计入这 9 篇。新增四位 README 的背景代表作及 Cline 候选比较表中的其他文献不计入活动阅读清单。
 
 | 导师 | 推荐阅读 | 已写入邮件的具体联系 | 阅读说明 |
 |---|---|---|---|
-| Jim Cline | [Dark photon distortions of NOνA and T2K neutrino oscillations](https://arxiv.org/abs/2407.13817)（2025） | 联合实验如何打破新物理与标准振荡参数之间的简并；提出简化数值约束比较 | [章节与问题](01-mcgill-jim-cline/paper_reading_notes.md) |
+| Jim Cline | 首读：[Late-Time Dark Matter Oscillations and the Core-Cusp Problem](https://arxiv.org/abs/2010.12583)（2021）；补充：[Self-interacting dark matter solves the final parsec problem of supermassive black hole mergers](https://arxiv.org/abs/2401.14450)（2024） | DDO 154 旋转曲线比较；MaNGA 晕质量—浓度相关后验；晕参数及重子建模不确定性如何影响成核机制检验。邮件草稿已同步 | [原文比较、阅读顺序与写信说明](01-mcgill-jim-cline/paper_reading_notes.md) |
 | Ludovic Van Waerbeke | [Measuring satellite galaxy subhalo masses in redMaPPer clusters with UNIONS weak lensing data](https://arxiv.org/abs/2607.14207)（2026） | 子晕质量、宿主晕贡献与中心偏移；提出模拟轮廓的质量恢复检验 | [章节与问题](02-ubc-ludovic-van-waerbeke/paper_reading_notes.md) |
 | Marie-Cécile Piro | [Directional dark matter signatures of the Large Magellanic Cloud](https://arxiv.org/abs/2606.12535)（2026） | 本地速度分布如何改变反冲方向预测及拒绝各向同性的事件数 | [章节与问题](03-alberta-marie-cecile-piro/paper_reading_notes.md) |
 | James Wadsley | [Dwarf diversity in ΛCDM with baryons](https://arxiv.org/abs/2510.11800)（2025） | 重子模型对旋转曲线与晕解释的影响；拟议参数恢复检验 | [章节与问题](04-mcmaster-james-wadsley/paper_reading_notes.md) |
