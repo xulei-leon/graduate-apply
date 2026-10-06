@@ -4,7 +4,7 @@ hyi.xu@mail.utoronto.ca · https://github.com/hyi03
 
 ## Research Interests
 
-Computational physics; statistical inference; Bayesian modeling; machine learning for particle and astrophysics research.
+Computational and high-energy physics; statistical inference; Bayesian modeling; machine learning for particle and astrophysics research.
 
 ## Education
 
