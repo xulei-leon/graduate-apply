@@ -4118,7 +4118,16 @@
       },
       "priority_before_computational_audit": "科研最贴近；强冲刺",
       "summary_high_rank": true,
-      "highlight_color": "#FFD9E6"
+      "highlight_color": "#FFD9E6",
+      "dual_degree": {
+        "official_option": "Follow a Dual Degree at École polytechnique and ETH Zürich",
+        "track": "International Track",
+        "second_year": "ETH Zürich",
+        "note": "International Track 提供双学位选择，第二年在 ETH Zürich 就读；双学位申请与选拔条件待核。",
+        "source": "https://www.ip-paris.fr/en/education/graduate-programs/masters-science/physics-program/master-year-1-high-energy-physics",
+        "last_verified": "2026-10-06",
+        "chinese_translation": "攻读巴黎综合理工学院（École polytechnique）与苏黎世联邦理工学院（ETH Zürich）的双学位。"
+      }
     },
     {
       "country": "France",

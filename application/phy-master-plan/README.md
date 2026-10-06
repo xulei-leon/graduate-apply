@@ -49,13 +49,13 @@ PDF开头新增“Summary · 申请数量汇总”，随后为“地区候选总
 
 > 此取消决定仅针对多大天文学与天体物理系；其他申请计划继续执行。
 
-创建：2026-09-28；UBC 目标与索引更新：2026-09-29。其他导师核查日期见各自说明。目录现统一为 `application/phy-master-plan`，目标入学为 **Fall 2027**，不是 2026 年入学。
+创建：2026-09-28；UBC 目标与索引更新：2026-09-29；Melbourne 材料与索引更新：2026-10-06。其他导师核查日期见各自说明。目录现统一为 `application/phy-master-plan`；加拿大目标入学为 **Fall 2027**，Melbourne 为 **2027 entry**（预计六月毕业，具体 mid-year intake 待确认）。
 
-截至 **2026-10-03**，活动目标共 **6 所加拿大大学、6 位目标导师及 1 位备选导师**。七个活动导师目录各含三个 Markdown 文件，合计 **21 个**；多大 Eadie 的四个历史文件单列为已取消，不纳入活动材料计数。Jim Cline、Ludovic Van Waerbeke 继续保留；Alison Lister 为 UBC 备选；本次新增四位目标导师。UBC 与 Western 本批导师目标分别按 **Astronomy MSc** 准备。
+截至 **2026-10-06**，已完成套磁材料包的活动目标共 **7 所大学（Canada 6、Australia 1）、7 位目标导师及 1 位备选导师**。八个活动目录各含三个 Markdown 文件，合计 **24 个**；Melbourne 另有一份已有的 DOCX 表格，不计入 Markdown 数。多大 Eadie 的四个历史文件单列为已取消，不纳入活动材料计数。新增 Melbourne 首选 Matthew Dolan；其余三位 Melbourne 候选仍记录在同一 README，尚无独立邮件与阅读材料，不计入本材料包导师数。Alison Lister 为 UBC 备选；UBC 与 Western 目标分别按 **Astronomy MSc** 准备。
 
-七位活动导师的目录均含英文咨询信、论文阅读说明与项目核查；CV 使用[当前英文CV](../CV/CV_en.md)，中文核对稿见[中文CV](../CV/CV_cn.md)。Eadie 的咨询信及院系 MSc 入口咨询信已停止使用。所有邮件均未发送，正式申请未提交。
+八位活动导师的目录均含英文咨询信、论文阅读说明与项目核查；CV 使用[当前英文CV](../CV/CV_en.md)，中文核对稿见[中文CV](../CV/CV_cn.md)。Eadie 的咨询信及院系 MSc 入口咨询信已停止使用。所有邮件均未发送，正式申请未提交。
 
-## 当前活动人选（截至2026-10-03）
+## 当前活动人选（截至2026-10-06）
 
 | 学校与硕士项目 | 导师与材料 | 研究匹配 / 规划难度 | 核心定制 | 2027 状态与来源 |
 |---|---|---|---|---|
@@ -66,12 +66,13 @@ PDF开头新增“Summary · 申请数量汇总”，随后为“地区候选总
 | **Queen’s — Master of Science in Physics** | **05：[Kristine Spekkens](05-queens-kristine-spekkens/README.md)** | High（星系／Bayesian）/ Reach | HI 不对称性后验、相关噪声及群体推断；连接 MaNGA 与 coverage diagnostics | **优先联系：官方明确 Fall 2027 有1–2个 MSc / PhD 岗位**；年度 January 7 full consideration，2027-01-07按年度规则准备；https://www.queensu.ca/physics/people-search/kristine-spekkens |
 | **Western — MSc Astronomy（与总览 Physics MSc 分开记录）** | **06：[Pauline Barmby](06-western-pauline-barmby/README.md)** | High（方法／星系）/ Match（附条件） | 测光输入、MLP 分类污染与观测不确定性；Higgs 特征比较与 MaNGA 背景 | 物理本科可申请；2027名额待问，国际生 **2027-03-01** 截止；https://physics.uwo.ca/people/faculty_web_pages/barmby.html |
 | UBC — Master of Science in Physics (MSc)，备选 | **备选**：[Alison Lister](ubc-alison-lister/README.md) | High（方法）/ Reach | Higgs open-MC、MLP 输入比较、pyhf 和有限 MC / 覆盖率诊断 | 指导资格明确，2027 名额待问；https://www.grad.ubc.ca/researcher/14742-lister |
+| **Melbourne — Master of Science (Physics)** | **07 首选：[Matthew Dolan](07-melbourne/README.md)** | High（collider ML / 推断方法）/ Unknown | CMS Open Data 的 simulation/data 分类器排序反转，连接 Higgs AUC 与信号强度区间评价 | **2027 名额、题目与入学月份待问**；本地 EOI 表格不要求申请前落实导师，与此前网页摘录有差异；https://www.centredarkmatter.org/all/matthew-dolan |
 
-以上是研究契合与准备难度判断，非录取概率。地域计数：**Canada 6 所学校；活动导师 7 位（目标 6、备选 1）**。正式项目门槛、截止、资助与未解决事项见各目录 README。Alberta 的 High 是导师研究匹配，不覆盖现行招生条款未核实这一限制。
+以上是研究契合与准备难度判断，非录取概率。地域计数：**Canada 6 所、Australia 1 所，共 7 所学校；有完整材料包的活动导师 8 位（目标 7、备选 1）**。正式项目门槛、截止、资助与未解决事项见各目录 README。Alberta 与 Melbourne 的 High 是研究匹配，不覆盖招生资格或条款仍待核实的限制。
 
 ## 推荐论文与已写入邮件的内容
 
-先由助手筛选并核查原文，申请人随后阅读，不把助手读过写成申请人已读。2026-10-05 按申请人选择将 Cline 首读与邮件引用确定为 2021 年 core–cusp 论文，2024 年 final parsec 论文保留为补充。活动首读／选读共 **8 篇**（6 位目标导师各 1 篇、Lister 备选 2 篇），另有 **1 篇 Cline 补充阅读**，合计 **9 篇**。Cline 邮件草稿已同步；旧中微子振荡论文为历史备选，不计入这 9 篇。新增四位 README 的背景代表作及 Cline 候选比较表中的其他文献不计入活动阅读清单。
+先由助手筛选并核查原文，申请人随后阅读，不把助手读过写成申请人已读。2026-10-05 按申请人选择将 Cline 首读与邮件引用确定为 2021 年 core–cusp 论文，2024 年 final parsec 论文保留为补充。2026-10-06 新增 Dolan 的 CMS Open Data 首读与 2026 大气中微子补充论文。活动首读／选读共 **9 篇**（7 位目标导师各 1 篇、Lister 备选 2 篇），另有 **2 篇补充阅读**（Cline、Dolan 各 1），合计 **11 篇**。旧 Cline 中微子振荡论文为历史备选；其他背景代表作、Dolan 近期暗物质研究清单和候选比较文献不计入这 11 篇。
 
 | 导师 | 推荐阅读 | 已写入邮件的具体联系 | 阅读说明 |
 |---|---|---|---|
@@ -82,6 +83,7 @@ PDF开头新增“Summary · 申请数量汇总”，随后为“地区候选总
 | Kristine Spekkens | [Bayesian Galaxy Asymmetry](https://arxiv.org/abs/2609.26472)（2026） | 后验不确定性、相关噪声与星系群体应用 | [章节与问题](05-queens-kristine-spekkens/paper_reading_notes.md) |
 | Pauline Barmby | [The contribution of the color space in LSST-like photometry for the selection of extragalactic globular cluster candidates](https://arxiv.org/abs/2512.17644)（2025初版，2026修订） | 输入信息、分类污染与测光噪声敏感性，连接 Higgs 特征比较 | [章节与问题](06-western-pauline-barmby/paper_reading_notes.md) |
 | Alison Lister（备选） | 首读：[ATLAS weakly supervised dijet anomaly detection](https://arxiv.org/abs/2502.09770)（2025）；选读：[Transforming jet flavour tagging at ATLAS](https://arxiv.org/abs/2505.19689)（2026） | 首封用第一篇的分类器选择、pyhf 拟合和背景偏差验证；GN2 作为后续稳健性与校准阅读 | [章节与问题](ubc-alison-lister/paper_reading_notes.md) |
+| **Matthew Dolan** | 首读：[Quark-versus-gluon tagging in CMS Open Data with CWoLa and TopicFlow](https://arxiv.org/abs/2312.03434)（2025 发表）；补充：[Towards Measuring the CP-Violating Phase with Atmospheric Neutrinos](https://arxiv.org/abs/2605.16721)（2026） | 主选论文中模拟与数据上的 classifier ranking reversal，连接本人模型评价、有限 MC 与推断可靠性；首封只引用主选论文 | [近期论文、原文定位与课题询问](07-melbourne/paper_reading_notes.md) |
 
 既有阅读安排是 Van Waerbeke、Cline，Lister 两篇作为备选。本次新增四位中建议优先读 Spekkens：方法重合且有明确 Fall 2027 招生信号；目录编号仍严格保持用户指定的 Alberta、McMaster、Queen’s、Western 顺序。论文的物理问题不同，阅读说明区分可迁移方法与尚未掌握的领域知识。
 

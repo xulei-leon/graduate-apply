@@ -483,7 +483,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">当前National Master三轮截止2026-01-08 /03-26 /05-28；2027未发布。（仅公布2026周期，2027待发布）</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">2027学费未核实；须使用本人国际学生费率报价。；Master scholarship竞争；National Master不自动获得PhD Track资助或博士录取。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">High / Reach；科研最贴近；强冲刺</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">科研最贴近；强冲刺<br><br><strong><a href="https://www.ip-paris.fr/en/education/graduate-programs/masters-science/physics-program/master-year-1-high-energy-physics">计算相关：数值物理课程</a></strong></td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">科研最贴近；强冲刺<br><br><strong><a href="https://www.ip-paris.fr/en/education/graduate-programs/masters-science/physics-program/master-year-1-high-energy-physics">计算相关：数值物理课程</a></strong><br><br><strong>双学位选项（2026-10-06核）：</strong><br><a href="https://www.ip-paris.fr/en/education/graduate-programs/masters-science/physics-program/master-year-1-high-energy-physics">攻读巴黎综合理工学院（École polytechnique）与苏黎世联邦理工学院（ETH Zürich）的双学位。</a><br>International Track 第二年在 ETH Zürich 就读；选拔条件待核。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需（外部M1）<br><br><strong>申请前联系导师：</strong><br><a href="https://www.ip-paris.fr/en/education/useful-information/admissions">所查页面未列提前联系要求</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">2份academic references</td>
 </tr>

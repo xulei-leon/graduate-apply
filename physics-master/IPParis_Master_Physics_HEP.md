@@ -12,6 +12,7 @@
 | University / 大学 | Institut Polytechnique de Paris |
 | Exact program / 学位 | Master Physics — M1 / M2 High Energy Physics |
 | Track / 专业方向 | High Energy Physics |
+| Dual Degree / 双学位选项 | Follow a Dual Degree at École polytechnique and ETH Zürich。International Track 提供双学位选择，第二年在 ETH Zürich 就读；双学位申请与选拔条件待核。 [S1](#s1)；本字段核查：2026-10-06。 |
 | Master type / 项目类型 | Academic / Research |
 | Duration / 学制 | M1+M2 2年 /120 ECTS |
 | Research / thesis | M1至少16周internship；M2至少4个月thesis / internship，30 ECTS。 |
@@ -146,3 +147,15 @@ HEP M1项目页明确2份，由推荐人直接在线提交。FAQ中内部学生�
 - https://www.ip-paris.fr/en/education/masters/physics-program/master-year-2-high-energy-physics
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## 双学位选项补核（2026-10-06）
+
+官网列出以下选择：
+
+> Follow a Dual Degree at École polytechnique and ETH Zürich
+
+International Track 提供双学位选择，第二年在 ETH Zürich 就读；双学位申请与选拔条件待核。
+
+官方来源：https://www.ip-paris.fr/en/education/graduate-programs/masters-science/physics-program/master-year-1-high-energy-physics
+
+**本字段 Last-verified：2026-10-06；其他字段核查日期不变。**

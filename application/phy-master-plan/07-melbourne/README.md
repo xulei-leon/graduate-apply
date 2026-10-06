@@ -3,6 +3,19 @@
 **目标学位：Master of Science (Physics)｜School of Physics｜Australia**  
 **目标入学：2027｜资料核查：2026-10-06｜联系状态：四位均 not contacted**
 
+## 首选导师套磁材料（2026-10-06）
+
+| 文件 | 用途 |
+|---|---|
+| [letter.md](letter.md) | Matthew Dolan 英文 MSc 研究机会咨询信；参照 [McGill 信件](../01-mcgill-jim-cline/letter.md) 的结构，以 Higgs ML / likelihood 经历为主 |
+| [paper_reading_notes.md](paper_reading_notes.md) | 近期五篇论文、2025 CMS Open Data 主选论文的原文定位与阅读顺序、2026 最新工作补充，以及可询问的 MSc 课题 |
+| [当前英文 CV](../../CV/CV_en.md) | 信中研究经历与稿件状态的依据；实际发送时附排版后的 CV |
+| [Supervisor EOI Form](MSc-Physics-Supervisor-Form_2026_v3.docx) | 本轮已读取本地正文；申请前不必先落实项目或导师，与此前网页摘录存在差异，见第 7 节 |
+
+**邮件尚未发送。** 主选论文为 *Quark-versus-gluon tagging in CMS Open Data with CWoLa and TopicFlow*，JHEP 08 (2025) 024（2023 初版，2025-08-07 v2），https://arxiv.org/abs/2312.03434 。信中由模拟与真实数据上的分类器排序反转，联系本人 AUC 与信号强度区间评价不总一致的经历；明确两者是不同问题。研究匹配 **High**，规划难度 **Unknown**，2027 项目和指导容量待问。信中写 **2027 entry**；预计六月毕业，具体 mid-year intake 与截止仍需确认。
+
+本轮通过 HTTPS 读取研究中心个人页、论文原文和作者索引；大学个人页、招生页、研究组页及 prospectus 访问受限。以下原有招生事实保留各自证据边界，不视为全部重新核查。新增研究方向与来源详见 [阅读笔记](paper_reading_notes.md)。
+
 依据 [当前英文 CV](../../CV/CV_en.md) 和用户指定的 [Academic staff 名单](https://physics.unimelb.edu.au/about/people/academic-staff)，筛选 **4 位非天体方向导师**，覆盖 collider ML / Higgs、实验高能、flavour physics 与暗物质粒子直接探测。用户于 2026-10-06 明确：已获 ANU 天体物理 offer，希望 Melbourne 提供不同科研路线，增加后续 offer 选择的多样性。匹配排序是研究适配与申请组合判断，不是录取概率；四位的 **2027 硕士名额均未确认**。
 
 ## 1. 推荐名单
@@ -55,10 +68,13 @@
 
 **近期论文阅读入口：**
 
-- Peter Cox, Matthew J. Dolan, Joshua Wood, *New Limits on Light Dark Matter-Nucleon Scattering* (2024)：https://arxiv.org/abs/2408.12144
-- Peter Cox, Matthew J. Dolan, Avirup Ghosh, *Irreducible Constraints on Hadronically Interacting Sub-GeV Dark Matter* (2025)：https://arxiv.org/abs/2512.20825
+- **首读 / 已写入邮件：** Matthew J. Dolan, John Gargalionis, Ayodele Ore, *Quark-versus-gluon tagging in CMS Open Data with CWoLa and TopicFlow*；JHEP 08 (2025) 024，2023 初版、2025 v2：https://arxiv.org/abs/2312.03434 。本轮读取 v2 原文，重点为 Section 4.3、Fig. 9–10、Table 5。
+- **本次检索到的最新预印本 / 补充阅读：** John F. Beacom et al.（含 Dolan），*Towards Measuring the CP-Violating Phase with Atmospheric Neutrinos*；2026-05-16 初版、2026-06-18 v2：https://arxiv.org/abs/2605.16721 。这是中微子可观测量与参数推断研究，不是 collider ML 论文。
+- Peter Cox, Matthew J. Dolan, Avirup Ghosh, *Irreducible Constraints on Hadronically Interacting Sub-GeV Dark Matter*；2025 初版、2026-04-17 v2：https://arxiv.org/abs/2512.20825 。
+- Peter Cox, Matthew J. Dolan, Frederick J. Hiskens, *Photonic Freeze-In*；2024 初版，Phys. Rev. D 113, 115031 (2026)，2026-07-06 v2：https://arxiv.org/abs/2412.17308 。
+- Peter Cox, Matthew J. Dolan, Joshua Wood, *New Limits on Light Dark Matter-Nucleon Scattering*；2024 初版，Phys. Rev. D 112, 115021 (2025)，2025-12-16 v2：https://arxiv.org/abs/2408.12144 。
 
-这两篇证明其近期暗物质研究活动，不是 collider ML 的专门阅读清单，也不是可用硕士课题的证据。正式联系前，可请其推荐一篇与具体 MSc 题目最相关的近期论文。
+以上支持其 collider ML、中微子推断与暗物质现象学研究活动，均不等于 2027 MSc 题目已经开放。主选与最新论文已读相关原文，另三篇核查摘要和版本记录；具体联系点、可询问题目与能力边界见 [paper_reading_notes.md](paper_reading_notes.md)。
 
 **来源与日期：**
 
@@ -165,7 +181,7 @@
 | 正式项目 | Master of Science (Physics)，University of Melbourne，Australia |
 | 学制 / intake | 当前课程页显示 2 years full time / March, July；2027 批次与截止仍待确认 |
 | 研究形式 | 有 research project，入学受学校能否提供 adequate supervision 约束；具体学分与论文要求本轮未完整重核 |
-| 申请前导师联系 | **需要直接联系导师讨论 supervision，并在在线申请中提交 Supervisor Form** |
+| 申请前导师联系 | **存在来源差异：** 此前网页摘录要求联系导师讨论 supervision 并提交表格；本轮读取的本地 2026 v3 EOI Form 明确申请前无需先落实项目或导师。主动咨询可用于研究匹配；2027 正式流程需院系或当年页面确认 |
 | 导师范围 | 必须来自 School of Physics 的 **Teaching and Research** 名单 |
 | 学术门槛 | 当前可读页为相关学科 Best 50 WAM 至少 65% 或等效；二、三年级 quantum mechanics 必需；三年级 electrodynamics / statistical physics recommended |
 | UofT 成绩判断 | 四至五年制本科的 Best 50 说明使用最后两年相关课程；总 GPA 3.0/4.0 不能直接替代学校等效审核 |
@@ -173,19 +189,21 @@
 | GRE / 推荐信数量 / cohort | 本轮未核；不把未提及推断为豁免或不需要 |
 | 2027 deadline / tuition / funding | 未核；不将导师研究 grant 等同 MSc 资助 |
 
-**招生正文边界：** 本次可读 Entry requirements 默认显示 Domestic student；正式国际申请仍应核对 international 显示与当年规则。页面链接的表格为 `MSc-Physics-Supervisor-Form_2026_v3.docx`，未取得表格正文，不猜测签字流程、可填人数或能否以邮件替代。
+**招生正文边界：** 此前可读 Entry requirements 默认显示 Domestic student；正式国际申请仍应核对 international 显示与当年规则。本轮补核时招生页和远程表格链接均返回 403，未重新读取网页正文。
 
-首封联系邮件应说明申请 **2027 Master of Science (Physics)**，附 CV 与成绩单，询问以下四项：
+**2026-10-06 表格正文补核：** 目录已有的 [MSc-Physics-Supervisor-Form_2026_v3.docx](MSc-Physics-Supervisor-Form_2026_v3.docx) 标题为 *Supervisor Expression of Interest (EOI) Form*。正文明确申请前无需先安排项目或落实导师；录取后潜在导师联系讨论项目，通常在申请截止后一至两周开始。要求分别排序至少四位 Teaching and Research 导师与至少四个不重复的研究领域；分配取决于项目、导师容量、学术背景与入学时间，不能保证偏好。该本地副本与先前网页摘录不一致；远程访问受限，尚未核验本地文件是否等同服务器当前版本，也未确认 2027 是否沿用。不得据旧摘录继续断言申请前必须获得导师承诺或签字。当前四位人选只涉及 Theoretical / Experimental Particle Physics 两类，不足以自动完成至少四个领域的要求。
+
+首封联系邮件说明申请 **2027 Master of Science (Physics)**，附 CV；成绩单沿用本批暂缓安排，导师要求时再补。当前 Dolan 信只保留名额与项目适配询问，以下问题留待回复后进一步确认：
 
 1. 是否有 2027 MSc 指导容量，以及可提供的项目主题。
 2. 项目中编程、模拟、统计推断与仪器工作的比例。
 3. 对本科课程、QFT / 数值方法和软件工具的具体要求。
-4. 若研究方向合适，如何完成 Supervisor Form 与指导确认。
+4. 若研究方向合适，2027 EOI 表格与录取后项目分配如何衔接，是否沿用本地 2026 v3 的流程。
 
 本文未发送邮件，也未提交申请。四位以外的 Research focused 人员没有列入首选，因为课程规则指定从 Teaching and Research 名单选正式导师；这不排除他们参与共同研究。
 
 申请规则来源：https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/entry-requirements/  
-表格链接（正文访问受限）：https://matrix-cms.unimelb.edu.au/__data/assets/word_doc/0023/437810/MSc-Physics-Supervisor-Form_2026_v3.docx
+表格链接（远程访问受限；本轮已读目录内本地副本）：https://matrix-cms.unimelb.edu.au/__data/assets/word_doc/0023/437810/MSc-Physics-Supervisor-Form_2026_v3.docx
 
 访问说明：本机直接 HTTPS 多次遇到 Cloudflare / Incapsula；内置浏览器读取超时。本轮依据可读取的官方公开正文与索引核对，不把拦截页面的 HTTP 200 当作核实。2026 手册中的过往计划时间不作为当前实验进度证据。
 
