@@ -7,12 +7,14 @@
 PDF开头新增“Summary · 申请数量汇总”，随后为“地区候选总览”；共39所已选学校、18所用户指定优先申请学校。地区表格参考DS报告样式，不附封面或目录。
 
 - [地区候选总览 PDF](Physics_Masters_Overview.pdf)
-- [同版 Markdown](Physics_Masters_Overview.md)
-- [2027 入学申请时间表](Physics_Masters_Application_Timeline_2027.md)
+- [当前 Markdown](Physics_Masters_Overview.md)
+- [2027 入学申请时间表](Physics_Masters_Timeline.md)
 - [Paris-Saclay M1 / DS / EEF 专项核查](ParisSaclay_M1_Physics_DS_EEF_20261003.md)
 - [法国物理项目 2026 申请人数与容量](France_Physics_2026_Applications_Capacity.md)
 - [39所学校索引及档案](../../physics-master/README.md)
 - [结构化事实快照](Physics_Masters_Overview.json)
+
+2026-10-06申请启动补核：WashU Fall 2027已确认2026-09-01开放，日期已同步当前Markdown总览、时间表与项目档案；[逐项核查记录](audit/application-opening-source-audit-20261006.md)。既有PDF／JSON为此前事实快照，未包含本次开窗更新；申请日期以当前Markdown为准。
 - [18 个重点硕士与 ANU 普通／Advanced 的学术及博士申请比较（2026-10-03）](Physics_Masters_vs_ANU_PhD_Analysis.md)
 
 美国新增Tufts与Texas A&M论文路径；法国恢复指定五校；德国LMU改选Astrophysics，Hamburg替换RWTH；德瑞十个选定路径均核查English-only与无非英语入学语言门槛。当前语言结论不代替课程等效、GPA、研究名额、个人offer条件或英语证明审核。Alberta、Melbourne核心正文及WashU排名仍保留明确待核项。
@@ -131,8 +133,12 @@ Higgs 公共仓库 README 当前使用 test01 标签，而本地科研背景曾�
 
 共同事实以后更改时，同步相关 CV、咨询信及本批目标与备选材料。招生更新已注明核验日期，不将整份历史名单追溯标成全部重新核验。
 
-2026-10-05：总览“推荐信要求”列新增全部39条记录的申请前导师联系要求，保留原推荐信数量；[本字段官方来源与核查说明](supervisor-contact-source-audit-20261005.md)。
+2026-10-05：总览“推荐信要求”列新增全部39条记录的申请前导师联系要求，保留原推荐信数量；[本字段官方来源与核查说明](audit/supervisor-contact-source-audit-20261005.md)。
 
 2026-10-05：WashU MA无thesis，取消重点并替换为Texas A&M Physics MS Thesis；39条学校记录及18所重点总数不变。
 
-2026-10-05：全部39所补入Computational Physics核查，“申请优先级”区分独立specialization、单列／合列研究领域、课程及相关计算方法。[逐校官方依据](computational-physics-source-audit-20261005.md)。Texas A&M单列研究领域，Heidelberg有正式specialization。
+2026-10-05：全部39所补入Computational Physics核查，“申请优先级”区分独立specialization、单列／合列研究领域、课程及相关计算方法。[逐校官方依据](audit/computational-physics-source-audit-20261005.md)。Texas A&M单列研究领域，Heidelberg有正式specialization。
+
+## 优先申请标记更新（2026-10-06）
+
+黄色或粉红色标记学校作为优先申请。Texas A&M取消优先，IP Paris加入优先；总数仍为18所，美国3所、法国4所。ANU浅绿色表示已获offer。McGill、Melbourne、Northwestern、NYU、PSL、IP Paris、EPFL为用户指定高排名学校，在总览Summary中使用加粗红色名称。此前2026-10-05关于Texas A&M重点标记的记录由本次更新取代。

@@ -159,7 +159,9 @@
           "final_url": "https://www.physics.utoronto.ca/graduate/graduate-courses/"
         }
       },
-      "priority_before_computational_audit": "冲刺；先核末年GPA"
+      "priority_before_computational_audit": "冲刺；先核末年GPA",
+      "summary_high_rank": false,
+      "highlight_color": null
     },
     {
       "country": "Canada",
@@ -273,7 +275,9 @@
           "final_url": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics"
         }
       },
-      "priority_before_computational_audit": "冲刺；导师方向先匹配"
+      "priority_before_computational_audit": "冲刺；导师方向先匹配",
+      "summary_high_rank": false,
+      "highlight_color": null
     },
     {
       "country": "Canada",
@@ -413,7 +417,9 @@
           "final_url": "https://www.physics.mcgill.ca/grads/courses.html"
         }
       },
-      "priority_before_computational_audit": "冲刺；门槛边缘"
+      "priority_before_computational_audit": "冲刺；门槛边缘",
+      "summary_high_rank": true,
+      "highlight_color": "#FFD9E6"
     },
     {
       "country": "Canada",
@@ -527,7 +533,9 @@
           "final_url": "https://uwaterloo.ca/physics-astronomy/graduate-studies/msc-programs"
         }
       },
-      "priority_before_computational_audit": "导师匹配后优先"
+      "priority_before_computational_audit": "导师匹配后优先",
+      "summary_high_rank": false,
+      "highlight_color": null
     },
     {
       "country": "Canada",
@@ -641,7 +649,9 @@
           "final_url": "https://www.ualberta.ca/en/physics/graduate-studies/index.html"
         }
       },
-      "priority_before_computational_audit": "待核心官网恢复"
+      "priority_before_computational_audit": "待核心官网恢复",
+      "summary_high_rank": false,
+      "highlight_color": "#FFFF00"
     },
     {
       "country": "Canada",
@@ -773,7 +783,9 @@
           "final_url": "https://gs.mcmaster.ca/program/physics-and-astronomy/"
         }
       },
-      "priority_before_computational_audit": "条件备选；先核成绩"
+      "priority_before_computational_audit": "条件备选；先核成绩",
+      "summary_high_rank": false,
+      "highlight_color": "#FFFF00"
     },
     {
       "country": "Canada",
@@ -905,7 +917,9 @@
           "final_url": "https://www.queensu.ca/physics/grad-studies/current-students/grad-course-information"
         }
       },
-      "priority_before_computational_audit": "条件备选；需研究名额"
+      "priority_before_computational_audit": "条件备选；需研究名额",
+      "summary_high_rank": false,
+      "highlight_color": "#FFFF00"
     },
     {
       "country": "Canada",
@@ -1115,7 +1129,9 @@
           "final_url": "https://physics.uwo.ca/research/physics/scientific_computing.html"
         }
       },
-      "priority_before_computational_audit": "优先推进；先核高年级成绩和导师"
+      "priority_before_computational_audit": "优先推进；先核高年级成绩和导师",
+      "summary_high_rank": false,
+      "highlight_color": "#FFFF00"
     },
     {
       "country": "Canada",
@@ -1291,7 +1307,9 @@
           "final_url": "https://futurestudents.yorku.ca/graduate/programs/physics-and-astronomy"
         }
       },
-      "priority_before_computational_audit": "资格确认后冲刺；国际生选Thesis"
+      "priority_before_computational_audit": "资格确认后冲刺；国际生选Thesis",
+      "summary_high_rank": false,
+      "highlight_color": null
     },
     {
       "country": "Canada",
@@ -1474,7 +1492,9 @@
           "final_url": "https://www.uvic.ca/science/physics/research/index.php"
         }
       },
-      "priority_before_computational_audit": "优先推进；天体/计算研究匹配"
+      "priority_before_computational_audit": "优先推进；天体/计算研究匹配",
+      "summary_high_rank": false,
+      "highlight_color": null
     },
     {
       "country": "Canada",
@@ -1674,7 +1694,9 @@
           "final_url": "https://www.sfu.ca/physics/research/areas.html"
         }
       },
-      "priority_before_computational_audit": "先问系级GPA例外；高风险冲刺"
+      "priority_before_computational_audit": "先问系级GPA例外；高风险冲刺",
+      "summary_high_rank": false,
+      "highlight_color": null
     },
     {
       "country": "Canada",
@@ -1831,7 +1853,9 @@
           "final_url": "https://grad.ucalgary.ca/future-students/graduate/discover-opportunities/explore-programs/physics-and-astronomy-msc-thesis"
         }
       },
-      "priority_before_computational_audit": "先核3.3与Physics GRE；条件冲刺"
+      "priority_before_computational_audit": "先核3.3与Physics GRE；条件冲刺",
+      "summary_high_rank": false,
+      "highlight_color": null
     },
     {
       "country": "Australia",
@@ -1977,7 +2001,9 @@
           "final_url": "https://programsandcourses.anu.edu.au/2027/program/NSCAA"
         }
       },
-      "priority_before_computational_audit": "已获offer；核对条件与研究路线"
+      "priority_before_computational_audit": "已获offer；核对条件与研究路线",
+      "summary_high_rank": false,
+      "highlight_color": "#DBF2DB"
     },
     {
       "country": "Australia",
@@ -2104,7 +2130,9 @@
           "final_url": "https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/"
         }
       },
-      "priority_before_computational_audit": "待官网恢复；不直接提交"
+      "priority_before_computational_audit": "待官网恢复；不直接提交",
+      "summary_high_rank": true,
+      "highlight_color": "#FFD9E6"
     },
     {
       "country": "USA",
@@ -2218,7 +2246,9 @@
           "final_url": "https://graduateprograms.brown.edu/graduate-program/physics-scm"
         }
       },
-      "priority_before_computational_audit": "优先冲刺；自费"
+      "priority_before_computational_audit": "优先冲刺；自费",
+      "summary_high_rank": false,
+      "highlight_color": null
     },
     {
       "country": "USA",
@@ -2363,7 +2393,9 @@
           "final_url": "https://physics.northwestern.edu/graduate/master-degree/"
         }
       },
-      "priority_before_computational_audit": "美国重点；选Standard / Thesis"
+      "priority_before_computational_audit": "美国重点；选Standard / Thesis",
+      "summary_high_rank": true,
+      "highlight_color": "#FFD9E6"
     },
     {
       "country": "USA",
@@ -2477,7 +2509,9 @@
           "final_url": "https://www.stonybrook.edu/physics/graduate/degrees/ma.html"
         }
       },
-      "priority_before_computational_audit": "美国重点；明确申请门槛"
+      "priority_before_computational_audit": "美国重点；明确申请门槛",
+      "summary_high_rank": false,
+      "highlight_color": null
     },
     {
       "country": "USA",
@@ -2622,7 +2656,9 @@
           "final_url": "https://bulletins.nyu.edu/graduate/arts-science/programs/physics-ms/"
         }
       },
-      "priority_before_computational_audit": "美国重点；选thesis"
+      "priority_before_computational_audit": "美国重点；选thesis",
+      "summary_high_rank": true,
+      "highlight_color": "#FFD9E6"
     },
     {
       "country": "USA",
@@ -2785,7 +2821,9 @@
           "final_url": "https://physics.washu.edu/how-apply"
         }
       },
-      "priority_before_computational_audit": "取消重点；无thesis，不符合论文型要求"
+      "priority_before_computational_audit": "取消重点；无thesis，不符合论文型要求",
+      "summary_high_rank": false,
+      "highlight_color": null
     },
     {
       "country": "USA",
@@ -2886,7 +2924,9 @@
           "final_url": "https://physics.utexas.edu/academics/courses"
         }
       },
-      "priority_before_computational_audit": "冲刺；硕士自费入口明确"
+      "priority_before_computational_audit": "冲刺；硕士自费入口明确",
+      "summary_high_rank": false,
+      "highlight_color": "#FFFF00"
     },
     {
       "country": "USA",
@@ -3031,7 +3071,9 @@
           "final_url": "https://physics.gatech.edu/research"
         }
       },
-      "priority_before_computational_audit": "条件冲刺；可选thesis"
+      "priority_before_computational_audit": "条件冲刺；可选thesis",
+      "summary_high_rank": false,
+      "highlight_color": null
     },
     {
       "country": "USA",
@@ -3163,7 +3205,9 @@
           "final_url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/applied-physics-applied-mathematics/graduate-programs/applied-physics-ms/"
         }
       },
-      "priority_before_computational_audit": "有兴趣再投；方法相邻"
+      "priority_before_computational_audit": "有兴趣再投；方法相邻",
+      "summary_high_rank": false,
+      "highlight_color": null
     },
     {
       "country": "USA",
@@ -3313,7 +3357,7 @@
         "https://artsci.tamu.edu/physics-astronomy/academics/prospective-graduates/how-to-apply.html",
         "https://artsci.tamu.edu/physics-astronomy/academics/prospective-graduates/faqs.html"
       ],
-      "priority_application": true,
+      "priority_application": false,
       "application_cycle": "2026-08-01 → 2027-01-10（优先）；网页仍误写Fall 2026，须核CAS周期",
       "application_cycle_sources": [
         "https://artsci.tamu.edu/physics-astronomy/academics/prospective-graduates/how-to-apply.html"
@@ -3355,7 +3399,9 @@
           "final_url": "https://artsci.tamu.edu/physics-astronomy/academics/degrees/graduate/physics-ms.html"
         }
       },
-      "priority_before_computational_audit": "美国重点；选择Thesis路径"
+      "priority_before_computational_audit": "美国重点；选择Thesis路径",
+      "summary_high_rank": false,
+      "highlight_color": null
     },
     {
       "country": "USA",
@@ -3555,7 +3601,9 @@
           "final_url": "https://as.tufts.edu/physics/academics/courses"
         }
       },
-      "priority_before_computational_audit": "美国重点补充；优先论文与研究匹配"
+      "priority_before_computational_audit": "美国重点补充；优先论文与研究匹配",
+      "summary_high_rank": false,
+      "highlight_color": null
     },
     {
       "country": "France",
@@ -3674,7 +3722,9 @@
           "final_url": "https://www.universite-paris-saclay.fr/en/education/masters-degree/physique-fondamentale-et-applications/m1-general-physics"
         }
       },
-      "priority_before_computational_audit": "法国重点；优先早轮"
+      "priority_before_computational_audit": "法国重点；优先早轮",
+      "summary_high_rank": false,
+      "highlight_color": "#FFFF00"
     },
     {
       "country": "France",
@@ -3795,7 +3845,9 @@
           "final_url": "https://psl.eu/en/education/master-s-degree-physics"
         }
       },
-      "priority_before_computational_audit": "强冲刺；需突出科研"
+      "priority_before_computational_audit": "强冲刺；需突出科研",
+      "summary_high_rank": true,
+      "highlight_color": "#FFD9E6"
     },
     {
       "country": "France",
@@ -3921,7 +3973,9 @@
           "final_url": "https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/physique-fondamentale-et-applications-K2VO0C50/master-physique-fondamentale-et-applications-m1-parcours-paris-physics-master-JS1XR1EO.html"
         }
       },
-      "priority_before_computational_audit": "法国重点；核专属M1入口"
+      "priority_before_computational_audit": "法国重点；核专属M1入口",
+      "summary_high_rank": false,
+      "highlight_color": "#FFFF00"
     },
     {
       "country": "France",
@@ -4021,7 +4075,7 @@
       "recommendation_sources": [
         "https://www.ip-paris.fr/en/education/useful-information/admissions"
       ],
-      "priority_application": false,
+      "priority_application": true,
       "application_cycle": "2027待公布；2026参考三轮：2025-10-29 → 2026-01-08；2026-01-09 → 03-26；2026-03-27 → 05-28",
       "application_cycle_sources": [
         "https://www.ip-paris.fr/en/education/useful-information/admissions"
@@ -4062,7 +4116,9 @@
           "final_url": "https://www.ip-paris.fr/en/education/graduate-programs/masters-science/physics-program/master-year-1-high-energy-physics"
         }
       },
-      "priority_before_computational_audit": "科研最贴近；强冲刺"
+      "priority_before_computational_audit": "科研最贴近；强冲刺",
+      "summary_high_rank": true,
+      "highlight_color": "#FFD9E6"
     },
     {
       "country": "France",
@@ -4227,7 +4283,9 @@
           "final_url": "https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/physique-fondamentale-et-applications-K2VO0C50/master-physique-fondamentale-et-applications-m1-parcours-paris-physics-master-JS1XR1EO.html"
         }
       },
-      "priority_before_computational_audit": "保留；与Sorbonne联合入口统筹"
+      "priority_before_computational_audit": "保留；与Sorbonne联合入口统筹",
+      "summary_high_rank": false,
+      "highlight_color": null
     },
     {
       "country": "Germany",
@@ -4351,7 +4409,9 @@
           "final_url": "https://www.tum.de/en/studies/degree-programs/detail/physics-applied-and-engineering-physics-master-of-science-msc"
         }
       },
-      "priority_before_computational_audit": "研究冲刺；课程+成本先核"
+      "priority_before_computational_audit": "研究冲刺；课程+成本先核",
+      "summary_high_rank": false,
+      "highlight_color": null
     },
     {
       "country": "Germany",
@@ -4496,7 +4556,9 @@
           "final_url": "https://www.physik.lmu.de/en/studies/study-programs/msc-astrophysics/"
         }
       },
-      "priority_before_computational_audit": "德国高匹配冲刺；英语且GRE可选"
+      "priority_before_computational_audit": "德国高匹配冲刺；英语且GRE可选",
+      "summary_high_rank": false,
+      "highlight_color": "#FFFF00"
     },
     {
       "country": "Germany",
@@ -4663,7 +4725,9 @@
           "final_url": "https://www.physik.uni-heidelberg.de/c/image/d/studium/master/pdf/MScModuleManual.pdf"
         }
       },
-      "priority_before_computational_audit": "条件主申；核德制等效与面试"
+      "priority_before_computational_audit": "条件主申；核德制等效与面试",
+      "summary_high_rank": false,
+      "highlight_color": "#FFFF00"
     },
     {
       "country": "Germany",
@@ -4815,7 +4879,9 @@
           "final_url": "https://www.sle.kit.edu/english/vorstudium/master-physics.php"
         }
       },
-      "priority_before_computational_audit": "重点条件主申；严格课程核对"
+      "priority_before_computational_audit": "重点条件主申；严格课程核对",
+      "summary_high_rank": false,
+      "highlight_color": "#FFFF00"
     },
     {
       "country": "Germany",
@@ -5010,7 +5076,9 @@
           "final_url": "https://www.physik.uni-hamburg.de/studium/dokumente/physik-physics-msc-modulhandbuch-2026-final.pdf"
         }
       },
-      "priority_before_computational_audit": "德国研究型重点；替代RWTH"
+      "priority_before_computational_audit": "德国研究型重点；替代RWTH",
+      "summary_high_rank": false,
+      "highlight_color": null
     },
     {
       "country": "Switzerland",
@@ -5177,7 +5245,9 @@
           "final_url": "https://www.phys.ethz.ch/studies/master.html"
         }
       },
-      "priority_before_computational_audit": "早期强冲刺；11月截止"
+      "priority_before_computational_audit": "早期强冲刺；11月截止",
+      "summary_high_rank": false,
+      "highlight_color": null
     },
     {
       "country": "Switzerland",
@@ -5329,7 +5399,9 @@
           "final_url": "https://www.epfl.ch/education/master/programs/physics/"
         }
       },
-      "priority_before_computational_audit": "研究强冲刺；优先第一轮"
+      "priority_before_computational_audit": "研究强冲刺；优先第一轮",
+      "summary_high_rank": true,
+      "highlight_color": "#FFD9E6"
     },
     {
       "country": "Switzerland",
@@ -5453,7 +5525,9 @@
           "final_url": "https://www.unige.ch/sciences/physique/enseignement/master"
         }
       },
-      "priority_before_computational_audit": "瑞士重点；particle/astro路线"
+      "priority_before_computational_audit": "瑞士重点；particle/astro路线",
+      "summary_high_rank": false,
+      "highlight_color": null
     },
     {
       "country": "Switzerland",
@@ -5634,7 +5708,9 @@
           "final_url": "https://www.physik.uzh.ch/en/study/Study-Degree-Programmes/Master/course-content.html"
         }
       },
-      "priority_before_computational_audit": "瑞士重点；核课程等效"
+      "priority_before_computational_audit": "瑞士重点；核课程等效",
+      "summary_high_rank": false,
+      "highlight_color": "#FFFF00"
     },
     {
       "country": "Switzerland",
@@ -5774,7 +5850,9 @@
           "final_url": "https://www.philnat.unibe.ch/studium/studienprogramme/master_physik/index_ger.html"
         }
       },
-      "priority_before_computational_audit": "瑞士条件主申；排名例外"
+      "priority_before_computational_audit": "瑞士条件主申；排名例外",
+      "summary_high_rank": false,
+      "highlight_color": null
     }
   ],
   "scope_revision": {
@@ -5842,7 +5920,7 @@
     }
   },
   "recommendation_scope_note": "推荐信口径：必需、可选、官方清单未列必交和待核分别记录。未列要求不等于已确认0封；推荐人联系信息、在线评估与信件按官方实际形式区分。校级最低数与项目专属加额、入学与奖学金要求分别注明。",
-  "priority_application_scope": "用户指定18所重点申请：McGill、Alberta、McMaster、Queen’s、Western、Melbourne、Northwestern、NYU、UT Austin、Texas A&M、Paris-Saclay、PSL / ENS、Sorbonne、LMU、Heidelberg、KIT、EPFL、UZH；汇总表整行荧光黄色 #FFFF00。WashU因无thesis取消重点，由Texas A&M Physics MS Thesis替代（2026-10-05）。此标记不改变学术资格或难度判断。",
+  "priority_application_scope": "2026-10-06用户指定：黄色或粉红色标记学校为优先申请，共18所。Texas A&M不再优先，IP Paris加入优先；ANU浅绿色表示已获offer。McGill、Melbourne、Northwestern、NYU、PSL、IP Paris、EPFL为用户指定高排名学校，整行粉红色，Summary学校名字加粗红色。此标记不改变学术资格或难度判断。",
   "summary": {
     "by_country": [
       {
@@ -5871,23 +5949,23 @@
         "country": "USA",
         "label": "美国",
         "selected_count": 10,
-        "priority_count": 4,
+        "priority_count": 3,
         "priority_schools": [
           "Northwestern",
           "NYU",
-          "UT Austin",
-          "Texas A&M"
+          "UT Austin"
         ]
       },
       {
         "country": "France",
         "label": "法国",
         "selected_count": 5,
-        "priority_count": 3,
+        "priority_count": 4,
         "priority_schools": [
           "Paris-Saclay",
           "PSL / ENS",
-          "Sorbonne"
+          "Sorbonne",
+          "IP Paris"
         ]
       },
       {
@@ -5914,13 +5992,13 @@
     ],
     "selected_total": 39,
     "priority_total": 18,
-    "count_basis": "学校记录数；优先申请按用户指定的荧光黄色标记统计。ANU已获offer，Melbourne为优先申请学校。"
+    "count_basis": "学校记录数；黄色或粉红色标记学校为优先申请。ANU浅绿色表示已获offer，不计入优先申请。"
   },
   "computational_physics_audit": {
     "checked": "2026-10-05",
     "school_count": 39,
     "source_method": "direct HTTPS",
-    "audit_file": "computational-physics-source-audit-20261005.md",
+    "audit_file": "audit/computational-physics-source-audit-20261005.md",
     "classification_counts": {
       "Computational Physics课程": 5,
       "单列Computational Physics研究领域": 1,
