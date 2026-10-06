@@ -1,6 +1,6 @@
 # Technical University of Munich MSc Physics (AEP) — Application Analysis
 
-> 2026-10-03 清理说明：保留课程审核、VPD、评分与动机信准备细节。招生事实及申请日期请结合[当前总览](Physics_Masters_Overview.md)、[TUM项目档案](../../physics-master/TUM_MSc_Physics.md)和[申请时间表](Physics_Masters_Application_Timeline_2027.md)复核；下文旧准备日期仅作参考。 原核查日期保留，本次未重新核验官网。
+> 2026-10-03 清理说明：保留课程审核、VPD、评分与动机信准备细节。招生事实及申请日期请结合[当前总览](Physics_Masters_Overview.md)、[TUM项目档案](../../physics-master/TUM_MSc_Physics.md)和[申请时间表](Physics_Masters_Timeline.md)复核；下文旧准备日期仅作参考。 原核查日期保留，本次未重新核验官网。
 
 **Applicant:** HY, University of Toronto Physics  
 **Intended entry:** Winter Semester 2027/28 (Fall 2027)  

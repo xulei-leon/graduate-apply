@@ -25,7 +25,7 @@
 | Recommendation policy / 提交与例外 | Physics系明确Masters须letters；Graduate Studies FAQ仅说明系统最多接收3封，没有据此确认MA最低数。 |
 | Cohort size / 年度规模 | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。 |
 | Deadline / 主申请与奖学金 | 2027 MA专属主截止和资助截止未核实。 |
-| Deadline evidence / 时间依据 | 年度规则，2027批次待确认 |
+| Deadline evidence / 时间依据 | Fall 2027启动2026-09-01已确认；MA主截止和资助截止待核（启动字段核实2026-10-06） |
 | International tuition / 学费 | 2027学费未核实；须使用本人国际学生费率报价。 |
 | Funding / TA / RA | 本轮未核到MA保证资助；不可套PhD stipend；按自费预案，具体收费待核。 |
 
@@ -98,12 +98,14 @@ Physics系明确Masters须letters；Graduate Studies FAQ仅说明系统最多接
 
 | 字段 | 信息 |
 |---|---|
-| Application cycle / 启动至截止 | 启动待核 → 截止待核；2027 MA专属日期未核实 |
-| 周期说明 | 年度月日仅作准备依据；2027批次须按申请系统确认。 |
+| Application cycle / 启动至截止 | 2026-09-01 → 截止待核（Fall 2027；校级统一开窗已确认，MA主截止／资助截止待核） |
+| 周期说明 | Arts & Sciences官方Fall 2027页明确所有申请2026-09-01开放；Physics系确认独立Masters使用此渠道。校级PhD 12-01截止不套入MA。 |
 
-官方日期来源：https://physics.wustl.edu/how-apply
+官方日期来源：https://gradstudies.artsci.washu.edu/apply
 
-**申请周期 Last-verified / last-attempted：2026-10-03。**
+项目渠道确认：https://physics.wustl.edu/how-apply
+
+**申请启动 Last-verified：2026-10-06；适用入学批次：Fall 2027。MA截止仍待核，其他字段核查日期不变。**
 
 ## 申请前导师联系要求补核（2026-10-05）
 

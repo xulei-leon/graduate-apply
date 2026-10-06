@@ -1,6 +1,6 @@
 # University of Toronto Physics MSc — Application Analysis and Action Plan
 
-> 2026-10-03 清理说明：保留本校研究机会、导师联系及推荐信策略。招生事实及申请日期请结合[当前总览](Physics_Masters_Overview.md)、[多大Physics项目档案](../../physics-master/UofT_MSc_Physics.md)和[申请时间表](Physics_Masters_Application_Timeline_2027.md)复核；下文九月行动计划已过期。 原核查日期保留，本次未重新核验官网。
+> 2026-10-03 清理说明：保留本校研究机会、导师联系及推荐信策略。招生事实及申请日期请结合[当前总览](Physics_Masters_Overview.md)、[多大Physics项目档案](../../physics-master/UofT_MSc_Physics.md)和[申请时间表](Physics_Masters_Timeline.md)复核；下文九月行动计划已过期。 原核查日期保留，本次未重新核验官网。
 
 **Applicant:** HY, University of Toronto Physics undergraduate  
 **Intended entry:** Fall 2027  
