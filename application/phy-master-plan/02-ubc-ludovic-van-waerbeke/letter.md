@@ -1,3 +1,5 @@
+waerbeke@physics.ubc.ca
+
 Subject: Fall 2027 MSc Inquiry
 
 Dear Professor Van Waerbeke,

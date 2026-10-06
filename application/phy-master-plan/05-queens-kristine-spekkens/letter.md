@@ -1,3 +1,5 @@
+kristine.spekkens@queensu.ca
+
 Subject: Fall 2027 MSc Inquiry
 
 Dear Professor Spekkens,

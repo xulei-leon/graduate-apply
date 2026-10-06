@@ -1,3 +1,5 @@
+jcline@physics.mcgill.ca
+
 Subject: Fall 2027 MSc Inquiry
 
 Dear Professor Cline,

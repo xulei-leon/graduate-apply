@@ -1,3 +1,5 @@
+mariecci@ualberta.ca
+
 Subject: Fall 2027 MSc Inquiry
 
 Dear Professor Piro,
