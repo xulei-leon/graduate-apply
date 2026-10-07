@@ -1,0 +1,115 @@
+{
+  "verified_on": "2026-10-07",
+  "method": "direct HTTPS",
+  "hceres": [
+    {
+      "school": "psl",
+      "source_page": "https://www.hceres.fr/fr/rechercher-une-publication/rapport-devaluation-du-bilan-du-2e-et-du-3e-cycle-au-sein-des-programmes",
+      "pdf_url": "https://www.hceres.fr/sites/default/files/media/publications/rapports_evaluations/pdf/D2025-EV-0756036D-DEF-SC250024587-RD.pdf",
+      "checked_pdf_pages": [
+        157,
+        158,
+        159
+      ],
+      "sha256": "d925c9ffc93468bc66a85ac733e2f434a4fb0217fc5062ec3e6fbd2bf8a75d40"
+    },
+    {
+      "school": "ip",
+      "source_page": "https://www.hceres.fr/fr/rechercher-une-publication/rapport-devaluation-du-2e-cycle-de-linstitut-polytechnique-de-paris",
+      "pdf_url": "https://www.hceres.fr/sites/default/files/media/publications/rapports_evaluations/pdf/E2026-EV-0912403T-DEF-SC260025338-RD.pdf",
+      "checked_pdf_pages": [
+        60,
+        61
+      ],
+      "sha256": "1f3424bb2c28e2625b35d3f77ccd9e84dc7f11b83e4d4421281698ab9708ef5f"
+    },
+    {
+      "school": "sorbonne",
+      "source_page": "https://www.hceres.fr/fr/rechercher-une-publication/rapport-devaluation-du-bilan-du-2e-cycle-de-sorbonne-universite",
+      "pdf_url": "https://www.hceres.fr/sites/default/files/media/publications/rapports_evaluations/pdf/D2025-EV-0755890V-DEF-SC250024631-RD.pdf",
+      "checked_pdf_pages": [
+        102,
+        103,
+        104
+      ],
+      "sha256": "38dec45c0fca03a47715dbce2db69442d8b234b313012e135f367587a84bfaec"
+    },
+    {
+      "school": "saclay",
+      "source_page": "https://www.hceres.fr/fr/rechercher-une-publication/rapport-devaluation-du-2e-cycle-de-luniversite-paris-saclay",
+      "pdf_url": "https://www.hceres.fr/sites/default/files/media/publications/rapports_evaluations/pdf/E2026-EV-0912408Y-DEF-SC260025345-RD.pdf",
+      "checked_pdf_pages": [
+        177,
+        178,
+        179
+      ],
+      "sha256": "5e1b9dd36551a8376e052980c81d6a079bbc614df11afa3c4cf1c9c3b7d120e3"
+    },
+    {
+      "school": "cite",
+      "source_page": "https://www.hceres.fr/fr/rechercher-une-publication/rapport-devaluation-du-bilan-du-2e-cycle-duniversite-paris-cite",
+      "pdf_url": "https://www.hceres.fr/sites/default/files/media/publications/rapports_evaluations/pdf/D2025-EV-0755976N-DEF-SC250024656-RD.pdf",
+      "checked_pdf_pages": [
+        238,
+        239,
+        240,
+        241
+      ],
+      "sha256": "1b9256cf1c98a6ee14e4035b4646c1c220361e062b87e1c5b8f6f0579304ddc0"
+    }
+  ],
+  "ip_annual_reports": [
+    {
+      "text": "Download the Annual Report 2024 (PDF)",
+      "href": "https://www.ip-paris.fr/sites/default/files/pages/documents/Institut%20Polytechnique%20de%20Paris_RA%202024_English%20version.pdf"
+    },
+    {
+      "text": "Download the Annual Report 2023 (PDF)",
+      "href": "https://www.ip-paris.fr/sites/default/files/pages/documents/IP%20Paris%20Annual%20Report%202023.pdf"
+    },
+    {
+      "text": "Download the Annual Report 2022 (PDF)",
+      "href": "https://www.ip-paris.fr/sites/default/files/pages/documents/Annual%20Report%202022%20Institut%20Polytechnique%20de%20Paris.pdf"
+    },
+    {
+      "text": "Read the Annual Report 2021-2022",
+      "href": "https://www.ip-paris.fr/sites/default/files/IPPARIS-Rapport%20annuel%202021_Final-en.pdf"
+    },
+    {
+      "text": "Read the Annual Report 2020-2021",
+      "href": "https://www.ip-paris.fr/sites/default/files/IPPARIS-Annual-Report-2020-final.pdf"
+    }
+  ],
+  "program_access_gaps": [
+    {
+      "name": "ip-sitemap",
+      "result": {
+        "url": "https://www.ip-paris.fr/sitemap.xml",
+        "status": "readable"
+      }
+    },
+    {
+      "name": "hceres-publications",
+      "result": {
+        "url": "https://www.hceres.fr/fr/publications",
+        "status": "readable"
+      }
+    },
+    {
+      "name": "ens-icfp",
+      "result": {
+        "url": "https://www.phys.ens.fr/fr/formations/master-icfp",
+        "status": "readable"
+      }
+    },
+    {
+      "name": "ppm",
+      "result": "HTTPSConnectionPool(host='www.parisphysicsmaster.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1000)')))"
+    },
+    {
+      "name": "saclay-program-site",
+      "result": "403 Client Error: Forbidden for url: https://www.master-m1generalphysics.universite-paris-saclay.fr/"
+    }
+  ],
+  "interpretation": "Hceres program statistics and proportions have separate scope from SISE; no international applicant or offer counts were inferred."
+}

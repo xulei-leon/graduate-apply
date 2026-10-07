@@ -1,0 +1,59 @@
+{
+  "total_count": 6,
+  "results": [
+    {
+      "disci_master": "Droit et sc. politiques",
+      "formations": 998,
+      "places": 23881,
+      "main": 550591,
+      "extra": 41085,
+      "offers": 77314,
+      "accepted": 23200
+    },
+    {
+      "disci_master": "Economie, gestion et AES",
+      "formations": 722,
+      "places": 15333,
+      "main": 322088,
+      "extra": 28239,
+      "offers": 42276,
+      "accepted": 14558
+    },
+    {
+      "disci_master": "Lettres, langues, art",
+      "formations": 1120,
+      "places": 22005,
+      "main": 158535,
+      "extra": 12409,
+      "offers": 47862,
+      "accepted": 16912
+    },
+    {
+      "disci_master": "MEEF",
+      "formations": 1114,
+      "places": 32919,
+      "main": 243610,
+      "extra": 12812,
+      "offers": 104627,
+      "accepted": 23913
+    },
+    {
+      "disci_master": "SHS",
+      "formations": 1365,
+      "places": 29416,
+      "main": 391301,
+      "extra": 22905,
+      "offers": 70988,
+      "accepted": 26266
+    },
+    {
+      "disci_master": "Sc. fondamentales et appliquées (dont STAPS)",
+      "formations": 1690,
+      "places": 31764,
+      "main": 486276,
+      "extra": 38963,
+      "offers": 94619,
+      "accepted": 27207
+    }
+  ]
+}

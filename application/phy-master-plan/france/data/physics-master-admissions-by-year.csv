@@ -1,0 +1,6 @@
+year,scope,units,platform_places,applications,offer_events,accepted_sum,offer_rate_per_application_percent,source
+2023,core_three_mentions_all_modalities,78,1522,9153,3406,937,37.2118,https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master_2023/
+2024,core_three_mentions_all_modalities,79,1597,11375,4482,1089,39.4022,https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/
+2024,core_three_mentions_non_alternance,72,1505,10614,4436,1043,41.7939,https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/
+2025,core_three_mentions_all_modalities,91,1671,13821,4807,1085,34.7804,https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/
+2025,core_three_mentions_non_alternance,79,1527,12184,4769,1051,39.1415,https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-mon_master/

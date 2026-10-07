@@ -1,0 +1,987 @@
+{
+  "verified_on": "2026-10-07",
+  "stock_by_level_and_mobility": {
+    "url": "https://data.enseignementsup-recherche.gouv.fr/api/explore/v2.1/catalog/datasets/fr-esr-sise-effectifs-d-etudiants-inscrits-esr-public/records?where=sect_disciplinaire%3D%2202%22+AND+diplome%3D%22MAS_M_MAS_AUT%22+AND+annee_universitaire+in+%28%222020-21%22%2C%222021-22%22%2C%222022-23%22%2C%222023-24%22%2C%222024-25%22%29+AND+etablissement_lib+in+%28%22Universit%C3%A9+Paris+sciences+et+lettres%22%2C%22%C3%89cole+normale+sup%C3%A9rieure+PSL%22%2C%22Sorbonne+Universit%C3%A9%22%2C%22Universit%C3%A9+Paris-Saclay%22%2C%22Universit%C3%A9+Paris+Cit%C3%A9%22%29&select=annee_universitaire%2Cetablissement_id_paysage%2Cetablissement_lib%2Cniveau%2Cmobilite_intern%2Csum%28effectif_sans_cpge%29+as+students&group_by=annee_universitaire%2Cetablissement_id_paysage%2Cetablissement_lib%2Cniveau%2Cmobilite_intern&limit=100",
+    "data": {
+      "total_count": 80,
+      "results": [
+        {
+          "annee_universitaire": "2020-21",
+          "etablissement_id_paysage": "5cZyU",
+          "etablissement_lib": "Université Paris Cité",
+          "niveau": "01",
+          "mobilite_intern": "M",
+          "students": 25
+        },
+        {
+          "annee_universitaire": "2020-21",
+          "etablissement_id_paysage": "5cZyU",
+          "etablissement_lib": "Université Paris Cité",
+          "niveau": "01",
+          "mobilite_intern": "X",
+          "students": 101
+        },
+        {
+          "annee_universitaire": "2020-21",
+          "etablissement_id_paysage": "5cZyU",
+          "etablissement_lib": "Université Paris Cité",
+          "niveau": "02",
+          "mobilite_intern": "M",
+          "students": 31
+        },
+        {
+          "annee_universitaire": "2020-21",
+          "etablissement_id_paysage": "5cZyU",
+          "etablissement_lib": "Université Paris Cité",
+          "niveau": "02",
+          "mobilite_intern": "X",
+          "students": 62
+        },
+        {
+          "annee_universitaire": "2020-21",
+          "etablissement_id_paysage": "G2qA7",
+          "etablissement_lib": "Université Paris-Saclay",
+          "niveau": "01",
+          "mobilite_intern": "M",
+          "students": 58
+        },
+        {
+          "annee_universitaire": "2020-21",
+          "etablissement_id_paysage": "G2qA7",
+          "etablissement_lib": "Université Paris-Saclay",
+          "niveau": "01",
+          "mobilite_intern": "X",
+          "students": 239
+        },
+        {
+          "annee_universitaire": "2020-21",
+          "etablissement_id_paysage": "G2qA7",
+          "etablissement_lib": "Université Paris-Saclay",
+          "niveau": "02",
+          "mobilite_intern": "M",
+          "students": 103
+        },
+        {
+          "annee_universitaire": "2020-21",
+          "etablissement_id_paysage": "G2qA7",
+          "etablissement_lib": "Université Paris-Saclay",
+          "niveau": "02",
+          "mobilite_intern": "X",
+          "students": 271
+        },
+        {
+          "annee_universitaire": "2020-21",
+          "etablissement_id_paysage": "PpsCQ",
+          "etablissement_lib": "Université Paris sciences et lettres",
+          "niveau": "01",
+          "mobilite_intern": "M",
+          "students": 4
+        },
+        {
+          "annee_universitaire": "2020-21",
+          "etablissement_id_paysage": "PpsCQ",
+          "etablissement_lib": "Université Paris sciences et lettres",
+          "niveau": "01",
+          "mobilite_intern": "X",
+          "students": 7
+        },
+        {
+          "annee_universitaire": "2020-21",
+          "etablissement_id_paysage": "PpsCQ",
+          "etablissement_lib": "Université Paris sciences et lettres",
+          "niveau": "02",
+          "mobilite_intern": "M",
+          "students": 8
+        },
+        {
+          "annee_universitaire": "2020-21",
+          "etablissement_id_paysage": "PpsCQ",
+          "etablissement_lib": "Université Paris sciences et lettres",
+          "niveau": "02",
+          "mobilite_intern": "X",
+          "students": 19
+        },
+        {
+          "annee_universitaire": "2020-21",
+          "etablissement_id_paysage": "bxPQe",
+          "etablissement_lib": "Sorbonne Université",
+          "niveau": "01",
+          "mobilite_intern": "M",
+          "students": 51
+        },
+        {
+          "annee_universitaire": "2020-21",
+          "etablissement_id_paysage": "bxPQe",
+          "etablissement_lib": "Sorbonne Université",
+          "niveau": "01",
+          "mobilite_intern": "X",
+          "students": 145
+        },
+        {
+          "annee_universitaire": "2020-21",
+          "etablissement_id_paysage": "bxPQe",
+          "etablissement_lib": "Sorbonne Université",
+          "niveau": "02",
+          "mobilite_intern": "M",
+          "students": 73
+        },
+        {
+          "annee_universitaire": "2020-21",
+          "etablissement_id_paysage": "bxPQe",
+          "etablissement_lib": "Sorbonne Université",
+          "niveau": "02",
+          "mobilite_intern": "X",
+          "students": 126
+        },
+        {
+          "annee_universitaire": "2021-22",
+          "etablissement_id_paysage": "5cZyU",
+          "etablissement_lib": "Université Paris Cité",
+          "niveau": "01",
+          "mobilite_intern": "M",
+          "students": 29
+        },
+        {
+          "annee_universitaire": "2021-22",
+          "etablissement_id_paysage": "5cZyU",
+          "etablissement_lib": "Université Paris Cité",
+          "niveau": "01",
+          "mobilite_intern": "X",
+          "students": 78
+        },
+        {
+          "annee_universitaire": "2021-22",
+          "etablissement_id_paysage": "5cZyU",
+          "etablissement_lib": "Université Paris Cité",
+          "niveau": "02",
+          "mobilite_intern": "M",
+          "students": 35
+        },
+        {
+          "annee_universitaire": "2021-22",
+          "etablissement_id_paysage": "5cZyU",
+          "etablissement_lib": "Université Paris Cité",
+          "niveau": "02",
+          "mobilite_intern": "X",
+          "students": 74
+        },
+        {
+          "annee_universitaire": "2021-22",
+          "etablissement_id_paysage": "G2qA7",
+          "etablissement_lib": "Université Paris-Saclay",
+          "niveau": "01",
+          "mobilite_intern": "M",
+          "students": 93
+        },
+        {
+          "annee_universitaire": "2021-22",
+          "etablissement_id_paysage": "G2qA7",
+          "etablissement_lib": "Université Paris-Saclay",
+          "niveau": "01",
+          "mobilite_intern": "X",
+          "students": 238
+        },
+        {
+          "annee_universitaire": "2021-22",
+          "etablissement_id_paysage": "G2qA7",
+          "etablissement_lib": "Université Paris-Saclay",
+          "niveau": "02",
+          "mobilite_intern": "M",
+          "students": 107
+        },
+        {
+          "annee_universitaire": "2021-22",
+          "etablissement_id_paysage": "G2qA7",
+          "etablissement_lib": "Université Paris-Saclay",
+          "niveau": "02",
+          "mobilite_intern": "X",
+          "students": 248
+        },
+        {
+          "annee_universitaire": "2021-22",
+          "etablissement_id_paysage": "PpsCQ",
+          "etablissement_lib": "Université Paris sciences et lettres",
+          "niveau": "01",
+          "mobilite_intern": "M",
+          "students": 2
+        },
+        {
+          "annee_universitaire": "2021-22",
+          "etablissement_id_paysage": "PpsCQ",
+          "etablissement_lib": "Université Paris sciences et lettres",
+          "niveau": "01",
+          "mobilite_intern": "X",
+          "students": 15
+        },
+        {
+          "annee_universitaire": "2021-22",
+          "etablissement_id_paysage": "PpsCQ",
+          "etablissement_lib": "Université Paris sciences et lettres",
+          "niveau": "02",
+          "mobilite_intern": "M",
+          "students": 8
+        },
+        {
+          "annee_universitaire": "2021-22",
+          "etablissement_id_paysage": "PpsCQ",
+          "etablissement_lib": "Université Paris sciences et lettres",
+          "niveau": "02",
+          "mobilite_intern": "X",
+          "students": 32
+        },
+        {
+          "annee_universitaire": "2021-22",
+          "etablissement_id_paysage": "bxPQe",
+          "etablissement_lib": "Sorbonne Université",
+          "niveau": "01",
+          "mobilite_intern": "M",
+          "students": 53
+        },
+        {
+          "annee_universitaire": "2021-22",
+          "etablissement_id_paysage": "bxPQe",
+          "etablissement_lib": "Sorbonne Université",
+          "niveau": "01",
+          "mobilite_intern": "X",
+          "students": 157
+        },
+        {
+          "annee_universitaire": "2021-22",
+          "etablissement_id_paysage": "bxPQe",
+          "etablissement_lib": "Sorbonne Université",
+          "niveau": "02",
+          "mobilite_intern": "M",
+          "students": 57
+        },
+        {
+          "annee_universitaire": "2021-22",
+          "etablissement_id_paysage": "bxPQe",
+          "etablissement_lib": "Sorbonne Université",
+          "niveau": "02",
+          "mobilite_intern": "X",
+          "students": 126
+        },
+        {
+          "annee_universitaire": "2022-23",
+          "etablissement_id_paysage": "5cZyU",
+          "etablissement_lib": "Université Paris Cité",
+          "niveau": "01",
+          "mobilite_intern": "M",
+          "students": 19
+        },
+        {
+          "annee_universitaire": "2022-23",
+          "etablissement_id_paysage": "5cZyU",
+          "etablissement_lib": "Université Paris Cité",
+          "niveau": "01",
+          "mobilite_intern": "X",
+          "students": 85
+        },
+        {
+          "annee_universitaire": "2022-23",
+          "etablissement_id_paysage": "5cZyU",
+          "etablissement_lib": "Université Paris Cité",
+          "niveau": "02",
+          "mobilite_intern": "M",
+          "students": 26
+        },
+        {
+          "annee_universitaire": "2022-23",
+          "etablissement_id_paysage": "5cZyU",
+          "etablissement_lib": "Université Paris Cité",
+          "niveau": "02",
+          "mobilite_intern": "X",
+          "students": 55
+        },
+        {
+          "annee_universitaire": "2022-23",
+          "etablissement_id_paysage": "G2qA7",
+          "etablissement_lib": "Université Paris-Saclay",
+          "niveau": "01",
+          "mobilite_intern": "M",
+          "students": 89
+        },
+        {
+          "annee_universitaire": "2022-23",
+          "etablissement_id_paysage": "G2qA7",
+          "etablissement_lib": "Université Paris-Saclay",
+          "niveau": "01",
+          "mobilite_intern": "X",
+          "students": 242
+        },
+        {
+          "annee_universitaire": "2022-23",
+          "etablissement_id_paysage": "G2qA7",
+          "etablissement_lib": "Université Paris-Saclay",
+          "niveau": "02",
+          "mobilite_intern": "M",
+          "students": 106
+        },
+        {
+          "annee_universitaire": "2022-23",
+          "etablissement_id_paysage": "G2qA7",
+          "etablissement_lib": "Université Paris-Saclay",
+          "niveau": "02",
+          "mobilite_intern": "X",
+          "students": 254
+        },
+        {
+          "annee_universitaire": "2022-23",
+          "etablissement_id_paysage": "PpsCQ",
+          "etablissement_lib": "Université Paris sciences et lettres",
+          "niveau": "01",
+          "mobilite_intern": "M",
+          "students": 15
+        },
+        {
+          "annee_universitaire": "2022-23",
+          "etablissement_id_paysage": "PpsCQ",
+          "etablissement_lib": "Université Paris sciences et lettres",
+          "niveau": "01",
+          "mobilite_intern": "X",
+          "students": 20
+        },
+        {
+          "annee_universitaire": "2022-23",
+          "etablissement_id_paysage": "PpsCQ",
+          "etablissement_lib": "Université Paris sciences et lettres",
+          "niveau": "02",
+          "mobilite_intern": "M",
+          "students": 10
+        },
+        {
+          "annee_universitaire": "2022-23",
+          "etablissement_id_paysage": "PpsCQ",
+          "etablissement_lib": "Université Paris sciences et lettres",
+          "niveau": "02",
+          "mobilite_intern": "X",
+          "students": 33
+        },
+        {
+          "annee_universitaire": "2022-23",
+          "etablissement_id_paysage": "bxPQe",
+          "etablissement_lib": "Sorbonne Université",
+          "niveau": "01",
+          "mobilite_intern": "M",
+          "students": 48
+        },
+        {
+          "annee_universitaire": "2022-23",
+          "etablissement_id_paysage": "bxPQe",
+          "etablissement_lib": "Sorbonne Université",
+          "niveau": "01",
+          "mobilite_intern": "X",
+          "students": 137
+        },
+        {
+          "annee_universitaire": "2022-23",
+          "etablissement_id_paysage": "bxPQe",
+          "etablissement_lib": "Sorbonne Université",
+          "niveau": "02",
+          "mobilite_intern": "M",
+          "students": 54
+        },
+        {
+          "annee_universitaire": "2022-23",
+          "etablissement_id_paysage": "bxPQe",
+          "etablissement_lib": "Sorbonne Université",
+          "niveau": "02",
+          "mobilite_intern": "X",
+          "students": 121
+        },
+        {
+          "annee_universitaire": "2023-24",
+          "etablissement_id_paysage": "5cZyU",
+          "etablissement_lib": "Université Paris Cité",
+          "niveau": "01",
+          "mobilite_intern": "M",
+          "students": 31
+        },
+        {
+          "annee_universitaire": "2023-24",
+          "etablissement_id_paysage": "5cZyU",
+          "etablissement_lib": "Université Paris Cité",
+          "niveau": "01",
+          "mobilite_intern": "X",
+          "students": 70
+        },
+        {
+          "annee_universitaire": "2023-24",
+          "etablissement_id_paysage": "5cZyU",
+          "etablissement_lib": "Université Paris Cité",
+          "niveau": "02",
+          "mobilite_intern": "M",
+          "students": 24
+        },
+        {
+          "annee_universitaire": "2023-24",
+          "etablissement_id_paysage": "5cZyU",
+          "etablissement_lib": "Université Paris Cité",
+          "niveau": "02",
+          "mobilite_intern": "X",
+          "students": 61
+        },
+        {
+          "annee_universitaire": "2023-24",
+          "etablissement_id_paysage": "G2qA7",
+          "etablissement_lib": "Université Paris-Saclay",
+          "niveau": "01",
+          "mobilite_intern": "M",
+          "students": 81
+        },
+        {
+          "annee_universitaire": "2023-24",
+          "etablissement_id_paysage": "G2qA7",
+          "etablissement_lib": "Université Paris-Saclay",
+          "niveau": "01",
+          "mobilite_intern": "X",
+          "students": 209
+        },
+        {
+          "annee_universitaire": "2023-24",
+          "etablissement_id_paysage": "G2qA7",
+          "etablissement_lib": "Université Paris-Saclay",
+          "niveau": "02",
+          "mobilite_intern": "M",
+          "students": 123
+        },
+        {
+          "annee_universitaire": "2023-24",
+          "etablissement_id_paysage": "G2qA7",
+          "etablissement_lib": "Université Paris-Saclay",
+          "niveau": "02",
+          "mobilite_intern": "X",
+          "students": 277
+        },
+        {
+          "annee_universitaire": "2023-24",
+          "etablissement_id_paysage": "PpsCQ",
+          "etablissement_lib": "Université Paris sciences et lettres",
+          "niveau": "01",
+          "mobilite_intern": "M",
+          "students": 10
+        },
+        {
+          "annee_universitaire": "2023-24",
+          "etablissement_id_paysage": "PpsCQ",
+          "etablissement_lib": "Université Paris sciences et lettres",
+          "niveau": "01",
+          "mobilite_intern": "X",
+          "students": 34
+        },
+        {
+          "annee_universitaire": "2023-24",
+          "etablissement_id_paysage": "PpsCQ",
+          "etablissement_lib": "Université Paris sciences et lettres",
+          "niveau": "02",
+          "mobilite_intern": "M",
+          "students": 18
+        },
+        {
+          "annee_universitaire": "2023-24",
+          "etablissement_id_paysage": "PpsCQ",
+          "etablissement_lib": "Université Paris sciences et lettres",
+          "niveau": "02",
+          "mobilite_intern": "X",
+          "students": 33
+        },
+        {
+          "annee_universitaire": "2023-24",
+          "etablissement_id_paysage": "bxPQe",
+          "etablissement_lib": "Sorbonne Université",
+          "niveau": "01",
+          "mobilite_intern": "M",
+          "students": 48
+        },
+        {
+          "annee_universitaire": "2023-24",
+          "etablissement_id_paysage": "bxPQe",
+          "etablissement_lib": "Sorbonne Université",
+          "niveau": "01",
+          "mobilite_intern": "X",
+          "students": 133
+        },
+        {
+          "annee_universitaire": "2023-24",
+          "etablissement_id_paysage": "bxPQe",
+          "etablissement_lib": "Sorbonne Université",
+          "niveau": "02",
+          "mobilite_intern": "M",
+          "students": 47
+        },
+        {
+          "annee_universitaire": "2023-24",
+          "etablissement_id_paysage": "bxPQe",
+          "etablissement_lib": "Sorbonne Université",
+          "niveau": "02",
+          "mobilite_intern": "X",
+          "students": 111
+        },
+        {
+          "annee_universitaire": "2024-25",
+          "etablissement_id_paysage": "5cZyU",
+          "etablissement_lib": "Université Paris Cité",
+          "niveau": "01",
+          "mobilite_intern": "M",
+          "students": 37
+        },
+        {
+          "annee_universitaire": "2024-25",
+          "etablissement_id_paysage": "5cZyU",
+          "etablissement_lib": "Université Paris Cité",
+          "niveau": "01",
+          "mobilite_intern": "X",
+          "students": 106
+        },
+        {
+          "annee_universitaire": "2024-25",
+          "etablissement_id_paysage": "5cZyU",
+          "etablissement_lib": "Université Paris Cité",
+          "niveau": "02",
+          "mobilite_intern": "M",
+          "students": 38
+        },
+        {
+          "annee_universitaire": "2024-25",
+          "etablissement_id_paysage": "5cZyU",
+          "etablissement_lib": "Université Paris Cité",
+          "niveau": "02",
+          "mobilite_intern": "X",
+          "students": 51
+        },
+        {
+          "annee_universitaire": "2024-25",
+          "etablissement_id_paysage": "G2qA7",
+          "etablissement_lib": "Université Paris-Saclay",
+          "niveau": "01",
+          "mobilite_intern": "M",
+          "students": 49
+        },
+        {
+          "annee_universitaire": "2024-25",
+          "etablissement_id_paysage": "G2qA7",
+          "etablissement_lib": "Université Paris-Saclay",
+          "niveau": "01",
+          "mobilite_intern": "X",
+          "students": 202
+        },
+        {
+          "annee_universitaire": "2024-25",
+          "etablissement_id_paysage": "G2qA7",
+          "etablissement_lib": "Université Paris-Saclay",
+          "niveau": "02",
+          "mobilite_intern": "M",
+          "students": 86
+        },
+        {
+          "annee_universitaire": "2024-25",
+          "etablissement_id_paysage": "G2qA7",
+          "etablissement_lib": "Université Paris-Saclay",
+          "niveau": "02",
+          "mobilite_intern": "X",
+          "students": 262
+        },
+        {
+          "annee_universitaire": "2024-25",
+          "etablissement_id_paysage": "PpsCQ",
+          "etablissement_lib": "Université Paris sciences et lettres",
+          "niveau": "01",
+          "mobilite_intern": "M",
+          "students": 18
+        },
+        {
+          "annee_universitaire": "2024-25",
+          "etablissement_id_paysage": "PpsCQ",
+          "etablissement_lib": "Université Paris sciences et lettres",
+          "niveau": "01",
+          "mobilite_intern": "X",
+          "students": 29
+        },
+        {
+          "annee_universitaire": "2024-25",
+          "etablissement_id_paysage": "PpsCQ",
+          "etablissement_lib": "Université Paris sciences et lettres",
+          "niveau": "02",
+          "mobilite_intern": "M",
+          "students": 16
+        },
+        {
+          "annee_universitaire": "2024-25",
+          "etablissement_id_paysage": "PpsCQ",
+          "etablissement_lib": "Université Paris sciences et lettres",
+          "niveau": "02",
+          "mobilite_intern": "X",
+          "students": 42
+        },
+        {
+          "annee_universitaire": "2024-25",
+          "etablissement_id_paysage": "bxPQe",
+          "etablissement_lib": "Sorbonne Université",
+          "niveau": "01",
+          "mobilite_intern": "M",
+          "students": 41
+        },
+        {
+          "annee_universitaire": "2024-25",
+          "etablissement_id_paysage": "bxPQe",
+          "etablissement_lib": "Sorbonne Université",
+          "niveau": "01",
+          "mobilite_intern": "X",
+          "students": 124
+        },
+        {
+          "annee_universitaire": "2024-25",
+          "etablissement_id_paysage": "bxPQe",
+          "etablissement_lib": "Sorbonne Université",
+          "niveau": "02",
+          "mobilite_intern": "M",
+          "students": 64
+        },
+        {
+          "annee_universitaire": "2024-25",
+          "etablissement_id_paysage": "bxPQe",
+          "etablissement_lib": "Sorbonne Université",
+          "niveau": "02",
+          "mobilite_intern": "X",
+          "students": 133
+        }
+      ]
+    }
+  },
+  "independent_international_totals": {
+    "url": "https://data.enseignementsup-recherche.gouv.fr/api/explore/v2.1/catalog/datasets/fr-esr-sise-effectifs-d-etudiants-inscrits-esr-public/records?where=sect_disciplinaire%3D%2202%22+AND+diplome%3D%22MAS_M_MAS_AUT%22+AND+annee_universitaire+in+%28%222020-21%22%2C%222021-22%22%2C%222022-23%22%2C%222023-24%22%2C%222024-25%22%29+AND+etablissement_lib+in+%28%22Universit%C3%A9+Paris+sciences+et+lettres%22%2C%22%C3%89cole+normale+sup%C3%A9rieure+PSL%22%2C%22Sorbonne+Universit%C3%A9%22%2C%22Universit%C3%A9+Paris-Saclay%22%2C%22Universit%C3%A9+Paris+Cit%C3%A9%22%29+AND+mobilite_intern%3D%22M%22&select=annee_universitaire%2Cetablissement_lib%2Csum%28effectif_sans_cpge%29+as+students&group_by=annee_universitaire%2Cetablissement_lib&limit=100",
+    "data": {
+      "total_count": 20,
+      "results": [
+        {
+          "annee_universitaire": "2020-21",
+          "etablissement_lib": "Sorbonne Université",
+          "students": 124
+        },
+        {
+          "annee_universitaire": "2020-21",
+          "etablissement_lib": "Université Paris Cité",
+          "students": 56
+        },
+        {
+          "annee_universitaire": "2020-21",
+          "etablissement_lib": "Université Paris sciences et lettres",
+          "students": 12
+        },
+        {
+          "annee_universitaire": "2020-21",
+          "etablissement_lib": "Université Paris-Saclay",
+          "students": 161
+        },
+        {
+          "annee_universitaire": "2021-22",
+          "etablissement_lib": "Sorbonne Université",
+          "students": 110
+        },
+        {
+          "annee_universitaire": "2021-22",
+          "etablissement_lib": "Université Paris Cité",
+          "students": 64
+        },
+        {
+          "annee_universitaire": "2021-22",
+          "etablissement_lib": "Université Paris sciences et lettres",
+          "students": 10
+        },
+        {
+          "annee_universitaire": "2021-22",
+          "etablissement_lib": "Université Paris-Saclay",
+          "students": 200
+        },
+        {
+          "annee_universitaire": "2022-23",
+          "etablissement_lib": "Sorbonne Université",
+          "students": 102
+        },
+        {
+          "annee_universitaire": "2022-23",
+          "etablissement_lib": "Université Paris Cité",
+          "students": 45
+        },
+        {
+          "annee_universitaire": "2022-23",
+          "etablissement_lib": "Université Paris sciences et lettres",
+          "students": 25
+        },
+        {
+          "annee_universitaire": "2022-23",
+          "etablissement_lib": "Université Paris-Saclay",
+          "students": 195
+        },
+        {
+          "annee_universitaire": "2023-24",
+          "etablissement_lib": "Sorbonne Université",
+          "students": 95
+        },
+        {
+          "annee_universitaire": "2023-24",
+          "etablissement_lib": "Université Paris Cité",
+          "students": 55
+        },
+        {
+          "annee_universitaire": "2023-24",
+          "etablissement_lib": "Université Paris sciences et lettres",
+          "students": 28
+        },
+        {
+          "annee_universitaire": "2023-24",
+          "etablissement_lib": "Université Paris-Saclay",
+          "students": 204
+        },
+        {
+          "annee_universitaire": "2024-25",
+          "etablissement_lib": "Sorbonne Université",
+          "students": 105
+        },
+        {
+          "annee_universitaire": "2024-25",
+          "etablissement_lib": "Université Paris Cité",
+          "students": 75
+        },
+        {
+          "annee_universitaire": "2024-25",
+          "etablissement_lib": "Université Paris sciences et lettres",
+          "students": 34
+        },
+        {
+          "annee_universitaire": "2024-25",
+          "etablissement_lib": "Université Paris-Saclay",
+          "students": 135
+        }
+      ]
+    }
+  },
+  "international_components": {
+    "url": "https://data.enseignementsup-recherche.gouv.fr/api/explore/v2.1/catalog/datasets/fr-esr-sise-effectifs-d-etudiants-inscrits-esr-public/records?where=sect_disciplinaire%3D%2202%22+AND+diplome%3D%22MAS_M_MAS_AUT%22+AND+annee_universitaire+in+%28%222020-21%22%2C%222021-22%22%2C%222022-23%22%2C%222023-24%22%2C%222024-25%22%29+AND+etablissement_lib+in+%28%22Universit%C3%A9+Paris+sciences+et+lettres%22%2C%22%C3%89cole+normale+sup%C3%A9rieure+PSL%22%2C%22Sorbonne+Universit%C3%A9%22%2C%22Universit%C3%A9+Paris-Saclay%22%2C%22Universit%C3%A9+Paris+Cit%C3%A9%22%29+AND+mobilite_intern%3D%22M%22&select=annee_universitaire%2Cetablissement_lib%2Cetablissement_compos_lib%2Csum%28effectif_sans_cpge%29+as+students&group_by=annee_universitaire%2Cetablissement_lib%2Cetablissement_compos_lib&limit=100",
+    "data": {
+      "total_count": 28,
+      "results": [
+        {
+          "annee_universitaire": "2020-21",
+          "etablissement_lib": "Sorbonne Université",
+          "etablissement_compos_lib": null,
+          "students": 124
+        },
+        {
+          "annee_universitaire": "2020-21",
+          "etablissement_lib": "Université Paris Cité",
+          "etablissement_compos_lib": "Université Paris Cité",
+          "students": 56
+        },
+        {
+          "annee_universitaire": "2020-21",
+          "etablissement_lib": "Université Paris sciences et lettres",
+          "etablissement_compos_lib": "École normale supérieure PSL",
+          "students": 12
+        },
+        {
+          "annee_universitaire": "2020-21",
+          "etablissement_lib": "Université Paris-Saclay",
+          "etablissement_compos_lib": "CentraleSupélec",
+          "students": 2
+        },
+        {
+          "annee_universitaire": "2020-21",
+          "etablissement_lib": "Université Paris-Saclay",
+          "etablissement_compos_lib": "Institut d'optique Graduate School",
+          "students": 1
+        },
+        {
+          "annee_universitaire": "2020-21",
+          "etablissement_lib": "Université Paris-Saclay",
+          "etablissement_compos_lib": "Université Paris-Saclay",
+          "students": 158
+        },
+        {
+          "annee_universitaire": "2021-22",
+          "etablissement_lib": "Sorbonne Université",
+          "etablissement_compos_lib": null,
+          "students": 110
+        },
+        {
+          "annee_universitaire": "2021-22",
+          "etablissement_lib": "Université Paris Cité",
+          "etablissement_compos_lib": "Université Paris Cité",
+          "students": 64
+        },
+        {
+          "annee_universitaire": "2021-22",
+          "etablissement_lib": "Université Paris sciences et lettres",
+          "etablissement_compos_lib": "École nationale supérieure de chimie de Paris - PSL",
+          "students": 4
+        },
+        {
+          "annee_universitaire": "2021-22",
+          "etablissement_lib": "Université Paris sciences et lettres",
+          "etablissement_compos_lib": "École normale supérieure PSL",
+          "students": 6
+        },
+        {
+          "annee_universitaire": "2021-22",
+          "etablissement_lib": "Université Paris-Saclay",
+          "etablissement_compos_lib": "CentraleSupélec",
+          "students": 3
+        },
+        {
+          "annee_universitaire": "2021-22",
+          "etablissement_lib": "Université Paris-Saclay",
+          "etablissement_compos_lib": "Université Paris-Saclay",
+          "students": 197
+        },
+        {
+          "annee_universitaire": "2022-23",
+          "etablissement_lib": "Sorbonne Université",
+          "etablissement_compos_lib": null,
+          "students": 102
+        },
+        {
+          "annee_universitaire": "2022-23",
+          "etablissement_lib": "Université Paris Cité",
+          "etablissement_compos_lib": "Université Paris Cité",
+          "students": 45
+        },
+        {
+          "annee_universitaire": "2022-23",
+          "etablissement_lib": "Université Paris sciences et lettres",
+          "etablissement_compos_lib": "École nationale supérieure de chimie de Paris - PSL",
+          "students": 2
+        },
+        {
+          "annee_universitaire": "2022-23",
+          "etablissement_lib": "Université Paris sciences et lettres",
+          "etablissement_compos_lib": "École normale supérieure PSL",
+          "students": 23
+        },
+        {
+          "annee_universitaire": "2022-23",
+          "etablissement_lib": "Université Paris-Saclay",
+          "etablissement_compos_lib": "Université Paris-Saclay",
+          "students": 195
+        },
+        {
+          "annee_universitaire": "2023-24",
+          "etablissement_lib": "Sorbonne Université",
+          "etablissement_compos_lib": null,
+          "students": 95
+        },
+        {
+          "annee_universitaire": "2023-24",
+          "etablissement_lib": "Université Paris Cité",
+          "etablissement_compos_lib": "Université Paris Cité",
+          "students": 55
+        },
+        {
+          "annee_universitaire": "2023-24",
+          "etablissement_lib": "Université Paris sciences et lettres",
+          "etablissement_compos_lib": "École nationale supérieure de chimie de Paris - PSL",
+          "students": 1
+        },
+        {
+          "annee_universitaire": "2023-24",
+          "etablissement_lib": "Université Paris sciences et lettres",
+          "etablissement_compos_lib": "École normale supérieure PSL",
+          "students": 27
+        },
+        {
+          "annee_universitaire": "2023-24",
+          "etablissement_lib": "Université Paris-Saclay",
+          "etablissement_compos_lib": "CentraleSupélec",
+          "students": 1
+        },
+        {
+          "annee_universitaire": "2023-24",
+          "etablissement_lib": "Université Paris-Saclay",
+          "etablissement_compos_lib": "Université Paris-Saclay",
+          "students": 203
+        },
+        {
+          "annee_universitaire": "2024-25",
+          "etablissement_lib": "Sorbonne Université",
+          "etablissement_compos_lib": null,
+          "students": 105
+        },
+        {
+          "annee_universitaire": "2024-25",
+          "etablissement_lib": "Université Paris Cité",
+          "etablissement_compos_lib": "Université Paris Cité",
+          "students": 75
+        },
+        {
+          "annee_universitaire": "2024-25",
+          "etablissement_lib": "Université Paris sciences et lettres",
+          "etablissement_compos_lib": "École nationale supérieure de chimie de Paris - PSL",
+          "students": 3
+        },
+        {
+          "annee_universitaire": "2024-25",
+          "etablissement_lib": "Université Paris sciences et lettres",
+          "etablissement_compos_lib": "École normale supérieure PSL",
+          "students": 31
+        },
+        {
+          "annee_universitaire": "2024-25",
+          "etablissement_lib": "Université Paris-Saclay",
+          "etablissement_compos_lib": "Université Paris-Saclay",
+          "students": 135
+        }
+      ]
+    }
+  },
+  "available_years": {
+    "url": "https://data.enseignementsup-recherche.gouv.fr/api/explore/v2.1/catalog/datasets/fr-esr-sise-effectifs-d-etudiants-inscrits-esr-public/records?select=annee_universitaire&group_by=annee_universitaire&limit=100",
+    "data": {
+      "total_count": 8,
+      "results": [
+        {
+          "annee_universitaire": "2017-18"
+        },
+        {
+          "annee_universitaire": "2018-19"
+        },
+        {
+          "annee_universitaire": "2019-20"
+        },
+        {
+          "annee_universitaire": "2020-21"
+        },
+        {
+          "annee_universitaire": "2021-22"
+        },
+        {
+          "annee_universitaire": "2022-23"
+        },
+        {
+          "annee_universitaire": "2023-24"
+        },
+        {
+          "annee_universitaire": "2024-25"
+        }
+      ]
+    }
+  },
+  "institution_search": {
+    "url": "https://data.enseignementsup-recherche.gouv.fr/api/explore/v2.1/catalog/datasets/fr-esr-sise-effectifs-d-etudiants-inscrits-esr-public/records?where=search%28etablissement_lib%2C%22polytechnique%22%29+OR+search%28etablissement_lib%2C%22t%C3%A9l%C3%A9com%22%29+OR+search%28etablissement_lib%2C%22techniques+avanc%C3%A9es%22%29&select=etablissement_lib%2Cetablissement_id_paysage&group_by=etablissement_lib%2Cetablissement_id_paysage&limit=100",
+    "data": {
+      "total_count": 3,
+      "results": [
+        {
+          "etablissement_lib": "Institut polytechnique de Grenoble",
+          "etablissement_id_paysage": "2ALYK"
+        },
+        {
+          "etablissement_lib": "Université Polytechnique Hauts-de-France",
+          "etablissement_id_paysage": "EW53M"
+        },
+        {
+          "etablissement_lib": "Université polytechnique des Hauts-de-France",
+          "etablissement_id_paysage": "SuUZ2"
+        }
+      ]
+    }
+  }
+}

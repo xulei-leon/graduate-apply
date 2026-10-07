@@ -3724,7 +3724,17 @@
       },
       "priority_before_computational_audit": "法国重点；优先早轮",
       "summary_high_rank": false,
-      "highlight_color": "#FFFF00"
+      "highlight_color": "#FFFF00",
+      "us_news_physics": {
+        "edition_label": "2027",
+        "rank": 18,
+        "tied": true,
+        "display": "=#18",
+        "status": "user_provided_not_officially_verified",
+        "source": "france/France_Physics_Masters_Rankings_2026_2027.md",
+        "recorded": "2026-10-07",
+        "display_label": "US News Physics"
+      }
     },
     {
       "country": "France",
@@ -3847,7 +3857,17 @@
       },
       "priority_before_computational_audit": "强冲刺；需突出科研",
       "summary_high_rank": true,
-      "highlight_color": "#FFD9E6"
+      "highlight_color": "#FFD9E6",
+      "us_news_physics": {
+        "edition_label": "2027",
+        "rank": 36,
+        "tied": false,
+        "display": "#36",
+        "status": "user_provided_not_officially_verified",
+        "source": "france/France_Physics_Masters_Rankings_2026_2027.md",
+        "recorded": "2026-10-07",
+        "display_label": "US News Physics"
+      }
     },
     {
       "country": "France",
@@ -3975,7 +3995,17 @@
       },
       "priority_before_computational_audit": "法国重点；核专属M1入口",
       "summary_high_rank": false,
-      "highlight_color": "#FFFF00"
+      "highlight_color": "#FFFF00",
+      "us_news_physics": {
+        "edition_label": "2027",
+        "rank": 31,
+        "tied": false,
+        "display": "#31",
+        "status": "user_provided_not_officially_verified",
+        "source": "france/France_Physics_Masters_Rankings_2026_2027.md",
+        "recorded": "2026-10-07",
+        "display_label": "US News Physics"
+      }
     },
     {
       "country": "France",
@@ -4127,6 +4157,16 @@
         "source": "https://www.ip-paris.fr/en/education/graduate-programs/masters-science/physics-program/master-year-1-high-energy-physics",
         "last_verified": "2026-10-06",
         "chinese_translation": "攻读巴黎综合理工学院（École polytechnique）与苏黎世联邦理工学院（ETH Zürich）的双学位。"
+      },
+      "us_news_physics": {
+        "edition_label": "2027",
+        "rank": 46,
+        "tied": false,
+        "display": "#46",
+        "status": "user_provided_not_officially_verified",
+        "source": "france/France_Physics_Masters_Rankings_2026_2027.md",
+        "recorded": "2026-10-07",
+        "display_label": "US News Physics"
       }
     },
     {
@@ -4294,7 +4334,17 @@
       },
       "priority_before_computational_audit": "保留；与Sorbonne联合入口统筹",
       "summary_high_rank": false,
-      "highlight_color": null
+      "highlight_color": null,
+      "us_news_physics": {
+        "edition_label": "2027",
+        "rank": null,
+        "tied": false,
+        "display": "待核",
+        "status": "unresolved",
+        "source": "france/France_Physics_Masters_Rankings_2026_2027.md",
+        "recorded": "2026-10-07",
+        "display_label": "US News Physics"
+      }
     },
     {
       "country": "Germany",

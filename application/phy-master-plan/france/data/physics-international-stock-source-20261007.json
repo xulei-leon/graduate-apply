@@ -1,0 +1,101 @@
+{
+  "total_count": 12,
+  "results": [
+    {
+      "annee_universitaire": "2022-23",
+      "niveau": "01",
+      "niveau_lib": "1ère année",
+      "mobilite_intern": "M",
+      "mobilite_intern_lib": "Etudiants étrangers en mobilité internationale",
+      "students": 718
+    },
+    {
+      "annee_universitaire": "2022-23",
+      "niveau": "01",
+      "niveau_lib": "1ère année",
+      "mobilite_intern": "X",
+      "mobilite_intern_lib": "Autres cas",
+      "students": 1246
+    },
+    {
+      "annee_universitaire": "2022-23",
+      "niveau": "02",
+      "niveau_lib": "2ème année",
+      "mobilite_intern": "M",
+      "mobilite_intern_lib": "Etudiants étrangers en mobilité internationale",
+      "students": 908
+    },
+    {
+      "annee_universitaire": "2022-23",
+      "niveau": "02",
+      "niveau_lib": "2ème année",
+      "mobilite_intern": "X",
+      "mobilite_intern_lib": "Autres cas",
+      "students": 1320
+    },
+    {
+      "annee_universitaire": "2023-24",
+      "niveau": "01",
+      "niveau_lib": "1ère année",
+      "mobilite_intern": "M",
+      "mobilite_intern_lib": "Etudiants étrangers en mobilité internationale",
+      "students": 750
+    },
+    {
+      "annee_universitaire": "2023-24",
+      "niveau": "01",
+      "niveau_lib": "1ère année",
+      "mobilite_intern": "X",
+      "mobilite_intern_lib": "Autres cas",
+      "students": 1198
+    },
+    {
+      "annee_universitaire": "2023-24",
+      "niveau": "02",
+      "niveau_lib": "2ème année",
+      "mobilite_intern": "M",
+      "mobilite_intern_lib": "Etudiants étrangers en mobilité internationale",
+      "students": 910
+    },
+    {
+      "annee_universitaire": "2023-24",
+      "niveau": "02",
+      "niveau_lib": "2ème année",
+      "mobilite_intern": "X",
+      "mobilite_intern_lib": "Autres cas",
+      "students": 1379
+    },
+    {
+      "annee_universitaire": "2024-25",
+      "niveau": "01",
+      "niveau_lib": "1ère année",
+      "mobilite_intern": "M",
+      "mobilite_intern_lib": "Etudiants étrangers en mobilité internationale",
+      "students": 721
+    },
+    {
+      "annee_universitaire": "2024-25",
+      "niveau": "01",
+      "niveau_lib": "1ère année",
+      "mobilite_intern": "X",
+      "mobilite_intern_lib": "Autres cas",
+      "students": 1336
+    },
+    {
+      "annee_universitaire": "2024-25",
+      "niveau": "02",
+      "niveau_lib": "2ème année",
+      "mobilite_intern": "M",
+      "mobilite_intern_lib": "Etudiants étrangers en mobilité internationale",
+      "students": 924
+    },
+    {
+      "annee_universitaire": "2024-25",
+      "niveau": "02",
+      "niveau_lib": "2ème année",
+      "mobilite_intern": "X",
+      "mobilite_intern_lib": "Autres cas",
+      "students": 1361
+    }
+  ]
+}

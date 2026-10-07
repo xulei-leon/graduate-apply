@@ -108,7 +108,7 @@ M1 General Physics入学清单未列必交推荐信，只列Referring contact in
 
 官方来源：https://www.universite-paris-saclay.fr/en/education/masters-degree/physique-fondamentale-et-applications/m1-general-physics
 
-完整口径、访问缺口和教育部公开数据年份见[法国五校2026统计核查](../application/phy-master-plan/France_Physics_2026_Applications_Capacity.md)。**Last-verified：2026-10-03。**
+完整口径、访问缺口和教育部公开数据年份见[法国五校物理硕士国际生五年统计](../application/phy-master-plan/france/Five_Universities_Physics_Master_International_2020_2025.md)。**Last-verified：2026-10-03。**
 
 ## 申请前导师联系要求补核（2026-10-05）
 

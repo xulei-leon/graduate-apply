@@ -376,7 +376,9 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 
 ## 法国（5所）
 
-**2026申请量/名额补核（2026-10-03）：** [法国五校专项统计](France_Physics_2026_Applications_Capacity.md)。Paris-Saclay M1 General Physics的2026–2027项目capacity为**35**；五校目标项目的2026国际生申请数量及专属配额均未取得可核实公开数字。Sorbonne与Paris Cité的PPM只计一个项目，不能用Sorbonne普通M1历史约250学生/年来代替。Mon Master已发布结果数据当前仅覆盖2024/2025，不能作为2026统计。
+**法国五校国际生统计（2026-10-07）：** [五年统计与来源](france/Five_Universities_Physics_Master_International_2020_2025.md)。PSL、Sorbonne、Paris-Saclay、Paris Cité 已核 2020—2021 至 2024—2025 的 SISE 国际流动物理硕士主要注册数；IP Paris 官方评估提供国际生占比范围，未提供同口径逐年人数。五校国际新生、申请、offer 与录取率序列仍未核实。General Physics 的 2026—2027 项目总容量为 **35**，不是国际专属配额；PPM 是两校联合项目。
+
+**U.S. News Physics 排名补入（2026-10-07）：** 表内 US News Physics 名次沿用用户提供的2027榜单数据，尚未完成逐项官方复核；`=` 表示并列，Paris Cité 名次待核。来源与榜单标签见[法国物理硕士学科排名参考](france/France_Physics_Masters_Rankings_2026_2027.md)。
 
 严格恢复用户指定的五校顺序：PSL、IP Paris、Sorbonne、Paris-Saclay、Paris Cité，均选择已有分析的英语入口；Grenoble移出。Paris Cité按用户选择作排名例外。Sorbonne与Paris Cité的PPM为联合项目，五校资料不等于五次独立申请机会。
 
@@ -390,7 +392,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <th style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">推荐信数量要求</th>
 </tr>
 <tr style="background:#FFD9E6;" data-priority-application="true">
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top"><strong>重点申请</strong><br><a href="../../physics-master/PSL_Master_FundamentalPhysics_ICFP.md">PSL / ENS · ICFP</a><br>Reach / High<br>QS综合34 / 物理32</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top"><strong>重点申请</strong><br><a href="../../physics-master/PSL_Master_FundamentalPhysics_ICFP.md">PSL / ENS · ICFP</a><br>Reach / High<br>QS综合34 / 物理32<br>US News Physics #36</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">2年 /120 ECTS；本科毕业应申请M1；M1/M2 research internships与research-based training；各年论文/实习具体学分按track。<a href="https://psl.eu/en/education/master-s-degree-physics" style="color:inherit"><br><br><strong>申请周期：</strong><br>2027待公布；2026 M1参考：2025-11-24 → 2026-01-23 23:59 CET</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">高强度fundamental Physics选拔；无公开GPA数值。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">强冲刺；需突出科研<br><br><strong><a href="https://psl.eu/en/education/master-s-degree-physics">计算物理：待核</a></strong></td>
@@ -398,7 +400,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">2封（M1）</td>
 </tr>
 <tr style="background:#FFD9E6">
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top"><strong>重点申请</strong><br><a href="../../physics-master/IPParis_Master_Physics_HEP.md">IP Paris · High Energy Physics</a><br>Reach / High<br>QS综合43 / 物理45</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top"><strong>重点申请</strong><br><a href="../../physics-master/IPParis_Master_Physics_HEP.md">IP Paris · High Energy Physics</a><br>Reach / High<br>QS综合43 / 物理45<br>US News Physics #46</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">M1+M2 2年 /120 ECTS；M1至少16周internship；M2至少4个月thesis / internship，30 ECTS。<a href="https://www.ip-paris.fr/en/education/useful-information/admissions" style="color:inherit"><br><br><strong>申请周期：</strong><br>2027待公布；2026参考三轮：2025-10-29 → 2026-01-08；2026-01-09 → 03-26；2026-03-27 → 05-28</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">扎实Physics与数学；本科入口M1。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">科研最贴近；强冲刺<br><br><strong><a href="https://www.ip-paris.fr/en/education/graduate-programs/masters-science/physics-program/master-year-1-high-energy-physics">计算相关：数值物理课程</a></strong><br><br><strong>双学位选项（2026-10-06核）：</strong><br><a href="https://www.ip-paris.fr/en/education/graduate-programs/masters-science/physics-program/master-year-1-high-energy-physics">攻读巴黎综合理工学院（École polytechnique）与苏黎世联邦理工学院（ETH Zürich）的双学位。</a><br>International Track 第二年在 ETH Zürich 就读；选拔条件待核。</td>
@@ -406,7 +408,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">2份academic references</td>
 </tr>
 <tr style="background:#FFFF00;" data-priority-application="true">
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top"><strong>重点申请</strong><br><a href="../../physics-master/Sorbonne_Master_FundamentalPhysics.md">Sorbonne · Paris Physics Master</a><br>Match / High<br>QS综合73 / 物理32</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top"><strong>重点申请</strong><br><a href="../../physics-master/Sorbonne_Master_FundamentalPhysics.md">Sorbonne · Paris Physics Master</a><br>Match / High<br>QS综合73 / 物理32<br>US News Physics #31</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">M1+M2 2年 /120 ECTS；核心Physics、numerical methods与research internship；joint Paris Physics Master路线。<a href="https://master.physique.sorbonne-universite.fr/fr/candidatures-inscription.html" style="color:inherit"><br><br><strong>申请周期：</strong><br>启动待核 → 截止待核；2027 English M1专属窗口未核实</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">English Physics M1；课程与研究背景适合。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">法国重点；核专属M1入口<br><br><strong><a href="https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/physique-fondamentale-et-applications-K2VO0C50/master-physique-fondamentale-et-applications-m1-parcours-paris-physics-master-JS1XR1EO.html">计算相关：PPM数值物理课程</a></strong></td>
@@ -414,7 +416,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">待核</td>
 </tr>
 <tr style="background:#FFFF00;" data-priority-application="true">
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top"><strong>重点申请</strong><br><a href="../../physics-master/ParisSaclay_Master_GeneralPhysics.md">Paris-Saclay · General Physics</a><br>Match / High<br>QS综合76 / 物理21</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top"><strong>重点申请</strong><br><a href="../../physics-master/ParisSaclay_Master_GeneralPhysics.md">Paris-Saclay · General Physics</a><br>Match / High<br>QS综合76 / 物理21<br>US News Physics =#18</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">M1 1年60 ECTS；完整M1+M2通常2年120 ECTS；M1研究实习；须后续获相容M2录取，完整thesis要求取决M2 track。<a href="https://www.universite-paris-saclay.fr/en/education/masters-degree/physique-fondamentale-et-applications/m1-general-physics" style="color:inherit"><br><br><strong>申请周期：</strong><br>2027待公布；2026参考：2026-01-01 → 2026-07-06</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">Bachelor Physics；英文B2，3.0整体竞争需科研补强。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">法国重点；优先早轮<br><br><strong><a href="https://www.universite-paris-saclay.fr/en/education/masters-degree/physique-fondamentale-et-applications/m1-general-physics">计算相关：统计／数据分析课程</a></strong></td>
@@ -422,7 +424,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">入学信件未列；奖学金2位</td>
 </tr>
 <tr>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top"><a href="../../physics-master/ParisCite_Master_ParisPhysics.md">Paris Cité · Paris Physics Master</a><br>Match / High<br>QS综合303 / 物理151-200</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top"><a href="../../physics-master/ParisCite_Master_ParisPhysics.md">Paris Cité · Paris Physics Master</a><br>Match / High<br>QS综合303 / 物理151-200<br>US News Physics 待核</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">2年英语硕士；本科学历申请M1，后续M2的录取和注册须另确认。；M1有数值方法、实验项目及4–6月研究实习；M2研究阶段按所选路径另审，不能保证自动升入ICFP。<a href="https://u-paris.fr/candidater-a-universite-paris-cite/" style="color:inherit"><br><br><strong>申请周期：</strong><br>启动待核 → 截止待核；联合PPM窗口未核，EEF不是项目截止</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">物理本科相符；PPM与Sorbonne联办，不另计独立录取机会。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">保留；与Sorbonne联合入口统筹<br><br><strong><a href="https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/physique-fondamentale-et-applications-K2VO0C50/master-physique-fondamentale-et-applications-m1-parcours-paris-physics-master-JS1XR1EO.html">计算相关：PPM数值物理课程</a></strong></td>

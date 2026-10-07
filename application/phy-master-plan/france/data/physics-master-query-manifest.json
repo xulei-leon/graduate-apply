@@ -1,0 +1,20 @@
+{
+  "verified_on": "2026-10-06",
+  "core_mentions": [
+    "PHYSIQUE",
+    "PHYSIQUE APPLIQUEE ET INGENIERIE PHYSIQUE",
+    "PHYSIQUE FONDAMENTALE ET APPLICATIONS"
+  ],
+  "mon_master_url": "https://data.enseignementsup-recherche.gouv.fr/api/explore/v2.1/catalog/datasets/fr-esr-mon_master/exports/json",
+  "mon_master_2023_url": "https://data.enseignementsup-recherche.gouv.fr/api/explore/v2.1/catalog/datasets/fr-esr-mon_master_2023/records",
+  "sise_url": "https://data.enseignementsup-recherche.gouv.fr/api/explore/v2.1/catalog/datasets/fr-esr-sise-effectifs-d-etudiants-inscrits-esr-public/records",
+  "sise_where": "sect_disciplinaire=\"02\" AND diplome=\"MAS_M_MAS_AUT\" AND annee_universitaire in (\"2022-23\",\"2023-24\",\"2024-25\")",
+  "sise_sum_field": "effectif_sans_cpge",
+  "sise_international_filter": "mobilite_intern=\"M\"",
+  "limitations": [
+    "No nationally deduplicated physics applicants",
+    "No individual Chinese nationality field",
+    "Etudes en France is outside Mon Master coverage",
+    "SISE enrollment classifications differ from Mon Master mention classifications"
+  ]
+}

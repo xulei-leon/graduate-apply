@@ -1,6 +1,6 @@
 # Physics Master — 2027六国学校索引
 
-2026法国项目申请量/名额专项核查：[完整统计与证据边界](../application/phy-master-plan/France_Physics_2026_Applications_Capacity.md)。Paris-Saclay M1 General Physics已核2026–2027项目capacity 35，非国际生专属配额；五校目标项目的2026国际生申请人数均未找到官方公开数字，不能计算录取率。Sorbonne/Paris Cité的PPM共用一个统计口径；本次不改变学校数量。
+法国五校国际生数据：[2020—2025 五年统计与证据](../application/phy-master-plan/france/Five_Universities_Physics_Master_International_2020_2025.md)。四校有连续五年 SISE 国际流动物理硕士主要注册数；IP Paris 有官方国际生占比范围，未核逐年人数。国际新生、申请、offer 和录取率序列未核实。General Physics 的 2026—2027 项目总容量为 35，非国际专属配额；不改变学校数量。**Last-verified：2026-10-07。**
 
 
 本轮共 **39所学校记录**：加拿大12、澳大利亚2、美国10、法国5、德国5、瑞士5。含ANU已获普通版Astronomy and Astrophysics offer，其他38所保留为候选。Sorbonne与Paris Cité共同开设Paris Physics Master，不能把39所学校当作39次独立申请机会。目标为2027年6月本科毕业后的入学，实际ANU offer入学期仍以个人录取信为准。核查/访问尝试日期：2026-10-02。

@@ -1,0 +1,23 @@
+{
+  "total_count": 2,
+  "results": [
+    {
+      "session": "2024",
+      "formations": 8090,
+      "places": 176933,
+      "applications_main": 2266706,
+      "applications_extra": 163751,
+      "offers": 446078,
+      "accepted": 139563
+    },
+    {
+      "session": "2025",
+      "formations": 8167,
+      "places": 177297,
+      "applications_main": 2643131,
+      "applications_extra": 185361,
+      "offers": 453220,
+      "accepted": 144885
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+academic_year,primary_registrations,international_mobile_registrations,international_mobile_percent,m1_registrations,m1_international_mobile,m2_registrations,m2_international_mobile,source
+2022-23,4192,1626,38.7882,1964,718,2228,908,https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-sise-effectifs-d-etudiants-inscrits-esr-public/
+2023-24,4237,1660,39.1787,1948,750,2289,910,https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-sise-effectifs-d-etudiants-inscrits-esr-public/
+2024-25,4342,1645,37.8858,2057,721,2285,924,https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-sise-effectifs-d-etudiants-inscrits-esr-public/

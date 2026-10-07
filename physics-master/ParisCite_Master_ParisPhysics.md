@@ -122,7 +122,7 @@ S4. **Canada EEF 2027 calendar**：https://www.canada.campusfrance.org/fr/candid
 
 官方来源：https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/physique-fondamentale-et-applications-K2VO0C50/master-physique-fondamentale-et-applications-m1-parcours-paris-physics-master-JS1XR1EO.html
 
-完整口径、访问缺口和教育部公开数据年份见[法国五校2026统计核查](../application/phy-master-plan/France_Physics_2026_Applications_Capacity.md)。**Last-verified：2026-10-03。**
+完整口径、访问缺口和教育部公开数据年份见[法国五校物理硕士国际生五年统计](../application/phy-master-plan/france/Five_Universities_Physics_Master_International_2020_2025.md)。**Last-verified：2026-10-03。**
 
 ## 申请前导师联系要求补核（2026-10-05）
 

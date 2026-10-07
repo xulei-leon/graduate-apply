@@ -1,0 +1,17 @@
+{
+  "verified_on": "2026-10-07",
+  "dataset": "fr-esr-sise-effectifs-d-etudiants-inscrits-esr-public",
+  "https_endpoint": "https://data.enseignementsup-recherche.gouv.fr/api/explore/v2.1/catalog/datasets/fr-esr-sise-effectifs-d-etudiants-inscrits-esr-public/records",
+  "query_where": "sect_disciplinaire=\"02\" AND diplome=\"MAS_M_MAS_AUT\" AND annee_universitaire in (\"2022-23\",\"2023-24\",\"2024-25\")",
+  "query_group_by": "annee_universitaire,niveau,niveau_lib,mobilite_intern,mobilite_intern_lib",
+  "query_select": "annee_universitaire,niveau,niveau_lib,mobilite_intern,mobilite_intern_lib,sum(effectif_sans_cpge) as students",
+  "international_rows_filter": "mobilite_intern=\"M\"",
+  "count_kind": "primary_registrations_stock",
+  "international_applicants": null,
+  "international_offers": null,
+  "international_admission_rate": null,
+  "missing_status": "not_verified",
+  "chinese_physics_master_count": null,
+  "chinese_status": "no individual China nationality field",
+  "platform_reference_is_international": false
+}

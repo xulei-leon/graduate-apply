@@ -1,0 +1,183 @@
+{
+  "created_on": "2026-10-07",
+  "source_verified_on": "2026-10-07",
+  "estimate_status": "analytical approximation explicitly requested by user",
+  "not_a_statistical_confidence_interval": true,
+  "not_a_2027_forecast": true,
+  "official_data_unchanged": true,
+  "primary_scale_estimates": [
+    {
+      "school": "PSL",
+      "method": "rounded historical observed range, not future forecast",
+      "international_definition": "SISE international mobility",
+      "source_period": "2022-23 to 2024-25",
+      "observed_stock_range": [
+        25,
+        34
+      ],
+      "observed_m1_range": [
+        10,
+        18
+      ],
+      "approximate_stock_range": [
+        25,
+        35
+      ],
+      "approximate_m1_range": [
+        10,
+        20
+      ],
+      "meaning": "rough stock scale, not reserved capacity, first-time intake or offers"
+    },
+    {
+      "school": "IP Paris",
+      "method": "explicit ratio scenario",
+      "source_period": "2022-23 total; proportions and M1 totals reported over evaluation period",
+      "total_stock": 75,
+      "assumed_international_share": [
+        0.4,
+        0.6
+      ],
+      "international_stock_estimate": [
+        30,
+        45
+      ],
+      "all_student_m1_range": [
+        15,
+        20
+      ],
+      "assumption": "M1 shares match the 40%-60% international share of overall cohorts",
+      "international_m1_estimate": [
+        6,
+        12
+      ],
+      "meaning": "scenario, not official count or reserved capacity"
+    },
+    {
+      "school": "Sorbonne",
+      "method": "rounded historical observed range, not future forecast",
+      "international_definition": "SISE international mobility",
+      "source_period": "2020-21 to 2024-25",
+      "observed_stock_range": [
+        95,
+        124
+      ],
+      "observed_m1_range": [
+        41,
+        53
+      ],
+      "approximate_stock_range": [
+        95,
+        125
+      ],
+      "approximate_m1_range": [
+        40,
+        55
+      ],
+      "meaning": "rough stock scale, not reserved capacity, first-time intake or offers"
+    },
+    {
+      "school": "Paris-Saclay",
+      "method": "rounded historical observed range, not future forecast",
+      "international_definition": "SISE international mobility",
+      "source_period": "2020-21 to 2024-25",
+      "observed_stock_range": [
+        135,
+        204
+      ],
+      "observed_m1_range": [
+        49,
+        93
+      ],
+      "approximate_stock_range": [
+        135,
+        205
+      ],
+      "approximate_m1_range": [
+        50,
+        95
+      ],
+      "meaning": "rough stock scale, not reserved capacity, first-time intake or offers"
+    },
+    {
+      "school": "Paris Cité",
+      "method": "rounded historical observed range, not future forecast",
+      "international_definition": "SISE international mobility",
+      "source_period": "2020-21 to 2024-25",
+      "observed_stock_range": [
+        45,
+        75
+      ],
+      "observed_m1_range": [
+        19,
+        37
+      ],
+      "approximate_stock_range": [
+        45,
+        75
+      ],
+      "approximate_m1_range": [
+        20,
+        40
+      ],
+      "meaning": "rough stock scale, not reserved capacity, first-time intake or offers"
+    }
+  ],
+  "alternative_hceres_scenarios": [
+    {
+      "school": "Paris-Saclay",
+      "method": "user-requested Hceres scenario",
+      "total_stock": 643,
+      "reported_international_share": "a little over 10%, no upper bound provided",
+      "assumed_share": [
+        0.1,
+        0.125
+      ],
+      "calculated_stock": [
+        64.3,
+        80.375
+      ],
+      "display_stock": [
+        65,
+        80
+      ],
+      "all_student_m1_reference": 300,
+      "assumption": "international share is the same in M1 as the overall master",
+      "calculated_m1": [
+        30,
+        37.5
+      ],
+      "display_m1": [
+        30,
+        40
+      ],
+      "scope_warning": "Hceres definition and program scope do not align with SISE; not General Physics reserved international capacity"
+    },
+    {
+      "school": "PSL",
+      "method": "historical Hceres share sensitivity scenario",
+      "total_stock": 51,
+      "historical_share_range": [
+        0.14,
+        0.31
+      ],
+      "calculated_stock": [
+        7.14,
+        15.81
+      ],
+      "display_stock": [
+        7,
+        16
+      ],
+      "assumption": "apply historical percentages to the 2021-22 total and split 50/50 between M1 and M2",
+      "display_m1": [
+        4,
+        8
+      ],
+      "scope_warning": "uses different years as scenarios, not annual official observations; not full joint ICFP enrollment"
+    }
+  ],
+  "international_applicants_estimated": false,
+  "international_offers_estimated": false,
+  "international_admission_rate_estimated": false
+}

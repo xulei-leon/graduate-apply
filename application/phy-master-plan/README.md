@@ -9,8 +9,8 @@ PDF开头新增“Summary · 申请数量汇总”，随后为“地区候选总
 - [地区候选总览 PDF](Physics_Masters_Overview.pdf)
 - [当前 Markdown](Physics_Masters_Overview.md)
 - [2027 入学申请时间表](Physics_Masters_Timeline.md)
-- [Paris-Saclay M1 / DS / EEF 专项核查](ParisSaclay_M1_Physics_DS_EEF_20261003.md)
-- [法国物理项目 2026 申请人数与容量](France_Physics_2026_Applications_Capacity.md)
+- [法国分析材料与国际生统计索引](france/README.md)
+- [法国五校物理硕士国际生五年统计](france/Five_Universities_Physics_Master_International_2020_2025.md)
 - [39所学校索引及档案](../../physics-master/README.md)
 - [结构化事实快照](Physics_Masters_Overview.json)
 

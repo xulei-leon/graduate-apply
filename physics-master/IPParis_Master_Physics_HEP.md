@@ -117,7 +117,7 @@ HEP M1项目页明确2份，由推荐人直接在线提交。FAQ中内部学生�
 
 官方来源：https://www.ip-paris.fr/en/education/graduate-programs/masters-science/physics-program/master-year-1-high-energy-physics
 
-完整口径、访问缺口和教育部公开数据年份见[法国五校2026统计核查](../application/phy-master-plan/France_Physics_2026_Applications_Capacity.md)。**Last-verified：2026-10-03。**
+完整口径、访问缺口和教育部公开数据年份见[法国五校物理硕士国际生五年统计](../application/phy-master-plan/france/Five_Universities_Physics_Master_International_2020_2025.md)。**Last-verified：2026-10-03。**
 
 ## 申请前导师联系要求补核（2026-10-05）
 
