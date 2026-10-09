@@ -114,3 +114,17 @@ S1. **Physics admissions / terminal MS / dates**：https://physics.utexas.edu/ac
 - https://physics.utexas.edu/academics/courses
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## 2027申请启动核查（2026-10-09）
+
+系页仅有年度12-01截止；校级流程与公开申请入口未列2027准确启动日，保留未公布。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-10-09**。未确认日期不升级为2027公告；其他字段核查日期保持原记录。
+
+官方来源：
+
+- https://physics.utexas.edu/academics/admissions
+- https://students.gradschool.utexas.edu/portal/app
+- https://gradschool.utexas.edu/how-to-apply
+
+逐项结果及访问缺口见[本轮启动核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261009.md)。

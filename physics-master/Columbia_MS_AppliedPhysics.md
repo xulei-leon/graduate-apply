@@ -120,3 +120,17 @@ Applied Physics MS允许CS、Data Science等跨系选修，但此项不是Comput
 - https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/applied-physics-applied-mathematics/graduate-programs/applied-physics-ms/
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## 2027申请启动核查（2026-10-09）
+
+Applied Physics MS及Engineering bulletin没有2027启动日；Engineering admissions入口首次超时，重试重定向后HTTP 403，保留待核。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-10-09**。未确认日期不升级为2027公告；其他字段核查日期保持原记录。
+
+官方来源：
+
+- https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/applied-physics-applied-mathematics/graduate-programs/applied-physics-ms/
+- https://bulletin.columbia.edu/columbia-engineering/graduate-studies/graduate-admissions/
+- https://gradengineering.columbia.edu/admissions
+
+逐项结果及访问缺口见[本轮启动核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261009.md)。

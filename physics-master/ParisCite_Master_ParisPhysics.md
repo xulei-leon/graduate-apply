@@ -151,3 +151,17 @@ S4. **Canada EEF 2027 calendar**：https://www.canada.campusfrance.org/fr/candid
 - https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/physique-fondamentale-et-applications-K2VO0C50/master-physique-fondamentale-et-applications-m1-parcours-paris-physics-master-JS1XR1EO.html
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## 2027申请启动核查（2026-10-09）
+
+联合PPM项目与中央申请页未列2027项目准确开窗；EEF 2027/28通用10-01仍不能确认本项目渠道和启动，保留待核。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-10-09**。未确认日期不升级为2027公告；其他字段核查日期保持原记录。
+
+官方来源：
+
+- https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/physique-fondamentale-et-applications-K2VO0C50/master-physique-fondamentale-et-applications-m1-parcours-paris-physics-master-JS1XR1EO.html
+- https://u-paris.fr/candidater-a-universite-paris-cite/
+- https://www.canada.campusfrance.org/fr/candidature-eef
+
+逐项结果及访问缺口见[本轮启动核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261009.md)。

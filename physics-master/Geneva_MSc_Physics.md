@@ -129,3 +129,17 @@ Physics programme page未核到完整推荐材料要求，不能由项目介绍�
 - https://www.unige.ch/sciences/physique/enseignement/master
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## 2027申请启动核查（2026-10-09）
+
+Physics页为年度02-28需visa／04-30截止；中央页仅称mid-January可申请下一秋季，所列September 2027专属节点属于Conference Interpreting，不套Physics，保留未公布。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-10-09**。未确认日期不升级为2027公告；其他字段核查日期保持原记录。
+
+官方来源：
+
+- https://www.unige.ch/sciences/physique/enseignement/master
+- https://www.unige.ch/admissions/englishcorner/general
+- https://www.unige.ch/admissions/sinscrire/
+
+逐项结果及访问缺口见[本轮启动核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261009.md)。

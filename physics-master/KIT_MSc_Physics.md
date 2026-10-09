@@ -141,3 +141,18 @@ Physics专属页面未列必交推荐信；国际招生通用页说部分项目�
 - https://www.sle.kit.edu/english/vorstudium/master-physics.php
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## 2027申请启动核查（2026-10-09）
+
+项目、国际申请及中央截止页未明确2027冬季Physics开窗；2027授课日历及年度规则不替代申请启动，保留未公布。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-10-09**。未确认日期不升级为2027公告；其他字段核查日期保持原记录。
+
+官方来源：
+
+- https://www.sle.kit.edu/english/vorstudium/master-physics.php
+- https://www.intl.kit.edu/istudies/9074.php
+- https://www.sle.kit.edu/english/vorstudium/3968.php
+- https://www.intl.kit.edu/istudies/15207.php
+
+逐项结果及访问缺口见[本轮启动核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261009.md)。

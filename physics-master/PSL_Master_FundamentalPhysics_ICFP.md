@@ -24,8 +24,8 @@
 | Recommendation count / 推荐数量 | 2封（M1） |
 | Recommendation policy / 提交与例外 | ICFP官方材料清单明确M1需2 Letters of Reference；M2是两位referees联系信息。本科学历申请M1，2027平台及推荐提交截止仍需复核。 |
 | Cohort size / 年度规模 | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。 |
-| Deadline / 主申请与奖学金 | M1当前窗口2025-11-24至2026-01-23 23:59 CET；2027未发布。M2窗口不适用于只有本科的HY。 |
-| Deadline evidence / 时间依据 | 仅公布2026周期，2027待发布 |
+| Deadline / 主申请与奖学金 | 保留2026 M1参考窗口2025-11-24至2026-01-23 23:59 CET；2027来源不一致待核（2026-10-09）。M2窗口不适用于只有本科的HY。 |
+| Deadline evidence / 时间依据 | PSL仍列2026周期；ENS新日期与标题不一致，2027待核 |
 | International tuition / 学费 | 2026-27 French/EU EUR255/year；non-EU未获豁免EUR3,950/year；2027-28及本人豁免待确认。 |
 | Funding / TA / RA | competitive scholarships，非录取自动资助；应准备自费。 |
 
@@ -83,7 +83,7 @@ ICFP官方材料清单明确M1需2 Letters of Reference；M2是两位referees联
 
 | 字段 | 信息 |
 |---|---|
-| Application cycle / 启动至截止 | 2027待公布；2026 M1参考：2025-11-24 → 2026-01-23 23:59 CET |
+| Application cycle / 启动至截止 | 来源不一致待核；保留2026 M1参考：2025-11-24 → 2026-01-23 23:59 CET |
 | 周期说明 | 年度月日仅作准备依据；2027批次须按申请系统确认。 |
 
 官方日期来源：https://psl.eu/en/education/master-s-degree-physics
@@ -134,3 +134,17 @@ PSL项目概览未确认独立Computational Physics方向；ICFP专属网站HTTP
 - https://psl.eu/en/education/master-s-degree-physics
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## 2027申请启动核查（2026-10-09）
+
+来源不一致待核：ENS ICFP M1页列2026-11-26开放、2027-01-22申请及推荐截止；该段标题仍为2026/2027，PSL项目页仍列2025-11-24至2026-01-23。申请平台TLS证书验证失败，不能消除批次疑点。保留11-24往年值，不将11-26作为已确认2027启动。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-10-09**。未确认日期不升级为2027公告；其他字段核查日期保持原记录。
+
+官方来源：
+
+- https://psl.eu/en/education/master-s-degree-physics
+- https://www.phys.ens.fr/fr/formations/master-icfp
+- https://espacecandidature.psl.eu/s/login/?language=fr&ec=302&startURL=%2Fs%2FformationsPSL%3Flanguage%3Den_US
+
+逐项结果及访问缺口见[本轮启动核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261009.md)。

@@ -159,3 +159,17 @@ International Track 提供双学位选择，第二年在 ETH Zürich 就读；�
 官方来源：https://www.ip-paris.fr/en/education/graduate-programs/masters-science/physics-program/master-year-1-high-energy-physics
 
 **本字段 Last-verified：2026-10-06；其他字段核查日期不变。**
+
+## 2027申请启动核查（2026-10-09）
+
+National Master三轮仍为2026入学：2025-10-29、2026-01-09、2026-03-27启动；2027三轮均未确认，全部保留往年日期及标记。不套PhD Track或MonMaster其他渠道。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-10-09**。未确认日期不升级为2027公告；其他字段核查日期保持原记录。
+
+官方来源：
+
+- https://www.ip-paris.fr/en/education/graduate-programs/masters-science/physics-program/master-year-1-high-energy-physics
+- https://www.ip-paris.fr/en/education/useful-information/admissions
+- https://www.ip-paris.fr/en/education/graduate-programs/masters-science/faqs
+
+逐项结果及访问缺口见[本轮启动核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261009.md)。

@@ -1,8 +1,10 @@
 # 物理硕士申请时间表｜2027 入学
 
-范围：overview中的39所学校。★或★★＝18所优先申请（总览中黄色或粉红色标记学校）；★★表示其中7所用户指定高排名学校。日期按学校当地时间；**Sorbonne** 与Paris Cité联办PPM，39所学校记录不等于39次独立申请。
+范围：overview中的39所学校。★或★★＝19所优先申请（总览中黄色或粉红色标记学校）；★★表示其中8所用户指定重点冲刺学校（新增UBC）。日期按学校当地时间；**Sorbonne** 与Paris Cité联办PPM，39所学校记录不等于39次独立申请。
 
-样式：优先申请学校名加粗。
+样式：优先申请学校名加粗。德国项目统一按2027冬季／10月入学安排；申请日期采用相应年度规则，2027专属公告及系统日期仍须确认。
+
+推荐信执行配套：[8所重点冲刺优先P＋B方案（2026-10-09修订）](Physics_Masters_Recommendation_Plan.md)。UBC新增P8／B8＋国内信；冲刺8校占全部P8和B8，基础剩余B2给Queen’s、McMaster，Western建议追加1次B；UT Austin须另落实第三位独立推荐人后再配置B增额。UBC日期待公布，不编造月度节点。方案另有Queen’s年度01-07及ENS当前M1的01-22收信说明。
 
 **offer时间口径（2026-10-05核查）：** 新增列记录预计发放offer／通知录取结果的时间，不代表申请人一定获录取。沿用年度规则的时间注明“年度”；只有往年公告的注明“2026参考”；按官方相对时长换算到月份的注明“推算”。这些均不等同于已公布的2027专属日历。申请日期的逐校证据见下表；月度表中的往年月日仅供2027准备参考，不代表2027公告。
 
@@ -10,24 +12,24 @@
 |---|---|---|---|
 | **2026-09** | 09-01：WashU<br>09-15：**McGill★★** <br>09-16：Toronto<br>09-30：York | — | — |
 | **2026-10** | 10月初：SFU（通常）<br>10-29：**IP Paris★★** 第1轮（往年） | — | — |
-| **2026-11** | 11-01：ETH<br>11-01：**LMU★** 1月轮（年度；可申2027年10月入学）<br>11月中旬：**EPFL★★** 第1轮<br>11-24：**PSL／ENS★★** （往年） | 11-30：ETH，11:59 AM CET | — |
+| **2026-11** | 11-01：ETH<br>11-01：**LMU★** 1月轮（年度；可申2027年10月入学）<br>11月中旬：**EPFL★★** 第1轮<br>11-24：**PSL／ENS★★** （往年）（来源不一致待核） | 11-30：ETH，11:59 AM CET | — |
 | **2026-12** | 12-15：Stony Brook<br>12-16：**EPFL★★** 第2轮 | 12-01：**UT Austin★** <br>12-01：UVic优先／入学奖学金（年度）<br>12-11：Toronto<br>12-15：**McGill★★** <br>12-15：Georgia Tech<br>12-15：**EPFL★★** 首轮<br>12-30：**NYU★★** ，17:00 ET | **滚动开始：** SFU，12月起审理并陆续发放（年度）<br>Stony Brook，12-15起滚动审理；首封offer日未公布（年度） |
-| **2027-01** | 01-01：TUM<br>01-01：**UZH★** <br>01-01：**Paris-Saclay★** （往年）<br>01-09：**IP Paris★★** 第2轮（往年） | 01-08：**IP Paris★★** 第1轮（2026参考推算）<br>01-09：Waterloo<br>01-10：Texas A&M充分考虑／assistantships优先<br>01-15：York<br>01-15：Calgary<br>01-15：**LMU★** 1月轮<br>01-15：TUM提前审理节点<br>01-15：SFU入学奖学金建议节点（年度）<br>01-15：Tufts优先（年度）<br>01-23：**PSL／ENS★★** M1（2026参考推算）<br>01-31：**McMaster★** 奖学金充分考虑（年度） | SFU继续滚动；个人发放日待定<br>Stony Brook继续滚动；个人发放日待定 |
-| **2027-02** | 02-15：Hamburg | 02-01：Brown优先（Fall月日，2027须核系统）<br>02-28：Geneva<br>02-28：**UZH★** （需签证类别） | **滚动开始：** Texas A&M通常2月起（系级年度规则，未单列MS）<br>**集中通知：** Georgia Tech，2月（系级年度规则）<br>**分批：** **LMU★** 1月轮，截止后1个月内，预计不晚于02-15（年度推算；仅院系结果）<br>Tufts优先申请通常在2月下旬—3月中旬收到结果（滚动；校级6–8周推算） |
-| **2027-03** | 03-27：**IP Paris★★** 第3轮（往年） | 03-01：**Western★** 国际生<br>03-26：**IP Paris★★** 第2轮（2026参考推算）<br>03-31：Hamburg<br>03-31：**EPFL★★** 第二轮 | **分批：** **EPFL★★** 第1轮，3月下旬（年度）<br>TUM提前审理，3月中旬（须01-15前提交且材料完成核验；年度）<br>**IP Paris★★** 第1轮，轮次截止后2个月内，约不晚于3月上旬（2026参考推算）<br>**集中通知窗口：** **UT Austin★** 国际申请人，3月上旬至中旬（系级年度规则，未单列MS）<br>**滚动延续：** **NYU★★** 至3月底—4月初（系级年度规则；开始时间未公布）<br>Tufts优先申请参考窗口延续至3月中旬 |
+| **2027-01** | 01-01：TUM冬季入学（年度）<br> 01-01：**UZH★** <br>01-01：**Paris-Saclay★** （往年）<br>01-09：**IP Paris★★** 第2轮（往年） | 01-08：**IP Paris★★** 第1轮（2026参考推算）<br>01-09：Waterloo<br>01-10：Texas A&M充分考虑／assistantships优先<br>01-15：York<br>01-15：Calgary<br>01-15：**LMU★** 1月轮（可申冬季入学）<br>01-15：TUM冬季提前审理节点<br>01-15：SFU入学奖学金建议节点（年度）<br>01-15：Tufts优先（年度）<br>01-23：**PSL／ENS★★** M1（2026参考推算）<br>01-31：**McMaster★** 奖学金充分考虑（年度） | SFU继续滚动；个人发放日待定<br>Stony Brook继续滚动；个人发放日待定 |
+| **2027-02** | 02-15：Hamburg冬季入学（年度） | 02-01：Brown优先（Fall月日，2027须核系统）<br>02-28：Geneva<br>02-28：**UZH★** （需签证类别） | **滚动开始：** Texas A&M通常2月起（系级年度规则，未单列MS）<br>**集中通知：** Georgia Tech，2月（系级年度规则）<br>**分批：** **LMU★** 1月轮，截止后1个月内，预计不晚于02-15（年度推算；仅院系结果）<br>Tufts优先申请通常在2月下旬—3月中旬收到结果（滚动；校级6–8周推算） |
+| **2027-03** | 03-27：**IP Paris★★** 第3轮（往年） | 03-01：**Western★** 国际生<br>03-26：**IP Paris★★** 第2轮（2026参考推算）<br>03-31：Hamburg冬季入学（年度）<br>03-31：**EPFL★★** 第二轮 | **分批：** **EPFL★★** 第1轮，3月下旬（年度）<br>TUM冬季提前审理，3月中旬（须01-15前提交且材料完成核验；年度）<br>**IP Paris★★** 第1轮，轮次截止后2个月内，约不晚于3月上旬（2026参考推算）<br>**集中通知窗口：** **UT Austin★** 国际申请人，3月上旬至中旬（系级年度规则，未单列MS）<br>**滚动延续：** **NYU★★** 至3月底—4月初（系级年度规则；开始时间未公布）<br>Tufts优先申请参考窗口延续至3月中旬 |
 | **2027-04** | — | 04-01：Brown<br>04-15：Tufts<br>04-30：**McMaster★** | **NYU★★** 滚动结果参考延续至4月初<br>WashU多数结果在04-01前可查（校级参考；MA专属安排待核） |
-| **2027-05** | 05-01：**LMU★** 7月轮 | 05-01：Stony Brook国际生<br>05-28：**IP Paris★★** 第3轮（2026参考推算）<br>05-31：TUM<br>05-31：SFU<br>05-31：Bern（纸质材料，在线截止另核） | **统一通知：** Hamburg正式结果参考5月下旬（2026日历，2027待公布；院系可能提前通知）<br>**分批：** **IP Paris★★** 第2轮，轮次截止后2个月内，约不晚于5月下旬（2026参考推算）<br>**滚动：** Tufts常规申请通常5月下旬—6月上旬收到结果（校级6–8周推算） |
+| **2027-05** | 05-01：**LMU★** 7月轮（可申冬季入学） | 05-01：Stony Brook国际生<br>05-28：**IP Paris★★** 第3轮（2026参考推算）<br>05-31：TUM冬季入学（年度）<br>05-31：SFU<br>05-31：Bern（纸质材料，在线截止另核） | **统一通知：** Hamburg正式结果参考5月下旬（2026日历，2027待公布）<br>**分批：** **IP Paris★★** 第2轮，轮次截止后2个月内，约不晚于5月下旬（2026参考推算）<br>**滚动：** Tufts常规申请通常5月下旬—6月上旬收到结果（校级6–8周推算） |
 | **2027-06** | — | — | **分批：** **EPFL★★** 第2轮，6月中旬（年度）<br>Tufts常规申请参考窗口延续至6月上旬 |
-| **2027-07** | — | 07-06：**Paris-Saclay★** （2026参考推算）<br>07-15：**LMU★** 7月轮<br>07-15：**Heidelberg★** （non-EU类别）<br>07-15：**KIT★** （non-EU类别） | **分批：** TUM常规轮通常7月底，约截止后8周（年度）<br>**IP Paris★★** 第3轮，轮次截止后2个月内，约不晚于7月下旬（2026参考推算）<br>**LMU★** 7月轮通知窗口在07-15后至08-15（年度推算；仅院系结果） |
-| **2027-08** | — | 08-01：UVic补录<br>08-01：Tufts滚动申请 | **分批：** **LMU★** 7月轮预计不晚于08-15通知院系结果（年度推算）；International Office正式录取另核<br>Tufts余位滚动，个人发放日待定 |
+| **2027-07** | — | 07-06：**Paris-Saclay★** （2026参考推算）<br>07-15：**LMU★** 7月轮<br>07-15：**Heidelberg★** 冬季入学（non-EU年度）<br>07-15：**KIT★** 冬季入学（non-EU年度） | **分批：** TUM冬季常规轮通常7月底（年度）<br>**IP Paris★★** 第3轮，轮次截止后2个月内，约不晚于7月下旬（2026参考推算）<br>**LMU★** 7月轮截止后1个月内通知，预计不晚于08-15（年度推算；仅院系结果） |
+| **2027-08** | — | 08-01：UVic补录<br>08-01：Tufts滚动申请 | **LMU★** 7月轮预计不晚于08-15通知院系结果（年度推算）；International Office正式录取另核<br>Tufts余位滚动，个人发放日待定 |
 
 “—”表示本月未核到可定位的offer节点，不表示该月没有学校发offer。滚动录取项目可能跨月发放，申请截止日也不是offer发放结束日。未能定位月份的学校见下表。
 
 **2026年9月前已启动：** Texas A&M 2026-08-01（CAS年份冲突待核）。
 
-**启动日期待核：** UBC、Waterloo、**Alberta★** 、**McMaster★** 、**Queen’s★** 、**Western★** 、UVic、Calgary、**Melbourne★★** 、Brown、**Northwestern★★** 、**NYU★★** 、**UT Austin★** 、Georgia Tech、Columbia、Tufts、**Sorbonne★** ／Paris Cité联合PPM、**Heidelberg★** 、**KIT★** 、Geneva、Bern。
+**启动日期待核：** **UBC★★**、Waterloo、**Alberta★** 、**McMaster★** 、**Queen’s★** 、**Western★** 、UVic、Calgary、**Melbourne★★** 、Brown、**Northwestern★★** 、**NYU★★** 、**UT Austin★** 、Georgia Tech、Columbia、Tufts、**Sorbonne★** ／Paris Cité联合PPM、**Heidelberg★** 、**KIT★** 、Geneva、Bern。Heidelberg与KIT的2027冬季开放日均待核。
 
-**轮次说明：** **EPFL★★** 第1轮、第2轮分别列出；**IP Paris★★** 第1轮、第2轮、第3轮分别列出往年参考。TUM的提前审理是同一冬季入学申请的审理安排，不是新增申请轮。**LMU★** 1月轮可申请同年10月入学，因此补入2026-11-01至2027-01-15的年度窗口；7月轮也可申请2027年10月入学，不重复计算学校。
+**轮次说明：** **EPFL★★** 第1轮、第2轮分别列出；**IP Paris★★** 第1轮、第2轮、第3轮分别列出往年参考。德国统一按2027冬季入学：TUM为2027-01-01至05-31，01-15是同一申请的提前审理节点；**LMU★** 的2026-11-01至2027-01-15、2027-05-01至07-15两轮均可申请2027年10月入学；Hamburg为2027-02-15至03-31；**Heidelberg★** 与**KIT★** 的non-EU冬季截止均为2027-07-15，开放日待核。均按年度规则换算年份。
 
 **ANU：** 已获offer，接受期限以个人录取信为准。Bern的05-31为纸质材料截止，在线申请启动和截止另核。
 
@@ -42,7 +44,7 @@
 | 国家 | 学校／项目 | 申请启动时间 | 申请截止／重要节点 | 录取发放类型 | 预计 offer 发放时间与证据范围 | 官方来源（申请／offer） |
 |---|---|---|---|---|---|---|
 | 加拿大 | Toronto · MSc Physics | 2026-09-16（年度） | 2026-12-11 23:59（年度）；2027批次待确认 | 待核 | 所查系级页面未明确首批或统一通知时间；3月的admitted-applicant活动不能当作offer发放日。 | **申请：** https://www.physics.utoronto.ca/graduate/prospective-students/graduate-admissions-department-physics/application-information/<br>**offer：** https://www.physics.utoronto.ca/graduate/prospective-students/graduate-admissions-department-physics/application-information/<br>https://www.physics.utoronto.ca/graduate/prospective-students/graduate-admissions-department-physics/admissions-procedure/ |
-| 加拿大 | UBC · MSc Physics | 待公布 | 2027主截止及奖学金优先日待公布 | 待核 | 所查官方项目页未公布可核实的offer月份。 | **申请：** https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics<br>**offer：** https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics |
+| 加拿大 | **UBC★★** · MSc Physics | 待公布 | 2027主截止及奖学金优先日待公布 | 待核 | 所查官方项目页未公布可核实的offer月份。 | **申请：** https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics<br>**offer：** https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics |
 | 加拿大 | **McGill★★** · MSc Physics | 2026-09-15（年度） | 2026-12-15（年度）；2027批次待确认 | 待核 | 项目、系级申请与FAQ页未明确offer时间；12-15是申请截止。 | **申请：** https://www.mcgill.ca/gradapplicants/program/physics-msc<br>**offer：** https://www.mcgill.ca/gradapplicants/program/physics-msc<br>https://www.physics.mcgill.ca/grads/application.html<br>https://www.physics.mcgill.ca/grads/faq.html |
 | 加拿大 | Waterloo · MSc Physics | 未公布 | 2027-01-09（年度）；2027批次待确认 | 待核 | 所查how-to-apply页未公布发放时间；导师匹配进度不能换算为固定月份。 | **申请：** https://uwaterloo.ca/physics-astronomy/graduate-studies/how-apply<br>**offer：** https://uwaterloo.ca/physics-astronomy/graduate-studies/how-apply |
 | 加拿大 | **McMaster★** · MSc Physics & Astronomy | 未公布 | 2027-01-31奖学金充分考虑；2027-04-30主截止（年度，2027待确认） | 待核 | 所查项目及申请页未给出Physics MSc通知时间。 | **申请：** https://gs.mcmaster.ca/program/physics-and-astronomy/<br>**offer：** https://gs.mcmaster.ca/program/physics-and-astronomy/<br>https://gs.mcmaster.ca/how-to-apply/ |
@@ -65,16 +67,16 @@
 | 美国 | **NYU★★** · MS Physics | 未公布 | 2026-12-30 17:00 ET（年度）；遇周末／美国联邦假日顺延至下一工作日；2027批次待确认 | 滚动 | 系级graduate FAQ称滚动作决定，**延续至3月底—4月初**；开始月份未公布，未单列MS日历，2027 MS安排待确认。 | **申请：** https://gsas.nyu.edu/admissions/arc/programs/physics.html<br>**offer：** https://as.nyu.edu/nyu-as/as/departments/physics/programs/graduate/physics-graduate-admissions-faq.html<br>https://gsas.nyu.edu/admissions/arc/programs/physics.html |
 | 美国 | Texas A&M · MS Physics | **2026-08-01**（官网列日期，CAS周期待核） | **2027-01-10 full consideration**，含assistantships优先考虑；之后仍可申请，最终关闭日待核。页面残留Fall 2026及旧CAS链接，提交前核周期 | 滚动 | 系级年度FAQ：国际申请从2月审理，较早申请者offer**通常2月左右开始发放**；没有固定日，未分别列MS／PhD时间，不作为2027 MS首封保证。 | **申请：** https://artsci.tamu.edu/physics-astronomy/academics/prospective-graduates/how-to-apply.html<br>https://artsci.tamu.edu/physics-astronomy/academics/prospective-graduates/faqs.html<br>**offer：** https://artsci.tamu.edu/physics-astronomy/academics/prospective-graduates/faqs.html |
 | 美国 | Tufts · MS Physics | 未公布 | 2027-01-15 priority；2027-04-15 regular；余位滚动至2027-08-01（年度，2027专属公告待确认） | 滚动 | 校级FAQ明确滚动通知，**首封日期未公布**；多数申请人在最近项目截止后6–8周获结果。按年度01-15／04-15推算，参考窗口分别为**2月下旬—3月中旬／5月下旬—6月上旬**；余位滚动申请时间取决于个案，不将08-01当最后offer日。 | **申请：** https://asegrad.tufts.edu/program/physics-and-physics-astrophysics-masters<br>**offer：** https://asegrad.tufts.edu/program/physics-and-physics-astrophysics-masters<br>https://asegrad.tufts.edu/applying/faqs-about-application-process<br>https://asegrad.tufts.edu/applying/admissions-process |
-| 法国 | **PSL／ENS★★** · ICFP | 2027待公布；2026 M1参考：2025-11-24 | 2027待公布；2026 M1参考：2026-01-23 23:59 CET；不套M2窗口 | 待核 | 可访问的**PSL** 项目页未给出通知日期，ENS补充页面访问失败；不根据申请窗口猜测offer月份。 | **申请：** https://psl.eu/en/education/master-s-degree-physics<br>**offer：** https://psl.eu/en/education/master-s-degree-physics<br>https://www.phys.ens.fr/fr/formations/master-icfp |
+| 法国 | **PSL／ENS★★** · ICFP | 2027来源不一致待核；保留2026 M1参考：2025-11-24 | 2027来源不一致待核；保留2026 M1参考：2026-01-23 23:59 CET；不套M2窗口 | 待核 | 既有offer字段未升级：2026-10-09 ENS页面虽可读并列新M1日历，但批次标题与PSL来源不一致，2027适用性待核；详见本轮启动核查记录。 | **申请：** https://psl.eu/en/education/master-s-degree-physics<br>https://www.phys.ens.fr/fr/formations/master-icfp<br>**offer：** https://psl.eu/en/education/master-s-degree-physics<br>https://www.phys.ens.fr/fr/formations/master-icfp |
 | 法国 | **IP Paris★★** · High Energy Physics | 2027待公布；2026参考：第1轮2025-10-29／第2轮2026-01-09／第3轮2026-03-27 | 2027待公布；2026参考：第1轮2026-01-08／第2轮2026-03-26／第3轮2026-05-28；具体轮次按所选项目确认 | 分批；候补另行通知 | 官方FAQ：**每轮截止后最多2个月内通过邮件回复**。已公开2026三轮截止01-08／03-26／05-28；若2027沿用相近窗口，结果上限参考**3月上旬／5月下旬／7月下旬**。这是2026日历加官方处理时长的推算，2027轮次仍待公布；候补转录取／拒绝另发邮件。 | **申请：** https://www.ip-paris.fr/en/education/useful-information/admissions<br>**offer：** https://www.ip-paris.fr/en/education/useful-information/admissions<br>https://www.ip-paris.fr/en/education/graduate-programs/masters-science/faqs |
 | 法国 | **Sorbonne★** · Paris Physics Master | 待核；English M1专属窗口未核实 | 2027项目专属截止／申请渠道待核；联合PPM不重复计独立申请，不套Mon Master日历 | 待核 | 申请页本次请求失败；未确认English PPM专属结果日历，不套用Mon Master统一时间。与Paris Cité共同开设。 | **申请：** https://master.physique.sorbonne-universite.fr/fr/candidatures-inscription.html<br>**offer：** https://master.physique.sorbonne-universite.fr/fr/candidatures-inscription.html |
 | 法国 | **Paris-Saclay★** · M1 General Physics | 2027待公布；2026参考：2026-01-01 | 2027待公布；2026参考：2026-07-06（Inception）；不将往年日期写成2027公告 | 待核 | 所查项目和Master申请页未明确本项目offer日期，需以对应申请渠道／jury通知确认。 | **申请：** https://www.universite-paris-saclay.fr/en/education/masters-degree/physique-fondamentale-et-applications/m1-general-physics<br>**offer：** https://www.universite-paris-saclay.fr/en/education/masters-degree/physique-fondamentale-et-applications/m1-general-physics<br>https://www.universite-paris-saclay.fr/en/admission/masters-applications-and-enrolment |
 | 法国 | Paris Cité · Paris Physics Master | 待核；联合PPM专属窗口未核实 | 2027项目专属截止／渠道待核；加拿大EEF通用日历不能当PPM项目截止 | 待核 | 所查项目及申请入口未核到PPM专属结果日历；与**Sorbonne** 联合项目不重复计独立申请，不能默认适用Mon Master全国统一日历。 | **申请：** https://u-paris.fr/candidater-a-universite-paris-cite/<br>**offer：** https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/physique-fondamentale-et-applications-K2VO0C50/master-physique-fondamentale-et-applications-m1-parcours-paris-physics-master-JS1XR1EO.html |
-| 德国 | TUM · Physics (Applied & Engineering) | 2027-01-01（冬季入学年度窗口） | 2027-01-15提前审理节点；2027-05-31常规截止（年度，2027系统待确认）；本计划仅列2027冬季入学 | 分批：提前审理／常规审理 | 官方Physics申请页：**01-15前提交**可在2月委员会审议后于**3月中旬**获通知，前提是材料完成Enrollment Office核验；常规冬季申请通常在05-31截止后约8周、即**7月底**决定。均为年度规则。 | **申请：** https://academics.nat.tum.de/en/msc/ph/apply<br>**offer：** https://academics.nat.tum.de/en/msc/ph/apply |
-| 德国 | **LMU★** · MSc Astrophysics | 1月轮：2026-11-01；7月轮：2027-05-01（年度） | 1月轮2027-01-15；7月轮2027-07-15（年度，两轮均可申2027年10月入学）；International Office申请须并行核对 | 分批：1月轮／7月轮 | 官方：院系Selection Committee在**每轮截止后1个月内**以邮件和邮寄通知。按年度01-15／07-15推算，预计分别不晚于**02-15／08-15**；两轮都可申同年10月入学。国际生还须获International Office认可，院系通知不能等同最终完整录取。 | **申请：** https://www.physik.lmu.de/en/studies/study-programs/applying-to-a-masters-program/<br>**offer：** https://www.physik.lmu.de/en/studies/study-programs/applying-to-a-masters-program/ |
-| 德国 | Hamburg · MSc Physics (English) | 2027-02-15（年度） | 2027-03-31（年度，仅10月入学）；2027/28申请说明待公布 | 统一正式通知；可能提前通知及递补 | **2026参考：5月下旬**。国际Master日历列2026-05-27至06-03注册窗口，按指定日期在STiNE提供录取／拒绝信；院系可能先发预通知，递补无固定日。2027正式结果日期尚待公布，不把05-27直接改为2027已确认日期。 | **申请：** https://www.physik.uni-hamburg.de/studium/studiengaenge/masterstudiengaenge/msc-physics.html<br>**offer：** https://www.physik.uni-hamburg.de/studium/studiengaenge/masterstudiengaenge/msc-physics.html<br>https://www.uni-hamburg.de/campuscenter/studienorganisation/formulare-informationsmerkblaetter/informationen-online-bewerbung-internationale-master.pdf |
-| 德国 | **Heidelberg★** · MSc Physics | 未公布 | 2027-07-15（non-EU冬季入学年度节点）；2027批次待确认，不套EU截止 | 待核 | 所查项目与系级Master页面未给出固定offer时间；资格审核／可能面试不能自行换算为8月统一发放。 | **申请：** https://www.physik.uni-heidelberg.de/studium/master?lang=en<br>**offer：** https://www.physik.uni-heidelberg.de/studium/master?lang=en<br>https://www.uni-heidelberg.de/en/study/all-subjects/physics/physics-master |
-| 德国 | **KIT★** · MSc Physics | 未公布 | 2027-07-15（non-EU冬季入学年度节点）；2027批次及INTL Masters规则待确认 | 待核 | 所查项目页未明确offer通知日历，不以non-EU申请截止推断发放月份。 | **申请：** https://www.sle.kit.edu/english/vorstudium/master-physics.php<br>**offer：** https://www.sle.kit.edu/english/vorstudium/master-physics.php |
+| 德国 | TUM · Physics (Applied & Engineering) | 2027-01-01（冬季入学年度窗口） | 2027-01-15提前审理节点；2027-05-31主截止（冬季年度规则） | 分批：提前／常规审理 | 01-15前提交且材料完成Enrollment Office核验者，年度规则为3月中旬通知；常规冬季申请通常在05-31截止后约8周、即7月底决定。 | **申请：** https://academics.nat.tum.de/en/msc/ph/apply<br>**offer：** https://academics.nat.tum.de/en/msc/ph/apply |
+| 德国 | **LMU★** · MSc Astrophysics | 1月轮：2026-11-01；7月轮：2027-05-01（年度） | 1月轮2027-01-15；7月轮2027-07-15（均可申2027年10月冬季入学）；International Office须并行申请 | 分批：1月轮／7月轮 | 院系在每轮截止后1个月内通知，预计不晚于2027-02-15／08-15（年度推算）。International Office正式录取另核；冬季注册要求October 1前完成本科。 | **申请：** https://www.physik.lmu.de/en/studies/study-programs/applying-to-a-masters-program/<br>**offer：** https://www.physik.lmu.de/en/studies/study-programs/applying-to-a-masters-program/ |
+| 德国 | Hamburg · MSc Physics (English) | 2027-02-15（冬季年度窗口） | 2027-03-31（冬季／10月入学年度规则）；2027/28公告待确认 | 统一正式通知；可能提前通知及递补 | 2026参考：5月下旬正式通知；2027准确通知日期待公布，不将往年日期直接视为2027已确认日期。 | **申请：** https://www.physik.uni-hamburg.de/studium/studiengaenge/masterstudiengaenge/msc-physics.html<br>**offer：** https://www.physik.uni-hamburg.de/studium/studiengaenge/masterstudiengaenge/msc-physics.html<br>https://www.uni-hamburg.de/campuscenter/studienorganisation/formulare-informationsmerkblaetter/informationen-online-bewerbung-internationale-master.pdf |
+| 德国 | **Heidelberg★** · MSc Physics | 冬季开放日待核 | 2027-07-15（non-EU冬季入学年度截止） | 待核 | 官方页面未给出固定冬季offer时间；不以截止日或面试自行推算。 | **申请：** https://www.physik.uni-heidelberg.de/studium/master?lang=en<br>**offer：** https://www.physik.uni-heidelberg.de/studium/master?lang=en<br>https://www.uni-heidelberg.de/en/study/all-subjects/physics/physics-master |
+| 德国 | **KIT★** · MSc Physics | 冬季开放日待核 | 2027-07-15（Non-EU nationals冬季年度截止） | 待核 | 项目页未明确冬季offer通知日历。 | **申请：** https://www.sle.kit.edu/english/vorstudium/master-physics.php<br>**offer：** https://www.sle.kit.edu/english/vorstudium/master-physics.php |
 | 瑞士 | ETH · MSc Physics | **2026-11-01**（Autumn Semester 2027已公布） | **2026-11-30 11:59 AM CET**（国际本科／ESOP窗口）；不是午夜，不使用Swiss Bachelor第二轮 | 待核 | 已核2027国际本科申请窗口，但所查官方日期及Master申请页未取得对应offer发放时间；不能把11月截止或Swiss Bachelor第二轮日期当作通知日。 | **申请：** https://ethz.ch/en/studies/master/application/dates.html<br>**offer：** https://ethz.ch/en/studies/master/application/dates.html<br>https://ethz.ch/en/studies/master/application.html |
 | 瑞士 | **EPFL★★** · MSc Physics | 第1轮：2026年11月中旬；第2轮：2026-12-16（年度） | 第1轮2026-12-15；第2轮2027-03-31（年度）；推荐信截止在每轮申请截止后1周，以确认邮件为准；2027批次待确认 | 分批：两轮 | 官方年度规则：12-15前提交者**3月下旬**获决定；03-31前提交者**6月中旬**获决定。对应预计2027年3月下旬／6月中旬，2027专属公告仍待确认。 | **申请：** https://www.epfl.ch/education/admission/master-admission-criteria-application/online-application/<br>**offer：** https://www.epfl.ch/education/admission/master-admission-criteria-application/<br>https://www.epfl.ch/education/admission/master-admission-criteria-application/online-application/ |
 | 瑞士 | Geneva · MSc Physics | 未公布 | 2027-02-28（需visa类别年度节点）；2027批次待确认，其他身份截止不能套用 | 待核 | 所查Physics及注册入口未明确offer时间；02-28签证类别截止不等同结果日期。 | **申请：** https://www.unige.ch/sciences/physique/enseignement/master<br>**offer：** https://www.unige.ch/sciences/physique/enseignement/master<br>https://www.unige.ch/immatriculations/en/ |
@@ -92,3 +94,28 @@
 项目渠道确认：https://physics.wustl.edu/how-apply
 
 **本字段Last-verified／last-attempted：2026-10-06。** 逐项状态、适用入学批次及官方URL见[启动日期核查记录](audit/application-opening-source-audit-20261006.md)。上文2026-10-03／05为既有申请及offer核查日期；本轮仅更新有明确证据的申请启动字段，不重标offer字段。
+
+
+## 2027申请启动复核（2026-10-09）
+
+本轮按现行文件核查5条往年轮次与21组启动待核条目（联合PPM两份档案），共25份项目档案／27条结果；未确认可更新的2027准确启动日。PSL／ENS普通M1出现来源不一致：ENS列2026-11-26开放，但标题仍为2026/2027，PSL仍列旧批次；申请平台TLS失败，故保留11-24往年值并标待核。其余原值、星号、轮次、月份及启动待核清单不变。每项可见官方URL、适用入学计划及最后核实日期见[本轮核查记录](audit/application-opening-source-audit-20261009.md)。
+
+## 德国统一冬季入学日期（2026-10-09修订）
+
+德国5校统一按2027冬季／10月入学执行，overview、月度表和逐校表已同步。依据本日直接HTTPS核查的官方年度规则：TUM为January 1 to May 31（January 15为提前审理节点）；LMU Astrophysics的November 1至January 15、May 1至July 15两轮均可申请同年October入学；Hamburg为February 15至March 31；Heidelberg与KIT的non-EU冬季截止均为July 15，开放日仍待核。2027专属日历与portal日期须在提交前核对。
+
+KIT官网2026-12-01开放、January 15截止属于夏季申请，已从本计划的冬季节点移除。LMU冬季注册须October 1前完成本科；此前夏季April 1毕业要求不适用于当前冬季计划。
+
+官方来源：
+
+- TUM：https://academics.nat.tum.de/en/msc/ph/apply
+- LMU：https://www.physik.lmu.de/en/studies/study-programs/applying-to-a-masters-program/
+- Hamburg：https://www.physik.uni-hamburg.de/studium/studiengaenge/masterstudiengaenge/msc-physics.html
+- Heidelberg：https://www.physik.uni-heidelberg.de/studium/master?lang=en
+- KIT：https://www.sle.kit.edu/english/vorstudium/master-physics.php
+
+本字段Last-verified：2026-10-09；入学期按用户最新要求改为冬季。
+
+## UBC重点冲刺更新（2026-10-09）
+
+UBC升为★★重点冲刺，推荐配置P＋B＋第三份独立推荐；官网需3份references，下一批次开窗／截止尚未配置，故只标记逐校行与待核清单，不新增猜测的月度日期。当前重点申请19所、冲刺8所；UBC Physics与已有Astronomy套磁材料分开核，未自动切换项目。官方来源：https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics 。本字段核查：2026-10-09。

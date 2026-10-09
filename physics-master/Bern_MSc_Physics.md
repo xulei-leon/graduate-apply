@@ -137,3 +137,17 @@ international Master checklist的Physics项需本科论文摘要或无论文说�
 - https://www.philnat.unibe.ch/studium/studienprogramme/master_physik/index_ger.html
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## 2027申请启动核查（2026-10-09）
+
+秋季中央页为年度01-01起处理申请、非医学Master年度04-30在线节点；国际材料仍区分纸质流程，未明确2027准确开窗，保留启动待核及既有截止待核状态。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-10-09**。未确认日期不升级为2027公告；其他字段核查日期保持原记录。
+
+官方来源：
+
+- https://www.philnat.unibe.ch/studium/studienprogramme/master_physik/index_ger.html
+- https://www.unibe.ch/studium/studienangebote/master/bewerbung/international/index_ger.html
+- https://www.unibe.ch/studium/daten/studierende/herbst/index_ger.html
+
+逐项结果及访问缺口见[本轮启动核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261009.md)。

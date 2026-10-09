@@ -122,3 +122,17 @@ S2. **Admissions (403 on this check)**：https://www.ualberta.ca/en/physics/grad
 - https://www.ualberta.ca/en/physics/graduate-studies/index.html
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## 2027申请启动核查（2026-10-09）
+
+Graduate Studies页可访问并提到27/28研究机会，但旧admissions入口HTTP 404；沿页面定位的新For applicants入口HTTP 403。未确认2027启动，保留待核。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-10-09**。未确认日期不升级为2027公告；其他字段核查日期保持原记录。
+
+官方来源：
+
+- https://www.ualberta.ca/en/physics/graduate-studies/index.html
+- https://www.ualberta.ca/en/physics/graduate-studies/admissions.html
+- https://www.ualberta.ca/en/physics/graduate-studies/information-for-prospective-students-and-applicants/index.html
+
+逐项结果及访问缺口见[本轮启动核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261009.md)。

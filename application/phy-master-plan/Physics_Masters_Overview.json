@@ -172,7 +172,7 @@
       "rank_key": "University of British Columbia",
       "match": "High",
       "difficulty": "Reach",
-      "priority": "冲刺；导师方向先匹配；计算物理：导师研究提及",
+      "priority": "重点冲刺；P/B推荐预留；导师方向先匹配；计算物理：导师研究提及",
       "qualification": "项目期望三、四年级平均80%+；3.0须分段审查。",
       "duration": "通常约2年；官网历史平均2.3年",
       "research": "至少30 credits，其中18-credit thesis、12 credits graduate coursework；须public research presentation。",
@@ -231,11 +231,11 @@
       "recommendation_required": "必需",
       "recommendation_count": "3份",
       "recommendation_note": "Physics MSc明确要求3份references；推荐人按学校在线渠道提交。",
-      "recommendation_verified": "2026-10-02",
+      "recommendation_verified": "2026-10-09",
       "recommendation_sources": [
         "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics"
       ],
-      "priority_application": false,
+      "priority_application": true,
       "application_cycle": "启动待公布 → 截止待公布；官网未配置下一批次日期",
       "application_cycle_sources": [
         "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics"
@@ -276,8 +276,9 @@
         }
       },
       "priority_before_computational_audit": "冲刺；导师方向先匹配",
-      "summary_high_rank": false,
-      "highlight_color": null
+      "summary_high_rank": true,
+      "highlight_color": "#FFD9E6",
+      "priority_marker_updated": "2026-10-09"
     },
     {
       "country": "Canada",
@@ -5979,15 +5980,16 @@
     }
   },
   "recommendation_scope_note": "推荐信口径：必需、可选、官方清单未列必交和待核分别记录。未列要求不等于已确认0封；推荐人联系信息、在线评估与信件按官方实际形式区分。校级最低数与项目专属加额、入学与奖学金要求分别注明。",
-  "priority_application_scope": "2026-10-06用户指定：黄色或粉红色标记学校为优先申请，共18所。Texas A&M不再优先，IP Paris加入优先；ANU浅绿色表示已获offer。McGill、Melbourne、Northwestern、NYU、PSL、IP Paris、EPFL为用户指定高排名学校，整行粉红色，Summary学校名字加粗红色。此标记不改变学术资格或难度判断。",
+  "priority_application_scope": "2026-10-09用户指定：UBC新增重点冲刺，黄色或粉红色重点19所；红色加粗冲刺8所（UBC、McGill、Melbourne、Northwestern、NYU、PSL / ENS、IP Paris、EPFL）。已选39所；ANU已获offer不计重点；标记不改变资格或难度。",
   "summary": {
     "by_country": [
       {
         "country": "Canada",
         "label": "加拿大",
         "selected_count": 12,
-        "priority_count": 5,
+        "priority_count": 6,
         "priority_schools": [
+          "UBC",
           "McGill",
           "Alberta",
           "McMaster",
@@ -6050,8 +6052,9 @@
       }
     ],
     "selected_total": 39,
-    "priority_total": 18,
-    "count_basis": "学校记录数；黄色或粉红色标记学校为优先申请。ANU浅绿色表示已获offer，不计入优先申请。"
+    "priority_total": 19,
+    "count_basis": "学校记录数；黄色或粉红色标记学校为优先申请。ANU浅绿色表示已获offer，不计入优先申请。",
+    "reach_priority_total": 8
   },
   "computational_physics_audit": {
     "checked": "2026-10-05",
@@ -6070,5 +6073,6 @@
       "综合项目中的计算研究": 4,
       "计算证书配套路径": 1
     }
-  }
+  },
+  "priority_marker_updated": "2026-10-09"
 }

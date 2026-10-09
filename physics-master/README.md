@@ -464,10 +464,10 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <tr style="background:#FFD9E6;" data-priority-application="true">
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top"><strong>重点申请</strong><br><a href="PSL_Master_FundamentalPhysics_ICFP.md">Université PSL — Master’s degree in Physics — International Centre for Fundamental Physics (ICFP)</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">QS World University Rankings 2027综合 34；QS Physics &amp; Astronomy 2026 32；最新QS综合或Physics &amp; Astronomy前100已核。</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">Academic / Research；2年 /120 ECTS；本科毕业应申请M1；M1/M2 research internships与research-based training；各年论文/实习具体学分按track。<a href="https://psl.eu/en/education/master-s-degree-physics" style="color:inherit"><br><br><strong>申请周期：</strong><br>2027待公布；2026 M1参考：2025-11-24 → 2026-01-23 23:59 CET</a></td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">Academic / Research；2年 /120 ECTS；本科毕业应申请M1；M1/M2 research internships与research-based training；各年论文/实习具体学分按track。<a href="https://psl.eu/en/education/master-s-degree-physics" style="color:inherit"><br><br><strong>申请周期：</strong><br>来源不一致待核；保留2026 M1参考：2025-11-24 → 2026-01-23 23:59 CET</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">扎实Physics本科；高级QM/statistical与数学，file + interview选拔；无公开数字最低。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；Physics本科核心和严谨理论/数学；科研成果及面试能力。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">所查program page未列GRE要求。；English教学；现行ICFP语言证明/是否要求C1及UofT waiver未在所查program条款闭环。</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">M1当前窗口2025-11-24至2026-01-23 23:59 CET；2027未发布。M2窗口不适用于只有本科的HY。（仅公布2026周期，2027待发布）</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">保留2026 M1参考窗口2025-11-24至2026-01-23 23:59 CET；2027来源不一致待核（2026-10-09）。M2窗口不适用于只有本科的HY。（仅公布2026周期，2027待发布）</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">2026-27 French/EU EUR255/year；non-EU未获豁免EUR3,950/year；2027-28及本人豁免待确认。；competitive scholarships，非录取自动资助；应准备自费。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">High / Reach；强冲刺；需突出科研</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">强冲刺；需突出科研<br><br><strong><a href="https://psl.eu/en/education/master-s-degree-physics">计算物理：待核</a></strong></td>
@@ -755,3 +755,8 @@ WashU · MA Physics已确认Fall 2027校级统一开窗为2026-09-01；MA截止�
 ## 优先申请标记更新（2026-10-06）
 
 黄色或粉红色标记学校作为优先申请。Texas A&M取消优先，IP Paris加入优先；总数仍为18所，美国3所、法国4所。ANU浅绿色表示已获offer。McGill、Melbourne、Northwestern、NYU、PSL、IP Paris、EPFL为用户指定高排名学校，在总览Summary中使用加粗红色名称。此前2026-10-05关于Texas A&M重点标记的记录由本次更新取代。
+
+
+## 2027申请启动复核（2026-10-09）
+
+本轮范围内25份项目档案／27条项目与轮次结果均未确认可更新的2027启动日。PSL／ENS普通ICFP M1来源不一致，保留11-24往年参考并明确待核；ENS列2026-11-26、PSL仍为2025-11-24，不能把PhD Track或不明确的批次套入M1。每项官方URL、适用入学年份及最后核实／访问尝试日期见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261009.md)。学校39条、重点18所及既有申请优先级保持不变。

@@ -4,11 +4,12 @@
 
 当前汇总文件统一命名为`Physics_Masters_Overview`，提供PDF、Markdown及JSON事实快照。全部39所学校已加入推荐信必需性、数量及证据边界。
 
-PDF开头新增“Summary · 申请数量汇总”，随后为“地区候选总览”；共39所已选学校、18所用户指定优先申请学校。地区表格参考DS报告样式，不附封面或目录。
+PDF开头新增“Summary · 申请数量汇总”，随后为“地区候选总览”；共39所已选学校、19所用户指定优先申请学校，其中8所重点冲刺。地区表格参考DS报告样式，不附封面或目录。
 
 - [地区候选总览 PDF](Physics_Masters_Overview.pdf)
 - [当前 Markdown](Physics_Masters_Overview.md)
 - [2027 入学申请时间表](Physics_Masters_Timeline.md)
+- [推荐信方案：冲刺8校优先P＋B，P8全部保留、B10基础与增额预算（2026-10-09修订）](Physics_Masters_Recommendation_Plan.md)
 - [法国分析材料与国际生统计索引](france/README.md)
 - [法国五校物理硕士国际生五年统计](france/Five_Universities_Physics_Master_International_2020_2025.md)
 - [39所学校索引及档案](../../physics-master/README.md)
@@ -144,3 +145,7 @@ Higgs 公共仓库 README 当前使用 test01 标签，而本地科研背景曾�
 ## 优先申请标记更新（2026-10-06）
 
 黄色或粉红色标记学校作为优先申请。Texas A&M取消优先，IP Paris加入优先；总数仍为18所，美国3所、法国4所。ANU浅绿色表示已获offer。McGill、Melbourne、Northwestern、NYU、PSL、IP Paris、EPFL为用户指定高排名学校，在总览Summary中使用加粗红色名称。此前2026-10-05关于Texas A&M重点标记的记录由本次更新取代。
+
+## UBC重点冲刺与推荐信配置更新（2026-10-09）
+
+UBC新增红色加粗／★★重点冲刺，当前为39所已选、19所重点申请、8所重点冲刺，加拿大重点6所；此前18／7为历史口径。Overview Markdown／PDF／JSON、Timeline与推荐信方案同步标记。UBC按当前总览Physics MSc记录配置P＋B＋国内信；Astronomy活动材料仍另列。P8全部保障8所冲刺，基础B余2次给Queen’s与McMaster；Western需追加1次B，UT Austin另需落实独立第三位。PDF本次仅更新优先级标记与统计，其他正文事实保持原快照日期；最新德国夏季安排等日期以当前Markdown／Timeline为准。

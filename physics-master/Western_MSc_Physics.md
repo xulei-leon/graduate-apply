@@ -146,3 +146,17 @@ S6. **Physics research themes**：https://physics.uwo.ca/research/physics/index.
 - https://physics.uwo.ca/research/physics/scientific_computing.html
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## 2027申请启动核查（2026-10-09）
+
+院系已列2027-03-01国际申请截止，但未列准确开窗日；校级流程亦未补足，保留未公布。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-10-09**。未确认日期不升级为2027公告；其他字段核查日期保持原记录。
+
+官方来源：
+
+- https://physics.uwo.ca/graduate/future_students/admission_requirements.html
+- https://physics.uwo.ca/graduate/future_students/how_to_apply.html
+- https://grad.uwo.ca/admissions/apply.html
+
+逐项结果及访问缺口见[本轮启动核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261009.md)。

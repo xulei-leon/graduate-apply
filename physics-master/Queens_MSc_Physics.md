@@ -118,3 +118,16 @@ S2. **MSc structure / funding**：https://www.queensu.ca/physics/grad-studies/ms
 - https://www.queensu.ca/physics/grad-studies/current-students/grad-course-information
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## 2027申请启动核查（2026-10-09）
+
+校级页仅称通常每年September开窗；项目页无2027准确启动月日，保留待核。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-10-09**。未确认日期不升级为2027公告；其他字段核查日期保持原记录。
+
+官方来源：
+
+- https://www.queensu.ca/physics/grad-studies/admission-requirements
+- https://www.queensu.ca/grad-postdoc/grad-studies/apply
+
+逐项结果及访问缺口见[本轮启动核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261009.md)。

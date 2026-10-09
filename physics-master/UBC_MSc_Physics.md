@@ -118,3 +118,19 @@ Physics MSc官网将Matthew Choptuik的领域列为Relativity/Computational Phys
 - https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## 2027申请启动核查（2026-10-09）
+
+项目页明确下一批次开窗及截止尚未在招生系统配置；2027启动保留待公布。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-10-09**。未确认日期不升级为2027公告；其他字段核查日期保持原记录。
+
+官方来源：
+
+- https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics
+
+逐项结果及访问缺口见[本轮启动核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261009.md)。
+
+## 用户优先级与推荐配置（2026-10-09）
+
+新增为红色加粗重点冲刺，预留P＋B，另需第三份独立推荐；此标记不改变Reach／High及成绩资格判断。本次HTTPS读取项目页HTTP200，确认3份references，下一批次开窗／截止仍未配置；仅这两项Last-verified为2026-10-09。Overview和Timeline仍按Physics MSc，既有Astronomy导师材料分开。官方来源：https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics 。[推荐配置](../application/phy-master-plan/Physics_Masters_Recommendation_Plan.md)。
