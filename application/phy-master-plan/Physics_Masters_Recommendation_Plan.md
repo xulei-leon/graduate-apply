@@ -2,6 +2,8 @@
 
 **更新：2026-10-09，新增UBC重点冲刺。** [Overview](Physics_Masters_Overview.md)与[PDF](Physics_Masters_Overview.pdf)现为39所已选、19所重点申请，其中 **8所红色加粗重点冲刺**。本方案按用户指定优先级安排推荐；排期参考[时间表](Physics_Masters_Timeline.md)，招生要求见[本日HTTPS来源记录](audit/recommendation-source-audit-20261009.md)。仅预留额度，尚未发送邀请、提交申请或支付费用。
 
+**排期修订：2026-10-10。** 按2027年6月毕业计划，德国项目统一为2027冬季／10月入学；日期沿用时间表2026-10-09已核年度规则，2027批次仍待确认，本次未重新核查官网。
+
 ## 1. 分配结论
 
 **UBC、McGill、Melbourne、Northwestern、NYU、PSL / ENS、IP Paris、EPFL各保留P＋B，合计P8＋B8。** UBC与NYU需要3份推荐，因此另配国内推荐人C；EPFL登记3位、至少收到2封，第三位资格另核。Melbourne要求与窗口待核，但仍保留P/B，核清后再激活。
@@ -49,12 +51,12 @@ P的8次已全部留给冲刺学校，**UT Austin不再分配P**。基础B还剩
 | **Alberta — MSc Physics** | 暂不激活；若需2位且申请成立，**B追加1＋C** | 核心页403，资格／窗口待核；10月核入口，早节点及时插入，不挪用冲刺额度 |
 | **Sorbonne — Paris Physics Master M1** | 暂不激活；若需2位，**B追加1＋C** | 专属人数、渠道、截止待核；联合Sorbonne/Paris Cité只预算一次申请 |
 | **Paris-Saclay — M1 General Physics** | 普通入学0次预留；获适用奖学金邀请时 **B追加1＋C** | 普通清单未列必交信，联系信息与信件分开；奖学金如适用需2位在线评价；2027日期未公布，争资助需在遴选前申请 |
-| **LMU — MSc Astrophysics** | 必交0；有实质强信再考虑 **B追加1**或正式释放P | 按当前Timeline夏季／2027年4月入学，年度 **2027-01-15**；可选信推荐人直接发，目标提前14天；继续核六月毕业与四月入学是否适用 |
+| **LMU — MSc Astrophysics** | 必交0；有实质强信再考虑 **B追加1**或正式释放P | 2027冬季／10月入学；年度1月轮 **2027-01-15**、7月轮 **2027-07-15** 均可申请同年10月入学，2027批次待确认；可选信推荐人直接发，目标在所选轮次截止前至少14天；International Office须并行申请，冬季注册须October 1前完成本科 |
 | **UZH — MSc Physics** | 基础0次，portal新增要求再分配 | 既有清单未列必交，非确认免推荐；需签证类别年度02-28，2027待确认 |
-| **Heidelberg — MSc Physics** | 基础0次，portal新增要求再分配 | 既有清单未列必交；当前Timeline按non-EU夏季年度 **2027-01-15**；六月毕业与夏季入学衔接需核 |
-| **KIT — MSc Physics** | 基础0次，portal新增要求再分配 | 既有清单未列必交；当前Timeline夏季开窗2026-12-01、non-EU年度 **2027-01-15**；核课程与入学衔接 |
+| **Heidelberg — MSc Physics** | 基础0次，portal新增要求再分配 | 既有清单未列必交；2027冬季／10月入学，non-EU常规冬季年度截止 **2027-07-15**；2027批次及开放日待确认，核毕业材料衔接；如新增必交信，按实际收信截止提前至少14天到齐 |
+| **KIT — MSc Physics** | 基础0次，portal新增要求再分配 | 既有清单未列必交；2027冬季／10月入学，Non-EU nationals常规冬季年度截止 **2027-07-15**；2027批次及开放日待确认，核课程与毕业材料衔接；如新增必交信，按实际收信截止提前至少14天到齐 |
 
-德国排期承接当前Timeline的夏季入学安排，不恢复旧冬季07-15节点。本次未重新核德国招生事实。19校地域：加拿大6、澳大利亚1、美国3、法国4、德国3、瑞士2；已选总数仍39。Texas A&M不在重点名单，ANU已获offer不占本轮信。
+德国排期与当前Timeline统一为2027冬季／10月入学，衔接2027年6月毕业。KIT、Heidelberg按常规冬季July 15准备；LMU保留January 15提前轮及July 15轮，均可申请同年10月入学。年度规则不等于2027已公布日历，提交前核官方公告与portal；本次未重新核德国招生事实。19校地域：加拿大6、澳大利亚1、美国3、法国4、德国3、瑞士2；已选总数仍39。Texas A&M不在重点名单，ANU已获offer不占本轮信。
 
 ## 4. 额度及预算
 
@@ -86,10 +88,11 @@ C不合格／内容不足时需另一位独立合格推荐人；B增额无效。
 |---|---|---|
 | **2026-10月** | 先确认P/B真实评价、计数、增额价格，C实际职务及容量。立即核UBC、Melbourne、Northwestern窗口；若仍考虑UT，优先落实D | 锁定冲刺P1–P8/B1–B8；Queen’s B9、McMaster B10；Western预留增额B11。UT在D未落实前不触发邀请 |
 | **2026-11月** | McGill/EPFL准备 **12-01**；法国核正式窗口；UBC窗口若开放则及时准备。UT仅在3位齐备、资格成立时，按 **11-20** 目标 | UT不用冲刺P，若激活则条件B12＋C＋D；UBC保持P8/B8＋C |
-| **2026-12月** | McGill/EPFL **12-01**；NYU/IP Paris/Queen’s **12-15**，避开圣诞假期；德国夏季准备01-15前材料 | 不计UBC/Melbourne/Northwestern/PSL和条件UT，这5校全部提交累计 **P4/B5/C2**，EPFL第3封另计 |
-| **2027-01月** | PSL **01-10**；McMaster **01-15**；Western **01-31**，目标前落实B增额。德国夏季01-15节点以当前Timeline及本人资格为准 | 不计UBC/Melbourne/Northwestern/UT，其余建议项全部提交累计 **P5/B8/C4**，EPFL条件项另计 |
+| **2026-12月** | McGill/EPFL **12-01**；NYU/IP Paris/Queen’s **12-15**，避开圣诞假期；如选LMU冬季1月轮且使用可选信，准备 **2027-01-01** 内部到齐目标 | 不计UBC/Melbourne/Northwestern/PSL和条件UT，这5校全部提交累计 **P4/B5/C2**，EPFL第3封另计 |
+| **2027-01月** | PSL **01-10**；McMaster **01-15**；Western **01-31**，目标前落实B增额。LMU冬季1月轮年度 **01-15** 截止，仍对应10月入学，2027批次待确认 | 不计UBC/Melbourne/Northwestern/UT，其余建议项全部提交累计 **P5/B8/C4**，EPFL条件项另计 |
 | **UBC／Melbourne／Northwestern窗口确认后** | 确认实际项目、入学批次及要求，实际截止前至少14天到齐；更早截止立即插入前面批次 | 激活受保护P8/B8、P2/B2、P3/B3；全部建议配置提交达到 **P8/B11/C5–6**，暂不含UT |
-| **2027-02至03月及后续** | Western检查完整材料；UZH；Alberta/PPM按真实窗口；奖学金按邀请；EPFL若选第2轮，同组P/B顺延 | 不恢复德国旧冬季节点；其他新增要求逐项增额，不占冲刺8校额度。接受满意offer后再决定取消未激活申请 |
+| **2027-02至03月及后续** | Western检查完整材料；UZH；Alberta/PPM按真实窗口；奖学金按邀请；EPFL若选第2轮，同组P/B顺延；跟进德国冬季2027公告与开放日 | 新增要求逐项增额，不占冲刺8校额度。接受满意offer后再决定取消未激活申请 |
+| **2027-06至07月** | 按6月毕业计划核最终成绩单及学位证明；KIT、Heidelberg常规冬季年度 **07-15** 截止，LMU如选7月轮亦为年度 **07-15**，均对应10月入学；2027批次仍待确认。若需推荐，按实际收信截止提前至少14天到齐；如为07-15则内部目标 **07-01** | KIT、Heidelberg基础0次，新增要求才分配；LMU可选B按所选轮次激活，跨轮是否须重交及计次先核 |
 
 实际截止优先于内部准备排期；未知窗口10月就核，不用offer发放月份推迟必交信。每校提前3–4周邀请，内部目标前7天提醒、前3天检查，仅提醒未提交者；以received/submitted为到齐。Western录入信息会自动发邮件，应准备好后录入。本方案不发送邮件。
 
@@ -99,6 +102,8 @@ C不合格／内容不足时需另一位独立合格推荐人；B增额无效。
 - Queen’s January7为年度full consideration，内部按2027准备、portal复核：https://www.queensu.ca/physics/grad-studies/applicants
 - ENS当前M1列2027-01-22，但同段周期标题及M2日期混用；采用较早日期准备，开窗核M1批次：https://www.phys.ens.fr/fr/formations/master-icfp
 - EPFL登记3位／至少收到2封，第3位正式职务须被接受：https://www.epfl.ch/education/admission/master-admission-criteria-application/online-application/
+- 德国冬季日期沿用时间表2026-10-09核查：KIT、Heidelberg的non-EU常规冬季截止为July 15；2027批次及开放日待确认：https://www.sle.kit.edu/english/vorstudium/master-physics.php ／ https://www.physik.uni-heidelberg.de/studium/master?lang=en
+- LMU January 15与July 15两轮均可申同年October入学，2027批次待确认；冬季注册须October 1前完成本科：https://www.physik.lmu.de/en/studies/study-programs/applying-to-a-masters-program/
 
 ## 6. 材料与台账
 
