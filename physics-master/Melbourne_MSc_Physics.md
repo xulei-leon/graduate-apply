@@ -24,8 +24,8 @@
 | Recommendation count / 推荐数量 | 待核 |
 | Recommendation policy / 提交与例外 | 核心课程/entry网页正文访问受限，未核到该Physics MSc推荐信清单。 |
 | Cohort size / 年度规模 | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。 |
-| Deadline / 主申请与奖学金 | 2027 mid-year是否提供此专业及申请截止待核。 |
-| Deadline evidence / 时间依据 | 年度规则，2027批次待确认 |
+| Deadline / 主申请与奖学金 | 2027 Start Year (March intake)：30 November 2026；2027 Mid Year (July intake)：31 May 2027。奖学金单独截止日待核。 |
+| Deadline evidence / 时间依据 | 2027批次：用户2026-10-11提供官方How to apply页面原文；本机HTTPS请求仍返回403，未独立读取正文。 |
 | International tuition / 学费 | 2027学费未核实；须使用本人国际学生费率报价。 |
 | Funding / TA / RA | 2027国际学费、奖学金、研究项目是否资助未核实。 |
 
@@ -43,7 +43,7 @@ QS World University Rankings 2027综合 22；QS Physics & Astronomy 2026 57。
 | Difficulty | Unknown；申请规划判断，非百分比录取率。 |
 | 申请优先级 | 待官网恢复；不直接提交；计算物理：待核 |
 | 当前资格焦点 | 核心课程及2027入口受限，当前资格未闭环。 |
-| 下一步 | 先恢复handbook核65%及mid-year入口，再决定是否纳入可提交申请清单。 |
+| 下一步 | 2027 July intake及截止日已有用户提供的官网原文；继续核学术资格、申请启动、offer周期及最终成绩和学位证明补交时限。 |
 
 HY：UofT Physics，CGPA3.0/4.0，GRE General317/Q166，预计2027年6月毕业。MaNGA暗物质晕c–M Bayesian/PyMC与Higgs四轻子统计推断可作为本人研究证据；手稿提交、作者顺序与强推荐按最新背景记录，不将探索性结果包装为已发表成果。CGPA不能代替final-year/last-two-years/major average，English degree不自动代表每校免试。
 
@@ -92,8 +92,8 @@ S3. **Official handbook (challenge on this check)**：https://handbook.unimelb.e
 
 | 字段 | 信息 |
 |---|---|
-| Application cycle / 启动至截止 | 启动待核 → 截止待核；2027 mid-year是否开放待核 |
-| 周期说明 | 核心官方正文HTTP403，保留明确待核状态，不推断申请日期。 |
+| Application cycle / 启动至截止 | 启动待核 → March intake：2026-11-30；July intake：2027-05-31。 |
+| 周期说明 | 截止日依据2026-10-11用户提供的官方页面原文更新；申请启动日仍待核。 |
 
 官方日期来源：https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/
 
@@ -140,3 +140,45 @@ S3. **Official handbook (challenge on this check)**：https://handbook.unimelb.e
 - https://handbook.unimelb.edu.au/2026/courses/mc-sci-phy
 
 逐项结果及访问缺口见[本轮启动核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261009.md)。
+
+## 申请启动与 offer 时间复核（2026-10-11）
+
+本次仅核查招生时间，不更新其他招生条件。通过 HTTPS 直接请求官网；课程主页与 How to apply 页均返回 HTTP 403 / JavaScript 验证页，未取得招生正文。可读取的 ask.unimelb 官方 FAQ 检索结果未提供该项目的申请开放日或 offer 审理周期。
+
+| 字段 | 本次结论 |
+|---|---|
+| 适用项目 | Master of Science (Physics)，2027 入学申请规划 |
+| 申请启动 | 未核实；不能据访问失败判断尚未开放，也不能断言全年接受申请。 |
+| 2027 mid-year intake | 是否开放及其申请截止日期仍待核。 |
+| offer 预计时间 | 未核实；未取得适用于此项目及国际申请人的官方处理周期或统一发放日期。 |
+| 个人时间安排 | 按仓库记录预计 2027 年 6 月本科毕业，应优先确认毕业后的入学批次；若 2027 mid-year 可选，还需核对最终成绩与学位证明的补交时限。此项为规划判断。 |
+
+官方核查入口：
+
+- 课程主页：https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/
+- 项目申请页：https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/how-to-apply/
+- 国际生申请入口：https://study.unimelb.edu.au/how-to-apply/graduate-coursework-study/international-applications
+- 官方 FAQ：https://ask.unimelb.edu.au/ （页面提示 FAQ 正在迁移；本次检索未取得所需招生日期证据）
+
+**本字段 Last-verified / last-attempted：2026-10-11；日期与 offer 周期仍待核，其他字段核查日期不变。**
+
+### 用户提供官网日期后的修正（2026-10-11）
+
+以下证据更新并取代前述复核中“截止日待核”“2027 mid-year是否开放待核”的结论；申请启动日和offer周期仍未确认。
+
+官方页面：https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/how-to-apply/#key-application-dates
+
+用户提供该页面 **UPCOMING INTAKES AND KEY DATES** 原文：
+
+- **2027 Start Year (March intake) applications due 30 November 2026**
+- **2027 Mid Year (July intake) applications due 31 May 2027**
+
+| 字段 | 修正后的结论 |
+|---|---|
+| 2027 March intake | 官网列有此批次，申请截止2026-11-30。 |
+| 2027 July intake | 官网列有此批次，申请截止2027-05-31。 |
+| 申请启动日 | 上述原文只列截止日，无法据此确定开窗日或确认现时可提交。 |
+| offer时间 | 上述原文未列处理周期、统一发放日期或是否滚动审理，继续待核。 |
+| 个人规划 | 按预计2027年6月本科毕业，优先考虑July intake；申请截止早于毕业，需提前核对在读申请及最终文件补交规则。此项为规划判断，非已核招生条款。 |
+
+**证据来源与核查边界：2026-10-11用户直接提供的官网页面原文；同日本机再次HTTPS请求仍返回403，未独立读取日期正文。奖学金日期、学术资格及其他字段不因本次修正升级为已核。**

@@ -259,10 +259,10 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <tr style="background:#FFD9E6;" data-priority-application="true">
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top"><strong>重点申请</strong><br><a href="Melbourne_MSc_Physics.md">University of Melbourne — Master of Science (Physics)</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">QS World University Rankings 2027综合 22；QS Physics &amp; Astronomy 2026 57；最新QS综合或Physics &amp; Astronomy前100已核。</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">Academic / Research；旧档2年；当前手册正文受访问限制；旧档含major research project；本轮无法核到当前项目学分、论文及导师规则。<a href="https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/" style="color:inherit"><br><br><strong>申请周期：</strong><br>启动待核 → 截止待核；2027 mid-year是否开放待核</a></td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">Academic / Research；旧档2年；当前手册正文受访问限制；旧档含major research project；本轮无法核到当前项目学分、论文及导师规则。<a href="https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/how-to-apply/#key-application-dates" style="color:inherit"><br><br><strong>申请周期：</strong><br>启动待核 → March intake截止2026-11-30；July intake截止2027-05-31（2026-10-11用户提供官网原文）</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">旧档记录相关本科约65%；官网403/challenge，不能作为此次已核2027资格或概率依据。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；Physics本科；量子、电磁、统计、实验及数学的具体现行门槛待核。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">当前未核实。；当前UofT学位免英语考试条件未核实。</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">2027 mid-year是否提供此专业及申请截止待核。（年度规则，2027批次待确认）</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top"><a href="https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/how-to-apply/#key-application-dates">2027 March intake：2026-11-30；2027 July intake：2027-05-31</a>（2026-10-11用户提供官网原文）；申请启动、offer周期及奖学金单独截止仍待核。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">2027学费未核实；须使用本人国际学生费率报价。；2027国际学费、奖学金、研究项目是否资助未核实。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">Medium / Unknown；待官网恢复；不直接提交</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">待官网恢复；不直接提交<br><br><strong><a href="https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/">计算物理：待核</a></strong></td>
