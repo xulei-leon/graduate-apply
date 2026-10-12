@@ -22,6 +22,7 @@
 | Mode | Full time, International；官网说明 Face to face |
 | Duration / credit points | 104 weeks；96 credit points；官网标准学制为全日制 2 年 |
 | Master type | Coursework；可选择项目路径，不能直接等同研究型硕士 |
+| Specialization options | 标准版 Master of Computer Science 可选择 Data Science and AI 等七个具名 specialization；方向为可选，offer 未指定已登记方向。[S1, S7] |
 | Indicative annual tuition | AUD 60,800，按 2027 入学及每年 48 credit points 的全日制学习量列示 |
 | Indicative total tuition | AUD 121,600；不是固定总价，后续各日历年的学费可能上涨 |
 | OSHC | 信件指示金额 AUD 1,792；按信件日期的 Bupa 单人保险报价，接受 offer 时重新计算；信件未将该金额标为年费 |
@@ -65,7 +66,7 @@
 
 ## 3. 可选专业方向
 
-项目主页列出以下 **7 个具名 specialization**。代表课程来自 2026 Handbook，帮助理解各方向内容，不代表本人 2027 年已获选课批准。[S1–S3]
+**标准版 Master of Computer Science 也可选择 Data Science and AI 专业方向。** 标准版项目主页的公开数据明确说明有选择 specialization 的机会，并列出以下 **7 个具名 specialization**；Data Science and AI 官方方向页介绍了 big data analytics、machine learning、data engineering 和 computational statistical methods 等学习内容。代表课程来自 2026 Handbook，帮助理解各方向内容，2027 年具体开课及选课要求仍以当年规则为准。[S1–S3, S7]
 
 | 官方方向名称 | 中文含义 | 代表课程（2026 Handbook） |
 |---|---|---|
@@ -79,14 +80,13 @@
 
 手册另列 **Unspecified Specialisation** 及相应课程表，可作为未指定具名方向的课程配置参考；不将其表述为第八个有明确主题的方向。手册写每个 specialization 需完成其课程表中的 24 CP，同一课程不能同时计入两个 specialization。[S2, S3]
 
-### 普通 MCS 的正式 specialization 资格：待确认
+### 标准版 MCS 可选 Data Science and AI：已确认
 
-官网两处表述尚不能完全对齐：
+标准版 Master of Computer Science 项目页的公开数据在课程介绍中说明可选择 specialization，在 Career paths 中列出 Data Science and AI 等七个方向。该页面另将 Master of Computer Science (advanced entry) 作为面向已有计算机相关学历申请人的独立入口介绍，因此标准版自身的方向选项不应被解释为仅供 advanced entry 使用。[S1, S7]
 
-- 项目主页对 Master of Computer Science 总体宣传可选 specialization，列出上述七个方向。[S1]
-- 2026 Handbook 写明 completion of a specialisation 不是毕业要求，并具体写："Candidates in the Master of Computer Science (advanced entry) stream may complete a maximum of two specialisations." 该条没有明确确认普通 MCS stream 的正式方向登记资格。[S2, S3]
+2026 Handbook 写明 completion of a specialisation 不是毕业要求，并对 advanced entry stream 规定最多完成两个 specialisations；这项数量限制不能作为标准版无法选择方向的依据。此前将标准版可选方向资格列为“待确认”的表述在 2026-10-12 更正。[S1–S3]
 
-本 offer 名称为 Master of Computer Science、代码为 **MACOMPSC1000**，未标注 advanced entry。因此，**不能把此 offer 记为已获 Data Science and AI specialization 录取**，也不能仅凭手册上述措辞断言普通 stream 一定被禁止选择该方向。正式方向登记、相关课程能否计入普通 stream、成绩单或学位证如何呈现，都需课程方针对本人 2027 入学书面确认。
+本 offer 名称为 Master of Computer Science、代码为 **MACOMPSC1000**，未标注 advanced entry。申请人可将 **Data Science and AI 作为标准版 MCS 的可选专业方向**规划；offer 本身没有指定已登记方向。2027 年的方向登记流程、具体课程和先修要求，以及方向在成绩单或学位文件中的呈现方式，仍需依据当年 Handbook 与课程方安排落实。
 
 ### Data Science and AI 的具体课程与限制
 
@@ -112,7 +112,7 @@ Assumed knowledge 是预期已有知识，Prerequisite 是课程先修条件；�
 | 学制 / 学分 | 2 年 / 96 CP | 1.5 年 / 72 CP |
 | 基础训练 | 标准 stream 要求 24–30 CP Foundation，覆盖数据库、算法、编程和网络 | Professional Pathway 最多 12 CP Elective/Foundation；Research Pathway 不含 Elective/Foundation |
 | 专业核心 | 18 CP computing professional core，另至少 24 CP Specialist | 18 CP Data Science Core + 12 CP Professional Core；Data Science Core 包括 COMP5048、COMP5310、STAT5003 |
-| 具名方向 | 七个方向；本人普通 stream 的正式方向资格待确认 | Data Engineering、Machine Learning；specialization 为可选 |
+| 具名方向 | 标准版可选择 Data Science and AI 等七个方向；specialization 为可选 | Data Engineering、Machine Learning；specialization 为可选 |
 | 项目路径 | 12 CP Capstone，或 24 CP Research，或 24 CP Work Integrated | Professional Pathway 含 12 CP Capstone；Research Pathway 含 24 CP Research |
 | 学位名称 | Master of Computer Science | Master of Data Science |
 
@@ -120,7 +120,7 @@ Assumed knowledge 是预期已有知识，Prerequisite 是课程先修条件；�
 
 用户已确认 DS 被拒；信件只确认学校评估了 alternative course。拒绝是否由于 cognate 学习量、成绩换算、竞争或其他因素，**未核实，不推断**。U of T GPA 3.0/4.0 不能由本记录直接换算成悉尼大学 65%；最终成绩由学校审核。
 
-**匹配判断：Medium（整体项目）**。Data Science and AI 课程与申请人的统计推断、ML 和科学数据分析经历相关；标准 MCS 还包含较多 CS 基础及 IT 职业课程。若目标是补计算机基础并转向 DS/IT 就业，有实际价值；若目标是继续计算物理研究，须先确认研究项目和方向安排，不能只凭可选方向名称将匹配升级为 High。此判断是申请策略分析，不是学校的录取或就业承诺。
+**匹配判断：Medium（整体项目）**。标准版可选的 Data Science and AI 方向课程与申请人的统计推断、ML 和科学数据分析经历相关；标准 MCS 还包含较多 CS 基础及 IT 职业课程。若目标是补计算机基础并转向 DS/IT 就业，有实际价值；若目标是继续计算物理研究，须先确认研究路径、导师与课题安排，不能只凭可选方向名称将整体项目匹配升级为 High。此判断是申请策略分析，不是学校的录取或就业承诺。
 
 ## 5. 接受前需要落实的事项
 
@@ -128,17 +128,30 @@ Assumed knowledge 是预期已有知识，Prerequisite 是课程先修条件；�
 |---|---|
 | 最终学术条件 | 学校如何换算本人最终 U of T 成绩，最低要求是否有针对本人的具体说明 |
 | 英语条件 | 英语豁免是否已正式记入申请 |
-| 普通 stream 的正式方向 | MACOMPSC1000 的 2027 入学生是否可以登记 Data Science and AI；方向如何显示在成绩单/学位文件中 |
-| 四门 DS/AI 课程 | 是否均能计入本人 stream；先修、STAT5003 系里许可及开课学期如何满足 |
+| 方向登记与呈现 | 已确认标准版可选择 Data Science and AI；需落实 2027 年登记流程及方向在成绩单/学位文件中的呈现方式 |
+| 四门 DS/AI 课程 | 按 2027 Handbook 落实课程组合、先修、STAT5003 系里许可及开课学期 |
 | Research Pathway | 本人适用的校内成绩门槛、审批、导师与课题安排，以及研究产物要求 |
 | 时间和付款 | 2027 Semester 2 条件材料截止日、名额保留方式、unconditional offer 的接受截止日及 initial payment |
 | 2027 规则 | 2027 Handbook 发布后，重新核对方向、课程、先修及 pathway 条款 |
 
-## 6. 官方来源与版本
+## 6. 学校综合与计算机学科排名
+
+核查日期：**2026-10-12**。采用已核实的 QS 综合 **2027** 版、QS 学科 **2026** 版及 U.S. News **2026–2027** 版；综合与学科榜单年份不同源于发布时间差异。
+
+| 排名体系 | 官方榜单 / 学科名称 | 年份 / 版本 | 悉尼大学全球排名 | 来源 |
+|---|---|---|---|---|
+| QS 综合排名 | QS World University Rankings | 2027 | **28** | [S8, S9] |
+| QS 计算机学科排名 | QS World University Rankings by Subject — Computer Science & Information Systems | 2026 | **38** | [S10] |
+| U.S. News 综合排名 | Best Global Universities | 2026–2027 | **31** | [S8] |
+| U.S. News 计算机学科排名 | Best Global Universities — Computer Science | 2026–2027 | **34** | [S8] |
+
+QS 两项名次已通过官方公开 XLSX 核对；U.S. News 两项名次由悉尼大学官网排名汇总确认。这里记录的是**大学整体及计算机学科的排名**，不代表 Master of Computer Science 项目的独立排名，也不直接衡量某个 specialization 的教学、研究路径或就业效果。
+
+## 7. 官方来源与版本
 
 以下网站于 **2026-10-12** 通过官方 HTTPS 页面或页面公开数据读取。Handbook 课程表标注为 2026 版，最近修订日期为 15 July 2026。
 
-- [S1] Master of Computer Science 项目页：https://www.sydney.edu.au/courses/courses/pc/master-of-computer-science.html
+- [S1] Master of Computer Science 标准版项目页：https://www.sydney.edu.au/content/courses/courses/pc/master-of-computer-science.html
   - 页面公开数据（入学条件、课程概览、方向及 no reduction in volume of learning）：https://www.sydney.edu.au/content/courses/courses/pc/master-of-computer-science.model.json
 - [S2] Master of Computer Science — Course resolutions（2026）：https://www.sydney.edu.au/handbooks/engineering-pg/computer-science/computer-science/course-resolutions.html
 - [S3] Master of Computer Science — Unit of study table（2026）：https://www.sydney.edu.au/handbooks/engineering-pg/computer-science/computer-science/unit-of-study-table.html
@@ -146,6 +159,9 @@ Assumed knowledge 是预期已有知识，Prerequisite 是课程先修条件；�
   - 页面公开数据：https://www.sydney.edu.au/content/courses/courses/pc/master-of-data-science0.model.json
 - [S5] Master of Data Science — Course resolutions（2026）：https://www.sydney.edu.au/handbooks/engineering-pg/computer-science/data-science/course-resolutions.html
 - [S6] Master of Data Science — Unit of study table（2026）：https://www.sydney.edu.au/handbooks/engineering-pg/computer-science/data-science/unit-of-study-table.html
-- [S7] Data Science and AI specialization：https://www.sydney.edu.au/courses/subject-areas/spec/data-science-and-ai.html
+- [S7] Data Science and AI specialization：https://www.sydney.edu.au/content/courses/subject-areas/spec/data-science-and-ai.html
+- [S8] 悉尼大学官方世界排名汇总（QS 综合 2027；U.S. News 综合及 Computer Science 2026–2027）：https://www.sydney.edu.au/about-us/our-world-rankings.html
+- [S9] QS World University Rankings 2027 官方公开 XLSX：https://insights.qs.com/hubfs/Rankings%20Excel%20Reports/2027%20QS%20World%20University%20Rankings%201.1%20%28For%20qs.com%29.xlsx
+- [S10] QS World University Rankings by Subject 2026 官方公开 XLSX（Computer Science & Information Systems 工作表）：https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
 
-**核查边界：**未确认 2027 Handbook、本人正式方向/研究路径资格、最终 GPA 换算、英语豁免或具体接受截止日；这些项目保留为待确认。
+**核查边界：**已确认标准版 MCS 可选择 Data Science and AI。未确认 2027 Handbook 的具体课程与登记安排、本人研究路径资格、最终 GPA 换算、英语豁免或具体接受截止日；这些项目保留为待确认。
