@@ -27,13 +27,13 @@ P的8次已全部留给冲刺学校，**UT Austin不再分配P**。基础B还剩
 
 | 红色重点冲刺项目 | 推荐要求与证据边界 | 受保护配置 | 时间安排 |
 |---|---|---|---|
-| **UBC — MSc Physics** | **3份references**；本次HTTPS核实。官网仍未配置下一入学批次起止日期 | **P8＋B8＋C** | **2027窗口／截止待公布**；10月先核入口，实际截止前至少14天到齐，日期未公布也保留P/B |
+| **UBC — MSc Physics** | **3份references**；本次HTTPS核实。2027 September批次已确认2026-10-15启动、12-01申请截止、12-31推荐截止（2026-10-16核） | **P8＋B8＋C** | 申请截止 **2026-12-01**，推荐截止 **2026-12-31**；内部先按 **2026-11-17** 将申请材料与推荐准备到齐（早于主截止14天；非官方收信截止），保留P/B |
 | **McGill — MSc Physics** | 2位熟悉本人工作的instructors；本日核实 | **P1＋B1** | 年度12-15，2027核portal；内部 **2026-12-01** |
 | **Melbourne — MSc Physics** | 2027 intake、推荐要求及资格待核；核心页403 | **P2＋B2预留** | 10月核入口；合适批次确认后，实际截止前至少14天到齐；六月毕业不默认赶年初入学，EOI不是推荐信 |
 | **Northwestern — 独立MS Physics** | 专属页至少2封，由熟悉本人工作的professors出具 | **P3＋B3**；portal另需第3位时再补 | **2027 MS窗口待核**；首个合适批次，截止前至少14天；不套PhD或旧June30 |
 | **NYU — MS Physics** | 3封；本日核实 | **P4＋B4＋C** | 年度12-30 17:00 ET，特殊顺延按官网；内部 **2026-12-15** |
 | **PSL / ENS — ICFP M1** | M1需2 Letters of Reference；本日核实 | **P5＋B5** | ENS当前M1列2026-11-26开窗、**2027-01-22申请及收信共同截止**；周期标题混用，开窗核目标批次；内部 **2027-01-10** |
-| **IP Paris — M1 High Energy Physics** | 2份academic references，由推荐人在线提交 | **P6＋B6** | 第1轮约2027-01-08只为往年准备参考，2027未公布；内部先按 **2026-12-15**，公告后调整；改轮次仍保留额度 |
+| **IP Paris — M1 High Energy Physics** | 2份academic references，由推荐人在线提交 | **P6＋B6** | 第1轮2026-10-28至 **2027-01-14** 已确认；内部保持 **2026-12-15**；改轮次仍保留额度 |
 | **EPFL — MSc Physics** | 登记3位，至少收到2封；须为了解本人工作的professors | **P7＋B7**核心两封，第3位拟C先核资格 | 年度首轮12-15，收信截止后1周、具体日按邮件；内部 **2026-12-01**。选第2轮沿用同组预留，不重复申请 |
 
 **UBC项目口径：** 本次按Overview／Timeline现有 **MSc Physics** 行加入重点冲刺，不自动改为Astronomy。既有Van Waerbeke材料按Astronomy MSc准备；如最终提交Astronomy，须另核该项目人数和截止。如Physics与Astronomy都独立申请，应分别核系统及提交次数，不能默认一组P/B覆盖两份申请。B是推荐人代号，与UBC学校目标分开；推荐人虽来自UBC，也应基于真实了解评价，不推断其能影响录取或接受指导。
@@ -86,11 +86,11 @@ C不合格／内容不足时需另一位独立合格推荐人；B增额无效。
 
 | 时段 | 操作及内部目标 | 额度管理 |
 |---|---|---|
-| **2026-10月** | 先确认P/B真实评价、计数、增额价格，C实际职务及容量。立即核UBC、Melbourne、Northwestern窗口；若仍考虑UT，优先落实D | 锁定冲刺P1–P8/B1–B8；Queen’s B9、McMaster B10；Western预留增额B11。UT在D未落实前不触发邀请 |
-| **2026-11月** | McGill/EPFL准备 **12-01**；法国核正式窗口；UBC窗口若开放则及时准备。UT仅在3位齐备、资格成立时，按 **11-20** 目标 | UT不用冲刺P，若激活则条件B12＋C＋D；UBC保持P8/B8＋C |
+| **2026-10月** | 先确认P/B真实评价、计数、增额价格，C实际职务及容量。UBC自10-15已开窗；立即核Melbourne、Northwestern窗口；若仍考虑UT，优先落实D | 锁定冲刺P1–P8/B1–B8；Queen’s B9、McMaster B10；Western预留增额B11。UT在D未落实前不触发邀请 |
+| **2026-11月** | McGill/EPFL准备 **12-01**；法国核正式窗口；UBC按12-01申请截止准备，内部11-17就绪；推荐官方12-31截止。UT仅在3位齐备、资格成立时，按 **11-20** 目标 | UT不用冲刺P，若激活则条件B12＋C＋D；UBC保持P8/B8＋C |
 | **2026-12月** | McGill/EPFL **12-01**；NYU/IP Paris/Queen’s **12-15**，避开圣诞假期；如选LMU冬季1月轮且使用可选信，准备 **2027-01-01** 内部到齐目标 | 不计UBC/Melbourne/Northwestern/PSL和条件UT，这5校全部提交累计 **P4/B5/C2**，EPFL第3封另计 |
 | **2027-01月** | PSL **01-10**；McMaster **01-15**；Western **01-31**，目标前落实B增额。LMU冬季1月轮年度 **01-15** 截止，仍对应10月入学，2027批次待确认 | 不计UBC/Melbourne/Northwestern/UT，其余建议项全部提交累计 **P5/B8/C4**，EPFL条件项另计 |
-| **UBC／Melbourne／Northwestern窗口确认后** | 确认实际项目、入学批次及要求，实际截止前至少14天到齐；更早截止立即插入前面批次 | 激活受保护P8/B8、P2/B2、P3/B3；全部建议配置提交达到 **P8/B11/C5–6**，暂不含UT |
+| **Melbourne／Northwestern窗口确认后；UBC已确认** | 确认实际项目、入学批次及要求，实际截止前至少14天到齐；更早截止立即插入前面批次 | 激活受保护P8/B8、P2/B2、P3/B3；全部建议配置提交达到 **P8/B11/C5–6**，暂不含UT |
 | **2027-02至03月及后续** | Western检查完整材料；UZH；Alberta/PPM按真实窗口；奖学金按邀请；EPFL若选第2轮，同组P/B顺延；跟进德国冬季2027公告与开放日 | 新增要求逐项增额，不占冲刺8校额度。接受满意offer后再决定取消未激活申请 |
 | **2027-06至07月** | 按6月毕业计划核最终成绩单及学位证明；KIT、Heidelberg常规冬季年度 **07-15** 截止，LMU如选7月轮亦为年度 **07-15**，均对应10月入学；2027批次仍待确认。若需推荐，按实际收信截止提前至少14天到齐；如为07-15则内部目标 **07-01** | KIT、Heidelberg基础0次，新增要求才分配；LMU可选B按所选轮次激活，跨轮是否须重交及计次先核 |
 
@@ -98,7 +98,7 @@ C不合格／内容不足时需另一位独立合格推荐人；B增额无效。
 
 ### 日期与身份边界
 
-- UBC Physics官网需3份references，下一批次窗口未配置，**不编造2027截止**：https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics
+- UBC Physics官网需3份references；September 2027已确认2026-10-15启动、12-01申请、12-15成绩单及12-31推荐截止（2026-10-16核）：https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics
 - Queen’s January7为年度full consideration，内部按2027准备、portal复核：https://www.queensu.ca/physics/grad-studies/applicants
 - ENS当前M1列2027-01-22，但同段周期标题及M2日期混用；采用较早日期准备，开窗核M1批次：https://www.phys.ens.fr/fr/formations/master-icfp
 - EPFL登记3位／至少收到2封，第3位正式职务须被接受：https://www.epfl.ch/education/admission/master-admission-criteria-application/online-application/
@@ -114,3 +114,9 @@ C不合格／内容不足时需另一位独立合格推荐人；B增额无效。
 台账记录学校／具体项目／批次、推荐人真实职务及关系、额度编号、预留／邀请／提交／收到日期、官方申请截止／收信截止／内部目标、实际累计次数、增额费用和待核事项。UBC Physics与Astronomy、Western Physics与Astronomy分别核；联合PPM不重复计数。D未落实不能记为已保障。
 
 **本版落实8所冲刺优先P＋B。** UBC推荐数量本次HTTPS重核；其他招生要求沿用来源记录，未知条件不升级为已确认。重点学校标记不改变资格、难度或录取状态。
+
+## 申请日期同步（2026-10-16）
+
+UBC与IP Paris日期按本轮官方HTTPS证据更新；原P／B／C分配及额度保持。上方“不计UBC”的阶段累计保留其原统计范围，UBC的P8／B8／C另按11-17内部准备目标执行，不把内部目标当官方推荐截止。
+
+官方来源：https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics ；https://www.ip-paris.fr/en/education/useful-information/admissions 。适用2027入学；Last-verified：2026-10-16。[逐项核查记录](audit/application-opening-source-audit-20261016.md)。

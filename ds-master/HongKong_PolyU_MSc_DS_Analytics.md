@@ -42,3 +42,7 @@
 3. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
 
 字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+## 近期日期复核（2026-10-16）
+
+2026-10-16直接HTTPS重核官方2027入口：local与non-local均为Early Round 2026-10-20、Main Round 2027-02-25。仅重核日期，不改变其余2026-10-02字段及个人申请未见提交记录的状态。来源：https://www.polyu.edu.hk/study/pg/tpg/2027/62027-dfm-dpm 。

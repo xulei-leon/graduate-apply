@@ -1,6 +1,6 @@
 # The University of Sydney - Master of Data Science
 
-地区：澳大利亚 | 方法匹配：High | 难度：Match-Reach | 核查状态：In progress
+地区：澳大利亚 | 方法匹配：High | 难度：Match-Reach | 申请状态：Rejected（用户于2026-10-12确认）
 
 | 字段 | 官方事实 / 核查结果 |
 |---|---|
@@ -25,8 +25,8 @@
 | Eligibility | Pending：65%及cognate范围 |
 | Match | High |
 | Difficulty | Match-Reach |
-| Priority | 优先核资格 |
-| Status | In progress |
+| Priority | 本轮不再列为待投递；转评估已获MCS条件录取 |
+| Status | Rejected；原DS申请被拒，调剂至Master of Computer Science获conditional offer |
 | Last verified | 2026-10-02 |
 
 匹配说明：ML/推断研究匹配强，课程可补数据工程；两门Python课是否达到cognate规模仍需审核。
@@ -44,3 +44,7 @@
 5. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
 
 字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+## 个人申请结果同步（2026-10-17）
+
+依据[2026-10-12 offer记录](../offers/USYD.md)：用户确认原Master of Data Science申请被拒，学校转评估Master of Computer Science并于2026-10-07发出条件录取。拒绝原因未核实，不归因为GPA或先修课；MCS可选Data Science and AI，不等同原DS学位。公开招生要求的核查日期仍为2026-10-02；本节只同步已记录的个人状态。

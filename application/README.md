@@ -16,15 +16,15 @@
 | 文件 | 用途 |
 |---|---|
 | [推荐人材料](recommenders/README.md) | PHY254H1 Classical Mechanics（98分 / A+）任课老师推荐信请求中文草稿；Princeton 科研课程教授的 MaNGA 研究进展英文邮件（论文 PDF 与 CV 作为附件，含致谢许可请求）；均未发送，姓名和课程信息待补充 |
-| [硕士研究机会咨询信](CV/cover_letter_cn.md) | 唯一中文基础模板；以已完成的 MaNGA 为主，项目段末简述正在进行的 Higgs 研究 |
-| [天体物理 CV](CV/CV_astro_cn.md) | MaNGA 项目优先，突出星系动力学与贝叶斯推断 |
+| [硕士研究机会咨询信](CV/letter_cn.md) | 唯一中文基础模板；以已完成的 MaNGA 为主，项目段末简述正在进行的 Higgs 研究 |
+| [天体物理 CV](CV/CV_cn.md) | MaNGA 项目优先，突出星系动力学与贝叶斯推断 |
 | [咨询信使用与定制说明](CV/README.md) | 固定段落顺序、论文兴趣定制、研究表述、附件及交流请求 |
 | [Higgs 优先 CV](CV/CV_cn.md) | Higgs 项目优先，突出特征比较、似然推断与可靠性诊断 |
-| [天体方向英文 CV 打印版](CV/CV_astro_en.html) | A4 HTML，可在浏览器中打印为 PDF |
-| [Higgs 优先英文 CV 打印版](CV/CV_en_two_page.html) | 双页 A4 HTML，可在浏览器中打印为 PDF |
+| [天体方向英文 CV 打印版](CV/CV_en.html) | A4 HTML，可在浏览器中打印为 PDF |
+| [Higgs 优先英文 CV 打印版](CV/CV_en-2page.html) | 双页 A4 HTML，可在浏览器中打印为 PDF |
 | [咨询信模板意见审核](../docs/4-Reviews/cover-letter-review-confirm.md) | 2026-09-29 逐条意见判断、CV 同步依据与落实记录 |
 | [后续待确认问题](follow-up-questions.md) | 已确认事实、待用户回答的问题与后续核查事项 |
-| [硕士导师定制材料](phy-master-plan/README.md#当前活动人选截至2026-10-03) | 加拿大6校、6位目标 + 1位备选；多大天文材料仅作取消路径的历史记录 |
+| [硕士导师定制材料](phy-master-plan/README.md#当前活动人选截至2026-10-06) | 加拿大6校、6位目标 + 1位备选；多大天文材料仅作取消路径的历史记录 |
 | [物理硕士申请规划](phy-master-plan/README.md) | 39校总览、申请时间表、专项分析与当前导师索引 |
 | [数据科学硕士申请规划](ds-master-plan/README.md) | 综合调研、跨项目比较与申请策略；学校档案和索引见 [ds-master/](../ds-master/README.md) |
 
@@ -36,11 +36,11 @@
 
 2026-09-28 用户进一步指定本批采用“助手先推荐并核查论文、抽取内容写进邮件，申请人随后阅读”的流程。[当前导师咨询信与论文阅读材料](phy-master-plan/README.md)已完成论文依据版，没有声称申请人已精读；模板中的研究联系段可先据核实资料起草，待本人阅读后据实调整，不阻塞草稿准备。本次模板更新未批量修改这些导师专属邮件。
 
-当前统一使用 [中文基础模板](CV/cover_letter_cn.md)，以 MaNGA 为主要经历并简述 Higgs，按“论文兴趣—相关科研经历与成果—希望在导师指导下继续学习和研究”展开。主题、论文兴趣、后续学习和交流请求按收件导师定制；完整使用说明集中在 [CV/README.md](CV/README.md)。若联系目的改为本校本科 supervised project，应另行调整时间和结尾请求。
+当前统一使用 [中文基础模板](CV/letter_cn.md)，以 MaNGA 为主要经历并简述 Higgs，按“论文兴趣—相关科研经历与成果—希望在导师指导下继续学习和研究”展开。主题、论文兴趣、后续学习和交流请求按收件导师定制；完整使用说明集中在 [CV/README.md](CV/README.md)。若联系目的改为本校本科 supervised project，应另行调整时间和结尾请求。
 
 ## 当前导师咨询材料
 
-活动目标为 Jim Cline、Ludovic Van Waerbeke、Marie-Cécile Piro、James Wadsley、Kristine Spekkens、Pauline Barmby；Alison Lister 为UBC Physics MSc备选。研究方向、联系侧重点、论文及招生证据统一见[当前活动导师索引](phy-master-plan/README.md#当前活动人选截至2026-10-03)，各自核查日期保留在导师目录中。
+活动目标为 Jim Cline、Ludovic Van Waerbeke、Marie-Cécile Piro、James Wadsley、Kristine Spekkens、Pauline Barmby；Alison Lister 为UBC Physics MSc备选。研究方向、联系侧重点、论文及招生证据统一见[当前活动导师索引](phy-master-plan/README.md#当前活动人选截至2026-10-06)，各自核查日期保留在导师目录中。
 
 Schutz、Liu未入选的公开招生限制及多大天文取消决定仍保留在规划入口，不作为当前联系目标。多大Physics的其他联系策略见[专题参考](phy-master-plan/uoft-physics-msc-application-analysis.md)。
 
@@ -87,3 +87,7 @@ Schutz、Liu未入选的公开招生限制及多大天文取消决定仍保留�
 - MaNGA 研究主页：https://hyi03.github.io/manga-dm/ 。本轮只引用本地档案与旧材料中已有 URL，未重新核验线上内容。
 
 这些来源与编辑说明用于内部核对，不应随套磁信和正式 CV 发给导师。
+
+## 当前入口与执行状态（2026-10-17）
+
+当前CV为[中文](CV/CV_cn.md)、[英文](CV/CV_en.md)、[PDF](CV/Hongyi_Xu-CV.pdf)；通用PS中英文存在，仍含学校专属占位；[Sorbonne动机信](phy-master-plan/21-Sorbonne/Sorbonne_Motivation_Letter.md)已有独立草稿。旧文中的双版本CV说明属于历史整理记录。当前导师材料为7校7目标＋1备选；推荐信按[最新额度方案](phy-master-plan/Physics_Masters_Recommendation_Plan.md)执行。ANU与Sydney各有一份条件录取，见[ANU](../offers/ANU.md)、[Sydney MCS](../offers/USYD.md)。[本周复盘及下一步](weekly-reviews/2026-10-17.md)。

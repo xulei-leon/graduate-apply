@@ -26,7 +26,7 @@
 | [ds-master/](ds-master/) | DS / Analytics / Applied Statistics / ML 硕士学校档案与地区索引；50项，覆盖9地区：美国15所，其他各不超过5项；含资格缺口和来源待核项 |
 | [application/phy-master-plan/](application/phy-master-plan/) | 物理硕士39所学校地区候选总览、PDF、事实快照与来源访问审计 |
 | [application/ds-master-plan/](application/ds-master-plan/) | DS硕士综合调研、跨项目比较、美国15所分层推荐与申请策略 |
-| [guides/](guides/) | 搜索及国家差异参考资料 |
+| [country-differences.md](country-differences.md) | 国家差异参考资料 |
 | [targets.md](targets.md) | 目标地区及申请优先级 |
 | [AGENTS.md](AGENTS.md) | 来源顺序、字段标准、匹配判断与建档流程 |
 
@@ -55,3 +55,7 @@
 6. 代码发现优先使用 codebase-memory-mcp 图谱；仅在检索非代码文件、字符串或图谱信息不足时使用文本搜索。不要自动启用 superpower skill，除非用户明确要求。
 
 正式条目应回答：能否申请、需要什么、匹配程度如何、哪些事实尚待跟进。完整字段和流程以 [AGENTS.md](AGENTS.md) 为准。
+
+## 本周复盘（2026-10-17）
+
+[申请进展、截止日期与下周计划](application/weekly-reviews/2026-10-17.md)。当前已记录两份条件录取：[ANU Astronomy and Astrophysics](offers/ANU.md)、[Sydney Master of Computer Science](offers/USYD.md)；原Sydney DS申请被拒。物理候选仍39校／19优先／8冲刺，DS仍50份研究档案；录取、候选、已提交与资格核实分别记录。

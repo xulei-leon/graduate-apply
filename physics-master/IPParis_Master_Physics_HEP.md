@@ -2,7 +2,7 @@
 
 **2027入学学校记录｜法国｜核查/访问尝试：2026-10-02**
 
-本轮状态：**官方核心页面已访问；2027未发布字段待更新**。申请资格仍以学校对正式成绩、课程及学位的审核为准。
+本轮状态：**2027申请窗口已确认（2026-10-16）；其余未发布字段待更新**。申请资格仍以学校对正式成绩、课程及学位的审核为准。
 
 ## 项目事实
 
@@ -25,8 +25,8 @@
 | Recommendation count / 推荐数量 | 2份academic references |
 | Recommendation policy / 提交与例外 | HEP M1项目页明确2份，由推荐人直接在线提交。FAQ中内部学生可省实际信件的特殊规则不适用于HY外部M1申请。 |
 | Cohort size / 年度规模 | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。 |
-| Deadline / 主申请与奖学金 | 当前National Master三轮截止2026-01-08 /03-26 /05-28；2027未发布。 |
-| Deadline evidence / 时间依据 | 仅公布2026周期，2027待发布 |
+| Deadline / 主申请与奖学金 | 2027入学National Master三轮截止2027-01-14／2027-03-31／2027-05-31（IP Paris申请平台）；具体项目轮次及渠道按portal确认，奖学金独立截止待核。 |
+| Deadline evidence / 时间依据 | National Master招生页英文、法文三轮一致；Last-verified：2026-10-16，见S3及本轮核查 |
 | International tuition / 学费 | 2027学费未核实；须使用本人国际学生费率报价。 |
 | Funding / TA / RA | Master scholarship竞争；National Master不自动获得PhD Track资助或博士录取。 |
 
@@ -91,16 +91,16 @@ HEP M1项目页明确2份，由推荐人直接在线提交。FAQ中内部学生�
 
 - 官方证据：https://www.ip-paris.fr/en/education/useful-information/admissions
 
-## 申请周期补核（2026-10-03）
+## 申请周期补核（2026-10-03；2026-10-16更新）
 
 | 字段 | 信息 |
 |---|---|
-| Application cycle / 启动至截止 | 2027待公布；2026参考三轮：2025-10-29 → 2026-01-08；2026-01-09 → 03-26；2026-03-27 → 05-28 |
-| 周期说明 | 年度月日仅作准备依据；2027批次须按申请系统确认。 |
+| Application cycle / 启动至截止 | 2027入学IP Paris平台三轮：2026-10-28 → 2027-01-14；2027-01-15 → 2027-03-31；2027-04-01 → 2027-05-31（核实2026-10-16） |
+| 周期说明 | 官网已公布2027入学National Master的IP Paris平台三轮；具体项目可选轮次及适用申请渠道仍按portal确认；不套PhD Track／MonMaster窗口。 |
 
 官方日期来源：https://www.ip-paris.fr/en/education/useful-information/admissions
 
-**申请周期 Last-verified / last-attempted：2026-10-03。**
+**申请周期 Last-verified：2026-10-16；下方旧日核查段为历史记录，以本次窗口为准。**
 
 
 ## 2026申请数量与名额补核（2026-10-03）
@@ -173,3 +173,34 @@ National Master三轮仍为2026入学：2025-10-29、2026-01-09、2026-03-27启�
 - https://www.ip-paris.fr/en/education/graduate-programs/masters-science/faqs
 
 逐项结果及访问缺口见[本轮启动核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261009.md)。
+
+## 2027申请启动复核（2026-10-13）
+
+招生及FAQ页首次TLS连接中断、重试HTTP 200；National Master三轮仍为2026入学：2025-10-29、2026-01-09、2026-03-27启动。2027三轮均未确认，全部保留往年日期及标记；不套PhD Track或MonMaster其他渠道。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-10-13**。未确认启动日，原申请周期及其他字段核查日期保持。
+
+官方来源：
+
+- https://www.ip-paris.fr/en/education/graduate-programs/masters-science/physics-program/master-year-1-high-energy-physics
+- https://www.ip-paris.fr/en/education/useful-information/admissions
+- https://www.ip-paris.fr/en/education/graduate-programs/masters-science/faqs
+
+逐项结果及访问缺口见[本轮启动核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261013.md)。
+
+## 2027申请启动复核（2026-10-16）
+
+已确认National Master的IP Paris申请平台三轮：2026-10-28至2027-01-14、2027-01-15至2027-03-31、2027-04-01至2027-05-31；英文、法文招生页一致，M1 HEP项目页将Application dates链接至该招生页。三轮均移除往年标记，第3轮移至4月，并同步截止与基于截止后2个月的通知时限。页面第3轮原带*但未解释；具体项目轮次／适用渠道仍以portal为准，未将PhD Track或MonMaster日历套入。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-10-16**。本次已确认窗口取代前述日期早于本日的未公布／往年结论；其他字段核查日期保持。
+
+官方来源：
+
+- https://www.ip-paris.fr/en/education/graduate-programs/masters-science/physics-program/master-year-1-high-energy-physics
+- https://www.ip-paris.fr/en/education/useful-information/admissions
+- https://www.ip-paris.fr/en/education/graduate-programs/masters-science/faqs
+- https://www.ip-paris.fr/en/education/admissions
+- https://www.ip-paris.fr/education/informations-pratiques/admissions
+- https://candidatures.polytechnique.fr/candidatures-mutualisees/logincandidature/?lang=en&dc=ok&cursus=IPP
+
+逐项证据及访问缺口见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261016.md)。

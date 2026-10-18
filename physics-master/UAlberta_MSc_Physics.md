@@ -136,3 +136,33 @@ Graduate Studies页可访问并提到27/28研究机会，但旧admissions入口H
 - https://www.ualberta.ca/en/physics/graduate-studies/information-for-prospective-students-and-applicants/index.html
 
 逐项结果及访问缺口见[本轮启动核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261009.md)。
+
+## 2027申请启动复核（2026-10-13）
+
+Graduate Studies、旧admissions及For applicants三个入口首次及重试均HTTP 403；无法核实2027启动，保留待核，不沿用此前页面可访问的表述作为本轮证据。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-10-13**。未确认启动日，原申请周期及其他字段核查日期保持。
+
+官方来源：
+
+- https://www.ualberta.ca/en/physics/graduate-studies/index.html
+- https://www.ualberta.ca/en/physics/graduate-studies/admissions.html
+- https://www.ualberta.ca/en/physics/graduate-studies/information-for-prospective-students-and-applicants/index.html
+
+逐项结果及访问缺口见[本轮启动核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261013.md)。
+
+## 2027申请启动复核（2026-10-16）
+
+Graduate Studies及For applicants本轮恢复可读；旧admissions页HTTP 404。沿For applicants定位到Deadlines与How to Apply：每年10-01开始接受下一September入学申请，12-01初轮、01-08助研考虑节点及03-31截止，但页面未标2027批次，不能据年度规则升级为2027专属开窗，保留启动待核。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-10-16**。本次未确认准确启动日，原启动值及其他字段核查日期保持。
+
+官方来源：
+
+- https://www.ualberta.ca/en/physics/graduate-studies/index.html
+- https://www.ualberta.ca/en/physics/graduate-studies/admissions.html
+- https://www.ualberta.ca/en/physics/graduate-studies/information-for-prospective-students-and-applicants/index.html
+- https://www.ualberta.ca/en/physics/graduate-studies/information-for-prospective-students-and-applicants/deadlines.html
+- https://www.ualberta.ca/en/physics/graduate-studies/information-for-prospective-students-and-applicants/how-to-apply.html
+
+逐项证据及访问缺口见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261016.md)。

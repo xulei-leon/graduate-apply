@@ -2,7 +2,7 @@
 
 **2027入学学校记录｜加拿大｜核查/访问尝试：2026-10-02**
 
-本轮状态：**官方核心页面已访问；2027未发布字段待更新**。申请资格仍以学校对正式成绩、课程及学位的审核为准。
+本轮状态：**2027申请窗口已确认（2026-10-16）；其余未发布字段待更新**。申请资格仍以学校对正式成绩、课程及学位的审核为准。
 
 ## 项目事实
 
@@ -24,8 +24,8 @@
 | Recommendation count / 推荐数量 | 3份 |
 | Recommendation policy / 提交与例外 | Physics MSc明确要求3份references；推荐人按学校在线渠道提交。 |
 | Cohort size / 年度规模 | 官网显示50名在读学生；不是年度cohort。 |
-| Deadline / 主申请与奖学金 | 官网写upcoming intake deadlines尚未配置；2027主截止和奖学金优先日期待发布。 |
-| Deadline evidence / 时间依据 | 待发布 |
+| Deadline / 主申请与奖学金 | September 2027入学：2026-12-01申请截止（Canadian／International相同）；成绩单2026-12-15，推荐2026-12-31；奖学金独立截止待核。 |
+| Deadline evidence / 时间依据 | September 2027 Intake，官网已公布；Last-verified：2026-10-16，见S1 |
 | International tuition / 学费 | 官网当前International first-year tuition CAD10,081.65；页面未承诺这是2027费率。 |
 | Funding / TA / RA | 项目说明有支持覆盖生活/学费的资助体系；CAD34,361 gross /25,286 net为2023-24历史median，非2027保证额。 |
 
@@ -45,7 +45,7 @@ QS World University Rankings 2027综合 45；QS Physics & Astronomy 2026 50。
 | Difficulty | Reach；申请规划判断，非百分比录取率。 |
 | 申请优先级 | 冲刺；导师方向先匹配；计算物理：导师研究提及 |
 | 当前资格焦点 | 项目期望三、四年级平均80%+；3.0须分段审查。 |
-| 下一步 | 先计算三、四年级课程均分并核80%等效，再谈faculty匹配；2027deadline尚未配置。 |
+| 下一步 | 先计算三、四年级课程均分并核80%等效，再谈faculty匹配；2027窗口已确认，申请截止2026-12-01；推荐截止2026-12-31。 |
 
 HY：UofT Physics，CGPA3.0/4.0，GRE General317/Q166，预计2027年6月毕业。MaNGA暗物质晕c–M Bayesian/PyMC与Higgs四轻子统计推断可作为本人研究证据；手稿提交、作者顺序与强推荐按最新背景记录，不将探索性结果包装为已发表成果。CGPA不能代替final-year/last-two-years/major average，English degree不自动代表每校免试。
 
@@ -80,16 +80,16 @@ Physics MSc明确要求3份references；推荐人按学校在线渠道提交。
 
 - 官方证据：https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics
 
-## 申请周期补核（2026-10-03）
+## 申请周期补核（2026-10-03；2026-10-16更新）
 
 | 字段 | 信息 |
 |---|---|
-| Application cycle / 启动至截止 | 启动待公布 → 截止待公布；官网未配置下一批次日期 |
-| 周期说明 | 年度月日仅作准备依据；2027批次须按申请系统确认。 |
+| Application cycle / 启动至截止 | 2027 September：2026-10-15 → 2026-12-01；成绩单2026-12-15、推荐2026-12-31（官网已公布；核实2026-10-16） |
+| 周期说明 | 官网明确标注September 2027 Intake；申请、成绩单与推荐截止分开执行，奖学金独立截止仍待核。 |
 
 官方日期来源：https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics
 
-**申请周期 Last-verified / last-attempted：2026-10-03。**
+**申请周期 Last-verified：2026-10-16；下方旧日核查段为历史记录，以本次窗口为准。**
 
 ## 申请前导师联系要求补核（2026-10-05）
 
@@ -134,3 +134,31 @@ Physics MSc官网将Matthew Choptuik的领域列为Relativity/Computational Phys
 ## 用户优先级与推荐配置（2026-10-09）
 
 新增为红色加粗重点冲刺，预留P＋B，另需第三份独立推荐；此标记不改变Reach／High及成绩资格判断。本次HTTPS读取项目页HTTP200，确认3份references，下一批次开窗／截止仍未配置；仅这两项Last-verified为2026-10-09。Overview和Timeline仍按Physics MSc，既有Astronomy导师材料分开。官方来源：https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics 。[推荐配置](../application/phy-master-plan/Physics_Masters_Recommendation_Plan.md)。
+
+## 2027申请启动复核（2026-10-13）
+
+项目页仍明确下一入学批次开窗和截止尚未在招生系统配置；2027启动保留待公布。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-10-13**。未确认启动日，原申请周期及其他字段核查日期保持。
+
+官方来源：
+
+- https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics
+
+逐项结果及访问缺口见[本轮启动核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261013.md)。
+
+## 当前申请优先级同步（2026-10-17）
+
+沿用2026-10-09已记录的用户决定：UBC Physics MSc为★★重点冲刺，预留P8＋B8＋第三份独立推荐；见[推荐信方案](../application/phy-master-plan/Physics_Masters_Recommendation_Plan.md)。39校、19所优先、8所冲刺的名单不变；本节为内部优先级同步，不代表已联系或已提交；2027窗口采用下方10-16来源审计的已确认日期。既有Van Waerbeke套磁材料对应Astronomy MSc，正式投递项目前需统一。
+
+## 2027申请启动复核（2026-10-16）
+
+已确认September 2027 Intake：2026-10-15启动，2026-12-01申请截止（Canadian与International相同），2026-12-15成绩单截止，2026-12-31推荐截止。移出待核清单，加入10月启动列，并同步相关节点；奖学金独立截止仍待核。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-10-16**。本次已确认窗口取代前述日期早于本日的未公布／往年结论；其他字段核查日期保持。
+
+官方来源：
+
+- https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics
+
+逐项证据及访问缺口见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261016.md)。

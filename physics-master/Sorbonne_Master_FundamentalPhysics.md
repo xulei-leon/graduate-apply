@@ -160,3 +160,33 @@ S3. **Dedicated applications (TLS issue on this check)**：https://master.physiq
 - https://www.canada.campusfrance.org/fr/candidature-eef
 
 逐项结果及访问缺口见[本轮启动核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261009.md)。
+
+## 2027申请启动复核（2026-10-13）
+
+联合Paris Physics Master项目可定位；Sorbonne申请页首次及重试均TLS证书验证失败，未确认2027项目启动。EEF 2027/28通用10-01开窗不能替代PPM项目日期，保留待核。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-10-13**。未确认启动日，原申请周期及其他字段核查日期保持。
+
+官方来源：
+
+- https://sciences.sorbonne-universite.fr/en/study/degree-seeking/masters/master-fundamental-physics-and-applications
+- https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/physique-fondamentale-et-applications-K2VO0C50/master-physique-fondamentale-et-applications-m1-parcours-paris-physics-master-JS1XR1EO.html
+- https://master.physique.sorbonne-universite.fr/fr/candidatures-inscription.html
+- https://www.canada.campusfrance.org/fr/candidature-eef
+
+逐项结果及访问缺口见[本轮启动核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261013.md)。
+
+## 2027申请启动复核（2026-10-16）
+
+联合Paris Physics Master项目可定位；Sorbonne申请页首次及重试均TLS证书验证失败，未确认2027项目启动。EEF 2027/28通用10-01开窗不能替代PPM项目日期，保留待核。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-10-16**。本次未确认准确启动日，原启动值及其他字段核查日期保持。
+
+官方来源：
+
+- https://sciences.sorbonne-universite.fr/en/study/degree-seeking/masters/master-fundamental-physics-and-applications
+- https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/physique-fondamentale-et-applications-K2VO0C50/master-physique-fondamentale-et-applications-m1-parcours-paris-physics-master-JS1XR1EO.html
+- https://master.physique.sorbonne-universite.fr/fr/candidatures-inscription.html
+- https://www.canada.campusfrance.org/fr/candidature-eef
+
+逐项证据及访问缺口见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261016.md)。

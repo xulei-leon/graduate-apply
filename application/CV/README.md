@@ -8,8 +8,8 @@
 
 | 文件 | 用途 |
 |---|---|
-| [cover_letter_cn.md](cover_letter_cn.md) | 邮件主题、称呼、正文与署名；为每位导师定制后使用 |
-| [cover_letter_en.md](cover_letter_en.md) | 对应英文邮件；依据中文内容，参考 `var/CV-draft/Hongyi_Xu_statement.pdf` 的朴实语气，避免连续以 “I” 起句；为每位导师定制后使用 |
+| [letter_cn.md](letter_cn.md) | 邮件主题、称呼、正文与署名；为每位导师定制后使用 |
+| [letter_en.md](letter_en.md) | 对应英文邮件；依据中文内容，参考 `var/CV-draft/Hongyi_Xu_statement.pdf` 的朴实语气，避免连续以 “I” 起句；为每位导师定制后使用 |
 | README.md | 内部使用与编辑说明，不随邮件发送 |
 
 ## 邮件顺序
@@ -40,9 +40,9 @@ MaNGA 经历不直接证明已有弱透镜、星流、宇宙学模拟或粒子�
 
 ## CV、研究链接与发送格式
 
-- 默认配套使用以 MaNGA 为先的 [中文 CV](CV_astro_cn.md)；英文投递使用 [英文 CV](CV_astro_en.md) 导出的 PDF。若具体导师更适合 Higgs 优先排序，可选择 [Higgs 优先中文 CV](CV_cn.md) / [英文 CV](CV_en.md)。
+- 当前配套文件为[中文 CV](CV_cn.md)、[英文 CV](CV_en.md)与[英文 PDF](Hongyi_Xu-CV.pdf)，另有[两页 PDF](Hongyi_Xu-CV-2page.pdf)。发送前核对内容与项目顺序；已移除的CV_astro文件不作为当前入口。
 - 实际附上 CV 后使用“随信附上 CV”；未附时改为“如有需要，我可以提供 CV”，按实际情况选择。附件可命名为 `Hongyi_Xu_CV_2026.pdf`。成绩单仅按要求单独提供，不发送 Word 作为定稿附件；被要求报告 GPA 时按最新成绩单填写。
 - 正文保留最相关的一至两个研究链接，准确区分手稿 PDF、预览页与代码仓库。承诺分享其他材料前，确认已有可分享版本。
-- 每位导师保存一份独立定制稿，例如 `UBC_VanWaerbeke_Outreach_Email_CN.md`。现有导师专属材料见 [2026 年 10 月咨询材料](../202610-phy-master/README.md)；基础模板更新后，专属稿仍须逐份核对。
+- 每位导师保存一份独立定制稿，例如 `UBC_VanWaerbeke_Outreach_Email_CN.md`。现有导师专属材料见 [2026 年 10 月咨询材料](../phy-master-plan/README.md)；基础模板更新后，专属稿仍须逐份核对。
 - 替换所有【】占位符，核实姓氏、职称与称谓。正文段间留空行，不加小标题或强调格式；Higgs 属于科研经历段。英文版以约 200–250 词为编辑目标，按实际内容和收件方要求调整。
 - 发送时使用邮件模板中的主题、称呼、正文与署名；本 README 仅作内部参考。

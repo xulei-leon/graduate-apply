@@ -1,6 +1,6 @@
 # Physics Master — 2027六国学校索引
 
-法国五校国际生数据：[2020—2025 五年统计与证据](../application/phy-master-plan/france/Five_Universities_Physics_Master_International_2020_2025.md)。四校有连续五年 SISE 国际流动物理硕士主要注册数；IP Paris 有官方国际生占比范围，未核逐年人数。国际新生、申请、offer 和录取率序列未核实。General Physics 的 2026—2027 项目总容量为 35，非国际专属配额；不改变学校数量。**Last-verified：2026-10-07。**
+法国五校国际生数据：[2020—2025 五年统计与证据](../application/phy-master-plan/20-france/Five_Universities_Physics_Master_International_2020_2025.md)。四校有连续五年 SISE 国际流动物理硕士主要注册数；IP Paris 有官方国际生占比范围，未核逐年人数。国际新生、申请、offer 和录取率序列未核实。General Physics 的 2026—2027 项目总容量为 35，非国际专属配额；不改变学校数量。**Last-verified：2026-10-07。**
 
 
 本轮共 **39所学校记录**：加拿大12、澳大利亚2、美国10、法国5、德国5、瑞士5。含ANU已获普通版Astronomy and Astrophysics offer，其他38所保留为候选。Sorbonne与Paris Cité共同开设Paris Physics Master，不能把39所学校当作39次独立申请机会。目标为2027年6月本科毕业后的入学，实际ANU offer入学期仍以个人录取信为准。核查/访问尝试日期：2026-10-02。
@@ -19,7 +19,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 
 | 国家 | 学校记录数 | 优先申请数 | 名单口径 |
 |---|---|---|---|
-| 加拿大 | 12 | 5 | 指定12所，删除Montréal、增加五校 |
+| 加拿大 | 12 | 6 | 指定12所，删除Montréal、增加五校 |
 | 澳大利亚 | 2 | 1 | 仅ANU（已有offer）与Melbourne |
 | 美国 | 10 | 3 | 原前八保留；Tufts、Texas A&M替换UIUC、BU |
 | 法国 | 5 | 4 | PSL / IP Paris / Sorbonne / Paris-Saclay / Paris Cité |
@@ -28,7 +28,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 
 推荐信口径：必需、可选、官方清单未列必交和待核分别记录。未列要求不等于已确认0封；推荐人联系信息、在线评估与信件按官方实际形式区分。校级最低数与项目专属加额、入学与奖学金要求分别注明。
 
-黄色或粉红色整行标记用户指定的18所优先申请学校；此标记不改变项目资格、难度或录取状态。
+黄色或粉红色整行标记用户指定的19所优先申请学校（其中8所重点冲刺）；此标记不改变项目资格、难度或录取状态。
 
 申请周期补核：2026-10-03。“年度”日期仅为官方固定月日，2027批次仍须确认；2026参考周期不当作2027公告。启动或截止未公布时明确留待核；ANU按个人offer期限办理。
 
@@ -63,13 +63,13 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需<br><br><strong>申请前联系导师：</strong><br><a href="https://www.physics.utoronto.ca/graduate/prospective-students/graduate-admissions-department-physics/admissions-procedure/">未列提前联系要求</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">2封</td>
 </tr>
-<tr>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top"><a href="UBC_MSc_Physics.md">University of British Columbia — Master of Science in Physics</a></td>
+<tr style="background:#FFD9E6;" data-priority-application="true">
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top"><strong>★★重点冲刺</strong><br><a href="UBC_MSc_Physics.md">University of British Columbia — Master of Science in Physics</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">QS World University Rankings 2027综合 45；QS Physics &amp; Astronomy 2026 50；加拿大免全球排名过滤；本轮按用户更新后的12所清单选择，不宣称全国前八。</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">Academic / Research；通常约2年；官网历史平均2.3年；至少30 credits，其中18-credit thesis、12 credits graduate coursework；须public research presentation。<a href="https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics" style="color:inherit"><br><br><strong>申请周期：</strong><br>启动待公布 → 截止待公布；官网未配置下一批次日期</a></td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">Academic / Research；通常约2年；官网历史平均2.3年；至少30 credits，其中18-credit thesis、12 credits graduate coursework；须public research presentation。<a href="https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics" style="color:inherit"><br><br><strong>申请周期：</strong><br>2027 September：2026-10-15 → 2026-12-01；成绩单2026-12-15、推荐2026-12-31（官网已公布；核实2026-10-16）</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">Graduate School一般B+（76% at UBC）；现行Physics Academic Calendar明确third- and fourth-year courses overall average 80% or better is expected，按更严格项目标准评估。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；Physics本科或等效；研究方向包含dark matter、astronomy、particle physics；须核核心课程。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">Not required。；来自加拿大大学的本科不属于官网要求ELP考试的“university outside Canada”情形；UofT路径可依官方规则处理。</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">官网写upcoming intake deadlines尚未配置；2027主截止和奖学金优先日期待发布。（待发布）</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">September 2027入学：2026-12-01申请截止（Canadian／International相同）；成绩单2026-12-15，推荐2026-12-31；奖学金独立截止待核。（September 2027 Intake；核实2026-10-16）</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">官网当前International first-year tuition CAD10,081.65；页面未承诺这是2027费率。；项目说明有支持覆盖生活/学费的资助体系；CAD34,361 gross /25,286 net为2023-24历史median，非2027保证额。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">High / Reach；冲刺；导师方向先匹配</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">冲刺；导师方向先匹配<br><br><strong><a href="https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics">计算物理：导师研究提及</a></strong></td>
@@ -400,7 +400,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需<br><br><strong>申请前联系导师：</strong><br><a href="https://gsas.nyu.edu/admissions/arc/programs/physics.html">所查页面未列提前联系要求</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">3封</td>
 </tr>
-<tr style="" data-priority-application="true">
+<tr>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top"><a href="TAMU_MS_Physics.md">Texas A&amp;M University — Master of Science in Physics — Thesis option</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">QS World University Rankings 2027综合 169；QS Physics &amp; Astronomy 2026 124；QS Statistics &amp; Operational Research 2026第46；通过仓库明列的相关学科口径：QS Statistics &amp; Operational Research 2026第46（已读取QS官方XLSX）。Physics第124、综合第169，均不是前100；不宣称物理项目排名通过。统计口径与本人的推断方法背景相关。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">Academic / Research；Thesis至少32 semester credit hours；non-thesis至少36。官方本轮未给典型完成年限，需按导师与课程计划确认。；本轮选Fundamental Physics / Thesis：研究、written thesis及final examination；官方亦有non-thesis，不能与论文型混写。<a href="https://artsci.tamu.edu/physics-astronomy/academics/prospective-graduates/how-to-apply.html" style="color:inherit"><br><br><strong>申请周期：</strong><br>2026-08-01 → 2027-01-10（优先）；网页仍误写Fall 2026，须核CAS周期</a></td>
@@ -474,13 +474,13 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需<br><br><strong>申请前联系导师：</strong><br><a href="https://psl.eu/en/education/master-s-degree-physics">所查页面未列提前联系要求</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">2封（M1）</td>
 </tr>
-<tr style="background:#FFD9E6">
+<tr style="background:#FFD9E6" data-priority-application="true">
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top"><strong>重点申请</strong><br><a href="IPParis_Master_Physics_HEP.md">Institut Polytechnique de Paris — Master Physics — M1 / M2 High Energy Physics</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">QS World University Rankings 2027综合 43；QS Physics &amp; Astronomy 2026 45；最新QS综合或Physics &amp; Astronomy前100已核。</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">Academic / Research；M1+M2 2年 /120 ECTS；M1至少16周internship；M2至少4个月thesis / internship，30 ECTS。<a href="https://www.ip-paris.fr/en/education/useful-information/admissions" style="color:inherit"><br><br><strong>申请周期：</strong><br>2027待公布；2026参考三轮：2025-10-29 → 2026-01-08；2026-01-09 → 03-26；2026-03-27 → 05-28</a></td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">Academic / Research；M1+M2 2年 /120 ECTS；M1至少16周internship；M2至少4个月thesis / internship，30 ECTS。<a href="https://www.ip-paris.fr/en/education/useful-information/admissions" style="color:inherit"><br><br><strong>申请周期：</strong><br>2027入学IP Paris平台三轮：2026-10-28 → 2027-01-14；2027-01-15 → 2027-03-31；2027-04-01 → 2027-05-31（核实2026-10-16）</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">Bachelor Physics / equivalent，excellent preparation；未公布数值最低或平均录取GPA。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；QM / EM / classical / statistical /数学；Higgs / likelihood / ML科研可对接HEP申请。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">所查National Master招生页未要求GRE。；HEP English B2；French notions highly desirable而非明确强制等级。英语学位免试须National Master规则确认，不能直接套PhD Track豁免。</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">当前National Master三轮截止2026-01-08 /03-26 /05-28；2027未发布。（仅公布2026周期，2027待发布）</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">2027入学National Master三轮截止2027-01-14／2027-03-31／2027-05-31（IP Paris申请平台）；具体项目轮次及渠道按portal确认，奖学金独立截止待核。（2027入学日历；核实2026-10-16）</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">2027学费未核实；须使用本人国际学生费率报价。；Master scholarship竞争；National Master不自动获得PhD Track资助或博士录取。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">High / Reach；科研最贴近；强冲刺</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">科研最贴近；强冲刺<br><br><strong><a href="https://www.ip-paris.fr/en/education/graduate-programs/masters-science/physics-program/master-year-1-high-energy-physics">计算相关：数值物理课程</a></strong><br><br><strong>双学位选项（2026-10-06核）：</strong><br><a href="https://www.ip-paris.fr/en/education/graduate-programs/masters-science/physics-program/master-year-1-high-energy-physics">攻读巴黎综合理工学院（École polytechnique）与苏黎世联邦理工学院（ETH Zürich）的双学位。</a><br>International Track 第二年在 ETH Zürich 就读；选拔条件待核。</td>
@@ -760,3 +760,11 @@ WashU · MA Physics已确认Fall 2027校级统一开窗为2026-09-01；MA截止�
 ## 2027申请启动复核（2026-10-09）
 
 本轮范围内25份项目档案／27条项目与轮次结果均未确认可更新的2027启动日。PSL／ENS普通ICFP M1来源不一致，保留11-24往年参考并明确待核；ENS列2026-11-26、PSL仍为2025-11-24，不能把PhD Track或不明确的批次套入M1。每项官方URL、适用入学年份及最后核实／访问尝试日期见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261009.md)。学校39条、重点18所及既有申请优先级保持不变。
+
+## 当前对账状态（2026-10-17）
+
+39所学校档案与本页39个学校行均存在且无重复；地区合计12＋2＋10＋5＋5＋5＝39。当前优先19所、其中冲刺8所，UBC标记与总览及推荐信方案同步；加拿大优先数为6。以上取代旧18／7统计，历史段落保留原日期。ANU条件录取及2027-07-26开学见[个人offer档案](../offers/ANU.md)；Sydney MCS另计offer、不增计物理项目。[本周复盘](../application/weekly-reviews/2026-10-17.md)。
+
+## 2027申请启动复核（2026-10-16）
+
+本轮按运行时文件核查5条往年轮次与21组待核学校，共25份项目档案／27条项目及轮次结果。确认4条启动日期：UBC 2026-10-15；IP Paris第1轮2026-10-28、第2轮2027-01-15、第3轮2027-04-01。UBC移出待核清单，IP Paris第3轮移至4月并移除三轮往年标记；同步已公布截止及由其推算的通知时限。其余未确认的启动值保留，现余2条往年项及20组启动待核学校。PSL／ENS来源不一致仍待核；保留Melbourne 10-11用户提供的批次与截止证据。学校39条、重点19所、冲刺8所不变。 日期早于本日的核查段作为历史记录保留，当前周期以更新后的表格及本节为准。每项官方URL、适用年份与最后核实／访问尝试日期见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261016.md)。

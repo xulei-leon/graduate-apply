@@ -182,3 +182,38 @@ S3. **Official handbook (challenge on this check)**：https://handbook.unimelb.e
 | 个人规划 | 按预计2027年6月本科毕业，优先考虑July intake；申请截止早于毕业，需提前核对在读申请及最终文件补交规则。此项为规划判断，非已核招生条款。 |
 
 **证据来源与核查边界：2026-10-11用户直接提供的官网页面原文；同日本机再次HTTPS请求仍返回403，未独立读取日期正文。奖学金日期、学术资格及其他字段不因本次修正升级为已核。**
+
+## 2027申请启动复核（2026-10-13）
+
+项目及entry requirements页重试仍HTTP 403；2026与2027 handbook均HTTP 200但正文为Request unsuccessful的Incapsula拦截页，不算取得课程资料。2027 July intake及2027-05-31截止沿用2026-10-11用户提供的官网原文；本次仍未独立读取正文，准确开窗待核。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-10-13**。未确认启动日，原申请周期及其他字段核查日期保持。
+
+官方来源：
+
+- https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/
+- https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/entry-requirements/
+- https://handbook.unimelb.edu.au/2026/courses/mc-sci-phy
+- https://handbook.unimelb.edu.au/2027/courses/mc-sci-phy
+
+逐项结果及访问缺口见[本轮启动核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261013.md)。
+
+## 周复盘证据口径修正（2026-10-17）
+
+2026-10-13与本轮2026-10-16的访问失败不撤销2026-10-11用户提供的官方日期证据。当前结论：2027 March截止2026-11-30，July截止2027-05-31；预计六月毕业，应优先核July的在读申请与最终文件补交安排。申请开放日、offer周期、奖学金、本人学术资格及推荐要求仍待核。来源：https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/how-to-apply/#key-application-dates 。本机本轮返回HTTP403；不将用户提供原文追溯标成独立联网核验。
+
+## 2027申请启动复核（2026-10-16）
+
+项目、entry requirements及How to apply关键日期页HTTP 403；2026与2027 handbook旧路径HTTP 404。本轮无法独立读取开窗日，继续待核。保留2026-10-11用户提供官网原文已确认的2027 March与July批次及2026-11-30／2027-05-31截止，不因本轮访问失败退回“mid-year是否开放待核”；两批次准确启动均未确认。
+
+适用入学计划：**2027入学**（March／July）；本字段最后核实／访问尝试：**2026-10-16**。本次未确认准确启动日，原启动值及其他字段核查日期保持。
+
+官方来源：
+
+- https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/
+- https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/entry-requirements/
+- https://handbook.unimelb.edu.au/2026/courses/mc-sci-phy
+- https://handbook.unimelb.edu.au/2027/courses/mc-sci-phy
+- https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/how-to-apply/#key-application-dates
+
+逐项证据及访问缺口见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261016.md)。

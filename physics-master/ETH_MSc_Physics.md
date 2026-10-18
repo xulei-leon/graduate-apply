@@ -148,3 +148,7 @@ Physics-specific application材料及推荐信要求尚未核清；课程admissi
 - https://www.phys.ethz.ch/studies/master.html
 
 **本字段Last-verified／last-attempted：2026-10-05；其他字段核查日期不变。**
+
+## 近期日期复核（2026-10-16）
+
+2026-10-16直接HTTPS重核Autumn Semester 2027：国际本科学位申请窗口2026-11-01至11-30，最终11:59 AM CET（北京时间18:59）；完整材料须在该时点前提交。仅重核日期，不改变其余字段日期或个人资格待核状态。来源：https://ethz.ch/en/studies/master/application/dates.html 。

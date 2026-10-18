@@ -161,3 +161,29 @@ S5. **Admission regulations linked by faculty**：https://www.uni-heidelberg.de/
 - https://www.physik.uni-heidelberg.de/studium/master?lang=en
 
 逐项结果及访问缺口见[本轮启动核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261009.md)。
+
+## 2027申请启动复核（2026-10-13）
+
+项目及系页列按国籍区分的年度截止，未核到non-EU 2027冬季准确启动，保留未公布。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-10-13**。未确认启动日，原申请周期及其他字段核查日期保持。
+
+官方来源：
+
+- https://www.uni-heidelberg.de/en/study/all-subjects/physics/physics-master
+- https://www.physik.uni-heidelberg.de/studium/master?lang=en
+
+逐项结果及访问缺口见[本轮启动核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261013.md)。
+
+## 2027申请启动复核（2026-10-16）
+
+系页首次超时、重试可读；项目及系页列按国籍区分的年度截止，未核到non-EU 2027冬季准确启动，保留未公布。
+
+适用入学计划：**2027入学**（冬季／10月）；本字段最后核实／访问尝试：**2026-10-16**。本次未确认准确启动日，原启动值及其他字段核查日期保持。
+
+官方来源：
+
+- https://www.uni-heidelberg.de/en/study/all-subjects/physics/physics-master
+- https://www.physik.uni-heidelberg.de/studium/master?lang=en
+
+逐项证据及访问缺口见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261016.md)。

@@ -140,3 +140,35 @@ Physics MS bulletin可访问但无启动日；GSAS Physics及系级FAQ均HTTP 40
 - https://as.nyu.edu/nyu-as/as/departments/physics/programs/graduate/physics-graduate-admissions-faq.html
 
 逐项结果及访问缺口见[本轮启动核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261009.md)。
+
+## 2027申请启动复核（2026-10-13）
+
+GSAS Physics与系级FAQ本次均HTTP 200，已改善此前访问缺口；GSAS仅列December 30截止并注明September 2026更新，FAQ仍为Fall 2026。MS bulletin及公开申请入口未列2027准确启动日；中央ARC补核HTTP 405，启动保留未公布／待核。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-10-13**。未确认启动日，原申请周期及其他字段核查日期保持。
+
+官方来源：
+
+- https://bulletins.nyu.edu/graduate/arts-science/programs/physics-ms/
+- https://gsas.nyu.edu/admissions/arc/programs/physics.html
+- https://as.nyu.edu/nyu-as/as/departments/physics/programs/graduate/physics-graduate-admissions-faq.html
+- https://gsas.nyu.edu/admissions/arc.html
+- https://apply.gsas.nyu.edu/apply
+
+逐项结果及访问缺口见[本轮启动核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261013.md)。
+
+## 2027申请启动复核（2026-10-16）
+
+GSAS Physics先超时后HTTP 405，系级FAQ与中央ARC重试仍HTTP 405；MS bulletin及公开申请入口可读但没有2027准确启动日，保留未公布／待核，不沿用10-13的可访问状态作为本轮证据。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-10-16**。本次未确认准确启动日，原启动值及其他字段核查日期保持。
+
+官方来源：
+
+- https://bulletins.nyu.edu/graduate/arts-science/programs/physics-ms/
+- https://gsas.nyu.edu/admissions/arc/programs/physics.html
+- https://as.nyu.edu/nyu-as/as/departments/physics/programs/graduate/physics-graduate-admissions-faq.html
+- https://gsas.nyu.edu/admissions/arc.html
+- https://apply.gsas.nyu.edu/apply
+
+逐项证据及访问缺口见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261016.md)。

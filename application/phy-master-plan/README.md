@@ -10,8 +10,8 @@ PDF开头新增“Summary · 申请数量汇总”，随后为“地区候选总
 - [当前 Markdown](Physics_Masters_Overview.md)
 - [2027 入学申请时间表](Physics_Masters_Timeline.md)
 - [推荐信方案：冲刺8校优先P＋B，P8全部保留、B10基础与增额预算（2026-10-09修订）](Physics_Masters_Recommendation_Plan.md)
-- [法国分析材料与国际生统计索引](france/README.md)
-- [法国五校物理硕士国际生五年统计](france/Five_Universities_Physics_Master_International_2020_2025.md)
+- [法国分析材料与国际生统计索引](20-france/README.md)
+- [法国五校物理硕士国际生五年统计](20-france/Five_Universities_Physics_Master_International_2020_2025.md)
 - [39所学校索引及档案](../../physics-master/README.md)
 - [结构化事实快照](Physics_Masters_Overview.json)
 
@@ -67,7 +67,7 @@ PDF开头新增“Summary · 申请数量汇总”，随后为“地区候选总
 | **Queen’s — Master of Science in Physics** | **05：[Kristine Spekkens](05-queens-kristine-spekkens/README.md)** | High（星系／Bayesian）/ Reach | HI 不对称性后验、相关噪声及群体推断；连接 MaNGA 与 coverage diagnostics | **优先联系：官方明确 Fall 2027 有1–2个 MSc / PhD 岗位**；年度 January 7 full consideration，2027-01-07按年度规则准备；https://www.queensu.ca/physics/people-search/kristine-spekkens |
 | **Western — MSc Astronomy（与总览 Physics MSc 分开记录）** | **06：[Pauline Barmby](06-western-pauline-barmby/README.md)** | High（方法／星系）/ Match（附条件） | 测光输入、MLP 分类污染与观测不确定性；Higgs 特征比较与 MaNGA 背景 | 物理本科可申请；2027名额待问，国际生 **2027-03-01** 截止；https://physics.uwo.ca/people/faculty_web_pages/barmby.html |
 | UBC — Master of Science in Physics (MSc)，备选 | **备选**：[Alison Lister](ubc-alison-lister/README.md) | High（方法）/ Reach | Higgs open-MC、MLP 输入比较、pyhf 和有限 MC / 覆盖率诊断 | 指导资格明确，2027 名额待问；https://www.grad.ubc.ca/researcher/14742-lister |
-| **Melbourne — Master of Science (Physics)** | **07 首选：[Matthew Dolan](07-melbourne/README.md)** | High（collider ML / 推断方法）/ Unknown | CMS Open Data 的 simulation/data 分类器排序反转，连接 Higgs AUC 与信号强度区间评价 | **2027 名额、题目与入学月份待问**；本地 EOI 表格不要求申请前落实导师，与此前网页摘录有差异；https://www.centredarkmatter.org/all/matthew-dolan |
+| **Melbourne — Master of Science (Physics)** | **07 首选：[Matthew Dolan](12-melbourne/README.md)** | High（collider ML / 推断方法）/ Unknown | CMS Open Data 的 simulation/data 分类器排序反转，连接 Higgs AUC 与信号强度区间评价 | **2027 名额、题目与入学月份待问**；本地 EOI 表格不要求申请前落实导师，与此前网页摘录有差异；https://www.centredarkmatter.org/all/matthew-dolan |
 
 以上是研究契合与准备难度判断，非录取概率。地域计数：**Canada 6 所、Australia 1 所，共 7 所学校；有完整材料包的活动导师 8 位（目标 7、备选 1）**。正式项目门槛、截止、资助与未解决事项见各目录 README。Alberta 与 Melbourne 的 High 是研究匹配，不覆盖招生资格或条款仍待核实的限制。
 
@@ -84,7 +84,7 @@ PDF开头新增“Summary · 申请数量汇总”，随后为“地区候选总
 | Kristine Spekkens | [Bayesian Galaxy Asymmetry](https://arxiv.org/abs/2609.26472)（2026） | 后验不确定性、相关噪声与星系群体应用 | [章节与问题](05-queens-kristine-spekkens/paper_reading_notes.md) |
 | Pauline Barmby | [The contribution of the color space in LSST-like photometry for the selection of extragalactic globular cluster candidates](https://arxiv.org/abs/2512.17644)（2025初版，2026修订） | 输入信息、分类污染与测光噪声敏感性，连接 Higgs 特征比较 | [章节与问题](06-western-pauline-barmby/paper_reading_notes.md) |
 | Alison Lister（备选） | 首读：[ATLAS weakly supervised dijet anomaly detection](https://arxiv.org/abs/2502.09770)（2025）；选读：[Transforming jet flavour tagging at ATLAS](https://arxiv.org/abs/2505.19689)（2026） | 首封用第一篇的分类器选择、pyhf 拟合和背景偏差验证；GN2 作为后续稳健性与校准阅读 | [章节与问题](ubc-alison-lister/paper_reading_notes.md) |
-| **Matthew Dolan** | 首读：[Quark-versus-gluon tagging in CMS Open Data with CWoLa and TopicFlow](https://arxiv.org/abs/2312.03434)（2025 发表）；补充：[Towards Measuring the CP-Violating Phase with Atmospheric Neutrinos](https://arxiv.org/abs/2605.16721)（2026） | 主选论文中模拟与数据上的 classifier ranking reversal，连接本人模型评价、有限 MC 与推断可靠性；首封只引用主选论文 | [近期论文、原文定位与课题询问](07-melbourne/paper_reading_notes.md) |
+| **Matthew Dolan** | 首读：[Quark-versus-gluon tagging in CMS Open Data with CWoLa and TopicFlow](https://arxiv.org/abs/2312.03434)（2025 发表）；补充：[Towards Measuring the CP-Violating Phase with Atmospheric Neutrinos](https://arxiv.org/abs/2605.16721)（2026） | 主选论文中模拟与数据上的 classifier ranking reversal，连接本人模型评价、有限 MC 与推断可靠性；首封只引用主选论文 | [近期论文、原文定位与课题询问](12-melbourne/paper_reading_notes.md) |
 
 既有阅读安排是 Van Waerbeke、Cline，Lister 两篇作为备选。本次新增四位中建议优先读 Spekkens：方法重合且有明确 Fall 2027 招生信号；目录编号仍严格保持用户指定的 Alberta、McMaster、Queen’s、Western 顺序。论文的物理问题不同，阅读说明区分可迁移方法与尚未掌握的领域知识。
 
@@ -149,3 +149,7 @@ Higgs 公共仓库 README 当前使用 test01 标签，而本地科研背景曾�
 ## UBC重点冲刺与推荐信配置更新（2026-10-09）
 
 UBC新增红色加粗／★★重点冲刺，当前为39所已选、19所重点申请、8所重点冲刺，加拿大重点6所；此前18／7为历史口径。Overview Markdown／PDF／JSON、Timeline与推荐信方案同步标记。UBC按当前总览Physics MSc记录配置P＋B＋国内信；Astronomy活动材料仍另列。P8全部保障8所冲刺，基础B余2次给Queen’s与McMaster；Western需追加1次B，UT Austin另需落实独立第三位。PDF本次仅更新优先级标记与统计，其他正文事实保持原快照日期；最新德国夏季安排等日期以当前Markdown／Timeline为准。
+
+## 当前执行状态（2026-10-17周复盘）
+
+39校／19优先／8冲刺按当前总览；活动咨询材料为7校7位目标＋1位备选，尚未见新发送或回复记录。ANU与Sydney已有条件录取，不能再以本目录旧文“正式申请未提交”概括全仓库。Melbourne July 2027及05-31截止已有2026-10-11用户提供官网原文；准确开窗与offer时间仍待核。推荐额度执行以P8／B10及条件增额方案为准，不将旧“承诺未知”或“约20校”当最新执行表。[本周复盘](../weekly-reviews/2026-10-17.md)。

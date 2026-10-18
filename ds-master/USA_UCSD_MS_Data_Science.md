@@ -43,3 +43,7 @@
 4. [QS2026相关学科官方公开XLSX](https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx) - https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/49580/qs_world_university_rankings_by_subject_2026_-_public_results_v1.2f9796007052.xlsx
 
 字段中“未提及”仅描述已读页面，不等于明确免除；“未核实”不等于官网没有要求。数值、费用与日期按所标年度使用。来源访问受限的记录未标Verified。
+
+## 近期日期复核（2026-10-16）
+
+2026-10-16直接HTTPS重核：官网仍标Tentative Application Opens October 14, 2026、Tentative Application Closes December 2, 2026，Fall 2027 Quarter Begins September 20, 2027。保持Tentative，不把计划开窗等同本人已建申请或已提交。其他字段沿2026-10-02记录。来源：https://datascience.ucsd.edu/graduate/graduate-admissions/ 。

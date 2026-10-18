@@ -135,3 +135,29 @@ MSc需3份references，其中至少2份academic，第三份可academic或profess
 - https://uwaterloo.ca/physics-astronomy/graduate-studies/how-apply
 
 逐项结果及访问缺口见[本轮启动核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261009.md)。
+
+## 2027申请启动复核（2026-10-13）
+
+Thesis MSc及how-to-apply页仅见September入学年度01-09截止与提前申请建议；未核到2027准确启动日，保留未公布。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-10-13**。未确认启动日，原申请周期及其他字段核查日期保持。
+
+官方来源：
+
+- https://uwaterloo.ca/physics-astronomy/graduate-studies/msc-programs
+- https://uwaterloo.ca/physics-astronomy/graduate-studies/how-apply
+
+逐项结果及访问缺口见[本轮启动核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261013.md)。
+
+## 2027申请启动复核（2026-10-16）
+
+Thesis MSc及how-to-apply页仅见September入学年度01-09截止与提前申请建议；未核到2027准确启动日，保留未公布。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-10-16**。本次未确认准确启动日，原启动值及其他字段核查日期保持。
+
+官方来源：
+
+- https://uwaterloo.ca/physics-astronomy/graduate-studies/msc-programs
+- https://uwaterloo.ca/physics-astronomy/graduate-studies/how-apply
+
+逐项证据及访问缺口见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261016.md)。

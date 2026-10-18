@@ -151,3 +151,31 @@ international Master checklist的Physics项需本科论文摘要或无论文说�
 - https://www.unibe.ch/studium/daten/studierende/herbst/index_ger.html
 
 逐项结果及访问缺口见[本轮启动核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261009.md)。
+
+## 2027申请启动复核（2026-10-13）
+
+中央秋季页仍为年度01-01起处理申请；国际Master材料流程另列。未明确2027准确申请开窗，保留启动待核及既有截止待核状态。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-10-13**。未确认启动日，原申请周期及其他字段核查日期保持。
+
+官方来源：
+
+- https://www.philnat.unibe.ch/studium/studienprogramme/master_physik/index_ger.html
+- https://www.unibe.ch/studium/studienangebote/master/bewerbung/international/index_ger.html
+- https://www.unibe.ch/studium/daten/studierende/herbst/index_ger.html
+
+逐项结果及访问缺口见[本轮启动核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261013.md)。
+
+## 2027申请启动复核（2026-10-16）
+
+国际Master材料页首次超时、重试可读；中央秋季页仍为年度01-01起处理申请，未明确2027准确申请开窗，保留启动待核及既有截止待核状态。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-10-16**。本次未确认准确启动日，原启动值及其他字段核查日期保持。
+
+官方来源：
+
+- https://www.philnat.unibe.ch/studium/studienprogramme/master_physik/index_ger.html
+- https://www.unibe.ch/studium/studienangebote/master/bewerbung/international/index_ger.html
+- https://www.unibe.ch/studium/daten/studierende/herbst/index_ger.html
+
+逐项证据及访问缺口见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261016.md)。
