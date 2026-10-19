@@ -24,8 +24,8 @@
 | Recommendation count / 推荐数量 | 2封 |
 | Recommendation policy / 提交与例外 | 两位熟悉本人工作的任课教师；由推荐人上传带机构抬头、签字和日期的推荐信。 |
 | Cohort size / 年度规模 | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。 |
-| Deadline / 主申请与奖学金 | Fall年度12月15日；2027批次待确认。 |
-| Deadline evidence / 时间依据 | 年度规则，2027批次待确认 |
+| Deadline / 主申请与奖学金 | Fall年度12月15日，国际与加拿大公民／永久居民相同；未公布分轮截止。2027年9月入学按年度规则对应2026-12-15，具体批次须以申请系统确认；独立奖学金截止本轮未核。 |
+| Deadline evidence / 时间依据 | 2026-10-19重核：项目页与系页均列September/Fall December 15；项目页未标具体年份，不能写成已核实2027专属公告。 |
 | International tuition / 学费 | 2027学费未核实；须使用本人国际学生费率报价。 |
 | Funding / TA / RA | 有研究/TA及scholarship资助路径；本人的2027package、净额和期限待offer确认。 |
 
@@ -100,12 +100,27 @@ S4. **English proficiency**：https://www.mcgill.ca/gradapplicants/how-apply/app
 
 | 字段 | 信息 |
 |---|---|
-| Application cycle / 启动至截止 | 年度09-15 → 12-15；2027批次待确认 |
-| 周期说明 | 年度月日仅作准备依据；2027批次须按申请系统确认。 |
+| Application cycle / 启动至截止 | 年度09-15 → 12-15；2027年9月入学按此规则对应2026-09-15 → 2026-12-15，具体批次须按申请系统确认。 |
+| 周期说明 | 未公布Round 1 / Round 2等分轮日期；Fall与Winter是不同入学学期。年度规则已于2026-10-19重新核实，未核到标明2027的专属公告。 |
 
 官方日期来源：https://www.mcgill.ca/gradapplicants/program/physics-msc
 
 **申请周期 Last-verified / last-attempted：2026-10-03。**
+
+## 截止日期与申请轮次重核（2026-10-19）
+
+- **Fall / September**：项目页列Applications Open **September 15**；国际申请人与加拿大公民／永久居民的Application Deadline均为**December 15**。系页原文：“For September admission the deadline is December 15th.” 两处一致。
+- **2027年9月入学规划**：按官网年度窗口对应**2026-09-15至2026-12-15**；这是年度规则对应的年份，页面未明确标注2027，尚未通过申请系统核实具体批次。
+- **申请轮次**：所查两处官方页面未公布Round 1 / Round 2等多轮安排，也未列Fall后续轮次截止；按单一公开窗口准备，不依赖可能存在的延期或补录。
+- **Winter / January不是秋季第二轮**：项目页列February 15开放、August 1截止（国际与本地相同）；系页却列国际July 15、本地September 1截止。官方来源存在冲突，冬季具体截止待申请系统或graduate.physics@mcgill.ca确认，不据此给出已确认的年份日期。
+- 项目页注明：“Application deadlines are subject to change without notice. Please check the application portal for the most up-to-date information.” 本轮未核实截止时刻／时区和单独的推荐信宽限期。
+
+官方来源（本轮均成功读取正文）：
+
+- https://www.mcgill.ca/gradapplicants/program/physics-msc
+- https://www.physics.mcgill.ca/grads/application.html
+
+**本节及事实表截止字段Last-verified：2026-10-19；其他字段核查日期不变。**
 
 ## 申请前导师联系要求补核（2026-10-05）
 

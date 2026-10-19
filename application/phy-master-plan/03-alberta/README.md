@@ -6,9 +6,23 @@
 
 | 文件 | 用途 |
 |---|---|
+| [Alberta_PS_MSc_en.md](Alberta_PS_MSc_en.md) | Fall 2027 Physics MSc 英文 PS；聚焦 Piro 的 astroparticle-physics group |
 | [英文 CV](../../CV/CV_en.md) / [中文 CV](../../CV/CV_cn.md) | 共享的现行 CV；MaNGA 暗物质晕推断与 Higgs 统计分析 |
-| [letter.md](letter.md) | 英文 Fall 2027 MSc 研究机会咨询信 |
-| [paper_reading_notes.md](paper_reading_notes.md) | 1 篇首读论文、原文定位、阅读顺序与邮件联系点 |
+| [letter-marie-cecile-piro.md](letter-marie-cecile-piro.md) | 英文 Fall 2027 MSc 研究机会咨询信 |
+| [paper-marie-cecile-piro.md](paper-marie-cecile-piro.md) | 1 篇首读论文、原文定位、阅读顺序与邮件联系点 |
+
+## PS 定制与官网核查（2026-10-19）
+
+PS 以 [PS_MSc_en.md](../../CV/PS_MSc_en.md) 和 [CV_en.md](../../CV/CV_en.md) 为经历依据，参照 [Sorbonne 文书](../21-Sorbonne/Sorbonne_Motivation_Letter.md)组织“已有研究 → 物理与实验知识缺口 → 研究组匹配 → MSc 学习目标 → 博士目标”。本校聚焦 **Marie-Cécile Piro 的 astroparticle-physics group**，以 MaNGA 的模型敏感性和 Higgs 的信号／背景推断连接暗物质探测分析。
+
+| PS 使用的事实 | 2026-10-19 直接 HTTPS 核查来源 |
+|---|---|
+| Piro 为 Physics Associate Professor；研究包括 astroparticle physics、dark matter、directionality detectors、detector microphysics | https://apps.ualberta.ca/directory/person/mariecci |
+| 研究页说明结合 bubble chamber technology 与 scintillation light 的探测器工作，并列出 Data analysis – Simulations MC, GEANT4 | https://apps.ualberta.ca/directory/person/mariecci |
+
+导师目录取得 HTTP 200 正文。文书中的速度分布／方向性反冲问题是申请人希望讨论的学习方向，不是已公布的 MSc 职位；Python 与统计分析是已有基础，recoil kinematics、detector response 和探测背景是希望学习的内容。未将申请人写成已有探测器、GEANT4 或直接探测经验。
+
+**未核实项：** https://www.ualberta.ca/en/physics/graduate-studies/index.html 、https://www.ualberta.ca/en/physics/graduate-studies/admissions.html 及 https://www.ualberta.ca/en/graduate-programs/physics.html 本次仍返回 HTTP 403。https://calendar.ualberta.ca/ 首页可访问并显示 2026–2027 Calendar，但 Graduate Programs 入口 https://calendar.ualberta.ca/content.php?catoid=69&navoid=20894 返回 HTTP 202、未取得学位正文。因此现行 MSc 学位细则、文书题目／长度、Fall 2027 名额和资助仍待确认，不能据本 PS 认定申请资格或录取安排已确认。**导师研究事实 Last-verified：2026-10-19；招生及学位规则 Last-attempted：2026-10-19。**
 
 结构参照 [McGill / Jim Cline](../01-mcgill-jim-cline/)，使用该目录实际存在的三个文件名，不沿用其说明中已失效的 CV / 邮件文件名。信中写 “My CV is attached.”；发送前实际附上现行 CV PDF，若不附则改为 “I can provide my CV upon request.”。内部说明不随信发送。
 

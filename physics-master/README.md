@@ -79,10 +79,10 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <tr style="background:#FFD9E6;" data-priority-application="true">
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top"><strong>重点申请</strong><br><a href="McGill_MSc_Physics.md">McGill University — Master of Science (M.Sc.) Physics (Thesis)</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">QS World University Rankings 2027综合 30；QS Physics &amp; Astronomy 2026 61；加拿大免全球排名过滤；本轮按用户更新后的12所清单选择，不宣称全国前八。</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">Academic / Research；2年；45 credits；5门课共15 credits，另30 credits研究论文。<a href="https://www.mcgill.ca/gradapplicants/program/physics-msc" style="color:inherit"><br><br><strong>申请周期：</strong><br>年度09-15 → 12-15；2027批次待确认</a></td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">Academic / Research；2年；45 credits；5门课共15 credits，另30 credits研究论文。<a href="https://www.mcgill.ca/gradapplicants/program/physics-msc" style="color:inherit"><br><br><strong>申请周期：</strong><br>年度09-15 → 12-15；2027 Fall按规则对应2026-09-15 → 2026-12-15，具体批次待系统确认；未公布分轮（重核2026-10-19）</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">大学最低CGPA 3.0/4.0；所查Physics页未核到更高明确最低值，不代表3.0有充分竞争力。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；Physics本科或等效；需研究背景和扎实高级物理。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">不要求；系页面鼓励GRE（General / Subject），不能写成required。；英语授课加拿大本科学位可按Graduate Admissions规则免语言考试；最终需提交符合要求的证明。</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">Fall年度12月15日；2027批次待确认。（年度规则，2027批次待确认）</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">Fall年度12月15日，国际／本地相同；2027年9月入学按规则对应2026-12-15，具体批次待系统确认。两处官网一致，未公布分轮；Winter为另一学期且官方日期冲突，见项目档案。独立奖学金截止本轮未核。（重核2026-10-19）</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">2027学费未核实；须使用本人国际学生费率报价。；有研究/TA及scholarship资助路径；本人的2027package、净额和期限待offer确认。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">High / Reach；冲刺；门槛边缘</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">冲刺；门槛边缘<br><br><strong><a href="https://www.physics.mcgill.ca/grads/courses.html">计算物理：列有课程</a></strong></td>

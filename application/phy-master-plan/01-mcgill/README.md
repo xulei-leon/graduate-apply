@@ -6,9 +6,25 @@
 
 | 文件 | 用途 |
 |---|---|
+| [McGill_PS_MSc_en.md](McGill_PS_MSc_en.md) | Fall 2027 Physics (Thesis) 英文 PS；Cline / Vachon 研究匹配，正文独立保存 |
 | [CV_cn.md](../../CV/CV_cn.md) / [CV_en.md](../../CV/CV_en.md) | 共享的天体物理版中文 / 英文 CV；MaNGA 为主，Higgs 作为计算推断补充 |
-| [letter.md](letter.md) | 英文 MSc 研究机会咨询信；按[英文基础模板](../../CV/letter_en.md)定制 |
-| [paper_reading_notes.md](paper_reading_notes.md) | 2021 年 core–cusp 论文的原文定位、MaNGA 联系、阅读顺序、邮件段落及交流准备；附简短补充阅读入口 |
+| [letter-jim-cline.md](letter-jim-cline.md) | 英文 MSc 研究机会咨询信；按[英文基础模板](../../CV/letter_en.md)定制 |
+| [paper-jim-cline.md](paper-jim-cline.md) | 2021 年 core–cusp 论文的原文定位、MaNGA 联系、阅读顺序、邮件段落及交流准备；附简短补充阅读入口 |
+
+## PS 定制与官网核查（2026-10-19）
+
+PS 以 [PS_MSc_en.md](../../CV/PS_MSc_en.md) 和 [CV_en.md](../../CV/CV_en.md) 为经历依据，沿用 [Sorbonne 文书](../21-Sorbonne/Sorbonne_Motivation_Letter.md)的申请逻辑：研究兴趣与本科基础 → 两段科研及其局限 → 需要补足的物理训练 → 项目与导师匹配 → 博士目标。两篇手稿的状态分别为 completed, not yet submitted 和 in preparation；Higgs 结果保持 exploratory 表述。
+
+本次 PS 同时说明 **James Cline** 的暗物质模型／粒子宇宙学方向与 **Brigitte Vachon / McGill ATLAS group** 的高能碰撞方向。前者承接 MaNGA 的晕参数和模型敏感性，后者承接 Higgs 的统计推断；选择一个具体 thesis 问题仍需与导师讨论，不表示已确定共同指导或获得接收承诺。
+
+| PS 使用的事实 | 2026-10-19 直接 HTTPS 核查来源 |
+|---|---|
+| 正式项目为 Master of Science (M.Sc.) in Physics (Thesis)；研究与课程并行 | https://www.mcgill.ca/gradapplicants/program/physics-msc ；https://www.physics.mcgill.ca/grads/program.html |
+| 课程目录包含 Computational Physics with Applications、Particle Physics；2027 实际开课待确认 | https://www.physics.mcgill.ca/grads/courses.html |
+| Cline 的研究为 particle physics/cosmology interface，包含 dark matter model-building 等；一般欢迎学生但取决于经费 | https://www.physics.mcgill.ca/~jcline/ |
+| 院系 ATLAS 页列 Vachon；院系旧主页链接的新主页确认其高能碰撞、仪器及暗物质研究 | https://www.physics.mcgill.ca/research/xhep.html ；https://www.physics.mcgill.ca/~vachon/ ；https://sites.google.com/view/brigittevachon/ |
+
+上述页面均取得 HTTP 200 正文。另复核 https://katelinschutz.com/contact 与 https://sites.google.com/view/acliu/home ：仍分别注明暂无学生研究岗位、因组内已满及 2027–2028 sabbatical 暂不招研究生，因此未列入 PS。Cline / Vachon 的 Fall 2027 MSc 名额均未核实。公开申请说明 https://www.physics.mcgill.ca/grads/application.html 鼓励填写研究兴趣和意向导师，未找到 PS 专属字数或页数要求；提交前须核对 portal。**本节 Last-verified：2026-10-19**；下文旧套磁与论文记录保留其各自核查日期。
 
 当前是导师咨询材料包；不是已满足申请系统全部要求的正式申请。信中按基础模板写 “My CV is attached.”；发送前需实际附上排版后的 CV，若不附则改为 “I can provide my CV upon request.”。内部说明不随信发送。
 

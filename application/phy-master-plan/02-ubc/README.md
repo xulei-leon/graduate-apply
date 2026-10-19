@@ -8,9 +8,26 @@
 
 | 文件 | 用途 |
 |---|---|
-| [CV_astro_cn.md](../../CV/CV_astro_cn.md) / [CV_astro_en.md](../../CV/CV_astro_en.md) | 集中保存的中英文天体物理 CV，以 MaNGA、晕参数推断和模型检验为主 |
-| [cover_letter_email_cn.md](cover_letter_email_cn.md) / [cover_letter_email_en.md](cover_letter_email_en.md) | Fall 2027 Astronomy MSc 研究机会咨询邮件 |
-| [paper_reading_notes.md](paper_reading_notes.md) | 1 篇首读论文、全文位置、阅读问题及已写入邮件的联系点 |
+| [UBC_PS_MSc_en.md](UBC_PS_MSc_en.md) | **Fall 2027 Physics MSc** 英文 PS；Van Waerbeke / Lister 研究匹配 |
+| [CV_cn.md](../../CV/CV_cn.md) / [CV_en.md](../../CV/CV_en.md) | 共享的现行中英文 CV |
+| [letter-ludovic-van-waerbeke.md](letter-ludovic-van-waerbeke.md) | 既有 Fall 2027 Astronomy MSc 研究机会咨询邮件 |
+| [paper-ludovic-van-waerbeke.md](paper-ludovic-van-waerbeke.md) | 1 篇首读论文、全文位置、阅读问题及已写入邮件的联系点 |
+
+## PS 定制与官网核查（2026-10-19）
+
+**用户于 2026-10-19 明确确认：本次 PS 的申请项目为 Physics MSc。** 上方及下文的 Astronomy MSc 内容属于此前 Van Waerbeke 套磁资料；旧邮件未在本次改写。新 PS 的项目名称、项目结构和导师资格均按 Physics MSc 核查，不能将旧邮件直接作为同一项目的最终材料发送。
+
+PS 以 [PS_MSc_en.md](../../CV/PS_MSc_en.md) 和 [CV_en.md](../../CV/CV_en.md) 为经历依据，参照 [Sorbonne 文书](../21-Sorbonne/Sorbonne_Motivation_Letter.md)组织申请逻辑。MaNGA 连接 **Ludovic Van Waerbeke** 的透镜／暗物质／结构形成研究；Higgs 连接 **Alison Lister** 的 ATLAS／机器学习／新物理搜索。两人均在官方 G+PS profile 的 Relevant Thesis-Based Degree Programs 中列有 Physics, Master of Science；文书表达两个潜在方向，最终需形成一个具体 thesis 问题。
+
+| PS 使用的事实 | 2026-10-19 直接 HTTPS 核查来源 |
+|---|---|
+| Master of Science in Physics；Coursework + Thesis；无需申请前取得导师承诺，鼓励联系并注明意向导师 | https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-physics |
+| Physics MSc 有 thesis 与 graduate coursework，课程由学生与导师／Graduate Advisor 商议 | https://phas.ubc.ca/graduate-program-academic-programs |
+| Van Waerbeke 为 Professor，研究含 gravitational lensing、dark matter、galaxy / structure formation | https://phas.ubc.ca/users/ludovic-van-waerbeke |
+| Van Waerbeke 可指导 Physics MSc | https://www.grad.ubc.ca/researcher/13409-van-waerbeke |
+| Lister 为 Professor，可指导 Physics MSc；研究明确包含 ATLAS、Machine Learning、Search for physics beyond the standard model | https://www.grad.ubc.ca/researcher/14742-lister |
+
+以上页面均取得 HTTP 200 正文。Fall 2027 导师名额未核实；Van Waerbeke 的 Students Wanted 为 N/A，Lister 的 interested in collaborations 不能解释为学生招生公告。项目页 Statement of Interest 段为通用提示，https://phas.ubc.ca/graduate-program-prospective-students 亦未给出 PS 专属题目或字数上限；提交前仍需按 portal 题目和长度调整。**本节 Last-verified：2026-10-19**；下文 Astronomy 历史记录的日期与适用范围不变。
 
 正式申请还需按系统要求准备成绩单、3 位推荐人及其他文书；当前包不等于完成申请门户全部要求。
 

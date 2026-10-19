@@ -6,9 +6,25 @@
 
 | 文件 | 用途 |
 |---|---|
+| [McMaster_PS_MSc_en.md](McMaster_PS_MSc_en.md) | Fall 2027 thesis MSc 英文 PS；Wadsley / Parker 的模拟与观测研究匹配 |
 | [英文 CV](../../CV/CV_en.md) / [中文 CV](../../CV/CV_cn.md) | 共享的现行 CV；MaNGA 旋转曲线与暗物质晕为主 |
-| [letter.md](letter.md) | 英文 Fall 2027 thesis MSc 研究机会咨询信 |
-| [paper_reading_notes.md](paper_reading_notes.md) | 1 篇首读论文、原文定位、阅读顺序与邮件联系点 |
+| [letter-james-wadsley.md](letter-james-wadsley.md) | 英文 Fall 2027 thesis MSc 研究机会咨询信 |
+| [paper-james-wadsley.md](paper-james-wadsley.md) | 1 篇首读论文、原文定位、阅读顺序与邮件联系点 |
+
+## PS 定制与官网核查（2026-10-19）
+
+PS 以 [PS_MSc_en.md](../../CV/PS_MSc_en.md) 和 [CV_en.md](../../CV/CV_en.md) 为经历依据，沿用 [Sorbonne 文书](../21-Sorbonne/Sorbonne_Motivation_Letter.md)的申请逻辑。本校以 MaNGA 为主要研究动机，Higgs 提供统计方法与可靠性判断的补充；希望进一步学习 galaxy formation、hydrodynamics 和 numerical methods。
+
+导师匹配为 **James Wadsley** 的星系形成／流体动力学模拟与 **Laura Parker** 的星系演化／环境／宿主暗物质晕观测。模拟旋转曲线拟合与 halo-property recovery 是待导师讨论的想法，不是已完成工作或已落实课题；文书未声称已有 GASOLINE、ChaNGa 或模拟开发经验，也未假定两人共同指导。
+
+| PS 使用的事实 | 2026-10-19 直接 HTTPS 核查来源 |
+|---|---|
+| Physics and Astronomy (MSc) 提供 Thesis (2 years)，研究领域包括 Astrophysics 与 Computational and theoretical physics | https://gs.mcmaster.ca/program/physics-and-astronomy/ |
+| Wadsley 为 Professor，研究包括 galaxy formation simulations、fluid dynamics、numerical computation | https://experts.mcmaster.ca/people/wadsley ；https://physics.mcmaster.ca/people/ |
+| Parker 为 Professor，研究包括 galaxy evolution、环境与星系／宿主暗物质晕关系，使用地面和空间观测资料 | https://experts.mcmaster.ca/people/lparker ；https://physics.mcmaster.ca/people/ |
+| 申请需 Statement of interest (1–2 pages)，说明 previous research, teaching or work experience，CV 另列上传项 | https://physics.mcmaster.ca/graduate-studies/how-to-apply/ |
+
+以上页面均取得 HTTP 200 正文。PS 已覆盖已有研究经历；**1–2 页限制须在最终 PDF 排版后复核**，Markdown 字数不能证明页数合规。两位导师的 Fall 2027 名额与具体课题仍未确认，通用 prospective-student letter 不等同当年招生承诺。**本节 Last-verified：2026-10-19**；下文原套磁与论文记录保留各自日期。
 
 结构参照 [McGill / Jim Cline](../01-mcgill-jim-cline/) 的实际三个文件。信中写 “My CV is attached.”；发送前实际附上现行 CV PDF，若不附则改为 “I can provide my CV upon request.”。内部说明不随信发送。
 
