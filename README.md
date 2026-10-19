@@ -23,14 +23,16 @@
 |------|------|
 | [physics-phd/](physics-phd/) | 美国、新加坡 direct-entry Physics PhD 项目与匹配导师；目标至少 40 个项目/导师记录 |
 | [physics-master/](physics-master/) | Physics Master 本轮39所学校记录：加拿大12、澳大利亚2、美国10、法国5、德国5、瑞士5；其余地区及扩展档案保留，不计本轮 |
-| [ds-master/](ds-master/) | DS / Analytics / Applied Statistics / ML 硕士学校档案与地区索引；50项，覆盖9地区：美国15所，其他各不超过5项；含资格缺口和来源待核项 |
+| [ds-master/](ds-master/) | DS及用户指定CS转专业/计算科学硕士档案；原全球池50项，加美国扩展7份/5校（1项停招），共57份研究档案、9地区；美国22份/19校；含资格与排名待核项 |
 | [application/phy-master-plan/](application/phy-master-plan/) | 物理硕士39所学校地区候选总览、PDF、事实快照与来源访问审计 |
-| [application/ds-master-plan/](application/ds-master-plan/) | DS硕士综合调研、跨项目比较、美国15所分层推荐与申请策略 |
+| [application/ds-master-plan/](application/ds-master-plan/) | DS硕士综合调研、美国15校快照、七项扩展档案及三校四项目总览（含官方来源） |
 | [country-differences.md](country-differences.md) | 国家差异参考资料 |
 | [targets.md](targets.md) | 目标地区及申请优先级 |
 | [AGENTS.md](AGENTS.md) | 来源顺序、字段标准、匹配判断与建档流程 |
 
 目标数量是最低覆盖要求，不能替代资格和来源核实。DS 档案与索引已同步建立，但候选不等于申请资格已确认；完整报告见 [全球DS硕士调研](application/ds-master-plan/DS_Masters_Global_Survey_20261002.md)，美国部分见 [15所分层推荐与申请比较](application/ds-master-plan/USA_DS_Masters_15_20261002.md)。
+
+2026-10-19：[CS / DS三校四项目总览](application/ds-master-plan/CSDS_Master_Overview.md)汇总Chicago、USC两项及Brown，包含培养定位、论文科研、费用与关键官方证据。Brown的GPA≥3.4为最强优先偏好，按Reach处理；Chicago/USC核心资格待核。历史50项PDF/JSON不包含扩展；独立项目档案数量仍按目录表统计。
 
 ## 加拿大硕士申请规划
 
@@ -58,4 +60,4 @@
 
 ## 本周复盘（2026-10-17）
 
-[申请进展、截止日期与下周计划](application/weekly-reviews/2026-10-17.md)。当前已记录两份条件录取：[ANU Astronomy and Astrophysics](offers/ANU.md)、[Sydney Master of Computer Science](offers/USYD.md)；原Sydney DS申请被拒。物理候选仍39校／19优先／8冲刺，DS仍50份研究档案；录取、候选、已提交与资格核实分别记录。
+[申请进展、截止日期与下周计划](application/weekly-reviews/2026-10-17.md)。该周快照记录两份条件录取：[ANU Astronomy and Astrophysics](offers/ANU.md)、[Sydney Master of Computer Science](offers/USYD.md)；原Sydney DS申请被拒。物理候选39校／19优先／8冲刺，DS当时50份；2026-10-19扩展后当前研究档案数见上方目录表。录取、候选、已提交与资格核实分别记录。

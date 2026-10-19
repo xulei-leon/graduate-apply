@@ -2,15 +2,31 @@
 
 ## Scope
 
-本目录存放每个DS / Analytics / Applied Statistics / ML硕士项目的独立学校档案，并按地区维护索引，与 `physics-master/` 的项目档案组织方式一致。综合调研和申请策略见 [申请规划目录](../application/ds-master-plan/README.md)。
+本目录存放每个DS / Analytics / Applied Statistics / ML及用户指定CS转专业、计算科学硕士项目的独立档案，并按地区维护索引，与 `physics-master/` 的项目档案组织方式一致。综合调研和申请策略见 [申请规划目录](../application/ds-master-plan/README.md)。
 
 2026-10-02全球调研：**50项 / 9地区 / 美国15所，其他地区各最多5项**。完整报告：[中文Markdown](../application/ds-master-plan/DS_Masters_Global_Survey_20261002.md)。美国决策速查：[15所分层推荐](../application/ds-master-plan/USA_DS_Masters_15_20261002.md)。PDF位于申请规划目录，文件名同报告。
+
+2026-10-19美国扩展档案共**7份 / 5校 / 1项停招**，下方单列索引；其中Chicago、USC两项及Brown集中见[三校四项目总览](../application/ds-master-plan/CSDS_Master_Overview.md)。当前共**57份项目研究档案 / 9地区**：美国22份、19所不同大学，其他地区35份；不是57项有效申请。原全球池50项及其PDF/JSON保留原快照口径。独立档案不因总览缩减而删除，排名及资格仍以各项记录为准。
 
 本轮为官方事实与强项目候选池，非加拿大最新排名门槛已逐项核对；2027未公布/未读取字段和个人资格仍有未闭合项，不将候选记录标成全部Verified。美国按背景可行性筛选；其他地区按综合课程/研究/项目实力选择前列候选，非官方国内名次。
 
 历史策略：[加拿大DS、分析与相邻硕士扩展](../application/ds-master-plan/Canada_Data_Science_Masters.md)，不计本次五项；[EXAMPLE_UBC_MDS.md](../application/ds-master-plan/EXAMPLE_UBC_MDS.md)为模板，不计入目标。
 
 Match评价方法匹配；Difficulty评价规划难度，不是保证。High不等于高录取率。
+
+## 用户指定美国扩展项目（2026-10-19，7份／5校）
+
+先建立各项目档案，再同步本表。Chicago、USC两项及Brown的比较、官方来源与访问限制已合并至[三校四项目总览](../application/ds-master-plan/CSDS_Master_Overview.md)；本表七项的完整项目事实仍见各自档案。以下不并入原美国15校快照。全部Country为United States；未知人数、2027未公布费用或核心资格不会因建档而变为已确认。
+
+| 档案 / 项目 | 类型 / 学制 / 研究 | GPA / 先修 | GRE / 语言 / 推荐 | 名额 | 截止 / 资助 | Match / Difficulty | 官方来源 / 日期 / 状态 |
+|---|---|---|---|---|---|---|---|
+| [University of Chicago — MS / MPCS，12-course路径待核](USA_Chicago_MS_Computer_Science_MPCS.md) | 中央目录确认MS；具体路径、学制、课程/研究结构待核 | Physics入口、最低/典型GPA、先修待核 | GRE、语言豁免、推荐数量待核 | 未核实 | 2027截止、费用、资助待核 | Unknown / Unknown，保留用户冲刺意向 | [中央目录](https://grad.uchicago.edu/admissions/programs/)；[项目站连接中断](https://masters.cs.uchicago.edu/)；2026-10-19；Waiting on source；QS2027综合24通过 |
+| [USC — MS CS Scientists and Engineers](USA_USC_MS_CS_Scientists_Engineers.md) | 现行完整题名、总学分、学制、thesis/project待核 | Physics接受性、GPA及先修未核 | GRE/推荐未核；中央Anglophone学位豁免，UofT在读执行待核 | 未核实 | 2027截止、费用/资助待核；中央多数申请费120；每term最多3项目，同账号 | Unknown / Unknown，用户原冲刺 | [项目页403](https://www.cs.usc.edu/academic-programs/masters/scientists-and-engineers/)；[中央并申规则](https://gradadm.usc.edu/domestic-students/how-to-apply/)；2026-10-19；Waiting on source；QS2026CS73通过 |
+| [USC — ECE ML/Data Science，完整名称待核](USA_USC_MS_ECE_ML_Data_Science.md) | 当前正式名称、学制、学分和研究结构未核 | Physics入口、工程/数学/编程先修、GPA未核 | GRE/推荐未核；中央语言政策已读，个人豁免待核 | 未核实 | 2027截止、学费、资助待核；中央允许同term最多3项目，院内细则待核 | Unknown / Unknown，用户原冲刺 | [院系入口403](https://minghsiehece.usc.edu/academics/masters/)；[中央政策](https://gradadm.usc.edu/domestic-students/how-to-apply/)；2026-10-19；Waiting on source；QS2026DS/AI47通过 |
+| [Brown — Sc.M. DECES](USA_Brown_ScM_DECES.md) | 8课、1–2年；Thesis通常3–4学期，Non-Thesis及Professional另列；实践可无薪 | 明确Physical Sciences；最强偏好GPA≥3.4，3.0低于偏好，不是已核硬性最低线 | General GRE recommended；语言学位豁免路径，未毕业执行待核；3封；非美学位入学前评估 | 未列数字 | 年度Fall02-01priority/04-01international-final，2027周期待核；2026–27基础学费79,016，无保证资助 | High / Reach，撤销“比较容易” | [项目事实](https://graduateprograms.brown.edu/graduate-program/data-enabled-computational-engineering-and-science-scm)；[费用](https://sfs.brown.edu/tuition-and-fees/graduate)；2026-10-19；Conditional candidate；QS2027综合66通过 |
+| [Northeastern — MSCS Align Boston](USA_Northeastern_MSCS_Align_Boston.md) | 无减免44hours、通常2.5–3年；两学期bridge；可选thesis/project及co-op，不保证岗位 | 非CS入口明确；最低3.0，本人踩线；bridge各课B；有限减免需课程证据 | GRE可选；英语4+年学位豁免、在读审批待核；推荐组合建议两位，硬性封数portal核；2×250words必答；Align无申请费 | Boston年度未核 | 明确Fall2027境外国际06-15、境内07-01、domestic08-01，可变；2026–27按44学分估学费84,568；资助/岗位竞争性 | High / Reach，有条件主申偏难 | [Align招生](https://www.khoury.northeastern.edu/apply/align-how-to-apply/)；[BostonCatalog](https://catalog.northeastern.edu/graduate/computer-information-science/computer-science/computer-science-mscs-align/)；2026-10-19；Conditional candidate；排名门槛Pending |
+| [WashU — MS AI Engineering](USA_WashU_MS_AI_Engineering.md) | 30units；样例4学期；课程/project/thesis三路径 | 可已修/测试/开学初补编程与数据结构；Physics整体资格及招生GPA待核；2.70是毕业维持要求 | GRE optional；Canada学位语言豁免路径需批准；3封；SOP1–2页 | 未核实 | 年度12-31ED/03-01regular，2027适用待核；2026–27全日制34,595/semester，低学分硕士2,450/unit，须按注册报价；有限资助不保证 | High / Reach，有条件推进 | [Catalog](https://bulletin.wustl.edu/grad/engineering/degrees/cse-artificial-intelligence-engineering-ms/)；[招生](https://engineering.washu.edu/academics/graduate-admissions/application-checklist.html)；2026-10-19；Conditional candidate；排名门槛Pending |
+| **[Northeastern — Align MSDS，停招](USA_Northeastern_MSDS_Align.md)** | 页面残留44hours历史结构，不作为2027可入学规则 | 不接受新生；不套用CS Align门槛 | 新申请不适用 | 未核实 | **no longer enrolling new students**；不排申请截止及文书 | 当前不适用 / 不适用，移除主申 | [明确停招原文](https://www.khoury.northeastern.edu/programs/align-ms-in-data-science/)；2026-10-19；Closed to new students |
 
 ## 加拿大（5项）
 
