@@ -6,19 +6,34 @@
 
 | 文件 | 用途 |
 |---|---|
-| [Alberta_PS_MSc_en.md](Alberta_PS_MSc_en.md) | Fall 2027 Physics MSc 英文 PS；聚焦 Piro 的 astroparticle-physics group |
+| [Alberta_PS_MSc_en.md](Alberta_PS_MSc_en.md) | Fall 2027 Physics MSc 英文 PS；以计算建模与统计推断为主线，对接 Piro 的暗物质探测分析 |
 | [英文 CV](../../CV/CV_en.md) / [中文 CV](../../CV/CV_cn.md) | 共享的现行 CV；MaNGA 暗物质晕推断与 Higgs 统计分析 |
 | [letter-marie-cecile-piro.md](letter-marie-cecile-piro.md) | 英文 Fall 2027 MSc 研究机会咨询信 |
 | [paper-marie-cecile-piro.md](paper-marie-cecile-piro.md) | 1 篇首读论文、原文定位、阅读顺序与邮件联系点 |
 
+## PS 方向一致性复核（2026-10-19）
+
+Piro 的官方目录及 2026 年合著论文支持暗物质方向性探测、速度分布与模拟分析的兴趣联系；现稿明确了从已有统计分析到实验粒子天体物理的学习缺口。Physics 项目与研究主站仍为 403，Calendar 的 Graduate Programs 入口为 202 无正文，因此项目是否正式列相应细分方向仍未核实，不能据导师研究推断正式 specialization。实际 MSc 计算／分析课题待导师确认。
+
+完整结论、逐位导师判断、官方来源与访问限制见[加拿大 01–04 PS 复核](../audit/canada-01-04-ps-fit-audit-20261019.md)。同日依用户要求完成下述定向修改。**Last-verified / Last-attempted：2026-10-19。**
+
+## PS 定向修改（2026-10-19）
+
+本次把计算建模与统计推断作为申请主线：已有的模型敏感性分析及似然推断经验 → 暗物质信号预测与约束解释 → 所需的反冲、探测器与背景知识 → Piro 研究匹配。前半部分保留两段科研及本科训练；后半部分压缩探测器技术介绍，采用已核实的 LMC 方向性暗物质论文建立具体联系。
+
+拟开展工作写为与导师讨论的起步任务：学习复现不同速度分布下的方向性反冲预测，再分析探测器响应和背景假设对约束的影响。该段不声称任务具有已证明的新颖性，也不表示申请人已经完成复现或导师已提供课题。正式申请名称保留 MSc in Physics；计算／粒子天体物理是研究兴趣表述。
+
+当前英文正文 **647 词**（按空白分词，不含标题、称呼、联系信息和落款）。官方文书长度要求仍待核实，词数不代表已满足页数要求。
+
 ## PS 定制与官网核查（2026-10-19）
 
-PS 以 [PS_MSc_en.md](../../CV/PS_MSc_en.md) 和 [CV_en.md](../../CV/CV_en.md) 为经历依据，参照 [Sorbonne 文书](../21-Sorbonne/Sorbonne_Motivation_Letter.md)组织“已有研究 → 物理与实验知识缺口 → 研究组匹配 → MSc 学习目标 → 博士目标”。本校聚焦 **Marie-Cécile Piro 的 astroparticle-physics group**，以 MaNGA 的模型敏感性和 Higgs 的信号／背景推断连接暗物质探测分析。
+PS 以 [PS_MSc_en.md](../../CV/PS_MSc_en.md) 和 [CV_en.md](../../CV/CV_en.md) 为经历依据，保留 [Sorbonne 文书](../21-Sorbonne/Sorbonne_Motivation_Letter.md)中从科研经历说明训练需求的写法。本校聚焦 **Marie-Cécile Piro 的 astroparticle-physics group**，以 MaNGA 的模型敏感性和 Higgs 的信号／背景推断连接暗物质探测分析；实验知识用于支撑计算研究目标。
 
 | PS 使用的事实 | 2026-10-19 直接 HTTPS 核查来源 |
 |---|---|
 | Piro 为 Physics Associate Professor；研究包括 astroparticle physics、dark matter、directionality detectors、detector microphysics | https://apps.ualberta.ca/directory/person/mariecci |
-| 研究页说明结合 bubble chamber technology 与 scintillation light 的探测器工作，并列出 Data analysis – Simulations MC, GEANT4 | https://apps.ualberta.ca/directory/person/mariecci |
+| 研究页列 Data analysis – Simulations MC, GEANT4；PS 仅据此说明导师组的模拟与分析研究，不推断申请人已有 GEANT4 技能 | https://apps.ualberta.ca/directory/person/mariecci |
+| Piro 为 2026 年论文 Directional dark matter signatures of the Large Magellanic Cloud 的共同作者；摘要研究局部暗物质分布对方向性反冲信号的影响 | https://arxiv.org/abs/2606.12535 |
 
 导师目录取得 HTTP 200 正文。文书中的速度分布／方向性反冲问题是申请人希望讨论的学习方向，不是已公布的 MSc 职位；Python 与统计分析是已有基础，recoil kinematics、detector response 和探测背景是希望学习的内容。未将申请人写成已有探测器、GEANT4 或直接探测经验。
 

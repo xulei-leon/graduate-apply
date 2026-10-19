@@ -13,6 +13,12 @@
 | [letter-ludovic-van-waerbeke.md](letter-ludovic-van-waerbeke.md) | 既有 Fall 2027 Astronomy MSc 研究机会咨询邮件 |
 | [paper-ludovic-van-waerbeke.md](paper-ludovic-van-waerbeke.md) | 1 篇首读论文、全文位置、阅读问题及已写入邮件的联系点 |
 
+## PS 方向一致性复核（2026-10-19）
+
+当前 Physics MSc PS 与 Van Waerbeke / Lister 的研究及官方指导项目记录一致。项目页列 astronomy and astrophysics、nuclear and particle physics；无需因为 Van Waerbeke 研究天文而把 PS 改回 Astronomy MSc。目录中的旧 Astronomy MSc 套磁材料与当前 PS 属不同目标记录，提交材料时须区分。未确认独立 Computational Physics specialization。
+
+完整结论、逐位导师判断、官方来源与访问限制见[加拿大 01–04 PS 复核](../audit/canada-01-04-ps-fit-audit-20261019.md)。本轮保留 PS 正文。**Last-verified / Last-attempted：2026-10-19。**
+
 ## PS 定制与官网核查（2026-10-19）
 
 **用户于 2026-10-19 明确确认：本次 PS 的申请项目为 Physics MSc。** 上方及下文的 Astronomy MSc 内容属于此前 Van Waerbeke 套磁资料；旧邮件未在本次改写。新 PS 的项目名称、项目结构和导师资格均按 Physics MSc 核查，不能将旧邮件直接作为同一项目的最终材料发送。
@@ -27,7 +33,7 @@ PS 以 [PS_MSc_en.md](../../CV/PS_MSc_en.md) 和 [CV_en.md](../../CV/CV_en.md) �
 | Van Waerbeke 可指导 Physics MSc | https://www.grad.ubc.ca/researcher/13409-van-waerbeke |
 | Lister 为 Professor，可指导 Physics MSc；研究明确包含 ATLAS、Machine Learning、Search for physics beyond the standard model | https://www.grad.ubc.ca/researcher/14742-lister |
 
-以上页面均取得 HTTP 200 正文。Fall 2027 导师名额未核实；Van Waerbeke 的 Students Wanted 为 N/A，Lister 的 interested in collaborations 不能解释为学生招生公告。项目页 Statement of Interest 段为通用提示，https://phas.ubc.ca/graduate-program-prospective-students 亦未给出 PS 专属题目或字数上限；提交前仍需按 portal 题目和长度调整。**本节 Last-verified：2026-10-19**；下文 Astronomy 历史记录的日期与适用范围不变。
+最新访问状态以本次复核为准：G+PS 项目及两位导师资料取得相关正文；两条 PHAS 链接虽为 HTTP 200，但返回 blocked 提示，不能算作本次已取得项目／导师正文。Fall 2027 导师名额未核实；Van Waerbeke 的 Students Wanted 为 N/A，Lister 的 interested in collaborations 不能解释为学生招生公告。项目页 Statement of Interest 段为通用提示，https://phas.ubc.ca/graduate-program-prospective-students 亦未给出 PS 专属题目或字数上限；提交前仍需按 portal 题目和长度调整。**本节 Last-verified：2026-10-19**；下文 Astronomy 历史记录的日期与适用范围不变。
 
 正式申请还需按系统要求准备成绩单、3 位推荐人及其他文书；当前包不等于完成申请门户全部要求。
 

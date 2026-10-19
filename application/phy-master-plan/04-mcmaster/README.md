@@ -11,6 +11,12 @@
 | [letter-james-wadsley.md](letter-james-wadsley.md) | 英文 Fall 2027 thesis MSc 研究机会咨询信 |
 | [paper-james-wadsley.md](paper-james-wadsley.md) | 1 篇首读论文、原文定位、阅读顺序与邮件联系点 |
 
+## PS 方向一致性复核（2026-10-19）
+
+PS 的计算天体物理／星系形成主线与 Wadsley 的模拟及 Parker 的观测研究一致。MSc 官方页面明确列 Astrophysics、Computational and theoretical physics，并提供 Thesis (2 years)。这是研究领域证据，未确认独立 Computational Physics specialization；Parker 保持观测／环境研究定位。
+
+完整结论、逐位导师判断、官方来源与访问限制见[加拿大 01–04 PS 复核](../audit/canada-01-04-ps-fit-audit-20261019.md)。本轮保留 PS 正文。**Last-verified / Last-attempted：2026-10-19。**
+
 ## PS 定制与官网核查（2026-10-19）
 
 PS 以 [PS_MSc_en.md](../../CV/PS_MSc_en.md) 和 [CV_en.md](../../CV/CV_en.md) 为经历依据，沿用 [Sorbonne 文书](../21-Sorbonne/Sorbonne_Motivation_Letter.md)的申请逻辑。本校以 MaNGA 为主要研究动机，Higgs 提供统计方法与可靠性判断的补充；希望进一步学习 galaxy formation、hydrodynamics 和 numerical methods。

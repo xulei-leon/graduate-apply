@@ -11,6 +11,12 @@
 | [letter-jim-cline.md](letter-jim-cline.md) | 英文 MSc 研究机会咨询信；按[英文基础模板](../../CV/letter_en.md)定制 |
 | [paper-jim-cline.md](paper-jim-cline.md) | 2021 年 core–cusp 论文的原文定位、MaNGA 联系、阅读顺序、邮件段落及交流准备；附简短补充阅读入口 |
 
+## PS 方向一致性复核（2026-10-19）
+
+个人兴趣、Physics (Thesis) 项目与 Cline / Vachon 的研究没有明显冲突。官方研究索引分别列 High Energy Theory 与 High Energy Experiment；计算物理是方法兴趣及课程训练依据，未确认独立 Computational Physics specialization。Cline 需要粒子理论／宇宙学训练，Vachon 对接实验高能分析；最终可按主选导师明确主次。
+
+完整结论、逐位导师判断、官方来源与访问限制见[加拿大 01–04 PS 复核](../audit/canada-01-04-ps-fit-audit-20261019.md)。本轮保留 PS 正文。**Last-verified / Last-attempted：2026-10-19。**
+
 ## PS 定制与官网核查（2026-10-19）
 
 PS 以 [PS_MSc_en.md](../../CV/PS_MSc_en.md) 和 [CV_en.md](../../CV/CV_en.md) 为经历依据，沿用 [Sorbonne 文书](../21-Sorbonne/Sorbonne_Motivation_Letter.md)的申请逻辑：研究兴趣与本科基础 → 两段科研及其局限 → 需要补足的物理训练 → 项目与导师匹配 → 博士目标。两篇手稿的状态分别为 completed, not yet submitted 和 in preparation；Higgs 结果保持 exploratory 表述。
