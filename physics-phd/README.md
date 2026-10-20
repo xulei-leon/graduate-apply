@@ -1,5 +1,11 @@
 # Physics PhD Applications
 
+## 当前执行状态（2026-10-20）
+
+**已按用户要求暂停全部博士申请工作，待明确恢复后继续。** 暂停项目搜索、招生核查、导师套磁、文书、推荐信配置及递交准备；原覆盖目标暂不补齐。全部项目与导师档案保留。
+
+下方招生条件、截止日期、导师招募及联系状态保留原核查日期，仅作历史参考；“Outreach?”列不代表当前联系任务。暂停属于申请人决策，不表示项目停招、撤回申请或导师拒绝。
+
 ## Scope
 
 Use this folder for physics PhD programs and advisor records. A program entry should cover admissions and funding; an advisor entry should cover research fit and outreach status.
@@ -20,29 +26,29 @@ Use this folder for physics PhD programs and advisor records. A program entry sh
 
 | # | Country | University | Program | Department | Degree type | GPA req | GRE req | TOEFL/IELTS | Cohort size | Deadline | Fellowship deadline | Funding model | Self-funded accepted | Direct entry? | Source | Status | Last verified |
 |---|---------|------------|---------|------------|-------------|---------|---------|-------------|------------|----------|---------------------|---------------|----------------------|---------------|--------|--------|---------------|
-| 1 | USA | MIT | Physics PhD | Physics / CTP | PhD | Holistic | PGRE rec | TOEFL 100 | ~25-30 | Dec 15 | Dec 15 | Fully funded | No | Yes | MIT_Necib.md | | 2026-05-07 |
-| 2 | USA | MIT | Physics PhD | Physics / CTP | PhD | Holistic | PGRE rec | TOEFL 100 | ~25-30 | Dec 15 | Dec 15 | Fully funded | No | Yes | MIT_Slatyer.md | | 2026-05-07 |
-| 3 | USA | Stanford | Physics PhD | Physics / KIPAC | PhD | Holistic | Not req | TOEFL 100 | ~20 | Dec 1 | Dec 1 | Fully funded | No | Yes | Stanford_Wechsler.md | | 2026-05-07 |
-| 4 | USA | UC Berkeley | Physics PhD | Physics / BCCP | PhD | 3.0 min | Not req | TOEFL 90 | ~25-30 | Dec 15 | Dec 15 | Fully funded | No | Yes | Berkeley_Seljak.md | | 2026-05-07 |
-| 5 | USA | UC Berkeley | Physics PhD | Physics / BCCP / LBNL | PhD | 3.0 min | Not req | TOEFL 90 | ~25-30 | Dec 15 | Dec 15 | Fully funded | No | Yes | Berkeley_Ferraro.md | | 2026-05-07 |
-| 6 | USA | UC Davis | Physics PhD | Physics & Astronomy | PhD | 3.0 min | Not req | TOEFL 80 | ~15-20 | Dec 15 | Dec 15 | Fully funded | No | Yes | UCDavis_Wetzel.md | | 2026-05-07 |
-| 7 | USA | UCLA | Physics PhD (Astrophysics) | Physics & Astronomy | PhD | 3.0 min | Not req | TOEFL 87 | ~20-30 | Dec 15 | Dec 1 | Fully funded | No | Yes | UCLA_Treu.md | | 2026-05-07 |
-| 8 | USA | University of Michigan | Physics PhD (Astro) | Astronomy | PhD | 3.0 min | Not req | TOEFL 100 | ~15-20 | Dec 15 | Dec 15 | Fully funded | No | Yes | Michigan_Valluri.md | | 2026-05-07 |
-| 9 | USA | University of Pennsylvania | Physics PhD (Astrophysics) | Physics & Astronomy | PhD | Holistic | Not req | TOEFL 100 | ~15-20 | Dec 15 | Dec 15 | Fully funded | No | Yes | UPenn_Sanderson.md | | 2026-05-07 |
-| 10 | USA | Yale University | Physics PhD | Physics / Astronomy | PhD | Holistic | Not req | TOEFL 100 | ~20-25 | Dec 15 | Dec 15 | Fully funded | No | Yes | Yale_vandenBosch.md | | 2026-05-07 |
-| 11 | USA | Johns Hopkins | Physics PhD | Physics & Astronomy | PhD | 3.0 min | Not req | TOEFL 100 | ~15-20 | Dec 15 | Dec 15 | Fully funded | No | Yes | JHU_Wandelt.md | | 2026-05-07 |
-| 12 | USA | University of Pittsburgh | Physics PhD | Physics & Astronomy | PhD | 3.0 min | Not req | TOEFL 90 | ~10-15 | Dec 15 | Dec 15 | Fully funded | No | Yes | Pittsburgh_Zentner.md | | 2026-05-07 |
-| 13 | USA | Ohio State | Physics PhD (Astro/CCAPP) | Astronomy / CCAPP | PhD | 3.0 min | Not req | TOEFL 100 | ~15-20 | Dec 15 | Dec 15 | Fully funded | No | Yes | OSU_Weinberg.md | | 2026-05-07 |
-| 14 | USA | UW–Madison | Physics PhD | Physics | PhD | 3.0 min | Not req | TOEFL 92 | ~20-25 | Dec 15 | Dec 15 | Fully funded | No | Yes | UWMadison_Cranmer.md | | 2026-05-07 |
-| 15 | USA | Georgia Tech | Physics PhD | Physics / CRA | PhD | 3.0 min | Not req | TOEFL 106 | ~20-25 | Dec 15 | Dec 15 | Fully funded | No | Yes | GeorgiaTech_Wise.md | | 2026-05-07 |
-| 16 | USA | Georgia Tech | Physics PhD | Physics / AI4Science | PhD | 3.0 min | Not req | TOEFL 106 | ~20-25 | Dec 15 | Dec 15 | Fully funded | No | Yes | GeorgiaTech_Psaltis.md | | 2026-05-07 |
-| 17 | USA | University of Utah | Physics PhD (Astrophysics) | Physics & Astronomy | PhD | 3.0 min | Not req | TOEFL 80 | ~10-15 | Jan 15 | Jan 15 | Fully funded | No | Yes | Utah_Mao.md | | 2026-05-07 |
-| 18 | USA | University of Washington | Physics PhD | Physics | PhD | 3.0 min | Not req | TOEFL 92 | ~20-25 | Dec 15 | Dec 15 | Fully funded | No | Yes | UW_Baryakhtar.md | | 2026-05-07 |
-| 19 | USA | Rutgers | Physics and Astronomy (PhD) | Physics & Astronomy / NHETC | PhD | 3.0 min | GRE optional/preferred | TOEFL/IELTS req | Not stated | Jan 1 / Nov 1 | Jan 1 / Nov 1 | Full support | No | Yes | Rutgers_Shih.md | | 2026-05-08 |
-| 20 | USA | UIUC | Physics PhD | Physics | PhD | 3.0 min | Not req | TOEFL 79 | ~25-30 | Dec 15 | Dec 15 | Fully funded | No | Yes | UIUC_Trickle.md | | 2026-05-07 |
-| 21 | USA | UT Austin | PhD in Astronomy | Astronomy / Weinberg Institute | PhD | 3.0 min | Not required | TOEFL/IELTS req | Not stated | Dec 1 | Dec 1 | TA/RA + fellowships | No | Yes | UTAustin_BoylanKolchin.md | | 2026-05-08 |
-| 22 | Singapore | NUS | Physics PhD | Physics | PhD | Hons w/ Dist | GRE req | TOEFL 85 | ~20-30 | Oct–Jan | Early rec. | Research scholarship | Yes | Yes | NUS_PhysicsPhD.md | | 2026-05-07 |
-| 23 | Singapore | NTU | Physics PhD | Physics / SPMS | PhD | 2nd Up Hons | GRE/GATE req | IELTS/TOEFL req | ~15-20 | Oct–Jan | Early rec. | Research scholarship | Yes | Yes | NTU_Schive.md | | 2026-05-08 |
+| 1 | USA | MIT | Physics PhD | Physics / CTP | PhD | Holistic | PGRE rec | TOEFL 100 | ~25-30 | Dec 15 | Dec 15 | Fully funded | No | Yes | MIT_Necib.md | 已暂停（2026-10-20） | 2026-05-07 |
+| 2 | USA | MIT | Physics PhD | Physics / CTP | PhD | Holistic | PGRE rec | TOEFL 100 | ~25-30 | Dec 15 | Dec 15 | Fully funded | No | Yes | MIT_Slatyer.md | 已暂停（2026-10-20） | 2026-05-07 |
+| 3 | USA | Stanford | Physics PhD | Physics / KIPAC | PhD | Holistic | Not req | TOEFL 100 | ~20 | Dec 1 | Dec 1 | Fully funded | No | Yes | Stanford_Wechsler.md | 已暂停（2026-10-20） | 2026-05-07 |
+| 4 | USA | UC Berkeley | Physics PhD | Physics / BCCP | PhD | 3.0 min | Not req | TOEFL 90 | ~25-30 | Dec 15 | Dec 15 | Fully funded | No | Yes | Berkeley_Seljak.md | 已暂停（2026-10-20） | 2026-05-07 |
+| 5 | USA | UC Berkeley | Physics PhD | Physics / BCCP / LBNL | PhD | 3.0 min | Not req | TOEFL 90 | ~25-30 | Dec 15 | Dec 15 | Fully funded | No | Yes | Berkeley_Ferraro.md | 已暂停（2026-10-20） | 2026-05-07 |
+| 6 | USA | UC Davis | Physics PhD | Physics & Astronomy | PhD | 3.0 min | Not req | TOEFL 80 | ~15-20 | Dec 15 | Dec 15 | Fully funded | No | Yes | UCDavis_Wetzel.md | 已暂停（2026-10-20） | 2026-05-07 |
+| 7 | USA | UCLA | Physics PhD (Astrophysics) | Physics & Astronomy | PhD | 3.0 min | Not req | TOEFL 87 | ~20-30 | Dec 15 | Dec 1 | Fully funded | No | Yes | UCLA_Treu.md | 已暂停（2026-10-20） | 2026-05-07 |
+| 8 | USA | University of Michigan | Physics PhD (Astro) | Astronomy | PhD | 3.0 min | Not req | TOEFL 100 | ~15-20 | Dec 15 | Dec 15 | Fully funded | No | Yes | Michigan_Valluri.md | 已暂停（2026-10-20） | 2026-05-07 |
+| 9 | USA | University of Pennsylvania | Physics PhD (Astrophysics) | Physics & Astronomy | PhD | Holistic | Not req | TOEFL 100 | ~15-20 | Dec 15 | Dec 15 | Fully funded | No | Yes | UPenn_Sanderson.md | 已暂停（2026-10-20） | 2026-05-07 |
+| 10 | USA | Yale University | Physics PhD | Physics / Astronomy | PhD | Holistic | Not req | TOEFL 100 | ~20-25 | Dec 15 | Dec 15 | Fully funded | No | Yes | Yale_vandenBosch.md | 已暂停（2026-10-20） | 2026-05-07 |
+| 11 | USA | Johns Hopkins | Physics PhD | Physics & Astronomy | PhD | 3.0 min | Not req | TOEFL 100 | ~15-20 | Dec 15 | Dec 15 | Fully funded | No | Yes | JHU_Wandelt.md | 已暂停（2026-10-20） | 2026-05-07 |
+| 12 | USA | University of Pittsburgh | Physics PhD | Physics & Astronomy | PhD | 3.0 min | Not req | TOEFL 90 | ~10-15 | Dec 15 | Dec 15 | Fully funded | No | Yes | Pittsburgh_Zentner.md | 已暂停（2026-10-20） | 2026-05-07 |
+| 13 | USA | Ohio State | Physics PhD (Astro/CCAPP) | Astronomy / CCAPP | PhD | 3.0 min | Not req | TOEFL 100 | ~15-20 | Dec 15 | Dec 15 | Fully funded | No | Yes | OSU_Weinberg.md | 已暂停（2026-10-20） | 2026-05-07 |
+| 14 | USA | UW–Madison | Physics PhD | Physics | PhD | 3.0 min | Not req | TOEFL 92 | ~20-25 | Dec 15 | Dec 15 | Fully funded | No | Yes | UWMadison_Cranmer.md | 已暂停（2026-10-20） | 2026-05-07 |
+| 15 | USA | Georgia Tech | Physics PhD | Physics / CRA | PhD | 3.0 min | Not req | TOEFL 106 | ~20-25 | Dec 15 | Dec 15 | Fully funded | No | Yes | GeorgiaTech_Wise.md | 已暂停（2026-10-20） | 2026-05-07 |
+| 16 | USA | Georgia Tech | Physics PhD | Physics / AI4Science | PhD | 3.0 min | Not req | TOEFL 106 | ~20-25 | Dec 15 | Dec 15 | Fully funded | No | Yes | GeorgiaTech_Psaltis.md | 已暂停（2026-10-20） | 2026-05-07 |
+| 17 | USA | University of Utah | Physics PhD (Astrophysics) | Physics & Astronomy | PhD | 3.0 min | Not req | TOEFL 80 | ~10-15 | Jan 15 | Jan 15 | Fully funded | No | Yes | Utah_Mao.md | 已暂停（2026-10-20） | 2026-05-07 |
+| 18 | USA | University of Washington | Physics PhD | Physics | PhD | 3.0 min | Not req | TOEFL 92 | ~20-25 | Dec 15 | Dec 15 | Fully funded | No | Yes | UW_Baryakhtar.md | 已暂停（2026-10-20） | 2026-05-07 |
+| 19 | USA | Rutgers | Physics and Astronomy (PhD) | Physics & Astronomy / NHETC | PhD | 3.0 min | GRE optional/preferred | TOEFL/IELTS req | Not stated | Jan 1 / Nov 1 | Jan 1 / Nov 1 | Full support | No | Yes | Rutgers_Shih.md | 已暂停（2026-10-20） | 2026-05-08 |
+| 20 | USA | UIUC | Physics PhD | Physics | PhD | 3.0 min | Not req | TOEFL 79 | ~25-30 | Dec 15 | Dec 15 | Fully funded | No | Yes | UIUC_Trickle.md | 已暂停（2026-10-20） | 2026-05-07 |
+| 21 | USA | UT Austin | PhD in Astronomy | Astronomy / Weinberg Institute | PhD | 3.0 min | Not required | TOEFL/IELTS req | Not stated | Dec 1 | Dec 1 | TA/RA + fellowships | No | Yes | UTAustin_BoylanKolchin.md | 已暂停（2026-10-20） | 2026-05-08 |
+| 22 | Singapore | NUS | Physics PhD | Physics | PhD | Hons w/ Dist | GRE req | TOEFL 85 | ~20-30 | Oct–Jan | Early rec. | Research scholarship | Yes | Yes | NUS_PhysicsPhD.md | 已暂停（2026-10-20） | 2026-05-07 |
+| 23 | Singapore | NTU | Physics PhD | Physics / SPMS | PhD | 2nd Up Hons | GRE/GATE req | IELTS/TOEFL req | ~15-20 | Oct–Jan | Early rec. | Research scholarship | Yes | Yes | NTU_Schive.md | 已暂停（2026-10-20） | 2026-05-08 |
 
 ## Advisor index
 

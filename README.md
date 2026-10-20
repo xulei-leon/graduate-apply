@@ -2,6 +2,8 @@
 
 本仓库维护 HY 的 2027 年秋季研究生申请数据库，记录可核实的项目要求、导师匹配、截止日期和申请状态。项目条目应让后续维护者直接判断申请资格、所需材料、研究匹配度及待确认事项。
 
+**当前执行状态（2026-10-20）：博士申请工作已按用户要求暂停，待明确恢复后继续。** 暂停博士项目搜索、招生核查、套磁、文书、推荐信配置及递交准备；既有材料保留。当前申请工作集中于物理硕士与数据科学硕士，周复盘及后续规划按此范围执行。
+
 ## 申请人概况
 
 | 项目 | 当前记录 |
@@ -13,7 +15,7 @@
 | 科研一 | MaNGA 暗物质晕 c–M 关系，PyMC 5 与 Bayesian MCMC；第一作者手稿已准备提交 arXiv，尚未确认投稿 |
 | 科研二 | 2026 年 5 月起与 UCL 物理教授一对一合作，研究模拟 H → ZZ* → 2e2μ 事件的运动学特征归因与信号强度推断；已有 2026-09-26 草稿，结果仍属探索性，作者顺序及投稿状态待确认 |
 | 方法经验 | Python、PyMC 5；第二课题中本人完成 MLP、pyhf profile likelihood、exact Shapley attribution、MC bootstrap 与覆盖率诊断相关工作 |
-| 申请方向 | Physics PhD、Physics Master、Data Science Master |
+| 申请方向 | Physics Master、Data Science Master；Physics PhD 已暂停（2026-10-20） |
 
 科研描述及其证据边界见 [research-background.md](research-background.md)，完整个人资料见 [background.md](background.md)。
 
@@ -21,7 +23,7 @@
 
 | 位置 | 用途 |
 |------|------|
-| [physics-phd/](physics-phd/) | 美国、新加坡 direct-entry Physics PhD 项目与匹配导师；目标至少 40 个项目/导师记录 |
+| [physics-phd/](physics-phd/) | 已暂停；保留美国、新加坡 direct-entry Physics PhD 项目与匹配导师档案，原至少40条覆盖目标暂不推进 |
 | [physics-master/](physics-master/) | Physics Master 本轮39所学校记录：加拿大12、澳大利亚2、美国10、法国5、德国5、瑞士5；其余地区及扩展档案保留，不计本轮 |
 | [ds-master/](ds-master/) | DS及用户指定CS转专业/计算科学硕士档案；原全球池50项，加美国扩展7份/5校（1项停招），共57份研究档案、9地区；美国22份/19校；含资格与排名待核项 |
 | [application/phy-master-plan/](application/phy-master-plan/) | 物理硕士39所学校地区候选总览、PDF、事实快照与来源访问审计 |
