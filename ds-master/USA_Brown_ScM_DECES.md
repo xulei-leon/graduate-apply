@@ -17,7 +17,8 @@
 | Recommendation letters | 外部申请者 3 封；Brown fifth-year 的 2 封不适用于本人 |
 | Transcript evaluation | 申请可交 unofficial transcripts；入学前需 official。非美国学位入学前需 WES / ECE / The Evaluation Company 等评估，U of T 不自动豁免此项 |
 | Cohort size | 页面描述 small-cohort，没有已核年度人数 |
-| Deadline | 详细表列 Fall priority February 1、international/final April 1；本页未明确标注 Fall 2027 年份。内部按 2027-02-01 优先、2027-04-01 最终规划，须 portal 确认周期 |
+| Application opening | DECES 官方 Admission 页明确 Applications open September 1；按年度规则，Fall 2027 对应 2026-09-01。公开页未标周期年份，登录后的 Fall 2027 可选状态未核 |
+| Deadline | Fall priority February 1、international/final April 1；Admission 页说明 02-01 前 full consideration，其后 as space permits 滚动至 04-01。按年度规则，Fall 2027 对应 2027-02-01／2027-04-01；公开页未标年份，须 portal 确认具体周期、截止时刻与时区。05-01 仅 Brown fifth-year，不适用于本人 |
 | Date conflict | 页顶 Spring deadline October 15，但详细表国际 October 1、final November 1；保留冲突，本人 2027 年六月毕业，按 Fall 路径，不使用 Spring 日期 |
 | Scholarship deadline | February 1 标为 priority，不在缺少说明时等同奖学金截止；专属奖学金规则未核实 |
 | Tuition | 2026–2027 DECES 每课 USD9,877；八课基础总学费 USD79,016，官网亦列同估算；不含保险、强制费、生活或以后涨价，非 2027 锁价 |
@@ -26,7 +27,7 @@
 | Eligibility / Status | Physics 本科入口明确；GPA 低于优先偏好，仍需综合审核 / Conditional candidate |
 | Match | High：数值建模、应用数学、data assimilation 与 scientific ML 可衔接两项物理计算研究 |
 | Difficulty / Priority | Reach；应撤销“比较容易”，若继续计算科学/Physics PhD 值得有针对性申请 |
-| Last verified | 2026-10-19：项目、2026–2027 费用及 QS 官方表格均已读 |
+| Last verified | 2026-10-19：项目、2026–2027 费用及 QS 官方表格均已读；补核 Admission、FAQ、校级截止表及公开申请入口，确认年度 09-01 开放规则 |
 
 ## 对申请人的判断
 
@@ -36,10 +37,22 @@
 
 课程要求至少两门 engineering/natural science focus、两门 applied mathematics、两门 data science/HPC，余下两门相关课。它适合 scientific computing，不是保证补齐 CS 系统和软件工程的项目。若目标继续 PhD，优先核 thesis 导师可得性和研究安排；若目标工程就业，比较 Professional 的实践质量与总时长。
 
+## 申请起止时间核查（2026-10-19）
+
+官方 Admission 页确认年度开放日为 **September 1**；**February 1** 前提交可获完整审议，之后按剩余名额滚动审核至 **April 1**。主项目页也将 April 1 列为 Fall 国际申请及最终截止。按年度规则，Fall 2027 的规划窗口为 **2026-09-01 → 2027-02-01（优先）→ 2027-04-01（最终）**。
+
+这些年份是按 Fall 2027 入学计划对应年度月日，并非公开页面已标明的专属批次日期。公开申请入口正常返回登录／注册页，未取得登录后的项目及入学批次列表，因此不能声称已验证当前 Fall 2027 可创建申请。具体截止时刻、时区及推荐信是否另有补交期限未公布／未核；以登录系统清单为准。May 1 仅适用于 Brown 本科 fifth-year 申请。
+
 ## 官方来源
 
 1. 项目、GPA、GRE、语言、推荐、路径及截止：https://graduateprograms.brown.edu/graduate-program/data-enabled-computational-engineering-and-science-scm
 2. 2026–2027 学费及计算假设：https://sfs.brown.edu/tuition-and-fees/graduate
 3. QS 原始链接及页顶/详细表差异见[总览中的官方来源与政策证据](../application/ds-master-plan/CSDS_Master_Overview.md)。
+4. 年度 September 1 开放日、完整审议及余位滚动规则：https://computational.engineering.brown.edu/admission
+5. 截止规则交叉核对：https://computational.engineering.brown.edu/frequently-asked-questions
+6. 校级截止表：https://masters.brown.edu/admissions/tuition-aid/deadlines-credits
+7. 公开申请入口；登录后 Fall 2027 状态未核：https://apply.professional.brown.edu/portal/app-management
 
-完整比较见[三校四项目总览](../application/ds-master-plan/CSDS_Master_Overview.md)。
+完整比较见[四校五项目总览](../application/ds-master-plan/CSDS_Master_Overview.md)。
+
+培养设置、官方校友去向及就业／读博分析见[Brown DECES：培养设置与毕业去向](../application/ds-master-plan/Brown_DECES_Outcomes.md)。
