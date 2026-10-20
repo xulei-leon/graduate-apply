@@ -129,7 +129,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top"><strong>重点申请</strong><br><a href="../../physics-master/Western_MSc_Physics.md">Western · MSc Physics</a><br>Match / High<br>QS综合142 / 物理351-400</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">通常不超过2年 /6 terms（系研究生手册）；3.0 HCE课程，至少2.0来自Physics and Astronomy；研究报告或thesis按项目安排，须导师与advisory committee。<a href="https://physics.uwo.ca/graduate/future_students/admission_requirements.html" style="color:inherit"><br><br><strong>申请周期：</strong><br>启动未公布 → 2027-03-01（国际生；含推荐信与成绩单）</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">三四年级课程平均≥70%（B）；录取需导师参与。</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">优先推进；先核高年级成绩和导师<br><br><strong><a href="https://physics.uwo.ca/research/physics/scientific_computing.html">计算相关：单列科学计算领域</a></strong></td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">优先推进；先核高年级成绩和导师<br><br><strong><a href="https://physics.uwo.ca/research/physics/scientific_computing.html">计算相关：Scientific Computing；CPU/GPU、天文计算，详见本节补充（2026-10-19）</a></strong></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需<br><br><strong>申请前联系导师：</strong><br><a href="https://physics.uwo.ca/graduate/future_students/how_to_apply.html">强烈建议提前联系</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">数量待核</td>
 </tr>
@@ -189,6 +189,27 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 - Alberta · MSc Physics：https://www.ualberta.ca/en/physics/graduate-studies/index.html
 - Western · MSc Physics：https://physics.uwo.ca/graduate/future_students/admission_requirements.html
 - UVic · MSc Physics：https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/physics-and-astronomy-cred/physics-msc.php
+
+## Scientific Computing 项目信息补充（2026-10-19）
+
+**项目定位：** 系内单列 Scientific Computing 研究领域；研究生可参加 Graduate Program in Scientific Computing。SGPS 目录将后者列为 Collaborative Specialization；具体参加条件、课程和学位标注待核。
+
+**计算研究：** CPU/GPU 并行编程、多尺度软物质模拟、分子动力学与计算流体动力学耦合、细胞系统及相场模拟、非线性波求解与稳定性分析；软件包括 LAMMPS、CellSim3D、SymPhas、Stencils2D。
+
+**天文计算：** Python 库 WesternMeteorPyLib、EDIBLES、image cube、Colibri KBO Search Project；参与 Astropy、PAHFIT；数值模拟涉及 Be stars 及盘、早期恒星形成、Fast Radio Bursts。
+
+**相关教师：** Pauline Barmby、Colin Denniston、Gonca Erdemci-Tandogan、Carol Jones、Aaron Sigut、Olga Trichtchenko（官网 Research Faculty 名单）。
+
+**个人适配：** High（计算方法层面）：Python/Bayesian 与天文数据分析经历可作为匹配证据。须另核具体导师、MSc 课题和 2027 名额；本页未承诺暗物质或高能物理课题。
+
+**申请边界：** 这是一项现有 Physics MSc 记录下的研究与协作培养信息，不新增学校或独立申请目标。原 MSc 的学制、GPA、截止、推荐信和资助字段仍沿用各自核查日期；上述研究页未给出单独的招生门槛、截止、资助或在招名额。原链接 `https://grad.uwo.ca/admissions/programs/program.cfm?p=246` 本次重定向至 SGPS 项目总目录，未据此推断具体培养要求。
+
+官方来源：
+
+- https://physics.uwo.ca/research/physics/scientific_computing.html
+- https://grad.uwo.ca/admissions/explore-our-programs.cfm
+
+**本补充 Last-verified：2026-10-19；其他字段核查日期保持原记录。**
 
 ## 澳大利亚（2所）
 

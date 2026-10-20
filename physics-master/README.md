@@ -189,7 +189,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">国际生2027-03-01，包含推荐信与成绩单；滚动审理，宜早交。通用how-to页January15奖学金提示明确针对domestic，不能直接套给HY；国际奖学金优先日期待核。（2027国际截止已公布；奖学金须按身份另核）</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">2027国际学生学费未核实；应按本人身份和入学学期获取正式费率，不能以stipend直接视为净资助。；系里说明全部MSc/PhD有支持生活及学费的package，由Western Graduate Research Scholarship、Graduate Fellowship、TA等构成；本轮未公开/未核本人2027金额和净额。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">High / Match；优先推进；先核高年级成绩和导师</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">优先推进；先核高年级成绩和导师<br><br><strong><a href="https://physics.uwo.ca/research/physics/scientific_computing.html">计算相关：单列科学计算领域</a></strong></td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">优先推进；先核高年级成绩和导师<br><br><strong><a href="https://physics.uwo.ca/research/physics/scientific_computing.html">计算相关：Scientific Computing；CPU/GPU、天文计算；可参加协作培养项目，条件待核（2026-10-19）</a></strong></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需<br><br><strong>申请前联系导师：</strong><br><a href="https://physics.uwo.ca/graduate/future_students/how_to_apply.html">强烈建议提前联系</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">数量待核</td>
 </tr>

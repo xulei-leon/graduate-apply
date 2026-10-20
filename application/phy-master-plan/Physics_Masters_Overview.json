@@ -1132,7 +1132,22 @@
       },
       "priority_before_computational_audit": "优先推进；先核高年级成绩和导师",
       "summary_high_rank": false,
-      "highlight_color": "#FFFF00"
+      "highlight_color": "#FFFF00",
+      "scientific_computing": {
+        "verified": "2026-10-19",
+        "details": {
+          "项目定位": "系内单列 Scientific Computing 研究领域；研究生可参加 Graduate Program in Scientific Computing。SGPS 目录将后者列为 Collaborative Specialization；具体参加条件、课程和学位标注待核。",
+          "计算研究": "CPU/GPU 并行编程、多尺度软物质模拟、分子动力学与计算流体动力学耦合、细胞系统及相场模拟、非线性波求解与稳定性分析；软件包括 LAMMPS、CellSim3D、SymPhas、Stencils2D。",
+          "天文计算": "Python 库 WesternMeteorPyLib、EDIBLES、image cube、Colibri KBO Search Project；参与 Astropy、PAHFIT；数值模拟涉及 Be stars 及盘、早期恒星形成、Fast Radio Bursts。",
+          "相关教师": "Pauline Barmby、Colin Denniston、Gonca Erdemci-Tandogan、Carol Jones、Aaron Sigut、Olga Trichtchenko（官网 Research Faculty 名单）。",
+          "个人适配": "High（计算方法层面）：Python/Bayesian 与天文数据分析经历可作为匹配证据。须另核具体导师、MSc 课题和 2027 名额；本页未承诺暗物质或高能物理课题。"
+        },
+        "sources": [
+          "https://physics.uwo.ca/research/physics/scientific_computing.html",
+          "https://grad.uwo.ca/admissions/explore-our-programs.cfm"
+        ],
+        "unresolved": "协作培养具体参加条件、课程、学位标注；导师MSc课题、2027名额；未确认独立学位或单独申请要求。"
+      }
     },
     {
       "country": "Canada",
