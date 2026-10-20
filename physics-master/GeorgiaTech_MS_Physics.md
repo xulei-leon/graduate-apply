@@ -164,3 +164,17 @@ S3. **English policy effective Fall2027**：https://grad.gatech.edu/english-prof
 - https://grad.gatech.edu/english-proficiency
 
 逐项证据及访问缺口见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261016.md)。
+
+## 2027申请启动复核（2026-10-20）
+
+Physics招生及MS catalog可读；招生页仅列年度12-15截止，English Proficiency页Fall 2027指语言政策生效期，不能用来确认MS开窗日，保留未公布。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-10-20**。本次未确认准确启动日，原启动值及其他字段核查日期保持。
+
+官方来源：
+
+- https://physics.gatech.edu/academics/graduate/admissions-info
+- https://catalog.gatech.edu/programs/physics-ms/
+- https://grad.gatech.edu/english-proficiency
+
+逐项证据及访问缺口见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261020.md)。

@@ -179,3 +179,16 @@ S5. **Research / computational astrophysics**：https://www.uvic.ca/science/phys
 - https://www.uvic.ca/graduate/admissions/dates-deadlines/index.php
 
 逐项证据及访问缺口见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261016.md)。
+
+## 2027申请启动复核（2026-10-20）
+
+项目及中央日期页只有年度12-01优先／入学奖学金与08-01补录节点；未给2027准确启动日，保留未公布。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-10-20**。本次未确认准确启动日，原启动值及其他字段核查日期保持。
+
+官方来源：
+
+- https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/physics-and-astronomy-cred/physics-msc.php
+- https://www.uvic.ca/graduate/admissions/dates-deadlines/index.php
+
+逐项证据及访问缺口见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261020.md)。

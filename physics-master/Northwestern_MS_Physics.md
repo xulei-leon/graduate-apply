@@ -165,3 +165,16 @@ TGS最低2封，允许项目增额；MS Physics公开页面未核到额外数量
 - https://physics.northwestern.edu/graduate/master-degree/admissions.html
 
 逐项证据及访问缺口见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261016.md)。
+
+## 2027申请启动复核（2026-10-20）
+
+独立MS How to Apply仍写Fall 2026已开放、2026-06-30截止；MS介绍页首次TLS连接中断后重试恢复。未确认2027 MS准确启动日，不套用PhD窗口，保留待核。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-10-20**。本次未确认准确启动日，原启动值及其他字段核查日期保持。
+
+官方来源：
+
+- https://www.physics.northwestern.edu/graduate/master-degree/index.html
+- https://physics.northwestern.edu/graduate/master-degree/admissions.html
+
+逐项证据及访问缺口见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261020.md)。

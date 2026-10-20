@@ -176,3 +176,17 @@ PSL项目概览未确认独立Computational Physics方向；ICFP专属网站HTTP
 - https://espacecandidature.psl.eu/s/login/?language=fr&ec=302&startURL=%2Fs%2FformationsPSL%3Flanguage%3Den_US
 
 逐项证据及访问缺口见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261016.md)。
+
+## 2027申请启动复核（2026-10-20）
+
+普通ICFP M1来源与年份标题仍冲突：ENS当前列2026-11-26开放、2027-01-21申请及推荐截止（此前核查为01-22），段落仍题为2026/2027；PSL仍列2025-11-24至2026-01-23。申请平台重试仍TLS证书验证失败。不能消除2027批次疑点，保留11-24往年启动及截止待核；另列September 2027 PhD Track的2026-10-14开放不套入普通M1。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-10-20**。本次未确认准确启动日，原启动值及其他字段核查日期保持。
+
+官方来源：
+
+- https://psl.eu/en/education/master-s-degree-physics
+- https://www.phys.ens.fr/fr/formations/master-icfp
+- https://espacecandidature.psl.eu/s/login/?language=fr&ec=302&startURL=%2Fs%2FformationsPSL%3Flanguage%3Den_US
+
+逐项证据及访问缺口见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261020.md)。

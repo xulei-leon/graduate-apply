@@ -190,3 +190,18 @@ S3. **Dedicated applications (TLS issue on this check)**：https://master.physiq
 - https://www.canada.campusfrance.org/fr/candidature-eef
 
 逐项证据及访问缺口见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261016.md)。
+
+## 2027申请启动复核（2026-10-20）
+
+联合PPM的Sorbonne项目与Paris Cité目录可定位，后者首次TLS连接中断后恢复；Sorbonne专属申请页重试仍TLS证书验证失败。未核到2027项目准确开放日，保留用户2026-10-18转述回信确认的2026年10月底开放月份及具体日期待定状态；EEF通用2027/28开窗不能替代项目日历。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-10-20**。本次未确认准确启动日，原启动值及其他字段核查日期保持。
+
+官方来源：
+
+- https://sciences.sorbonne-universite.fr/en/study/degree-seeking/masters/master-fundamental-physics-and-applications
+- https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/physique-fondamentale-et-applications-K2VO0C50/master-physique-fondamentale-et-applications-m1-parcours-paris-physics-master-JS1XR1EO.html
+- https://master.physique.sorbonne-universite.fr/fr/candidatures-inscription.html
+- https://www.canada.campusfrance.org/fr/candidature-eef
+
+逐项证据及访问缺口见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261020.md)。

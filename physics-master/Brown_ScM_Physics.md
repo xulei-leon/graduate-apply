@@ -158,3 +158,17 @@ S2. **Department masters / thesis / references**：https://physics.brown.edu/aca
 - https://apply.professional.brown.edu/portal/app-management
 
 逐项证据及访问缺口见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261016.md)。
+
+## 2027申请启动复核（2026-10-20）
+
+ScM项目及院系页、公开申请入口均可读；项目页仍为未标入学年份的Fall 02-01／04-01截止，未给2027准确启动日，保留未公布。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-10-20**。本次未确认准确启动日，原启动值及其他字段核查日期保持。
+
+官方来源：
+
+- https://graduateprograms.brown.edu/graduate-program/physics-scm
+- https://physics.brown.edu/academics/graduate/masters-degree-program
+- https://apply.professional.brown.edu/portal/app-management
+
+逐项证据及访问缺口见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261020.md)。
