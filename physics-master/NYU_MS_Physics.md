@@ -1,8 +1,46 @@
 # New York University — Master of Science in Physics
 
-**2027入学学校记录｜美国｜核查/访问尝试：2026-10-02**
+**2027入学学校记录｜美国｜课程与科研路径复核：2026-10-21；招生要求沿原字段日期**
 
-本轮状态：**官方核心页面已访问；2027未发布字段待更新**。申请资格仍以学校对正式成绩、课程及学位的审核为准。
+本轮状态：**2026-10-21已复核Bulletin课程及论文路径；GSAS招生页/Physics FAQ本次403，招生字段按各项原核查日期，最近2026-10-20记载见文末，2027仍待核**。申请资格仍以学校对正式成绩、课程及学位的审核为准。
+
+## 计算物理与NYU相邻项目比较（2026-10-21）
+
+**High匹配；优先考虑Thesis路线。** 官方六门核心课中至少通过五门，Computational Physics是其中一门，不能称为每人必修；PHYS-GA2000涵盖微分方程、本征值问题、统计力学、场论及混沌中的数值方法。MS最多两门系外课，需DGS批准；不假定可无限跨修Courant/CDS。
+
+Bulletin样例为4学期；导师接收、2027名额、论文课题及资助未核。方向匹配不代表录取保证。本次不改变既有重点申请标记及联系状态。
+
+官方来源：https://bulletins.nyu.edu/graduate/arts-science/programs/physics-ms/ ；https://bulletins.nyu.edu/courses/phys_ga/
+
+[五项目分析：Physics、Scientific Computing、两类Mathematics与Data Science](../application/ds-master-plan/NYU_Computational_Masters_20261021.md)。下方2026-10-02及后续历史补核保留原日期，不能当作2026-10-21招生网页复核成功。
+
+## Physics Thesis招生、GPA与日期专项核查（2026-10-21）
+
+以下是本项最新专项说明；不能把旧字段中的年度日期当作2027确认公告。
+
+| 问题 | 核实结果与证据边界 |
+|---|---|
+| 申请项目 | 官方列Physics MS，Option B: Thesis是毕业路线；未见独立Thesis招生项目或独立截止。应申请Physics MS并在研究目标中说明论文意向；申请系统是否另设选项待核。 |
+| Thesis结构 | 32credits：28credits常规课程+一个学期4credits研究课，导师监督实验或理论物理研究；并需满足MS六选五核心。 |
+| 本科GPA最低线 | 既有FAQ核查记录为无minimum score requirement，未确认单独MS本科GPA数字线；本次FAQ403，不能据此承诺3.0已满足全部资格，典型录取GPA也未核。 |
+| 入学后GPA | 本次成功读取GSAS academic policies：硕士毕业及good academic standing要求GPA≥3.0；这是研究生阶段要求，不能当本科入学最低线。项目可设更严要求。Physics Thesis条文未列GSAS Mathematics的3.7/18credits门槛，不能跨项目套用。 |
+| 招生材料 | 本次Bulletin确认成绩单、考试成绩（如要求）、申请陈述、CV/resume、推荐信及申请费。既有GSAS记录为3封推荐，General GRE optional、英语本科可走豁免路径；2027细则此次受限，沿原核查日期，不当实时确认。 |
+| 先修与导师 | 物理本科及CM/QM/EM/statistical/computational基础是当前准备参照；六门研究生核心不是要求本科已修同名研究生课。未见申请前必须取得导师承诺的公开条文，但导师监督是完成thesis的条件；名额待核。 |
+| 申请开放 | 2026-10-20既有核查记载GSAS校级2027申请已开放；具体开放日、Physics MS可选入学term本次未核，不以访问日期当开放日。 |
+| 申请截止 | 2026-10-20既有Physics招生页核查仍列年度December30；既有规则为17:00ET。按Fall2027准备推算2026-12-30 17:00EST，即北京时间2026-12-31 06:00。这是待portal确认的规划日期，不能标为2027官方批次已确认。 |
+| 材料截止 | 本次申请入口明确所有支持材料（含他人提交的推荐信、官方考试成绩）均须在项目截止前齐全，不仅是在线表单。 |
+| 并申规则 | 本次申请入口明确同一term只能提交一个GSAS申请；后续GSAS申请不会被审。Physics与Scientific Computing/GSAS Mathematics/CDS Data Science须择一；不同学院可另申，Tandon属于独立学院。 |
+
+本次成功读取：
+
+- https://bulletins.nyu.edu/graduate/arts-science/programs/physics-ms/
+- https://bulletins.nyu.edu/graduate/arts-science/academic-policies/
+- https://apply.gsas.nyu.edu/apply/
+
+本次访问受限（403）：Physics GSAS招生页、系FAQ、中央ARC、test scores及推荐信页；本节GRE/封数/GPA招生说法与年度日期需保留历史核查属性。
+
+- https://gsas.nyu.edu/admissions/arc/programs/physics.html
+- https://as.nyu.edu/nyu-as/as/departments/physics/programs/graduate/physics-graduate-admissions-faq.html
 
 ## 项目事实
 
@@ -13,8 +51,8 @@
 | Exact program / 学位 | Master of Science in Physics |
 | Track / 专业方向 | Physics；具体研究方向见研究形式与先修字段 |
 | Master type / 项目类型 | Academic / Research |
-| Duration / 学制 | 32或36 credits；日历时长未核明确 |
-| Research / thesis | Thesis32 / Examination32 / Report36 credits三条路线。 |
+| Duration / 学制 | 32或36 credits；官方样例4学期，约2学年为样例推算，非保证完成时间 |
+| Research / thesis | Thesis32（28课程+4研究）/ Examination32 / Report36 credits；Report为导师指导的文献综述，不等同原创研究论文；2026-10-21复核。 |
 | GPA / academic eligibility | FAQ无minimum score requirement；未单列MS本科数字最低，不能杜撰3.0硬门槛。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。 |
 | GRE | GSAS Sept2026更新页列General GRE optional；department Fall2026称General / Subject optional，2027复核。 |
 | TOEFL / IELTS / 授课语言 | 英语授课本科完成或预计完成可依GSAS免试规则处理；需符合指定材料。 |
@@ -40,7 +78,7 @@ QS World University Rankings 2027综合 58；QS Physics & Astronomy 2026 103。
 | 维度 | 判断 |
 |---|---|
 | Match | High — 计算物理、particle与cosmology环境及论文选项与现有科研较贴近。 |
-| Difficulty | Match；申请规划判断，非百分比录取率。 |
+| Difficulty | Match–Reach；2026-10-21规划判断：CGPA3.0、强推荐与硕士导师名额未落实，无公开最低分不代表容易录取。 |
 | 申请优先级 | 美国重点；选thesis；计算物理：MS核心课列入 |
 | 当前资格焦点 | 无公开minimum score；课程与科研可整体评估。 |
 | 下一步 | 用thesis目标明确SOP，展示可复现推断与计算成果；预算按自费。 |

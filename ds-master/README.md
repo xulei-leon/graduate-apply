@@ -6,13 +6,24 @@
 
 2026-10-02全球调研：**50项 / 9地区 / 美国15所，其他地区各最多5项**。完整报告：[中文Markdown](../application/ds-master-plan/DS_Masters_Global_Survey_20261002.md)。美国决策速查：[15所分层推荐](../application/ds-master-plan/USA_DS_Masters_15_20261002.md)。PDF位于申请规划目录，文件名同报告。
 
-2026-10-19美国扩展档案共**7份 / 5校 / 1项停招**，下方单列索引；新增加拿大McMaster CSE档案1份；Chicago、USC两项、Brown及McMaster集中见[四校五项目总览](../application/ds-master-plan/CSDS_Master_Overview.md)。当前共**58份项目研究档案 / 9地区**：美国22份、19所不同大学，加拿大6份，其他地区30份；不是58项有效申请。原全球池50项及其PDF/JSON保留原快照口径。独立档案不因总览缩减而删除，排名及资格仍以各项记录为准。
+2026-10-19美国扩展档案共**7份 / 5校 / 1项停招**，下方单列索引；新增加拿大McMaster CSE档案1份；Chicago、USC两项、Brown及McMaster集中见[四校五项目总览](../application/ds-master-plan/CSDS_Master_Overview.md)。2026-10-21新增NYU计算科学及相邻硕士4份（Scientific Computing、GSAS Mathematics、Tandon Mathematical Sciences、Data Science）。当前共**62份项目研究档案 / 9地区**：美国26份、20所不同大学，加拿大6份，其他地区30份；不是62项有效申请。原全球池50项及其PDF/JSON保留原快照口径。独立档案不因总览缩减而删除，排名及资格仍以各项记录为准。
 
 本轮为官方事实与强项目候选池，非加拿大最新排名门槛已逐项核对；2027未公布/未读取字段和个人资格仍有未闭合项，不将候选记录标成全部Verified。美国按背景可行性筛选；其他地区按综合课程/研究/项目实力选择前列候选，非官方国内名次。
 
 历史策略：[加拿大DS、分析与相邻硕士扩展](../application/ds-master-plan/Canada_Data_Science_Masters.md)，不计本次五项；[EXAMPLE_UBC_MDS.md](../application/ds-master-plan/EXAMPLE_UBC_MDS.md)为模板，不计入目标。
 
 Match评价方法匹配；Difficulty评价规划难度，不是保证。High不等于高录取率。
+
+## NYU计算科学及相邻项目扩展（2026-10-21，4份／1校）
+
+与既有Physics MS合并见[五项目分析](../application/ds-master-plan/NYU_Computational_Masters_20261021.md)。四项均为United States of America、New York University；QS2027综合58已直接读取官方XLSX，满足筛选。档案均In progress，不代表2027资格已确认；人数及2027完整费用均待核。官方4学期均为样例，不作学制保证。
+
+| 档案 / 项目 | 类型 / 学制 / 研究 | GPA / 先修 | GRE / 语言 / 推荐 | 名额 | 截止 / 资助 | Match / Difficulty | 官方来源 / 日期 / 状态 |
+|---|---|---|---|---|---|---|---|
+| [NYU — MS Scientific Computing](USA_NYU_MS_Scientific_Computing.md) | 数学+CS；36credits、4学期样例；3-credit master's project，非保证研究thesis | 本科最低/典型GPA未核；3学期Calculus含多元、线代、编程、数据结构/算法 | 共用招生页预期Math Subject GRE，不能参加须说明；General不要求/不接受，2027项目执行待确认；英语学位可申请豁免；3封 | 未公布 | 年度Fall02-14建议/05-01最终，2027批次待核；MS无MacCracken，其他资助不保证；2027费用待核 | High / Reach | [项目与先修](https://math.nyu.edu/dynamic/graduate/ms-gsas/ms-scientific-computing/) / [课程](https://bulletins.nyu.edu/graduate/arts-science/programs/scientific-computing-ms/) / [招生](https://math.nyu.edu/dynamic/graduate/ms-gsas/admission/)；2026-10-21；In progress |
+| [NYU — MS Mathematics，GSAS](USA_NYU_MS_Mathematics_GSAS.md) | 考试36或论文32credits；4学期样例；论文需本项目18credits、GPA≥3.7及批准 | 本科数字线未核；Calculus/advanced calculus或线代，建议analysis/complex/ODE/PDE/probability | 预期Math Subject GRE，不能参加须说明；General不要求/不接受；英语学位可申请豁免；3封 | 未公布 | 年度Fall02-14、Spring11-01，Fall2027批次待核；MS无MacCracken；2027费用待核 | High（方法）/ Reach | [目录](https://bulletins.nyu.edu/graduate/arts-science/programs/mathematics-ms/) / [招生](https://math.nyu.edu/dynamic/graduate/ms-gsas/admission/)；2026-10-21；In progress |
+| [NYU — MS Data Science](USA_NYU_MS_Data_Science.md) | 36credits；4学期样例；必修capstone，未核传统thesis | 官方列Physics等定量背景，需programming/basic CS；最低GPA未核，highly-selective | 2027GRE、语言豁免、推荐封数待核；Bulletin确认需推荐信 | 未公布 | 2027截止/费用/资助未核，招生站403/TLS受限 | High（推断/ML）/ Reach | [完整课程与背景](https://bulletins.nyu.edu/graduate/arts-science/programs/data-science-ms/) / [招生受限](https://cds.nyu.edu/masters-admissions/)；2026-10-21；In progress |
+| [NYU — MS Mathematical Sciences，Tandon](USA_NYU_MS_Mathematical_Sciences_Tandon.md) | 30credits；4学期样例；考试或6-credit thesis；计算统计/Scientific Computing/HPC样例 | 校级GPA≥3.0，本人踩线；其他本科由系审核；一年Advanced Calculus | GRE optional；UofT需申请语言waiver，不保证自动免；Master推荐招生页optional，Bulletin2封冲突待portal核 | 未公布 | 年度Fall12-01优先/02-15最终，2027批次待核；不收Spring；自动审merit，不保证资助；2027费用待核 | High / Match–Reach，附条件 | [课程](https://bulletins.nyu.edu/graduate/engineering/programs/mathematical-sciences-ms/) / [招生](https://engineering.nyu.edu/admissions/graduate/apply/requirements) / [日期](https://engineering.nyu.edu/admissions/graduate/apply/application-deadlines)；2026-10-21；In progress |
 
 ## 用户指定美国扩展项目（2026-10-19，7份／5校）
 

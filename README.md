@@ -25,14 +25,16 @@
 |------|------|
 | [physics-phd/](physics-phd/) | 已暂停；保留美国、新加坡 direct-entry Physics PhD 项目与匹配导师档案，原至少40条覆盖目标暂不推进 |
 | [physics-master/](physics-master/) | Physics Master 本轮39所学校记录：加拿大12、澳大利亚2、美国10、法国5、德国5、瑞士5；其余地区及扩展档案保留，不计本轮 |
-| [ds-master/](ds-master/) | DS及用户指定CS转专业/计算科学硕士档案；原全球池50项，加美国扩展7份/5校（1项停招）及加拿大McMaster CSE 1份，共58份研究档案、9地区；美国22份/19校、加拿大6份；含资格与排名待核项 |
+| [ds-master/](ds-master/) | DS及用户指定CS转专业/计算科学硕士档案；原全球池50项，加美国扩展7份/5校（1项停招）及加拿大McMaster CSE 1份，加NYU四项，共62份研究档案、9地区；美国26份/20校、加拿大6份；含资格与排名待核项 |
 | [application/phy-master-plan/](application/phy-master-plan/) | 物理硕士39所学校地区候选总览、PDF、事实快照与来源访问审计 |
-| [application/ds-master-plan/](application/ds-master-plan/) | DS硕士综合调研、美国15校快照、美国七项与加拿大McMaster扩展档案、四校五项目总览（含官方来源） |
+| [application/ds-master-plan/](application/ds-master-plan/) | DS硕士综合调研、美国15校快照、美国七项、加拿大McMaster及NYU四项扩展档案、四校五项目和NYU总览（含官方来源） |
 | [country-differences.md](country-differences.md) | 国家差异参考资料 |
 | [targets.md](targets.md) | 目标地区及申请优先级 |
 | [AGENTS.md](AGENTS.md) | 来源顺序、字段标准、匹配判断与建档流程 |
 
 目标数量是最低覆盖要求，不能替代资格和来源核实。DS 档案与索引已同步建立，但候选不等于申请资格已确认；完整报告见 [全球DS硕士调研](application/ds-master-plan/DS_Masters_Global_Survey_20261002.md)，美国部分见 [15所分层推荐与申请比较](application/ds-master-plan/USA_DS_Masters_15_20261002.md)。
+
+2026-10-21：[NYU计算物理与计算科学五项目分析](application/ds-master-plan/NYU_Computational_Masters_20261021.md)比较既有Physics MS与新增Scientific Computing、GSAS Mathematics、Tandon Mathematical Sciences、Data Science四份档案。新增4份后DS/CS/计算科学目录62份、美国26份/20校；Physics仍39所。具体2027招生与费用缺项保留待核。
 
 2026-10-19：[CS / DS与计算科学四校五项目总览](application/ds-master-plan/CSDS_Master_Overview.md)汇总Chicago、USC两项、Brown及加拿大McMaster CSE，包含培养定位、论文科研、费用与关键官方证据。Brown的GPA≥3.4为最强优先偏好，按Reach处理；Chicago/USC核心资格待核；McMaster为High/Unknown，先核GPA、导师与招生细则。历史50项PDF/JSON不包含扩展；独立项目档案数量仍按目录表统计。
 
