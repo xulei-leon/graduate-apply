@@ -6,6 +6,7 @@
 
 PDF开头新增“Summary · 申请数量汇总”，随后为“地区候选总览”；共39所已选学校、19所用户指定优先申请学校，其中8所重点冲刺。地区表格参考DS报告样式，不附封面或目录。
 
+- [NYU与Brown Physics MS比较（2026-10-22）](NYU_vs_Brown_Physics_MS_20261022.md)：申请、具体研究匹配、论文条件、费用与就业/后续学习；Brown改High，年度日期与2027区分。
 - [地区候选总览 PDF](Physics_Masters_Overview.pdf)
 - [当前 Markdown](Physics_Masters_Overview.md)
 - [2027 入学申请时间表](Physics_Masters_Timeline.md)

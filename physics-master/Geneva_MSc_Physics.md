@@ -185,3 +185,18 @@ Physics及中央招生页可读；中央条件仍以2026-27为标题，只有mid
 - https://www.unige.ch/admissions/sinscrire/
 
 逐项证据及访问缺口见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261020.md)。
+
+## 2027申请启动复核（2026-10-23）
+
+Physics及中央招生页可读；条件页仍标题2026-27，只称下一秋季申请可自mid-January开始，未给2027 Physics准确月日。September 2027专属条目属于Conference Interpreting；不套用，保留待核。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-10-23**。未确认新准确启动日，原启动值及其他字段核查日期保持。
+
+官方来源：
+
+- https://www.unige.ch/sciences/physique/enseignement/master
+- https://www.unige.ch/admissions/englishcorner/general
+- https://www.unige.ch/admissions/sinscrire/
+- https://www.unige.ch/etudiants/master/
+
+逐项证据及本轮访问结果见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261023.md)。

@@ -205,3 +205,21 @@ S3. **Dedicated applications (TLS issue on this check)**：https://master.physiq
 - https://www.canada.campusfrance.org/fr/candidature-eef
 
 逐项证据及访问缺口见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261020.md)。
+
+## 2027申请启动复核（2026-10-23）
+
+联合PPM的Sorbonne项目、M1及Paris Cité目录可读，未列2027准确开放日；Sorbonne专属申请页重试仍证书验证失败，目录链接的Paris Cité中央申请旧页HTTP 404，PPM课程链接所在站点HTTPS握手失败。EEF 2027/28通用10-01不替代项目日历。保留用户10-18回信确认的2026年10月底开放月份及具体日期待定。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-10-23**。未确认新准确启动日，原启动值及其他字段核查日期保持。
+
+官方来源：
+
+- https://sciences.sorbonne-universite.fr/en/study/degree-seeking/masters/master-fundamental-physics-and-applications
+- https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/physique-fondamentale-et-applications-K2VO0C50/master-physique-fondamentale-et-applications-m1-parcours-paris-physics-master-JS1XR1EO.html
+- https://master.physique.sorbonne-universite.fr/fr/candidatures-inscription.html
+- https://www.canada.campusfrance.org/fr/candidature-eef
+- https://sciences.sorbonne-universite.fr/en/masters/master-fundamental-physics-and-applications/m1-first-year-master
+- https://www.parisphysicsmaster.com/
+- https://u-paris.fr/candidater-a-universite-paris-cite/
+
+逐项证据及本轮访问结果见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261023.md)。

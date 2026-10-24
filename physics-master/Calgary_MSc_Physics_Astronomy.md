@@ -176,3 +176,15 @@ Thesis MSc项目页列September入学年度01-15截止；未明确2027申请启�
 - https://grad.ucalgary.ca/future-students/explore-programs/physics-and-astronomy-msc-thesis
 
 逐项证据及访问缺口见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261020.md)。
+
+## 2027申请启动复核（2026-10-23）
+
+Thesis MSc项目页仅列September入学年度01-15截止，未见2027准确启动日，保留未公布。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-10-23**。未确认新准确启动日，原启动值及其他字段核查日期保持。
+
+官方来源：
+
+- https://grad.ucalgary.ca/future-students/explore-programs/physics-and-astronomy-msc-thesis
+
+逐项证据及本轮访问结果见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261023.md)。

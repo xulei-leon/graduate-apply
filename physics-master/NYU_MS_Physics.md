@@ -226,3 +226,31 @@ GSAS Physics、系级FAQ、中央ARC及公开入口本次均可读。ARC明确Sp
 - https://apply.gsas.nyu.edu/apply
 
 逐项证据及访问缺口见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261020.md)。
+
+## 与Brown比较的研究证据补核（2026-10-22）
+
+[两校完整比较](../application/phy-master-plan/NYU_vs_Brown_Physics_MS_20261022.md)。NYU保持High；官方CCPP成员及profile确认Blanton的巡天/SDSS、Hogg的星系/大数据、Tinker的星系—暗物质联系/N-body、Cuesta-Lazaro的天体ML与可解释模型。均未核2027独立硕士指导名额；旧profile项目年份不当当前招聘证据。
+
+本次MS Bulletin可读，GSAS Physics、FAQ及学费页为405/Human Verification；招生/GRE/费用继续保留原日期与待核，不升级为2027已确认。Match–Reach为个人规划标签，无可比录取率支持其必然比Brown容易。
+
+- https://cosmo.nyu.edu/index.php/people/
+- https://cosmo.nyu.edu/index.php/people/information?&userid=fVEab4SOTJ
+- https://cosmo.nyu.edu/index.php/people/information?&userid=pkW7HHFwQC
+- https://cosmo.nyu.edu/index.php/people/information?&userid=e2Gpv2RDeD
+- https://cosmo.nyu.edu/index.php/people/information?&userid=0uWxHthdiJ
+
+## 2027申请启动复核（2026-10-23）
+
+GSAS中央ARC首次HTTP 403、重试恢复，明确Spring、Summer、Fall 2027申请已开放，但没有准确开放日，亦未确认Physics MS具体term可选状态；Physics招生及FAQ页本轮HTTP 403，Bulletin与公开入口可读。保留启动完全待核；校级已开放事实与10-20记录一致，不当新增日期。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-10-23**。未确认新准确启动日，原启动值及其他字段核查日期保持。
+
+官方来源：
+
+- https://bulletins.nyu.edu/graduate/arts-science/programs/physics-ms/
+- https://gsas.nyu.edu/admissions/arc/programs/physics.html
+- https://as.nyu.edu/nyu-as/as/departments/physics/programs/graduate/physics-graduate-admissions-faq.html
+- https://gsas.nyu.edu/admissions/arc.html
+- https://apply.gsas.nyu.edu/apply
+
+逐项证据及本轮访问结果见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261023.md)。

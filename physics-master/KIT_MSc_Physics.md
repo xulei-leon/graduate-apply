@@ -201,3 +201,18 @@ Physics项目及申请日期页未明确2027冬季准确开窗；项目页2026-1
 - https://www.intl.kit.edu/istudies/15207.php
 
 逐项证据及访问缺口见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261020.md)。
+
+## 2027申请启动复核（2026-10-23）
+
+Physics、国际Master申请及中央日期页可读；2026-12-01明确属于summer term申请开放，2027/28仅见授课日历，交换生日期亦不适用。未确认2027冬季Physics学位申请开放日，保留待核。
+
+适用入学计划：**2027冬季入学**；本字段最后核实／访问尝试：**2026-10-23**。未确认新准确启动日，原启动值及其他字段核查日期保持。
+
+官方来源：
+
+- https://www.sle.kit.edu/english/vorstudium/master-physics.php
+- https://www.intl.kit.edu/istudies/9074.php
+- https://www.sle.kit.edu/english/vorstudium/3968.php
+- https://www.intl.kit.edu/istudies/15207.php
+
+逐项证据及本轮访问结果见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261023.md)。

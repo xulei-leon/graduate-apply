@@ -301,11 +301,11 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">QS World University Rankings 2027综合 66；QS Physics &amp; Astronomy 2026 137；最新QS综合或Physics &amp; Astronomy前100已核。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">Academic / Research或coursework option；1-2年，可2 /3 /4 semesters；8门课；department明确coursework与thesis option，thesis recommended；另main page称including thesis，存在表述差异。<a href="https://graduateprograms.brown.edu/graduate-program/physics-scm" style="color:inherit"><br><br><strong>申请周期：</strong><br>启动未公布 → 04-01；优先02-01（Fall；年份按系统复核）</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">未公开数值最低或硕士录取典型GPA；需强Physics background。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；经典、电磁、量子、统计核心课程，research experience与SOP。</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">General和Physics Subject GRE均不要求。；英语为唯一授课语言的本科可按规则免试；Canadian English degree路径适用，须证明。</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">Fall 2027 priority 2027-02-01；final 2027-04-01。（2027已公布）</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">2027学费未核实；须使用本人国际学生费率报价。；项目/系不提供guaranteed scholarships；按自费安排，外部奖学金另计。</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">Medium / Reach；优先冲刺；自费</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">优先冲刺；自费<br><br><strong><a href="https://graduateprograms.brown.edu/graduate-program/physics-scm">计算物理：待核</a></strong></td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">General/Physics GRE均非必需；系页推荐提交，尤其非传统背景。；英语为唯一授课语言的本科可按规则免试；Canadian English degree路径适用，须证明。</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">年度Fall02-01优先、04-01最终；Fall2027按对应2027日期准备，portal批次待核；2026-10-22纠正“2027已公布”。</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">2026–27 Physics每课US$10,245，8课US$81,960基础学费，不含杂费/生活/涨价；2027待核。明确MS自费，无系/大学资助。</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">High / Reach；优先冲刺；自费；匹配更新2026-10-22</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">优先冲刺；自费<br><br><strong><a href="https://bulletin.brown.edu/physics/">计算物理：PHYS2600/2640；ML：2550</a></strong></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需<br><br><strong>申请前联系导师：</strong><br><a href="https://graduateprograms.brown.edu/graduate-program/physics-scm">所查页面未列提前联系要求</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">3封/2封冲突</td>
 </tr>
@@ -778,3 +778,11 @@ WashU · MA Physics已确认Fall 2027校级统一开窗为2026-09-01；MA截止�
 学校总数及地区、重点标记不变。已复核NYU Physics的32/36-credit路径、六选五核心及最多两门系外课限制；难度更新为Match–Reach（规划判断），课程样例4学期。招生网页本次403，年度12-30及GRE/语言沿原核查日期，2027仍待核。[NYU五项目比较](../application/ds-master-plan/NYU_Computational_Masters_20261021.md)及[单校档案](NYU_MS_Physics.md)已同步。
 
 NYU专项补核（2026-10-21）：Thesis是Physics MS毕业路线，未见独立招生；未核本科GPA数字线，GSAS研究生阶段3.0不能当入学线。Fall2027按年度规则暂以2026-12-30 17:00ET准备，批次待portal确认。公开申请入口确认同term限一个GSAS项目，所有支持材料同截止。详见[NYU专项记录](NYU_MS_Physics.md)。
+
+## NYU与Brown比较更新（2026-10-22）
+
+[两校比较](../application/phy-master-plan/NYU_vs_Brown_Physics_MS_20261022.md)已核具体研究与Brown课程：Brown匹配由Medium更新High，Reach规划不变；NYU保持High / Match–Reach（偏冲刺），无可比录取率证明两校难易次序。Brown2026–27基础学费US$81,960，2027费率待核；年度02-01/04-01撤回“2027已公布”表述。两份档案及本表同步，39所、地区/重点学校数量及联系状态不变。
+
+## 2027申请启动复核（2026-10-23）
+
+本轮从现行时间表读取2条往年项目与16组启动完全待核学校，并补核联合PPM的具体日期，共19组项目／20份学校档案；未确认新的2027准确启动日。全部月度申请单元格、往年标记、月份、星号、单校换行及轮次保持；16组完全待核名单不变，PPM继续保留用户回信确认的2026年10月底、具体日期待定。NYU校级2027已开放与既有记录一致，未取得准确开放日；ENS本轮无法读取正文，来源及批次疑点未解除。学校39条、重点19所、冲刺8所不变。每项官方URL、适用入学计划及本字段最后核实／访问尝试日期见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261023.md)。本节为最新启动核查说明；其他字段保持原核验日期，历史记录按其原日期阅读。

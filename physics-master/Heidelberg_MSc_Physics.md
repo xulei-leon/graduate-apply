@@ -200,3 +200,16 @@ Physics项目页及院系页可读（院系首次TLS连接中断、重试恢复�
 - https://www.physik.uni-heidelberg.de/studium/master?lang=en
 
 逐项证据及访问缺口见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261020.md)。
+
+## 2027申请启动复核（2026-10-23）
+
+Physics项目与院系页可读，仍只列按国籍区分的年度截止，non-EU冬季为07-15；未公布2027冬季准确开放日，保留待核。
+
+适用入学计划：**2027冬季入学**；本字段最后核实／访问尝试：**2026-10-23**。未确认新准确启动日，原启动值及其他字段核查日期保持。
+
+官方来源：
+
+- https://www.uni-heidelberg.de/en/study/all-subjects/physics/physics-master
+- https://www.physik.uni-heidelberg.de/studium/master?lang=en
+
+逐项证据及本轮访问结果见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261023.md)。

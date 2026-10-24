@@ -193,3 +193,17 @@ Physics及国际Master、秋季日期页可读；秋季页只写自01-01开始�
 - https://www.unibe.ch/studium/daten/studierende/herbst/index_ger.html
 
 逐项证据及访问缺口见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261020.md)。
+
+## 2027申请启动复核（2026-10-23）
+
+Physics、国际Master及中央秋季日期页可读；秋季页仍写每年01-01起处理申请，未明确2027 Physics准确开窗，不能将处理起点直接当作开放日，保留启动及在线截止待核。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-10-23**。未确认新准确启动日，原启动值及其他字段核查日期保持。
+
+官方来源：
+
+- https://www.philnat.unibe.ch/studium/studienprogramme/master_physik/index_ger.html
+- https://www.unibe.ch/studium/studienangebote/master/bewerbung/international/index_ger.html
+- https://www.unibe.ch/studium/daten/studierende/herbst/index_ger.html
+
+逐项证据及本轮访问结果见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261023.md)。

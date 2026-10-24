@@ -207,3 +207,20 @@ S4. **Canada EEF 2027 calendar**：https://www.canada.campusfrance.org/fr/candid
 - https://www.canada.campusfrance.org/fr/candidature-eef
 
 逐项证据及访问缺口见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261020.md)。
+
+## 2027申请启动复核（2026-10-23）
+
+联合PPM项目目录可读，目录链接的中央申请旧页HTTP 404；联合项目相关Sorbonne页未补足2027准确开放日，专属申请页证书验证失败，PPM课程站点HTTPS握手失败。EEF通用2027/28开窗不替代项目日历；保留用户10-18回信确认的2026年10月底、具体日期待定，与Sorbonne同步且只计一次申请。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-10-23**。未确认新准确启动日，原启动值及其他字段核查日期保持。
+
+官方来源：
+
+- https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/physique-fondamentale-et-applications-K2VO0C50/master-physique-fondamentale-et-applications-m1-parcours-paris-physics-master-JS1XR1EO.html
+- https://u-paris.fr/candidater-a-universite-paris-cite/
+- https://www.canada.campusfrance.org/fr/candidature-eef
+- https://sciences.sorbonne-universite.fr/en/masters/master-fundamental-physics-and-applications/m1-first-year-master
+- https://master.physique.sorbonne-universite.fr/fr/candidatures-inscription.html
+- https://www.parisphysicsmaster.com/
+
+逐项证据及本轮访问结果见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261023.md)。

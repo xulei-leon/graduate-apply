@@ -206,3 +206,18 @@ Physics／Astrophysics MS项目、流程、截止页及公开入口均可读；�
 - https://gradase.admissions.tufts.edu/apply/
 
 逐项证据及访问缺口见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261020.md)。
+
+## 2027申请启动复核（2026-10-23）
+
+Physics／Physics: Astrophysics MS项目、流程、截止页及公开入口可读，仅列未标2027批次的01-15优先／04-15常规／08-01滚动截止；各轮均未见准确开放日，保留未公布。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-10-23**。未确认新准确启动日，原启动值及其他字段核查日期保持。
+
+官方来源：
+
+- https://asegrad.tufts.edu/program/physics-and-physics-astrophysics-masters
+- https://asegrad.tufts.edu/applying/admissions-process
+- https://asegrad.tufts.edu/applying/application-deadlines
+- https://gradase.admissions.tufts.edu/apply/
+
+逐项证据及本轮访问结果见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261023.md)。

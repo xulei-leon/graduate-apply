@@ -234,3 +234,19 @@ S3. **Official handbook (challenge on this check)**：https://handbook.unimelb.e
 - https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/how-to-apply/
 
 逐项证据及访问缺口见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261020.md)。
+
+## 2027申请启动复核（2026-10-23）
+
+项目、entry requirements及how-to-apply关键日期页HTTP 403；2026／2027旧handbook路径HTTP 404。March、July 2027两批次准确开放日均未核到，保留待核；继续保留2026-10-11用户提供官网原文的2026-11-30／2027-05-31截止，本轮访问失败不否定已有证据。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-10-23**。未确认新准确启动日，原启动值及其他字段核查日期保持。
+
+官方来源：
+
+- https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/
+- https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/entry-requirements/
+- https://handbook.unimelb.edu.au/2026/courses/mc-sci-phy
+- https://handbook.unimelb.edu.au/2027/courses/mc-sci-phy
+- https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/how-to-apply/#key-application-dates
+
+逐项证据及本轮访问结果见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261023.md)。
