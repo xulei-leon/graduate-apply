@@ -1,6 +1,6 @@
 # McMaster — 硕士申请材料
 
-本目录保存 Fall 2027 三份独立文书：**M.Sc. in Computational Science and Engineering（Thesis）**、**M.Sc. in Computational Science and Engineering（Project）** 与 **M.Sc. in Physics and Astronomy（Thesis）**。两份 CSE PS 于 **2026-10-20** 新增；下方分别记录文书的定位与核查依据。CSE 两种完成路径分别准备文书，不据此新增学校或项目组计数，也不表示已同时提交申请。
+本目录保存 Fall 2027 两份文书：**M.Sc. in Computational Science and Engineering 通用 PS** 与 **M.Sc. in Physics and Astronomy（Thesis）PS**。原 CSE Thesis 与 Project 两稿于 **2026-10-25** 合并，统一使用 `McMaster_PS_MSc_CSE_en.md`；Project 单独稿已按用户要求删除。合并稿围绕两条路径共有的科学计算兴趣、方法训练与导师指导下的研究展开；正式申请仍需选择相应路径，通用文书不表示两条路径会被同时审理。
 
 **Physics and Astronomy 原套磁材料：**整理与官方来源核查：**2026-10-03**。地区：Canada。目标：Fall 2027 **M.Sc. in Physics and Astronomy（Thesis）**，Department of Physics & Astronomy，McMaster University。首次联系草稿，**尚未发送**；既往联系历史待申请人确认。
 
@@ -8,53 +8,33 @@
 
 | 文件 | 用途 |
 |---|---|
-| [McMaster_PS_MSc_CSE_en.md](McMaster_PS_MSc_CSE_en.md) | Fall 2027 CSE M.Sc.（Thesis）英文 PS；科学计算、方法评价与可靠推断主线；正文 782 词 |
-| [McMaster_PS_MSc_CSE_Project_en.md](McMaster_PS_MSc_CSE_Project_en.md) | Fall 2027 CSE M.Sc.（Project）英文 PS；方法学习、完整计算流程与聚焦项目实践；正文 774 词 |
+| [McMaster_PS_MSc_CSE_en.md](McMaster_PS_MSc_CSE_en.md) | Fall 2027 CSE M.Sc. 通用英文 PS；科学计算、方法训练与可靠推断；正文 480 词 |
 | [McMaster_PS_MSc_en.md](McMaster_PS_MSc_en.md) | Fall 2027 Physics and Astronomy thesis MSc 英文 PS；Wadsley / Parker 的模拟与观测研究匹配 |
 | [英文 CV](../../CV/CV_en.md) / [中文 CV](../../CV/CV_cn.md) | 共享的现行 CV；MaNGA 旋转曲线与暗物质晕为主 |
 | [letter-james-wadsley.md](letter-james-wadsley.md) | 英文 Fall 2027 thesis MSc 研究机会咨询信 |
 | [paper-james-wadsley.md](paper-james-wadsley.md) | 1 篇首读论文、原文定位、阅读顺序与邮件联系点 |
 
-## CSE M.Sc.（Thesis）PS：写作逻辑与来源（2026-10-20）
+## CSE M.Sc. 合并 PS：写作逻辑与来源（2026-10-25）
 
-目标为 **M.Sc. in Computational Science and Engineering — Thesis**，Fall 2027 入学。官方中央项目页将该 MSc 的 Thesis 路径列为 **2 years**，并链接到用户确认的 `poid=32702` Calendar 页面。CSE 为跨 Faculty of Engineering / Faculty of Science 的计算科学与工程项目；本稿按这一学科定位组织，不沿用 Physics and Astronomy PS 的星系形成主线。该文书不代表已确认个人入学资格、导师或录取。
+目标为 **M.Sc. in Computational Science and Engineering**，Fall 2027 入学。正文不指定 Thesis 或 Project，也不固定学制；用科学计算研究兴趣、系统方法学习和导师指导下的完整计算工作连接两条路径的共同训练目标。原两稿于 2026-10-20 编写，本次按用户要求合并为一份。
 
-**申请逻辑：**以 Higgs 项目中 classification AUC 与推断区间宽度的排序不一致为开篇，说明对计算方法评价的兴趣；MaNGA 经历支撑模型假设、分阶段推断与不确定性分析能力，Higgs 经历支撑机器学习比较、likelihood inference 与验证能力。随后提出数值方法、optimisation、统计建模和 scientific machine learning 的系统学习需求，连接到 McMaster 的 simulation / modelling / optimisation 研究范围及两年 thesis 训练，最后落到科学计算研究与相关博士准备。正文七段、无段落小标题。
+**申请逻辑：**首段采用“学术背景—研究兴趣—申请目标”的常规结构，先交代 U of T Physics Specialist 背景，再由星系动力学与 Higgs 模拟经历引出 computational modelling、statistical inference 和 uncertainty analysis，最后明确申请 CSE 以加强数学与数值基础的目标。随后用 MaNGA 的倾角不确定性和 Higgs 的推断可靠性检验简要支撑。后半篇聚焦数值方法、optimisation、statistical modelling 与 learned representations 的学习目标，提出用已知参数模拟数据比较估计误差和不确定性的研究兴趣，再连接到 CSE 的 Computational Physical Sciences 及跨 science、engineering、business 的环境。长期目标统一为参与科学计算研究。
 
-**事实依据与边界：**经历参照 [基础 PS](../../CV/PS_MSc_en.md)、[现行 CV](../../CV/CV_en.md) 和 [科研背景](../../../research-background.md)。MaNGA 保留 620 个筛选星系、Python/PyMC、MCMC、prior-corrected importance sampling、倾角敏感性及第一作者手稿已完成但尚未提交的状态。Higgs 明确为公开 ATLAS 模拟样本，Bayesian inference 与 profile-likelihood inference 分开描述；bootstrap 和条件覆盖率诊断不被写成已证明显著或经校准的精度提升。现行 CV／旧 PS 与科研背景记录的 Higgs 作者排序表述不一致，本稿仅用 “a manuscript in preparation”。课程保持在修状态。方法拓展和拟议 thesis 问题属于学习／研究意向，不写成已完成成果。
+**事实依据与边界：**依据[现行 CV](../../CV/CV_en.md)、[科研背景](../../../research-background.md)和原两份 CSE PS。保留 MaNGA 的 620 个筛选星系、Python/PyMC、Bayesian MCMC、群体推断和子样本倾角敏感性结果，第一作者手稿仍为已完成、未提交；Higgs 明确使用公开 ATLAS 模拟样本，将 profile-likelihood inference 与 Bayesian MCMC 区分，保留探索性与 “a manuscript in preparation” 表述，不指定有冲突的作者排序。拟议问题属于待导师指导和限定范围的研究兴趣，不是已落实的课题。正文不声称已有导师承诺、招生名额或个人资格确认。
 
-**项目匹配方式：**本版以 Computational Physical Sciences 为经验切入点，以项目跨科学与工程的环境和 thesis 路径解释进一步训练的价值；不列未经核实的课程、CSE 导师资格、招生名额或指导承诺，不移用原 Physics PS 的 Wadsley／Parker 匹配段。正文只保留申请内容，核查记录置于本 README。
-
-| 核查事项 | 官方来源与 2026-10-20 直接 HTTPS 访问结果 |
+| 核查事项 | 官方来源与 2026-10-25 本次对话中的直接 HTTPS 核查 |
 |---|---|
-| 学位、完成路径及学制 | https://gs.mcmaster.ca/program/computational-science-and-engineering/ — HTTP 200；MSc 条目列 Thesis (2 years)、Project (16 months)，本稿选择 Thesis；该条目链接下列 `poid=32702` 页面 |
-| 跨学科定位及研究范围 | https://gs.mcmaster.ca/program/computational-science-and-engineering/ — HTTP 200；Faculty of Engineering、Faculty of Science、Interdisciplinary Program；研究领域包括 Computational Physical Sciences、Computational Optimization, Design & Control、Computational Biosciences；介绍涵盖 simulation、modelling、optimization |
-| M.Sc. Calendar 细则 | https://academiccalendars.romcmaster.ca/preview_program.php?catoid=64&poid=32702 — HTTP 202，正文为空；未据此补写课程数量、毕业细则或 PS 要求 |
-| 项目站招生说明 | https://computational.mcmaster.ca/ — HTTPS 证书主机名不匹配，未取得正文；未绕过证书验证 |
+| 学位、路径及概要学制 | https://gs.mcmaster.ca/program/computational-science-and-engineering/ — HTTP 200；MSc 列 Thesis (2 years)、Project (16 months) |
+| 当前项目站与跨学科定位 | https://cse.mcmaster.ca/ — HTTP 200；School 为 Faculties of Science、Engineering 与 deGroote School of Business 的合作项目。该站可访问，补充此前旧域名的访问限制 |
+| Statement of Interest 要求 | https://cse.mcmaster.ca/graduate-studies/application-process/ — HTTP 200；要求 1 page document，说明申请 CSE 研究生学习的兴趣，通过在线系统上传 |
+| 写作重点、项目要求与导师关系 | https://cse.mcmaster.ca/graduate-studies/program-requirements/ — HTTP 200；FAQ 强调 academic and career trajectory、future goals、具体 scientific computing 兴趣及 CSE 如何帮助实现目标；Thesis 和 Coursework and Project 均有研究要求 |
+| 申请时区分路径 | https://applygrad.mcmaster.ca/portal/start_your_app — 公开 September 目录分别列 Computational Science and Engineering MSc (Thesis) 与 MSc (Course-Research Project)。本次未进入登录后的申请表；双申、费用及是否自动转审仍未确认 |
+| 路径决定与审批 | https://cse.mcmaster.ca/graduate-studies/graduate-handbook/ — HTTP 200；路径由申请人与导师共同决定，并经 Director 批准。未据此认定入学后可自由转换 |
+| Calendar 访问限制 | https://academiccalendars.romcmaster.ca/preview_program.php?catoid=64&poid=32702 — HTTP 202、空正文；Handbook 说明如与 Calendar 冲突，以 Calendar 为准 |
 
-**篇幅与使用状态：**英文正文 **782 词**，按空白分词统计，不含标题、姓名与联系信息；用户选定的 **750–850 词**是内部写作目标，**不是官方字数限制**。CSE 专属 PS 题目、字数／页数和上传格式仍待申请系统核实，不套用 Physics and Astronomy 的 1–2 页要求。本次完成英文 Markdown 稿，不表示已满足尚未核实的最终提交格式。
+**篇幅与使用状态：**英文正文 **480 词**、六段，按空白分词统计，不含标题、姓名与联系信息。按已核实的 **1 页 Statement of Interest** 要求压缩，原 750–850 词内部目标不再作为本版标准。本次交付 Markdown，最终页数仍需在 PDF 排版后核实。正式提交时须使申请表所选路径与任何路径专属回答一致；若 portal 新增专门题目，按其要求调整。
 
-**Last-verified：2026-10-20**，适用于已读取的中央项目页；**Last-attempted：2026-10-20**，适用于 Calendar 和项目站的访问限制。
-
-## CSE M.Sc.（Project）PS：写作逻辑与来源（2026-10-20）
-
-本稿单独面向用户指定的 **Master’s Degrees with Project** 路径，正文使用 **M.Sc. in Computational Science and Engineering — Project option**。中央项目页确认 MSc 同时设 Thesis 与 Project，Project 为 **16 months**、通常 September 入学。本稿申请 Fall 2027 MSc Project，不将其写成 MEng、两年 Thesis 或无项目的纯授课路径。
-
-**申请逻辑：**从两段科研中搭建完整计算流程的经验开篇，强调输入处理、建模、推断与验证之间的联系。MaNGA 段突出分阶段分析的衔接与模型检验，Higgs 段突出统一比较流程、评价标准与结果边界。学习目标集中于数值方法、optimisation、scientific machine learning，并说明为何希望通过范围明确的项目整合所学：设定问题、选取基线、实现计算、检验结果、记录局限。与 Thesis 稿相比，本稿着重方法广度、项目执行与可核查的成果；长期仍以科学计算研究为目标，博士作为形成更明确方法方向后的可能下一步，不自动改写为行业求职。
-
-**项目意向：**提出用已知参数的模拟数据比较不同特征表征对参数估计的影响，考察估计误差、不确定性与有限数据敏感性。它是待进一步指导和限定范围的兴趣，不是已落实的项目、导师安排或官方要求。文书中的 documented implementation、方法比较与局限说明均为申请人的预期工作成果，不声称是项目规定的考核形式。未确认的课程名称、课程数量、学分、导师配置、实习或 co-op 不写入正文。
-
-**经历依据：**沿用 [现行 CV](../../CV/CV_en.md)、[基础 PS](../../CV/PS_MSc_en.md) 和 [科研背景](../../../research-background.md)，保持课程在修、MaNGA 第一作者手稿已完成但尚未提交、Higgs 模拟研究仍属探索性的状态；Higgs 仅写 “a manuscript in preparation”，不新增作者排序、投稿或经校准精度提升的结论。现有 Thesis 与 Physics PS 正文保持原样。
-
-| 核查事项 | 官方来源与 2026-10-20 直接 HTTPS 访问结果 |
-|---|---|
-| MSc Project 路径、学制与入学月份 | https://gs.mcmaster.ca/program/computational-science-and-engineering/ — HTTP 200；MSc 列 Project (16 months)、Project (September)，与 Thesis (2 years) 分列 |
-| 跨学科定位与方法研究范围 | https://gs.mcmaster.ca/program/computational-science-and-engineering/ — HTTP 200；跨 science / engineering，介绍包含 simulation、modelling、optimization，领域包括 Computational Physical Sciences |
-| Master’s Degrees with Project 的详细规定及 PS 要求 | https://academiccalendars.romcmaster.ca/preview_program.php?catoid=64&poid=32702 — HTTP 202、空正文；完整课程／项目规定及文书要求仍未核实，“Master’s Degrees with Project”沿用用户指定名称 |
-
-**篇幅与使用状态：**英文正文 **774 词**、七段，按空白分词统计，不含标题、姓名与联系信息。沿用已确认的 **750–850 词内部写作目标**；该范围不是官方限制。CSE Project 专属 PS 题目、字数／页数与上传格式仍待核实。
-
-**Last-verified：2026-10-20**，适用于中央项目页；**Last-attempted：2026-10-20**，适用于 Calendar 访问。
+**Last-verified：2026-10-25**，适用于本节已成功读取的官方页面；**Last-attempted：2026-10-25**，适用于 Calendar。
 
 ## Physics MSc — PS 方向一致性复核（2026-10-19）
 
