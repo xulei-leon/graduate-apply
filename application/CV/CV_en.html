@@ -71,6 +71,8 @@
     .entry-head h3 { flex: 1; }
     .date { flex: 0 0 auto; text-align: right; white-space: nowrap; }
     .date small { font-size: inherit; }
+    .entry-detail { display: flex; justify-content: space-between; align-items: baseline; gap: 12pt; }
+    .location { flex: 0 0 auto; text-align: right; white-space: nowrap; }
     .entry-note { margin-bottom: 4pt; }
     .coursework { margin-top: 4pt; }
     ul { margin: 4pt 0 5pt; padding-left: 17pt; }
@@ -127,7 +129,7 @@
           <h3>University of Toronto</h3>
           <span class="date">Sept 2023–June 2027 <small>(expected)</small></span>
         </div>
-        <p>Major: Honours Bachelor of Science (HBSc), Physics Specialist, Toronto, Canada</p>
+        <div class="entry-detail"><p>Major: Honours Bachelor of Science (HBSc), Physics Specialist</p><p class="location">Toronto, Canada</p></div>
         <p class="coursework"><strong>Selected completed coursework:</strong> Advanced Classical Mechanics; Advanced Physics Lab; Electricity &amp; Magnetism; Thermal Physics; Electromagnetic Theory; Quantum Mechanics I; Introduction to Computer Programming; Introduction to Computer Science.</p>
         <p class="coursework"><strong>Selected coursework in progress:</strong> Computational Physics; Quantum Mechanics II; Nonlinear Physics; Introduction to High Energy Physics; Time Series Analysis; Relativistic Electrodynamics; Statistical Mechanics.</p>
       </div>
@@ -140,7 +142,7 @@
           <h3>Feature Attribution for Higgs Four-Lepton Signal-Strength Inference</h3>
           <span class="date">May 2026–Present</span>
         </div>
-        <p class="entry-note">Research Project, advisor: Prof. Mario Campanelli, University College London · Remote</p>
+        <div class="entry-detail"><p class="entry-note">Research Project, advisor: Prof. Mario Campanelli, University College London</p><p class="location">Remote</p></div>
         <ul>
           <li>Investigated how kinematic feature selection affects signal-strength inference in simulated Higgs four-lepton events, using public ATLAS H → ZZ* → 2e2μ signal and background samples.</li>
           <li>Designed a systematic comparison of 19 kinematic variables, grouping them into four feature sets and evaluating all 15 nonempty combinations with MLP classifiers across five random seeds; built a unified pyhf profile-likelihood pipeline to compare classification performance with physical parameter constraints.</li>
