@@ -1,5 +1,7 @@
 # IP Paris M1 Physics 动机信
 
+> 科研描述更新：2026-11-02。Higgs 采用[当前在研项目口径](../../README.md#higgs-research-update-20261102)；原报告与招生／论文来源核查日期保留，本次未重新核查外部来源。
+
 撰写及来源核查日期：**2026-10-19（Asia/Shanghai）**。目标入学时间：2027 年秋季。
 
 ## 文档
@@ -21,7 +23,7 @@ https://github.com/xulei-leon/graduate-apply/blob/main/application/phy-master-pl
 文书围绕一条有具体发展方向的方法主线展开：
 
 1. **MaNGA 是建模与不确定性意识的起点。** 从星系运动学推断暗物质晕参数，认识到数值拟合收敛仍不足以证明物理结论稳健。
-2. **Higgs 是进一步研究学习表征与物理推断关系的经历。** 比较 MLP 的分类指标与下游 profile-likelihood 区间，结合归因、重采样及覆盖率诊断评价结果。
+2. **Higgs 是正在进行的计算粒子物理研究。** 以运动学输入构造、MLP 输入组比较、事件筛选及产额与质量谱检查为主，简述 profile-likelihood 与重采样方法。
 3. **HEP 是下一阶段的训练选择。** 在加强粒子物理理论基础的同时，系统学习数值方法，将计算物理兴趣落实到基础物理参数的测量与推断。
 4. **LLR 提供具体研究落点。** 其 CMS 团队的 Higgs 四轻子研究与现有课题直接相关；2026 年项目中的 neural simulation-based inference 为下一步想学习的方法提供明确依据。
 
@@ -29,7 +31,7 @@ https://github.com/xulei-leon/graduate-apply/blob/main/application/phy-master-pl
 
 本科训练段保留当前 `main` 的 theoretical physics、laboratory work 和 programming 背景，以及 Computational Physics、Introduction to High Energy Physics 和 Time Series Analysis 三门在修课程；不将其表述为已经完成的课程。
 
-两篇稿件状态沿用既有文书记录的用户确认：MaNGA 第一作者稿完成、未投稿；Higgs 第一作者身份确认、稿件准备中。Higgs 课题使用 ATLAS 模拟样本，文书没有将其写成 CMS 合作组经历，也没有把它描述为暗物质探测。
+MaNGA 第一作者稿保持完成、未投稿；Higgs 项目仍在进行中，申请材料只描述研究方向和方法，不列论文状态或课题结论。课题使用 ATLAS 公开模拟样本，不写成 CMS 合作组经历或暗物质探测。
 
 ## 课程与研究依据
 

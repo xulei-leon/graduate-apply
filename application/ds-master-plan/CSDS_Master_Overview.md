@@ -1,5 +1,7 @@
 # Summary · 项目数量汇总
 
+> 科研描述更新：2026-11-02。Higgs 采用[当前在研项目口径](../README.md#higgs-research-update-20261102)；原报告与招生／论文来源核查日期保留，本次未重新核查外部来源。
+
 本总览参照 [Physics_Masters_Overview.md](../phy-master-plan/Physics_Masters_Overview.md) 的信息结构，汇总 **Chicago、USC、Brown、McMaster四校的五个硕士项目／项目组**，覆盖美国与加拿大。McMaster CSE 的 MSc、MASc、MEng 路径合并为一个项目组，不重复计数。
 
 | 国家 | 大学数量 | 项目数量 | 核心规则待核 | 可继续准备、仍有审核条件 |
@@ -10,7 +12,7 @@
 
 目标入学：**Fall 2027，2027年六月本科毕业后**。整理及资料核查日期：**2026-10-19**。本文件合并项目比较、申请建议及官方来源证据；本轮新增读取 McMaster 中央项目页及公开申请入口。对应五份项目档案保留，各字段核实状态不因加入总览而升级。
 
-申请人按U of T Physics Specialist、CGPA3.0/4.0、GRE317/Q166（AW及成绩有效期待核）及现有物理计算研究经历评估。经历表述以[当前英文CV](../CV/CV_en.md)为准：MaNGA的Bayesian/PyMC与模型诊断，以及Higgs的MLP、pyhf、Shapley、bootstrap和覆盖率诊断。科研编程经验不自动等同算法、数据结构或软件工程的正式先修。
+申请人按U of T Physics Specialist、CGPA3.0/4.0、GRE317/Q166（AW及成绩有效期待核）及现有物理计算研究经历评估。经历表述以[当前英文CV](../CV/CV_en.md)为准：MaNGA的Bayesian/PyMC与模型诊断，以及在研Higgs项目的运动学输入构造、MLP筛选、产额与质量谱检查、profile-likelihood及bootstrap分析。科研编程经验不自动等同算法、数据结构或软件工程的正式先修。
 
 **High/Medium/Low表示研究或方法匹配，Reach/Unknown表示申请规划判断，不是录取概率。** Brown保持High/Reach；McMaster为High/Unknown，先核资格；Chicago及USC两项保持Unknown。没有一项据现有证据列为Safe。英语授课背景、在读状态、毕业和实际豁免审批分别处理，不统一视为已免语言考试。
 
@@ -114,7 +116,7 @@
 | Brown DECES | 科学计算、数值建模、应用数学及scientific ML贴近现有两项研究；课程广度要求至少各两门engineering/natural science、applied mathematics、data science/HPC，另两门相关课程 | 按Reach申请，优先落实三位能具体评价能力的推荐人；若目标PhD核Thesis导师与课题，若行业目标比较Professional及Non-Thesis；3.0低于3.4优先偏好，不能承诺科研抵消GPA |
 | McMaster CSE | Computational Physical Sciences与模拟／优化可衔接两项研究；尚无证据确认暗物质、天体或Higgs具体导师名额 | 先核GPA、先修与Physics BSc适用路径；Thesis核导师／论文／资助，Project核课程／项目／职业实践；不套用同校Physics门槛 |
 
-手稿状态按当前CV保留completed/not submitted及in preparation，不写成已发表；使用方法不等于开发方法。GRE317/Q166是否值得提交取决于项目政策与有效期，不能宣称能抵消GPA。本人六月2027毕业，不把Spring2027作为可执行入学期。
+MaNGA手稿保持completed/not submitted；Higgs只描述在研方向和方法，不列论文状态或结论。使用方法不等于开发方法。GRE317/Q166是否值得提交取决于项目政策与有效期，不能宣称能抵消GPA。本人六月2027毕业，不把Spring2027作为可执行入学期。
 
 ## 9. 关键官方原文、政策差异与排名来源
 

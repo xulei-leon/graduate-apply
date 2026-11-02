@@ -12,7 +12,7 @@
 
 - MaNGA 星系动力学：使用 PyMC，为 620 个筛选后的 MaNGA 盘星系构建旋转曲线建模流程，将单星系后验分布用于群体浓度—质量关系的推断。
 - 不确定性分析：子样本检验表明，纳入倾角不确定性后，浓度—质量关系的约束区间会变宽。
-- 正在进行的 Higgs 项目：利用 ATLAS 公开的 H → ZZ* → 2e2μ 模拟样本，构建剖面似然（profile likelihood）分析流程，研究运动学输入如何影响对 Higgs 信号强度的约束。
+- 正在进行的 Higgs 项目：利用 ATLAS 公开模拟样本，比较采用不同运动学输入的神经网络分类器，研究事件筛选对信号与背景预期产额及四轻子质量分布的影响。
 
 MaNGA 项目的研究内容已整理为我的第一作者手稿（尚未投稿）：
 https://hyi03.github.io/manga-dm/paper/Local_Concentration__Mass_Relation_from_MaNGA.pdf

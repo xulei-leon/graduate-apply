@@ -18,16 +18,16 @@ Major: Honours Bachelor of Science (HBSc), Physics Specialist, Toronto, Canada
 
 ## Research Experience
 
-### Feature Attribution for Higgs Four-Lepton Signal-Strength Inference
+### Neural-Network Event Selection and Statistical Analysis of Simulated Higgs Four-Lepton Events
 
 May 2026–Present
 
 Research Project, advisor: Prof. Mario Campanelli, University College London · Remote
 
-- Investigated how kinematic feature selection affects signal-strength inference in simulated Higgs four-lepton events, using public ATLAS H → ZZ* → 2e2μ signal and background samples.
-- Designed a systematic comparison of 19 kinematic variables, grouping them into four feature sets and evaluating all 15 nonempty combinations with MLP classifiers across five random seeds; built a unified pyhf profile-likelihood pipeline to compare classification performance with physical parameter constraints.
-- Applied exact Shapley attribution, 200 event-group bootstrap replicates, and conditional coverage diagnostics to assess feature contributions and inference reliability, finding that classifier AUC and signal-strength interval width did not always favor the same feature inputs.
-- Manuscript: First-author manuscript in preparation; Code: https://github.com/hyi03/HiggsML
+- Studying neural-network event selection in public ATLAS simulated Higgs four-lepton signal and four-lepton background samples, focusing on the 2e2μ final state in an ongoing project.
+- Constructed kinematic variables from lepton four-momenta and trained MLP classifiers with different input groups, using separate training, validation and evaluation subsets; examining selection effects on expected signal and background yields and four-lepton mass distributions.
+- Developed profile-likelihood and event-group bootstrap workflows to investigate statistical uncertainty in simulation-based analyses.
+- Code: https://github.com/hyi03/HiggsML
 
 ### MaNGA Kinematics and Dark-Matter Halo Inference
 
@@ -44,5 +44,5 @@ Independent Research
 
 - Programming & Tools: Python, PyMC, pyhf, LaTeX.
 - Statistical Methods: Bayesian inference, MCMC, importance sampling, profile likelihood, bootstrap, posterior predictive checks, PSIS diagnostics.
-- Machine Learning: MLP classification, feature-group comparison, Shapley attribution.
+- Machine Learning: MLP classification, feature-group comparison, model validation.
 - Languages: Mandarin Chinese (native); English (pursuing an undergraduate degree taught in English).

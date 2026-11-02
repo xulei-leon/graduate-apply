@@ -1,5 +1,11 @@
 # UBC — Ludovic Van Waerbeke 定制材料
 
+> **现行 SOI 篇幅核对（2026-11-02）：** 按空白分词、不含小标题，Perseverance 213 词、Independence 214 词，均为原稿已有超出 200 词要求的情况；本轮保留这两节 MaNGA 内容。涉及 Higgs 的 Teamwork and community 为 196 词，Research experience and research fit with UBC 为 496 词，分别在 200／500 词范围内。提交前仍需压缩前两节。要求依据随原 DOCX 保存的[截图](assets/UBC-statement-of-interest-requirements.png)，未重新核查 portal。
+
+> 科研描述更新：2026-11-02。Higgs 采用[当前在研项目口径](../../README.md#higgs-research-update-20261102)；原报告与招生／论文来源核查日期保留，本次未重新核查外部来源。
+
+> **导出件状态（2026-11-02）：** [Statement of Interest-Hongyi Xu-UBC.docx](Statement%20of%20Interest-Hongyi%20Xu-UBC.docx) 已于 2026-11-02 同步当前科研描述，并完成正文与排版核验。报告保留原有招生信息核查日期。
+
 整理与最后核查：2026-09-29。地区：Canada。目标：Fall 2027 **Master of Science in Astronomy (MSc)**，The University of British Columbia，Department of Physics & Astronomy。
 
 **本批 UBC 目标导师。** 用户指定以 MaNGA 项目为主要申请依据；Alison Lister 保留为[粒子物理备选](../ubc-alison-lister/README.md)。这是导师咨询材料包，邮件未发送，正式申请未提交；既往联系记录仍待申请人确认。
@@ -71,9 +77,9 @@ Van Waerbeke 为 UBC Professor，官方导师资料列明 Astronomy MSc 和 Phys
 
 推荐论文的作者表及开放全文已核查，申请人后续阅读。英文邮件使用兴趣与拟议学习任务的语气，没有声称已精读或复现。论文中采用的 concentration–mass relation 是模型假设之一，不能把该文写成独立测量 c–M relation 的工作。
 
-本批邮件依据[最新英文天体物理 CV](../../CV/CV_astro_en.md)撰写，保留项目时间、620 个筛选后盘星系、独立完成项目、本人写作 MaNGA 手稿、Higgs 方法与手稿状态；研究兴趣针对晕建模与观测约束调整。未新增弱透镜软件熟练度、推荐承诺、成绩趋势或正式学位称谓。
+本批邮件依据[最新英文天体物理 CV](../../CV/CV_en.md)撰写，保留项目时间、620 个筛选后盘星系、独立完成项目、本人写作 MaNGA 手稿、Higgs 的在研状态与方法工作；研究兴趣针对晕建模与观测约束调整。未新增弱透镜软件熟练度、推荐承诺、成绩趋势或正式学位称谓。
 
-MaNGA 手稿完成未投稿，链接为预览；Higgs 工作及精度改善仍属探索性，第一作者手稿正在写作。CV 未补入未确认的论文发表、实验合作组成员或正式 UCL 任职信息。当前英文 CV 不列 GPA；资格核对所需的已知累计 GPA 仍在本说明中保留，不表示成绩要求已经满足。
+MaNGA 手稿完成未投稿，链接为预览；Higgs 项目仍在进行中，申请材料只描述研究方向和方法，不列论文状态或课题结论。CV 未补入未确认的论文发表、实验合作组成员或正式 UCL 任职信息。当前英文 CV 不列 GPA；资格核对所需的已知累计 GPA 仍在本说明中保留，不表示成绩要求已经满足。
 
 ## 来源
 

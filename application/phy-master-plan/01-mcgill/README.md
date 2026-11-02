@@ -1,5 +1,9 @@
 # McGill — Jim Cline 定制材料
 
+> 科研描述更新：2026-11-02。Higgs 采用[当前在研项目口径](../../README.md#higgs-research-update-20261102)；原报告与招生／论文来源核查日期保留，本次未重新核查外部来源。
+
+> **导出件状态（2026-11-02）：** [SoP-Hongyi Xu-McGill.docx](SoP-Hongyi%20Xu-McGill.docx) 已于 2026-11-02 同步当前科研描述，并完成正文与排版核验。报告保留原有招生信息核查日期。
+
 整理与官方页面核查：2026-09-28；论文选择与邮件同步更新：2026-10-05。地区：Canada。目标：Fall 2027 **Master of Science (M.Sc.) in Physics (Thesis)**，Department of Physics。材料为首次联系语气的草稿，尚未发送；仓库未见既往联系记录，仍待申请人确认。本次按申请人选择改用 2021 年 core–cusp 论文，招生事实未重新核查。
 
 ## 材料
@@ -19,7 +23,7 @@
 
 ## PS 定制与官网核查（2026-10-19）
 
-PS 以 [PS_MSc_en.md](../../CV/PS_MSc_en.md) 和 [CV_en.md](../../CV/CV_en.md) 为经历依据，沿用 [Sorbonne 文书](../21-Sorbonne/Sorbonne_Motivation_Letter.md)的申请逻辑：研究兴趣与本科基础 → 两段科研及其局限 → 需要补足的物理训练 → 项目与导师匹配 → 博士目标。两篇手稿的状态分别为 completed, not yet submitted 和 in preparation；Higgs 结果保持 exploratory 表述。
+PS 以 [PS_MSc_en.md](../../CV/PS_MSc_en.md) 和 [CV_en.md](../../CV/CV_en.md) 为经历依据，沿用 [Sorbonne 文书](../21-Sorbonne/Sorbonne_Motivation_Letter.md)的申请逻辑：研究兴趣与本科基础 → 两段科研及其局限 → 需要补足的物理训练 → 项目与导师匹配 → 博士目标。MaNGA 手稿保持 completed, not yet submitted；Higgs 项目仍在进行中，申请材料只描述研究方向和方法，不列论文状态或课题结论。
 
 本次 PS 同时说明 **James Cline** 的暗物质模型／粒子宇宙学方向与 **Brigitte Vachon / McGill ATLAS group** 的高能碰撞方向。前者承接 MaNGA 的晕参数和模型敏感性，后者承接 Higgs 的统计推断；选择一个具体 thesis 问题仍需与导师讨论，不表示已确定共同指导或获得接收承诺。
 
@@ -34,7 +38,7 @@ PS 以 [PS_MSc_en.md](../../CV/PS_MSc_en.md) 和 [CV_en.md](../../CV/CV_en.md) �
 
 当前是导师咨询材料包；不是已满足申请系统全部要求的正式申请。信中按基础模板写 “My CV is attached.”；发送前需实际附上排版后的 CV，若不附则改为 “I can provide my CV upon request.”。内部说明不随信发送。
 
-当前邮件依次说明身份与申请目的、core–cusp 论文兴趣、相关研究经历、硕士研究与学习方向，以及招生询问和交流请求。论文兴趣段以 DDO 154 旋转曲线比较为入口，连接本人从运动学推断晕质量与浓度、保留相关不确定性的经验，进而询问晕参数和重子建模的不确定性如何影响对中心密度核形成机制的旋转曲线检验。硕士目标段表达在 dark matter and cosmology 中探索相关问题，并进一步发展 astrophysical modeling 和 numerical methods。研究经历以 MaNGA 为主，说明 620 个筛选星系、单星系到群体推断和倾角敏感性；Higgs 部分简述 profile-likelihood 工作。MaNGA 手稿在信中明确标注 not yet submitted。
+当前邮件依次说明身份与申请目的、core–cusp 论文兴趣、相关研究经历、硕士研究与学习方向，以及招生询问和交流请求。论文兴趣段以 DDO 154 旋转曲线比较为入口，连接本人从运动学推断晕质量与浓度、保留相关不确定性的经验，进而询问晕参数和重子建模的不确定性如何影响对中心密度核形成机制的旋转曲线检验。硕士目标段表达在 dark matter and cosmology 中探索相关问题，并进一步发展 astrophysical modeling 和 numerical methods。研究经历以 MaNGA 为主，说明 620 个筛选星系、单星系到群体推断和倾角敏感性；Higgs 部分简述正在进行的神经网络事件筛选、产额与质量谱分析。MaNGA 手稿在信中明确标注 not yet submitted。
 
 ## 选择与定制依据
 
@@ -77,7 +81,7 @@ Jim Cline 属原名单两位首选之一，其主页确认研究集中于 partic
 
 ## 待确认项
 
-共同待确认项见[批次说明](../README.md)：联系历史、Higgs 手稿可用版本、学位名称、推荐人；成绩单按用户要求暂缓。申请人经历以[最新英文天体物理 CV](../../CV/CV_en.md)为本批措辞依据，不沿用旧规划中“作者顺序和导师姓名尚未知”的表述。
+共同待确认项见[批次说明](../README.md)：联系历史、学位名称、推荐人；成绩单按用户要求暂缓。申请人经历以[最新英文天体物理 CV](../../CV/CV_en.md)为本批措辞依据，不沿用旧规划中“作者顺序和导师姓名尚未知”的表述。
 
 ## 来源
 

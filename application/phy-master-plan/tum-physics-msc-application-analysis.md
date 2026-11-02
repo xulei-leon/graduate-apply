@@ -1,5 +1,7 @@
 # Technical University of Munich MSc Physics (AEP) — Application Analysis
 
+> 科研描述更新：2026-11-02。Higgs 采用[当前在研项目口径](../README.md#higgs-research-update-20261102)；原报告与招生／论文来源核查日期保留，本次未重新核查外部来源。
+
 > 2026-10-03 清理说明：保留课程审核、VPD、评分与动机信准备细节。招生事实及申请日期请结合[当前总览](Physics_Masters_Overview.md)、[TUM项目档案](../../physics-master/TUM_MSc_Physics.md)和[申请时间表](Physics_Masters_Timeline.md)复核；下文旧准备日期仅作参考。 原核查日期保留，本次未重新核验官网。
 
 **Applicant:** HY, University of Toronto Physics  
@@ -226,7 +228,7 @@ Current master's-supervision availability is unknown. Before naming an individua
 | Research motivation | 70–90 words | Computation and inference as tools for dark-matter and particle-physics questions |
 | Academic eligibility | 120–150 words | Map the strongest theory, experiment, math, lab, and computing preparation to the TUM prerequisites |
 | MaNGA research | 130–160 words | Bayesian model, PyMC 5, MCMC, uncertainty, data interpretation, manuscript status |
-| UCL research | 120–150 words | Higgs 四轻子模拟、MLP 特征组比较、pyhf 信号强度推断、Shapley 与覆盖率诊断；已有探索性草稿。个人技术工作由用户确认，作者顺序待确认。见 [科研背景（2026-09-27）](../../research-background.md) |
+| UCL research | 120–150 words | 正在进行的Higgs四轻子模拟分析；运动学变量构造、MLP输入组比较、事件筛选、产额与质量谱检查，按篇幅补充profile-likelihood与bootstrap方法。个人技术工作由用户确认，不列论文状态或结论；当前口径见[申请材料说明](../README.md) |
 | Why AEP at TUM | 150–190 words | High-energy specialization, computational/data-analysis/Monte Carlo content, named research environment, and intended research phase |
 | Goal | 40–60 words | Research master's training leading toward computational particle/astroparticle or dark-matter PhD work |
 

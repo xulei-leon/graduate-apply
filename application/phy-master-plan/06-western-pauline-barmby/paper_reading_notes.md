@@ -1,5 +1,7 @@
 # Pauline Barmby：论文推荐与邮件联系点
 
+> 科研描述更新：2026-11-02。Higgs 采用[当前在研项目口径](../../README.md#higgs-research-update-20261102)；原报告与招生／论文来源核查日期保留，本次未重新核查外部来源。
+
 最后核查：**2026-10-03**。推荐 1 篇首读论文；助手已核查合著关系与开放原文，申请人后续阅读，不标为已读或已复现。对应 [英文咨询信](letter.md)。
 
 ## 首读：The contribution of the color space in LSST-like photometry for the selection of extragalactic globular cluster candidates
@@ -11,7 +13,7 @@
 - PDF：https://arxiv.org/pdf/2512.17644v2
 - Related DOI：https://doi.org/10.3847/1538-4357/ae7321
 
-**为什么适合你：** 这篇文章直接比较物理观测输入、降维表达与 MLP / random forest 分类，能承接 Higgs 的特征组比较及“分类效果不一定等于最终科学信息”的认识。MaNGA 经历提供星系研究背景，但不据此推断你已有球状星团／测光数据处理经验。
+**为什么适合你：** 这篇文章直接比较物理观测输入、降维表达与 MLP / random forest 分类，能承接在研 Higgs 项目的运动学输入组比较及对事件选择的检查。MaNGA 经历提供星系研究背景，但不据此推断你已有球状星团／测光数据处理经验。
 
 ## 原文内容与经历连接
 
@@ -35,7 +37,7 @@
 
 ## 已写入邮件与待讨论任务
 
-兴趣段写输入表示、观测信息限制与 contamination / completeness 的联系；经历段准确说明 Higgs 的 MLP、pyhf、bootstrap 与 coverage 仍属探索性。研究段提出**尚未实施、待讨论**的测光分类输入比较和模拟测量噪声敏感性测试，不称论文已完成相同测试，也不假定该任务就是导师公布的 thesis。
+兴趣段写输入表示、观测信息限制与 contamination / completeness 的联系；经历段简述在研 Higgs 项目的 MLP 输入比较、事件选择、产额与质量谱检查。研究段提出**尚未实施、待讨论**的测光分类输入比较和模拟测量噪声敏感性测试，不称论文已完成相同测试，也不假定该任务就是导师公布的 thesis。
 
 邮件按 Astronomy MSc 准备，因为官方允许物理本科申请且 Barmby 的研究对应天文学。先问 Fall 2027 名额与 funded project；不把研究重合当作接收承诺。阅读后可用一个真实问题替换草稿兴趣段，例如怎样在任务比较中同时保持污染与不完备的可比性。
 

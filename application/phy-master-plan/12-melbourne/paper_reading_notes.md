@@ -1,5 +1,7 @@
 # Matthew Dolan：近期论文、课题查询与套磁准备
 
+> 科研描述更新：2026-11-02。Higgs 采用[当前在研项目口径](../../README.md#higgs-research-update-20261102)；原报告与招生／论文来源核查日期保留，本次未重新核查外部来源。
+
 **Last-verified：2026-10-06。** 对应 [letter.md](letter.md) 与 [Melbourne 导师档案](README.md)。首选导师为 **Professor Matthew Dolan**，School of Physics, University of Melbourne；目标为 **2027 Master of Science (Physics)**。研究匹配 **High**，录取难度 **Unknown**：具体成绩等效、项目和指导容量未确认。邮件为未发送草稿，contact status 保持 **not contacted**。
 
 本说明参照 [McGill 阅读笔记](../01-mcgill-jim-cline/paper_reading_notes.md) 的结构。英文邮件沿用 [Cline 信件](../01-mcgill-jim-cline/letter.md) 的身份介绍、具体论文兴趣、三项研究经历、硕士目标与招生询问顺序，以当前 [英文 CV](../../CV/CV_en.md) 为个人经历依据。申请人的论文阅读与复现进度未确认，因此信中只表达对具体问题的兴趣。
@@ -32,9 +34,9 @@
 | 原文位置 | 应读的内容 | 与申请人工作的联系 / 边界 |
 |---|---|---|
 | Introduction；Section 1 | jet substructure 的模拟失配动机，以及 Z+jet / dijet 数据选择 | 可联系模型评价的物理适用性；该文使用真实 CMS 数据，申请人当前 Higgs 研究只使用 ATLAS public MC |
-| Sections 2.1–2.3 | CWoLa、jet topics、TopicFlow；混合分布与潜在类别之间的关系 | 需要学习 weak supervision 与 normalizing flows；现有 MLP / Shapley 经历不等于已掌握这些方法 |
+| Sections 2.1–2.3 | CWoLa、jet topics、TopicFlow；混合分布与潜在类别之间的关系 | 需要学习 weak supervision 与 normalizing flows；现有 MLP 输入组比较与事件筛选经历不等于已掌握这些方法 |
 | Section 4.1；Fig. 5–7；Table 4 | sample independence、mutual irreducibility，以及 S/T/R 三种 quark-fraction 假设 | 与“假设如何影响结论”的工作习惯相连；三种 fractions 是模型假设下的估计，不是真值标签 |
-| **Section 4.3；Fig. 9；Table 5** | 在 MC 与 data-derived 评价之间，fully-supervised 与 Data CWoLa 的优劣排序反转；三种 mixture-fraction 方案下排序一致 | **当前邮件的具体切入点**。申请人发现的是 AUC 与 signal-strength interval width 排序不总一致，两者不是同一种反转机制 |
+| **Section 4.3；Fig. 9；Table 5** | 在 MC 与 data-derived 评价之间，fully-supervised 与 Data CWoLa 的优劣排序反转；三种 mixture-fraction 方案下排序一致 | **当前邮件的具体切入点**。申请人正在研究模拟事件的网络筛选、产额及质量分布；以方法联系提出问题，不声称已发现类似排序反转 |
 | Section 4.3；Fig. 10 | TopicFlow 生成样本平滑 SIC 曲线；比较统计波动与类别比例假设带来的变化 | 可联系有限样本下评价是否稳定；生成更多样本不等于获得更多独立实验信息 |
 | Section 4.1 与 Section 5 | 论文将结果视为探索性的 estimates；不确定性以统计项为主，未完整评估系统误差，也未量化 sample-independence 违背的影响 | 不可写成弱监督普遍优于监督学习，或已解决完整实验系统误差 |
 
@@ -46,11 +48,11 @@
 
 | 本人已做工作 | 可以自然提出的后续问题 | 不应声称的经历 |
 |---|---|---|
-| 在模拟 H → ZZ* → 2e2μ 中比较 MLP 特征组，并通过 pyhf 评价信号强度区间 | 分类性能、数据来源与物理推断目标如何共同决定模型选择？ | 没有做过该文的 CMS quark/gluon 测量，也没有据现有项目确认 simulation-to-data domain shift |
-| exact Shapley、event-group bootstrap、conditional coverage diagnostics | 有限样本和建模假设怎样影响比较结果的稳定性与区间可靠性？ | 尚未完成完整实验系统误差预算，不能称已获得校准的精度提升 |
+| 在模拟 Higgs 四轻子项目中构造运动学变量、比较 MLP 输入组，检查产额与质量谱 | 分类性能、数据来源与物理推断目标如何共同决定模型选择？ | 没有做过该文的 CMS quark/gluon 测量，也没有据现有项目确认 simulation-to-data domain shift |
+| profile-likelihood 分析与 event-group bootstrap 统计诊断 | 有限样本和建模假设怎样影响比较结果的稳定性与区间可靠性？ | 尚未完成完整实验系统误差预算，不能称已获得校准的精度提升 |
 | MaNGA 的 PyMC 晕参数与群体 c–M 推断 | 可展示统计建模、不确定性传播与科学计算经验 | 宏观晕推断不等于 chiral EFT、freeze-in、QCD 或粒子直接探测经验 |
 
-邮件以 Higgs 为主、MaNGA 为补充。Higgs 手稿按当前 CV 写 **first-author manuscript in preparation**，不声称已投稿或发表；代码地址沿用 CV：https://github.com/hyi03/HiggsML 。本轮未重新审计代码或运行分析，也未独立核验作者顺序。旧研究背景档案中的待确认作者信息不用于覆盖较新的 CV 表述。
+邮件以正在进行的 Higgs 事件筛选与统计分析为主、MaNGA 为补充，不列 Higgs 论文状态或课题结论；代码地址沿用 CV：https://github.com/hyi03/HiggsML 。本轮依据新项目报告更新文字，未重新审计代码或运行分析。
 
 ## 4. 课题查询：已经公开的方向与可询问的 MSc 题目
 
@@ -64,7 +66,7 @@
 | 优先级 | 适合询问的题目范围（个人提议） | 已核研究依据 | 可用基础与需补内容 |
 |---|---|---|---|
 | **1** | Collider ML 的评价稳定性：有限样本、混合比例与模型假设变化如何影响 classifier ranking | 主选论文 Fig. 9–10；Section 5 的 sample dependence 后续方向 | 可迁移多种子比较、bootstrap 与评价流程；需补 jet physics、weak supervision、样本定义与相关 QCD 知识 |
-| **2** | 在导师认可的 Higgs / collider 算例中，比较 classification metrics 与物理参数约束，并研究 nuisance parameters 的作用 | 官方 collider analysis methods 方向，以及申请人当前 Higgs 工作；**不是该论文已经执行的 pyhf / Shapley 项目** | 有 MLP / profile likelihood 基础；具体过程、simulation tools、系统误差模型与理论先修需商定 |
+| **2** | 在导师认可的 Higgs / collider 算例中，比较 classification metrics 与物理参数约束，并研究 nuisance parameters 的作用 | 官方 collider analysis methods 方向，以及申请人当前 Higgs 工作；**不是该论文已经执行的同一统计分析** | 有 MLP / profile likelihood 基础；具体过程、simulation tools、系统误差模型与理论先修需商定 |
 | **3** | 中微子可观测量的敏感度与理论误差传播，例如 up-down ratio 的假设如何影响 δCP 约束 | 最新 2026 论文对 flux / cross-section uncertainties 和未来优化的明确讨论 | 统计推断方法可迁移；需先学习 neutrino oscillations、通量与探测响应。仅作为非天体粒子物理备选 |
 
 最新中微子论文的摘要与正文指出：up-down ratio 减少部分共同归一化误差，其 cos δCP 敏感度与 T2HK 的主要 sin δCP 敏感度互补；要实现预测能力仍需改进低能大气中微子通量、微分截面等理论不确定性。原文 Fig. 3 是预期灵敏度，不是实验已完成的 δCP 测量。不能因为该文使用 likelihood 就声称其采用 pyhf 或与申请人的 Higgs 推断完全相同。
@@ -89,7 +91,7 @@
 
 ## 6. 邮件措辞、入学时间与申请流程
 
-当前邮件用论文中的 **simulation/data classifier ranking reversal** 建立兴趣，再用本人 **AUC/interval-width comparison** 说明相关思考，并明确二者是不同问题。研究目标是 computational particle physics、collider phenomenology 与 statistical inference，不沿用 McGill 的 DDO 154 / core–cusp 叙述。
+当前邮件用论文中的 **simulation/data classifier ranking reversal** 建立兴趣，再用本人正在开展的 **事件筛选、产额与质量谱检查** 说明方法联系，并明确二者是不同问题。研究目标是 computational particle physics、collider phenomenology 与 statistical inference，不沿用 McGill 的 DDO 154 / core–cusp 叙述。
 
 - **时间：** 预计 2027 年 6 月毕业；信中写 **2027 entry**，未擅自选择 March 或 July。此前档案列 March / July intake；若按现有毕业时间安排，应先确认 mid-year intake 是否可行及其材料截止，再确定具体月份。
 - **附件：** 沿用基础信的 “My CV is attached.”；实际发送时附当前英文 CV。尚未附上附件，也未发送。成绩单沿用本批暂缓安排，导师要求时再补。

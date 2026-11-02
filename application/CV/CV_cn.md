@@ -17,16 +17,16 @@ hyi.xu@mail.utoronto.ca · https://github.com/hyi03
 
 ## 研究经历
 
-### Higgs 四轻子信号强度推断中的特征归因
+### 模拟 Higgs 四轻子事件的神经网络筛选与统计分析
 
 2026 年 5 月至今
 
 研究项目，指导教授：Mario Campanelli，University College London · 远程
 
-- 使用 ATLAS 公开的 H → ZZ* → 2e2μ 信号与背景模拟样本，研究运动学特征选择如何影响模拟 Higgs 四轻子事件的信号强度推断。
-- 设计 19 个运动学变量的系统比较方案，将其分为四个特征组，在五个随机种子下使用 MLP 分类器评估全部 15 种非空组合；构建统一的 pyhf profile-likelihood 流程，比较分类性能与物理参数约束。
-- 应用 exact Shapley 归因、200 次 event-group bootstrap 重采样和条件覆盖率诊断，评估特征贡献与推断可靠性；发现分类器 AUC 与信号强度区间宽度并不总是倾向于相同的特征输入。
-- 手稿：第一作者手稿（准备中）；项目代码：https://github.com/hyi03/HiggsML
+- 正在利用 ATLAS 公开的模拟 Higgs 四轻子信号与四轻子背景样本，研究神经网络事件筛选，重点选取 2e2μ 末态；项目尚在进行中。
+- 根据轻子四动量构造运动学变量，使用不同输入组训练 MLP 分类器，区分训练、验证与评估子集；检查筛选对信号与背景预期产额及四轻子质量分布的影响。
+- 构建 profile-likelihood 与事件组 bootstrap 流程，研究模拟分析中的统计不确定性。
+- 项目代码：https://github.com/hyi03/HiggsML
 
 ### MaNGA 星系运动学与暗物质晕参数推断
 
@@ -43,5 +43,5 @@ hyi.xu@mail.utoronto.ca · https://github.com/hyi03
 
 - 编程与工具：Python、PyMC、pyhf、LaTeX。
 - 统计方法：贝叶斯推断、MCMC、重要性采样、profile likelihood、bootstrap、后验预测检查、PSIS 诊断。
-- 机器学习：MLP 分类、特征组比较、Shapley 归因。
+- 机器学习：MLP 分类、特征组比较、模型验证。
 - 语言：中文（母语）；英语（正在攻读英语授课的本科学位）。

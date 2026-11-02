@@ -1,5 +1,7 @@
 # 全球数据科学硕士项目调研与申请决策
 
+> 科研描述更新：2026-11-02。Higgs 采用[当前在研项目口径](../README.md#higgs-research-update-20261102)；原报告与招生／论文来源核查日期保留，本次未重新核查外部来源。
+
 核查日期：2026-10-02 | 目标：2027 年本科毕业后入学 | 申请人：HY，University of Toronto Physics
 
 ## 1. 应先采用的结论
@@ -42,7 +44,7 @@
 | 数学 | 有calc、LA及ODE训练；本地记录对部分课程代码有差异，须以正式成绩单和syllabus做统一映射 |
 | 概率统计 | 贝叶斯研究能展示能力，但正式prob/stat课程及成绩记录尚未完全核实 |
 | 研究1 | MaNGA暗物质halo关系，PyMC5/MCMC；一作稿准备arXiv/期刊，不当作已正式发表；推荐可能弱 |
-| 研究2 | UCL合作H→ZZ*→2e2μ模拟：MLP、pyhf likelihood、Shapley、MC bootstrap/coverage；本人负责技术工作，探索性结论，不宣称已证明模型改进；强推荐仍待落实 |
+| 研究2 | 与UCL导师合作的在研Higgs四轻子模拟项目：运动学输入构造、MLP事件筛选、预期产额与质量谱检查、profile-likelihood和bootstrap统计分析；本人承担方法工作，不列论文状态或结论；强推荐仍待落实 |
 | 就业身份 | 用户规划：可能持加拿大PR；否则期望U of T毕业获3年PGWP。两者均不是已获批事实 |
 
 High/Medium/Low评价的是方法与课程匹配，不能解读成录取概率。Reach/Match为规划标签，不使用“保录”或凭最低线给Safe。Plausible表示已读规则存在可对接入口，仍需整体审核；Pending表示核心证据未闭合；Hard gap表示官网明确要求目前未证明满足。Unknown不升级为匹配。
@@ -803,7 +805,7 @@ CUHK1年和PolyU1.5年入口较友好；HKUST相关学位需确认；HKU通过�
 | Status | In progress |
 | Last verified | 2026-10-02 |
 
-匹配说明：贝叶斯推断与HiggsML可支持统计/ML研究潜力，但3.0与通常highGPA录取存在明显差距。
+匹配说明：贝叶斯推断与在研Higgs模拟分析的方法经历可支持统计/ML研究潜力，但3.0与通常highGPA录取存在明显差距。
 
 回加拿大就业判断（分析）：回加拿大就业价值主要取决于项目作品、实习、工程能力及校友联系；未找到可直接比较的加拿大就业率。
 
@@ -1658,7 +1660,7 @@ CUHK1年和PolyU1.5年入口较友好；HKUST相关学位需确认；HKU通过�
 | Status | In progress |
 | Last verified | 2026-10-02 |
 
-匹配说明：HiggsML与可复现评估相关，但项目明确极高选择性与First Class。
+匹配说明：在研Higgs项目的事件筛选和统计分析与可复现评估相关，但项目明确极高选择性与First Class。
 
 回加拿大就业判断（分析）：回加拿大就业价值主要取决于项目作品、实习、工程能力及校友联系；未找到可直接比较的加拿大就业率。
 

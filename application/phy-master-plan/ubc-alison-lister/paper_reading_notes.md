@@ -1,5 +1,7 @@
 # Alison Lister：论文推荐与邮件联系点
 
+> 科研描述更新：2026-11-02。Higgs 采用[当前在研项目口径](../../README.md#higgs-research-update-20261102)；原报告与招生／论文来源核查日期保留，本次未重新核查外部来源。
+
 最后核查：2026-09-28。推荐 **1 篇首读 + 1 篇选读**。两篇都是 ATLAS Collaboration 成果，均核对到 Alison Lister 署名；这不能确定她本人负责哪部分，也不是组内课题或名额承诺。申请人计划后续阅读，当前不标记为已读。已更新[英文邮件](cover_letter_email_en.md)与[中文邮件](cover_letter_email_cn.md)，首封只引用第一篇，保持主题集中。
 
 ## 首读：Weakly supervised anomaly detection for resonant new physics in the dijet final state using proton-proton collisions at √s = 13 TeV with the ATLAS detector
@@ -40,7 +42,7 @@
 
 优先阅读的具体内容：
 
-1. **Fig. 1（PDF 第 3 页）与 Methods 的网络说明**：主任务是 jet flavour tagging，另有 track-origin / vertex-grouping 任务。理解这些辅助任务如何引入与物理相关的训练信息；不要把辅助任务视为你现有 Shapley 归因的同一种方法。
+1. **Fig. 1（PDF 第 3 页）与 Methods 的网络说明**：主任务是 jet flavour tagging，另有 track-origin / vertex-grouping 任务。理解这些辅助任务如何引入与物理相关的训练信息；不要把这些辅助任务写成申请人当前的运动学输入组比较方法。
 2. **Results 中 Robustness against generator modelling variations 与 Table 1**：作者在不同生成器设定下比较效率，考察复杂模型是否增加生成器依赖。这可延伸你对“名义性能改善能否在输入分布改变后保留”的兴趣。
 3. **Algorithm performance in collision data 与 Fig. 4（PDF 第 7 页）**：区分 simulation 性能与校准到碰撞数据后的性能，理解效率与误标率修正。论文的真实数据验证不是你现有 open-MC 项目已经具备的证据。
 

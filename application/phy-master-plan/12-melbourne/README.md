@@ -1,5 +1,7 @@
 # University of Melbourne — 计算物理硕士导师匹配
 
+> 科研描述更新：2026-11-02。Higgs 采用[当前在研项目口径](../../README.md#higgs-research-update-20261102)；原报告与招生／论文来源核查日期保留，本次未重新核查外部来源。
+
 **目标学位：Master of Science (Physics)｜School of Physics｜Australia**  
 **目标入学：2027｜资料核查：2026-10-06｜联系状态：四位均 not contacted**
 
@@ -12,7 +14,7 @@
 | [当前英文 CV](../../CV/CV_en.md) | 信中研究经历与稿件状态的依据；实际发送时附排版后的 CV |
 | [Supervisor EOI Form](MSc-Physics-Supervisor-Form_2026_v3.docx) | 本轮已读取本地正文；申请前不必先落实项目或导师，与此前网页摘录存在差异，见第 7 节 |
 
-**邮件尚未发送。** 主选论文为 *Quark-versus-gluon tagging in CMS Open Data with CWoLa and TopicFlow*，JHEP 08 (2025) 024（2023 初版，2025-08-07 v2），https://arxiv.org/abs/2312.03434 。信中由模拟与真实数据上的分类器排序反转，联系本人 AUC 与信号强度区间评价不总一致的经历；明确两者是不同问题。研究匹配 **High**，规划难度 **Unknown**，2027 项目和指导容量待问。信中写 **2027 entry**；预计六月毕业，具体 mid-year intake 与截止仍需确认。
+**邮件尚未发送。** 主选论文为 *Quark-versus-gluon tagging in CMS Open Data with CWoLa and TopicFlow*，JHEP 08 (2025) 024（2023 初版，2025-08-07 v2），https://arxiv.org/abs/2312.03434 。信中由模拟与真实数据上的分类器排序反转，联系本人正在开展的网络筛选、产额与质量谱分析；以方法建立联系，不引用个人结果。研究匹配 **High**，规划难度 **Unknown**，2027 项目和指导容量待问。信中写 **2027 entry**；预计六月毕业，具体 mid-year intake 与截止仍需确认。
 
 本轮通过 HTTPS 读取研究中心个人页、论文原文和作者索引；大学个人页、招生页、研究组页及 prospectus 访问受限。以下原有招生事实保留各自证据边界，不视为全部重新核查。新增研究方向与来源详见 [阅读笔记](paper_reading_notes.md)。
 
@@ -22,7 +24,7 @@
 
 | 优先级 | 导师 / 当前职称 | 方向 | Match | 与 CV 的主要联系 | 必须确认 |
 |---|---|---|---|---|---|
-| **1** | **Matthew Dolan — Professor** | Collider ML、Higgs、暗物质现象学 | **High** | Higgs 模拟、MLP、pyhf 似然推断与特征归因，直接衔接其 collider ML 研究 | 适合 MSc 的具体项目、理论先修、2027 名额 |
+| **1** | **Matthew Dolan — Professor** | Collider ML、Higgs、暗物质现象学 | **High** | 正在进行的 Higgs 模拟、MLP 事件筛选、质量谱与统计分析，直接衔接其 collider ML 研究 | 适合 MSc 的具体项目、理论先修、2027 名额 |
 | **2** | **Geoffrey Taylor — Professor** | ATLAS、Higgs、实验粒子物理 | **High** | 已有 ATLAS public MC / Higgs 分析经历；官网明确列其指导的 HL-LHC/ATLAS MSc 学生 | 项目是否主要做计算分析，还是偏探测器硬件；2027 指导安排 |
 | **3** | **Phillip Urquijo — Professor** | Belle II / flavour physics、粒子数据分析与模拟；另有 SABRE / Hyper-K | **Medium** | Higgs 中的分类、似然推断与 MC 诊断可迁移到新的粒子物理问题；官方明确其分析与模拟研究 | 是否提供以 Belle II / flavour analysis 为主的 MSc 项目；当前公开 MSc 学生主要做 SABRE / Hyper-K，不能据此认定 Belle II MSc 题目开放 |
 | **4** | **Elisabetta Barberio — Professor** | 暗物质粒子直接探测、SABRE；有 ATLAS / Higgs 研究背景 | **Medium** | 两段经历支持暗物质兴趣与统计计算能力；粒子探测与 MaNGA 暗物质晕课题不同 | 是否有计算、背景建模或统计分析项目；2027 名额与仪器工作的比例 |
@@ -39,10 +41,10 @@
 | 620 个选定 MaNGA 盘星系，rotation-curve mass decomposition、暗物质晕 c–M relation | 支持天体数据建模、物理参数约束和群体推断能力 |
 | Python / PyMC、MCMC、importance sampling、prior sensitivity、PSIS | 支持统计计算、模型诊断和不确定性评估能力 |
 | UCL Prof Mario Campanelli 指导的模拟 H → ZZ* → 2e2μ 项目 | 支持计算粒子研究兴趣与当前研究经历 |
-| ATLAS public MC、MLP、pyhf profile likelihood、exact Shapley、event-group bootstrap、coverage diagnostics | 对 collider ML、统计粒子物理和信号分析最有说服力 |
+| ATLAS public MC、运动学变量构造、MLP 输入组比较、产额与质量谱检查、profile likelihood、event-group bootstrap | 对 collider ML、统计粒子物理和信号分析最有说服力 |
 | Computational Physics、Quantum Mechanics II、Introduction to High Energy Physics、Time Series Analysis 等 in progress | 有相关课程准备，但不能当作已修完，也不能据此认定已掌握 QFT |
 
-当前 CV 将 Higgs 项目写作 **first-author manuscript in preparation**，MaNGA 写作 **completed; not yet submitted**。这些是申请材料的当前描述，不表示本轮独立确认发表、投稿或推荐信强度。Higgs 工作使用受限模拟样本，不能表述为 ATLAS 合作组测量或实际碰撞数据研究。
+当前 CV 将 Higgs 写作正在进行的模拟事件筛选与统计分析，介绍方法工作；MaNGA 保留 **completed; not yet submitted**。不以 Higgs 论文状态或结论支撑匹配，也不将模拟研究表述为 ATLAS 合作组测量或实际碰撞数据研究。推荐信强度仍需确认。
 
 现有材料不支持声称已经熟练掌握 N-body、MHD、numerical relativity、Geant4、ROOT / C++、完整实验合作组流程或 BSM 模型构建。
 
@@ -60,11 +62,11 @@
 | Outreach | 建议优先联系，询问 MSc research project 与 Supervisor Form |
 | Contact status | **not contacted** |
 
-**为什么适合：** 你的第二课题把分类器比较与物理信号强度约束联系起来，其核心不只是提高 AUC，而是检验特征选择如何影响参数推断。Dolan 的研究同时覆盖 Higgs、对撞机分析和机器学习，能够用具体方法建立联系。MaNGA 工作可作为暗物质兴趣和独立统计建模能力的补充证据。
+**为什么适合：** 你的第二课题涉及运动学输入构造、神经网络筛选、预期产额与质量谱检查及统计分析。Dolan 的研究覆盖 Higgs、对撞机分析和机器学习，能够据此建立方法联系。MaNGA 工作可作为暗物质兴趣和独立统计建模能力的补充证据。
 
 **建议讨论的课题切入点（个人提议，非已公布的 MSc 题目）：** collider ML 的物理敏感度评估、Higgs / BSM 搜索中的特征或表征选择，以及 MC / systematic uncertainty 对参数约束的影响。
 
-**需要确认：** 是否有面向 MSc 的分析或 ML 项目；是否要求入学前学习 QFT / collider phenomenology；是否会指导 H → 4ℓ 或其他 Higgs / 暗物质通道。已核的 collider ML 兴趣不等于他正在招 pyhf / Shapley 专题学生。
+**需要确认：** 是否有面向 MSc 的分析或 ML 项目；是否要求入学前学习 QFT / collider phenomenology；是否会指导 H → 4ℓ 或其他 Higgs / 暗物质通道。已核的 collider ML 兴趣不等于他正在招 特定机器学习或似然分析专题的学生。
 
 **近期论文阅读入口：**
 
@@ -224,7 +226,7 @@
 | **Urquijo：第三** | Experimental particle physics、flavour physics、Belle II analysis | 增加 Higgs 之外的粒子物理问题，可展示方法向新问题迁移 | 先核实有实际 Belle II / flavour MSc 计算题目；若提供其他实验项目，按内容重新比较 |
 | **Barberio：第四** | Dark matter direct detection、experimental particle physics | 增加暗物质粒子探测路线，与星系暗物质晕研究有清楚区别 | 必须有足够计算内容，核清分析 / MC 与硬件工作的比例 |
 
-**为什么更推荐 Dolan：** 目前 CV 已有相对完整的 Higgs ML / likelihood pipeline，硕士可以争取加强物理问题、系统误差和推断可靠性，同时建立天体之外的研究路线。这是对研究衔接和申请组合的判断，不是对其指导风格、发表机会或录取帮助的已核结论。
+**为什么更推荐 Dolan：** 目前 CV 已有在研 Higgs 项目的事件筛选与统计分析经历，硕士可以争取加强物理问题、系统误差和推断可靠性，同时建立天体之外的研究路线。这是对研究衔接和申请组合的判断，不是对其指导风格、发表机会或录取帮助的已核结论。
 
 **为什么不能固定为 Dolan 第一：** 真正影响博士准备的是具体课题和指导安排。若 Taylor 提供清楚的分析课题、定期反馈和可展示的个人成果，而 Dolan 只能提供宽泛题目或指导容量有限，Taylor 可能更合适。Urquijo 或 Barberio 若提供更适合 MSc 时间、成果归属明确的计算项目，也可提升排序。不能为了方向多样性牺牲课题可执行性。
 

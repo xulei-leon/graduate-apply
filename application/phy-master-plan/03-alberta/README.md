@@ -1,5 +1,9 @@
 # Alberta — Marie-Cécile Piro 定制材料
 
+> 科研描述更新：2026-11-02。Higgs 采用[当前在研项目口径](../../README.md#higgs-research-update-20261102)；原报告与招生／论文来源核查日期保留，本次未重新核查外部来源。
+
+> **导出件状态（2026-11-02）：** [SoP-Hongyi Xu-Alberta.docx](SoP-Hongyi%20Xu-Alberta.docx) 已于 2026-11-02 同步当前科研描述，并完成正文与排版核验。报告保留原有招生信息核查日期。
+
 整理与官方来源核查：**2026-10-03**。地区：Canada。目标：Fall 2027 **Master of Science in Physics**，Department of Physics，University of Alberta。研究型 MSc 的现行学位细则仍待核实。首次联系草稿，**尚未发送**；既往联系历史待申请人确认。
 
 ## 材料
@@ -86,7 +90,7 @@ PS 以 [PS_MSc_en.md](../../CV/PS_MSc_en.md) 和 [CV_en.md](../../CV/CV_en.md) �
 
 首读论文讨论 LMC 对本地暗物质速度分布、方向性反冲图及拒绝各向同性所需事件数的影响。信中联系 MaNGA 的模型假设敏感性，提出**待讨论、尚未实施**的起步任务：在简化反冲率模型中比较速度分布假设的影响。不是导师公布的招生课题，也不把 c–M 关系直接等同于本地速度分布。
 
-申请人后续阅读；本轮由助手核查作者与开放原文。详细章节、限制及问题见 [paper_reading_notes.md](paper_reading_notes.md)。研究经历以 [CV_en.md](../../CV/CV_en.md) 为准：MaNGA 第一作者手稿已完成、尚未投稿；Higgs 手稿 in preparation，结果探索性。成绩资格及推荐承诺不由 CV 自动推定。
+申请人后续阅读；本轮由助手核查作者与开放原文。详细章节、限制及问题见 [paper_reading_notes.md](paper_reading_notes.md)。研究经历以 [CV_en.md](../../CV/CV_en.md) 为准：MaNGA 第一作者手稿已完成、尚未投稿；Higgs 项目仍在进行中，申请材料只描述研究方向和方法，不列论文状态或课题结论。成绩资格及推荐承诺不由 CV 自动推定。
 
 ## 来源与访问记录
 

@@ -1,10 +1,12 @@
 # NYU 硕士：计算物理与计算科学匹配分析
 
+> 科研描述更新：2026-11-02。Higgs 采用[当前在研项目口径](../README.md#higgs-research-update-20261102)；原报告与招生／论文来源核查日期保留，本次未重新核查外部来源。
+
 **核查日期：2026-10-21｜目标：Fall 2027｜范围：硕士。** 外部来源通过直接 HTTPS 请求读取。以当前项目正文为事实依据，年度招生日期不冒充已确认的 2027 批次日期。
 
 ## 结论与优先级
 
-对 HY 的 U of T Physics、CGPA 3.0，以及 MaNGA Bayesian/PyMC 与 Higgs MLP/likelihood/归因研究背景，建议先考虑 **Physics MS 与 Scientific Computing MS**。前者延续物理问题与研究论文，后者补强数值分析、算法、模拟及科学软件训练。**Tandon Mathematical Sciences MS** 值得作为应用数学与论文路线的补充；**GSAS Mathematics MS** 数学证明训练较重，论文另有入学后成绩门槛；**Data Science MS** 适合偏向统计学习与数据方法时考虑。
+对 HY 的 U of T Physics、CGPA 3.0，以及 MaNGA Bayesian/PyMC 与 在研 Higgs MLP 事件筛选、质量谱与统计分析背景，建议先考虑 **Physics MS 与 Scientific Computing MS**。前者延续物理问题与研究论文，后者补强数值分析、算法、模拟及科学软件训练。**Tandon Mathematical Sciences MS** 值得作为应用数学与论文路线的补充；**GSAS Mathematics MS** 数学证明训练较重，论文另有入学后成绩门槛；**Data Science MS** 适合偏向统计学习与数据方法时考虑。
 
 以下优先级是个人规划判断，不是录取率或项目官方排序。学科匹配 High 与申请难度分别评价。当前没有充分证据把任一项目作为保底。
 
@@ -75,7 +77,7 @@ Scientific Computing 项目页直接指向的数学系共同招生页写明：**
 1. 先以Physics thesis、Scientific Computing、Tandon Mathematical Sciences三条路线决定兴趣与预算；本轮不改变用户既有重点申请标记，不自动建立新申请或联系教师。
 2. 对Scientific Computing做成绩单映射：微积分序列、线代、编程、数据结构和算法，列出课程与成绩；向项目确认Math Subject GRE在2027的执行口径。
 3. Physics文书用物理问题串联两个研究；Scientific Computing文书强调数值计算、稳定性、算法、统计验证与可复现实现的训练目标，不声称已掌握PDE/HPC等未确认技能。
-4. 优先落实能评价本人独立贡献的推荐信；UCL强推荐尚未落实，手稿投稿与作者顺序按已确认状态写。
+4. 优先落实能评价本人独立贡献的推荐信；UCL强推荐尚未落实，MaNGA 手稿沿用已确认状态，Higgs 只写在研方向与方法。
 5. 已由公开申请入口确认：同term只能申一个GSAS项目，Physics、Scientific Computing、GSAS Mathematics与CDS Data Science须择一；Tandon属不同学院，可独立另申。支付申请费前仍须核portal批次、实际截止、语言豁免及费用。来源：https://apply.gsas.nyu.edu/apply/ 。
 
 ## 排名与核查记录

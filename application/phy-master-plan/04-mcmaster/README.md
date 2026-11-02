@@ -1,5 +1,9 @@
 # McMaster — 硕士申请材料
 
+> 科研描述更新：2026-11-02。Higgs 采用[当前在研项目口径](../../README.md#higgs-research-update-20261102)；原报告与招生／论文来源核查日期保留，本次未重新核查外部来源。
+
+> **导出件状态（2026-11-02）：** [Statement of Interest-Hongyi Xu-McMaster physics.docx](Statement%20of%20Interest-Hongyi%20Xu-McMaster%20physics.docx) 已于 2026-11-02 同步当前科研描述，并完成正文与排版核验。报告保留原有招生信息核查日期。
+
 本目录保存 Fall 2027 两份文书：**M.Sc. in Computational Science and Engineering 通用 PS** 与 **M.Sc. in Physics and Astronomy（Thesis）PS**。原 CSE Thesis 与 Project 两稿于 **2026-10-25** 合并，统一使用 `McMaster_PS_MSc_CSE_en.md`；Project 单独稿已按用户要求删除。合并稿围绕两条路径共有的科学计算兴趣、方法训练与导师指导下的研究展开；正式申请仍需选择相应路径，通用文书不表示两条路径会被同时审理。
 
 **Physics and Astronomy 原套磁材料：**整理与官方来源核查：**2026-10-03**。地区：Canada。目标：Fall 2027 **M.Sc. in Physics and Astronomy（Thesis）**，Department of Physics & Astronomy，McMaster University。首次联系草稿，**尚未发送**；既往联系历史待申请人确认。
@@ -8,7 +12,7 @@
 
 | 文件 | 用途 |
 |---|---|
-| [McMaster_PS_MSc_CSE_en.md](McMaster_PS_MSc_CSE_en.md) | Fall 2027 CSE M.Sc. 通用英文 PS；科学计算、方法训练与可靠推断；正文 480 词 |
+| [McMaster_PS_MSc_CSE_en.md](McMaster_PS_MSc_CSE_en.md) | Fall 2027 CSE M.Sc. 通用英文 PS；科学计算、方法训练与可靠推断；正文 479 词 |
 | [Statement of Interest-Hongyi Xu-McMaster physics.md](Statement%20of%20Interest-Hongyi%20Xu-McMaster%20physics.md) / [DOCX](Statement%20of%20Interest-Hongyi%20Xu-McMaster%20physics.docx) | Fall 2027 Physics and Astronomy thesis MSc 英文 PS；Wadsley / Parker 的模拟与观测研究匹配 |
 | [英文 CV](../../CV/CV_en.md) / [中文 CV](../../CV/CV_cn.md) | 共享的现行 CV；MaNGA 旋转曲线与暗物质晕为主 |
 | [letter-james-wadsley.md](letter-james-wadsley.md) | 英文 Fall 2027 thesis MSc 研究机会咨询信 |
@@ -20,7 +24,7 @@
 
 **申请逻辑：**首段采用“学术背景—研究兴趣—申请目标”的常规结构，先交代 U of T Physics Specialist 背景，再由星系动力学与 Higgs 模拟经历引出 computational modelling、statistical inference 和 uncertainty analysis，最后明确申请 CSE 以加强数学与数值基础的目标。随后用 MaNGA 的倾角不确定性和 Higgs 的推断可靠性检验简要支撑。后半篇聚焦数值方法、optimisation、statistical modelling 与 learned representations 的学习目标，提出用已知参数模拟数据比较估计误差和不确定性的研究兴趣，再连接到 CSE 的 Computational Physical Sciences 及跨 science、engineering、business 的环境。长期目标统一为参与科学计算研究。
 
-**事实依据与边界：**依据[现行 CV](../../CV/CV_en.md)、[科研背景](../../../research-background.md)和原两份 CSE PS。保留 MaNGA 的 620 个筛选星系、Python/PyMC、Bayesian MCMC、群体推断和子样本倾角敏感性结果，第一作者手稿仍为已完成、未提交；Higgs 明确使用公开 ATLAS 模拟样本，将 profile-likelihood inference 与 Bayesian MCMC 区分，保留探索性与 “a manuscript in preparation” 表述，不指定有冲突的作者排序。拟议问题属于待导师指导和限定范围的研究兴趣，不是已落实的课题。正文不声称已有导师承诺、招生名额或个人资格确认。
+**事实依据与边界：**依据[现行 CV](../../CV/CV_en.md)、[科研背景](../../../research-background.md)和原两份 CSE PS。保留 MaNGA 的 620 个筛选星系、Python/PyMC、Bayesian MCMC、群体推断和子样本倾角敏感性结果，第一作者手稿仍为已完成、未提交；Higgs 描述公开 ATLAS 模拟样本上的变量构造、神经网络筛选、产额与质量谱检查及统计分析；区分 profile-likelihood inference 与 Bayesian MCMC，明确课题尚在进行，不列论文状态或结论。拟议问题属于待导师指导和限定范围的研究兴趣，不是已落实的课题。正文不声称已有导师承诺、招生名额或个人资格确认。
 
 | 核查事项 | 官方来源与 2026-10-25 本次对话中的直接 HTTPS 核查 |
 |---|---|
@@ -32,7 +36,7 @@
 | 路径决定与审批 | https://cse.mcmaster.ca/graduate-studies/graduate-handbook/ — HTTP 200；路径由申请人与导师共同决定，并经 Director 批准。未据此认定入学后可自由转换 |
 | Calendar 访问限制 | https://academiccalendars.romcmaster.ca/preview_program.php?catoid=64&poid=32702 — HTTP 202、空正文；Handbook 说明如与 Calendar 冲突，以 Calendar 为准 |
 
-**篇幅与使用状态：**英文正文 **480 词**、六段，按空白分词统计，不含标题、姓名与联系信息。按已核实的 **1 页 Statement of Interest** 要求压缩，原 750–850 词内部目标不再作为本版标准。本次交付 Markdown，最终页数仍需在 PDF 排版后核实。正式提交时须使申请表所选路径与任何路径专属回答一致；若 portal 新增专门题目，按其要求调整。
+**篇幅与使用状态：**英文正文 **479 词**、六段，按空白分词统计，不含标题、姓名与联系信息。按已核实的 **1 页 Statement of Interest** 要求压缩，原 750–850 词内部目标不再作为本版标准。本次交付 Markdown，最终页数仍需在 PDF 排版后核实。正式提交时须使申请表所选路径与任何路径专属回答一致；若 portal 新增专门题目，按其要求调整。
 
 **Last-verified：2026-10-25**，适用于本节已成功读取的官方页面；**Last-attempted：2026-10-25**，适用于 Calendar。
 

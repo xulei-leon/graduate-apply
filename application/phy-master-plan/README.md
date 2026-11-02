@@ -1,5 +1,9 @@
 # 物理硕士地区候选总览 — 2027入学
 
+> 科研描述更新：2026-11-02。Higgs 采用[当前在研项目口径](../README.md#higgs-research-update-20261102)；原报告与招生／论文来源核查日期保留，本次未重新核查外部来源。
+
+> **导出件状态（2026-11-02）：** [Physics_Masters_Overview.pdf](Physics_Masters_Overview.pdf) 已于 2026-11-02 同步当前科研描述，并完成正文与排版核验。报告保留原有招生信息核查日期。
+
 本版已合并用户全部追加条件：加拿大12、澳大利亚2、美国10、法国5、德国5、瑞士5，共39所学校记录。ANU普通版Astronomy and Astrophysics已获offer；其余38所为候选。Sorbonne与Paris Cité的PPM为联合项目，学校数不等于独立申请次数。核查/访问尝试：2026-10-02。
 
 当前汇总文件统一命名为`Physics_Masters_Overview`，提供PDF、Markdown及JSON事实快照。全部39所学校已加入推荐信必需性、数量及证据边界。
@@ -68,7 +72,7 @@ PDF开头新增“Summary · 申请数量汇总”，随后为“地区候选总
 | **Queen’s — Master of Science in Physics** | **05：[Kristine Spekkens](05-queens-kristine-spekkens/README.md)** | High（星系／Bayesian）/ Reach | HI 不对称性后验、相关噪声及群体推断；连接 MaNGA 与 coverage diagnostics | **优先联系：官方明确 Fall 2027 有1–2个 MSc / PhD 岗位**；年度 January 7 full consideration，2027-01-07按年度规则准备；https://www.queensu.ca/physics/people-search/kristine-spekkens |
 | **Western — MSc Astronomy（与总览 Physics MSc 分开记录）** | **06：[Pauline Barmby](06-western-pauline-barmby/README.md)** | High（方法／星系）/ Match（附条件） | 测光输入、MLP 分类污染与观测不确定性；Higgs 特征比较与 MaNGA 背景 | 物理本科可申请；2027名额待问，国际生 **2027-03-01** 截止；https://physics.uwo.ca/people/faculty_web_pages/barmby.html |
 | UBC — Master of Science in Physics (MSc)，备选 | **备选**：[Alison Lister](ubc-alison-lister/README.md) | High（方法）/ Reach | Higgs open-MC、MLP 输入比较、pyhf 和有限 MC / 覆盖率诊断 | 指导资格明确，2027 名额待问；https://www.grad.ubc.ca/researcher/14742-lister |
-| **Melbourne — Master of Science (Physics)** | **07 首选：[Matthew Dolan](12-melbourne/README.md)** | High（collider ML / 推断方法）/ Unknown | CMS Open Data 的 simulation/data 分类器排序反转，连接 Higgs AUC 与信号强度区间评价 | **2027 名额、题目与入学月份待问**；本地 EOI 表格不要求申请前落实导师，与此前网页摘录有差异；https://www.centredarkmatter.org/all/matthew-dolan |
+| **Melbourne — Master of Science (Physics)** | **07 首选：[Matthew Dolan](12-melbourne/README.md)** | High（collider ML / 推断方法）/ Unknown | CMS Open Data 的 simulation/data 分类器排序反转，连接在研 Higgs 项目的神经网络筛选、产额与质量谱检查 | **2027 名额、题目与入学月份待问**；本地 EOI 表格不要求申请前落实导师，与此前网页摘录有差异；https://www.centredarkmatter.org/all/matthew-dolan |
 
 以上是研究契合与准备难度判断，非录取概率。地域计数：**Canada 6 所、Australia 1 所，共 7 所学校；有完整材料包的活动导师 8 位（目标 7、备选 1）**。正式项目门槛、截止、资助与未解决事项见各目录 README。Alberta 与 Melbourne 的 High 是研究匹配，不覆盖招生资格或条款仍待核实的限制。
 
@@ -103,7 +107,7 @@ PDF开头新增“Summary · 申请数量汇总”，随后为“地区候选总
 
 - 姓名 Hongyi Xu；邮箱 hyi.xu@mail.utoronto.ca；U of T Physics Specialist 本科在读，2023 年 9 月入学，预计 2027 年 6 月毕业；累计 GPA 3.0/4.0。正式学位名称仍未确认，CV 不补写 Honours 等称谓。
 - MaNGA：2025–2026，项目独立完成；对 620 个筛选后盘星系开展群体分析，通过先验校正的重要性采样推断浓度—质量关系的斜率、归一化与内禀散布，并做倾角敏感性和 PSIS 诊断。本人写作的第一作者手稿已完成、尚未投稿；链接指向手稿预览，不沿用旧 statement 中约 400 的口径。
-- Higgs：2026 年 5 月起由 UCL 的 Mario Campanelli 指导；处理公开 ATLAS 模拟 H → ZZ* → 2e2μ 样本，比较 19 个变量构成的四组特征、15 种非空组合和五个随机种子；用 pyhf、exact Shapley、200 次 event-group bootstrap 和条件覆盖率诊断。第一作者手稿正在写作；结果探索性，不宣称已建立可靠精度提升。
+- Higgs：2026 年 5 月起与 UCL 的 Mario Campanelli 远程合作；公开 ATLAS 模拟样本的运动学变量构造、MLP 输入组比较、事件筛选、预期产额与四轻子质量谱检查，以及 profile-likelihood 和 bootstrap 统计分析。课题尚未完成，材料不列论文状态和数值结论；研究内容依据 2026-11-01 项目报告，措辞于 2026-11-02 更新。
 - 项目经历不等同于在 UCL 任职或 ATLAS 合作组成员资格。未确认的推荐承诺、成绩趋势、专业 GPA、获奖、学位称谓和工具熟练程度均不增补。
 - 申请人计划随后阅读。本版邮件已按助手核查的论文原文加入具体兴趣点，使用“该论文中的问题／方法引起兴趣”及“希望进一步理解”的措辞，不声称已经精读、复现或讨论。导师合著关系已核查；ATLAS 合作署名不等于导师负责相应子分析。
 - 初次联系语气是草稿假设，仓库“未见联系记录”并非申请人已确认从未联系。
@@ -118,7 +122,7 @@ PDF开头新增“Summary · 申请数量汇总”，随后为“地区候选总
 | https://hyi03.github.io/manga-dm/paper-preview | 可访问；页面标为研究草稿预览，14 页中仅第 1 页完整，其余页仅显示上部。CV 称 manuscript preview，不称完整 PDF 或正式发表 |
 | https://github.com/hyi03/HiggsML | 公开仓库可访问；存在论文源码与构建说明，不等于有经过本人审阅的可发送 PDF |
 
-Higgs 公共仓库 README 当前使用 test01 标签，而本地科研背景曾引用 test05。本包不写运行标签或新增数值结论；后续提交研究附件时应核对论文与运行版本，不能仅凭仓库更新自动替换已有确认事实。本轮没有重跑研究计算。
+Higgs 研究内容以用户指定的 `D:/code/HiggsML/paper/draft-v2/project-report-cn.tex` 为依据，侧重方向与方法；不在申请材料中列运行标签、数值结论或论文状态。本轮未重跑研究计算。
 
 ## 后续逐项推进
 
@@ -126,14 +130,14 @@ Higgs 公共仓库 README 当前使用 test01 标签，而本地科研背景曾�
 
 问题 2 已按用户新安排完成助手部分：原推荐 5 篇（Eadie 取消后活动推荐 4 篇）、核查相关原文、写好阅读说明，并将四位导师各一篇论文的具体内容加入八封中英文邮件（含 Lister 备选）。申请人后续阅读，再用自己的理解补充或调整，不需要先提供已读论文才能完成草稿。
 
-其余事项继续保留：既往联系记录、Higgs 手稿可用版本、正式学位名称、推荐人承诺；成绩单核对继续按用户要求暂缓。UT 天文系申请已取消，原咨询草稿停止使用。
+其余事项继续保留：既往联系记录、正式学位名称、推荐人承诺；成绩单核对继续按用户要求暂缓。UT 天文系申请已取消，原咨询草稿停止使用。
 
 ## 本地事实来源
 
 - 已确认事实与待确认问题（历史引用文件目前不存在）
 - [最新英文天体物理 CV](../CV/CV_en.md)与[中文天体物理 CV](../CV/CV_cn.md)
 - [当前活动导师索引](#当前活动人选截至2026-10-03)
-- [科研背景](../../research-background.md)：用于方法与结果边界；如时间、导师、作者状态与较新已确认事实冲突，以前述 CV / 问题清单为准。
+- [科研背景](../../research-background.md)：保留原档案；Higgs 旧描述尚未同步，当前申请文字采用上述 2026-11-02 口径，不从该档案恢复旧结果或论文状态。
 
 共同事实以后更改时，同步相关 CV、咨询信及本批目标与备选材料。招生更新已注明核验日期，不将整份历史名单追溯标成全部重新核验。
 

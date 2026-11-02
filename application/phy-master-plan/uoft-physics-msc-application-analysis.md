@@ -1,5 +1,7 @@
 # University of Toronto Physics MSc — Application Analysis and Action Plan
 
+> 科研描述更新：2026-11-02。Higgs 采用[当前在研项目口径](../README.md#higgs-research-update-20261102)；原报告与招生／论文来源核查日期保留，本次未重新核查外部来源。
+
 > 2026-10-03 清理说明：保留本校研究机会、导师联系及推荐信策略。招生事实及申请日期请结合[当前总览](Physics_Masters_Overview.md)、[多大Physics项目档案](../../physics-master/UofT_MSc_Physics.md)和[申请时间表](Physics_Masters_Timeline.md)复核；下文九月行动计划已过期。 原核查日期保留，本次未重新核验官网。
 
 **Applicant:** HY, University of Toronto Physics undergraduate  
@@ -46,7 +48,7 @@ Being enrolled at U of T does not convert an international applicant into a dome
 ### Strengths
 
 - The MaNGA project provides a coherent dark-matter research question and concrete Bayesian methods: PyMC 5, MCMC, priors, posteriors, convergence checks, and uncertainty analysis.
-- UCL 第二课题已有模拟 Higgs 四轻子特征归因与信号强度推断草稿，涉及 MLP、pyhf、Shapley 和 MC/覆盖率诊断；结果属探索性。用户已确认本人负责 `D:/code/HiggsML/docs` 所述技术工作，推荐强度仍需确认。依据：[科研背景，2026-09-27 核对](../../research-background.md)。
+- UCL 第二课题正在进行，涉及公开 ATLAS 模拟样本的运动学变量构造、MLP 输入组比较、事件筛选、预期产额与四轻子质量谱检查，以及 profile-likelihood 和 bootstrap 统计分析；本人承担技术工作，不列论文状态或课题结论，推荐强度仍需确认。当前口径见[申请材料说明](../README.md)。
 - The combination of astrophysical dark-matter inference and particle-physics computation fits several U of T groups without requiring an artificial change of direction.
 - A first-author manuscript, once uploaded to arXiv, would give the committee a verifiable research output.
 - Current access to U of T faculty makes it possible to add a department-based project and reference before or during the application cycle.
@@ -102,7 +104,7 @@ Prof. Kahn's group works on dark-matter direct detection, axions, collider/beam-
 
 1. Identify yourself as a fourth-year U of T Physics student and name the exact research direction from the faculty member's current page.
 2. Describe the MaNGA Bayesian dark-matter project in one sentence, including PyMC 5/MCMC and the actual manuscript status.
-3. 用一句话介绍 UCL Higgs 模拟课题、MLP 与 profile-likelihood 方法及已有探索性草稿；个人技术工作已由用户确认，作者顺序仍需确认。
+3. 用一句话介绍正在进行的 UCL Higgs 模拟课题与神经网络筛选、产额及质量谱分析；按篇幅补充统计方法，不列论文状态或结果。
 4. Propose one plausible task relevant to the group.
 5. Ask whether the professor would be open to a 15–20 minute meeting about a PHY37x/PHY47x project this term and possible Fall 2027 graduate research fit.
 
@@ -129,7 +131,7 @@ Do not rely on “I already know U of T” as the school-specific argument. The 
 
 | Slot | Recommended referee | Evidence the letter should provide |
 |---|---|---|
-| 1 | UCL physics professor | Independence, computational physics skill, research maturity, technical ownership, and progress toward publication-quality work |
+| 1 | UCL physics professor | Independence, computational physics skill, research maturity, technical ownership, and ongoing work in event selection and statistical analysis |
 | 2 | U of T supervised-project faculty member, if a substantive project begins promptly; otherwise the strongest advanced Physics instructor | Direct evidence of research performance or, second-best, performance in rigorous upper-year Physics and readiness for graduate coursework |
 
 The MaNGA supervisor should be used only if the letter will be specific, credible, and stronger than the U of T alternative. Because the portal permits exactly two letters, there is no room for a merely confirmatory third reference.

@@ -1,5 +1,7 @@
 # Jim Cline：core–cusp 论文阅读与邮件联系点
 
+> 科研描述更新：2026-11-02。Higgs 采用[当前在研项目口径](../../README.md#higgs-research-update-20261102)；原报告与招生／论文来源核查日期保留，本次未重新核查外部来源。
+
 论文最后核查：2026-10-05；本说明与当前 [letter.md](letter.md) 同步整理：2026-10-05。首读与邮件引用为 **Late-Time Dark Matter Oscillations and the Core-Cusp Problem**。论文内容依据本次会话已通过 HTTPS 核查的原文；申请人的阅读与复现进度尚未确认，邮件仍为未发送草稿。
 
 ## 1. 论文信息与选择理由
@@ -70,7 +72,7 @@ MaNGA 的已完成工作以晕建模和不确定性传播为主。手稿中的�
 
 > For my MSc, I hope to build on my experience in galaxy dynamics and statistical inference through research in dark matter and cosmology. I would welcome the opportunity to explore related questions under your supervision while further developing my skills in astrophysical modeling and numerical methods.
 
-目标段保持探索性，与现有经历衔接，没有承诺复现整套理论或模拟分析。研究经历列表另说明 MaNGA 的群体推断、倾角敏感性，以及 Higgs profile-likelihood 工作。
+目标段保持探索性，与现有经历衔接，没有承诺复现整套理论或模拟分析。研究经历列表另说明 MaNGA 的群体推断、倾角敏感性，以及正在进行的 Higgs 神经网络筛选、产额与质量谱分析。
 
 ## 5. 后续交流可准备的问题
 

@@ -12,7 +12,7 @@ My research experience includes:
 
 - MaNGA galaxy dynamics: Developed a rotation-curve modeling pipeline using PyMC for 620 selected MaNGA disk galaxies, linking galaxy-level posteriors to inference of the population concentration–mass relation.
 - Uncertainty analysis: Subsample tests showed that allowing for inclination uncertainty broadened the constraints on the concentration–mass relation.
-- Ongoing Higgs project: Built a profile-likelihood workflow using public ATLAS simulations of H → ZZ* → 2e2μ to study how kinematic inputs affect constraints on the Higgs signal strength.
+- Ongoing Higgs project: Using public ATLAS simulations to compare neural-network classifiers with different kinematic inputs and study how event selection affects expected signal and background yields and four-lepton mass distributions.
 
 The MaNGA work is described in my first-author manuscript (not yet submitted):
 https://hyi03.github.io/manga-dm/paper/Local_Concentration__Mass_Relation_from_MaNGA.pdf

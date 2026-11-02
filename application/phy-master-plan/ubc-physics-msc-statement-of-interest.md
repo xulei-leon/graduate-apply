@@ -1,10 +1,12 @@
 # UBC MSc — Statement of Interest 规划与导师记录
 
+> 科研描述更新：2026-11-02。Higgs 采用[当前在研项目口径](../README.md#higgs-research-update-20261102)；原报告与招生／论文来源核查日期保留，本次未重新核查外部来源。
+
 > 2026-10-03 清理说明：保留文书大纲及英文旧稿。当前主目标为Astronomy MSc，导师材料见[Van Waerbeke目录](02-ubc-ludovic-van-waerbeke/README.md)。旧Physics MSc草稿及未更新的经历表述不能直接提交；事实以[当前总览](Physics_Masters_Overview.md)、当前CV和导师材料为准。 原核查日期保留，本次未重新核验官网。
 
 导师与路径更新：2026-09-29。新增 Ludovic Van Waerbeke 与 Allison Man 的研究方向、MaNGA 匹配、论文和招生记录。当前 UBC 目标为 Van Waerbeke 的 **Astronomy MSc** 路径；Allison Man 为新增天文候选；Alison Lister 保留 Physics MSc 备选。
 
-科研背景以[最新确认清单](README.md)为准：MaNGA 第一作者手稿已完成但未投稿；Higgs 由 Mario Campanelli 指导，第一作者手稿仍需人工修订。第三节保留原 Physics MSc 英文草稿供后续改写，其研究状态、课程表述与导师段不能直接作为当前提交版本。
+科研背景以[最新确认清单](README.md)为准：MaNGA 第一作者手稿已完成但未投稿；Higgs 由 Mario Campanelli 指导，课题尚在进行，描述其方向和方法。第三节保留原 Physics MSc 英文草稿供后续改写，其研究状态、课程表述与导师段不能直接作为当前提交版本。
 
 最后更新：2026-09-29。状态：规划稿；当前导师咨询材料见 [Van Waerbeke 定制目录](02-ubc-ludovic-van-waerbeke/README.md)。申请系统开放后，需按具体项目、正式题目和字数限制改写 Statement of Interest。
 
@@ -51,12 +53,12 @@
 
 ### 4. UCL 计算粒子物理项目
 
-已按 2026-09-26 草稿补充：
+研究描述于 2026-11-02 按用户指定的 2026-11-01 项目报告更新：
 
-- 物理问题：模拟 H → ZZ* → 2e2μ 中运动学输入对信号强度 μ 推断的影响。
-- 方法：ATLAS open MC、15 个特征组合 × 5 个 MLP 种子、pyhf profile likelihood、exact Shapley、MC bootstrap 与覆盖率诊断。
-- 进展：已有完整计算和论文草稿；紧凑输入的名义区间更窄，但未建立统计显著或已校准的精度提升。
-- 个人贡献以最新确认清单为准：本人确定目标、选择样本并设计比较方案，AI 参与指标建议和代码实现；指导教授为 Mario Campanelli，第一作者手稿目前为未经人工修订的 AI 初稿，结果仍属探索性。可发送的正式研究附件需另核对。
+- 物理问题：模拟 Higgs 四轻子事件中，运动学输入与神经网络筛选如何影响信号／背景预期产额及质量分布。
+- 方法：公开 ATLAS 模拟样本的运动学变量构造、MLP 输入组比较、事件筛选、预期产额与四轻子质量谱检查，以及 profile-likelihood 和 bootstrap 统计分析。
+- 进展：课题尚在进行；申请文字介绍研究问题和方法工作，不陈述课题结论。
+- 个人贡献：本人负责模拟事件处理、变量构造、MLP 比较及统计分析；与 Mario Campanelli 远程合作。不列 Higgs 论文状态或作者排序。
 
 该段需要证明：
 
@@ -127,7 +129,7 @@ As a Physics student at the University of Toronto, I have developed a foundation
 
 My first substantial research project examined the concentration–mass relation of dark-matter haloes using data from the Mapping Nearby Galaxies at Apache Point Observatory survey. I used PyMC 5 to implement Bayesian models and Markov chain Monte Carlo inference, with the aim of quantifying the relationship between halo properties while retaining the uncertainty associated with the data and model assumptions. This work required me to examine prior choices, posterior distributions, sampling convergence, and the distinction between numerical convergence and physically meaningful parameter constraints. It also taught me that a statistically sophisticated result is useful only when its assumptions and physical interpretation are made explicit. I am currently preparing a first-author manuscript from this project for submission to arXiv.
 
-Since May 2026, I have also worked one-on-one with a University College London physics professor on kinematic feature attribution for signal-strength inference in simulated H → ZZ* → 2e2μ events. Using ATLAS open simulated samples, the study compares fifteen nonempty combinations of four kinematic feature groups with five MLP training seeds per combination, a common profile-likelihood analysis in pyhf, and exact Shapley attribution. The current manuscript identifies compact inputs with narrower nominal signal-strength intervals, while finite-Monte-Carlo uncertainty and conditional coverage diagnostics leave calibrated precision gains unestablished. I processed the simulated 2e2μ events and trained the MLP feature-group comparisons; I also built the pyhf inference and attribution, bootstrap, and coverage evaluation workflow. This project has strengthened my interest in connecting machine-learning evaluation with reliable physical parameter inference.
+Since May 2026, I have been working remotely with Professor Mario Campanelli at University College London on neural-network event selection in simulated Higgs four-lepton events. Using public ATLAS simulated signal and four-lepton background samples, I construct kinematic variables from lepton four-momenta and compare classifiers trained on different input groups for the 2e2μ final state. My work involves separating training, validation and evaluation samples and examining how selection affects expected event yields and four-lepton mass distributions. I also use profile-likelihood analysis and bootstrap resampling to investigate statistical uncertainty. This ongoing project is developing my ability to connect computational choices with physical questions and to document and validate an analysis.
 
 Together, these experiences have shaped my interest in computational and statistical inference across astrophysical and particle-physics settings. The MaNGA project showed me how dark matter can be constrained through its gravitational influence on galaxies, whereas my UCL work studies how learned kinematic summaries affect Higgs signal-strength inference in simulation. Although the physical scales are different, both projects require careful model construction, uncertainty analysis, numerical validation, and a clear connection between computation and physical interpretation. In graduate study, I hope to deepen this combination of statistical inference and computational physics rather than treating computation as a separate technical skill.
 
@@ -137,8 +139,8 @@ During the MSc, I hope to strengthen my knowledge of particle physics and statis
 
 ## 四、提交前必须完成
 
-- [x] 按当前 Higgs 草稿补充 UCL 项目的物理问题与探索性结果。
-- [x] 补充 MLP、pyhf、Shapley 和 MC/覆盖率评估方法。
+- [x] 按新项目报告更新 UCL 在研项目的研究问题与方法。
+- [x] 补充运动学变量、MLP 筛选、产额与质量谱检查及统计方法。
 - [x] 根据用户确认，填写两项核心个人技术工作。
 - [x] 同步 MaNGA 最新状态：第一作者手稿完成，尚未投稿。
 - [x] 记录 Van Waerbeke 与 Allison Man 的研究方向、论文及公开 MSc 状态；Van Waerbeke 为已选目标，Man 为新增候选。
