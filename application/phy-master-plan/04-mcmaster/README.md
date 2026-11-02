@@ -57,7 +57,7 @@ PS 以 [PS_MSc_en.md](../../CV/PS_MSc_en.md) 和 [CV_en.md](../../CV/CV_en.md) �
 
 以上页面均取得 HTTP 200 正文。PS 已覆盖已有研究经历；**1–2 页限制须在最终 PDF 排版后复核**，Markdown 字数不能证明页数合规。两位导师的 Fall 2027 名额与具体课题仍未确认，通用 prospective-student letter 不等同当年招生承诺。**本节 Last-verified：2026-10-19**；下文原套磁与论文记录保留各自日期。
 
-结构参照 [McGill / Jim Cline](../01-mcgill-jim-cline/) 的实际三个文件。信中写 “My CV is attached.”；发送前实际附上现行 CV PDF，若不附则改为 “I can provide my CV upon request.”。内部说明不随信发送。
+结构参照 [McGill / Jim Cline](../01-mcgill/) 的实际三个文件。信中写 “My CV is attached.”；发送前实际附上现行 CV PDF，若不附则改为 “I can provide my CV upon request.”。内部说明不随信发送。
 
 ## 选择与定制依据
 

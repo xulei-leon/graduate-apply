@@ -61,10 +61,10 @@ PDF开头新增“Summary · 申请数量汇总”，随后为“地区候选总
 
 | 学校与硕士项目 | 导师与材料 | 研究匹配 / 规划难度 | 核心定制 | 2027 状态与来源 |
 |---|---|---|---|---|
-| McGill — Master of Science (M.Sc.) in Physics (Thesis) | [Jim Cline](01-mcgill-jim-cline/README.md) | Medium / Reach | MaNGA 参数简并、先验与数值约束；希望补足粒子物理—宇宙学理论基础 | 名额及经费待问；https://www.physics.mcgill.ca/~jcline/ |
-| **UBC — Master of Science in Astronomy (MSc)** | **目标：[Ludovic Van Waerbeke](02-ubc-ludovic-van-waerbeke/README.md)** | High（晕与统计推断）/ Reach | MaNGA 质量—浓度简并、模型敏感性，延伸至弱透镜子晕质量与中心偏移 | 指导资格明确，2027 名额、经费及成绩资格待核实；https://www.grad.ubc.ca/researcher/13409-van-waerbeke |
-| **Alberta — Master of Science in Physics** | **03：[Marie-Cécile Piro](03-alberta-marie-cecile-piro/README.md)** | High（暗物质与计算分析）/ Unknown | 由晕速度分布到方向性反冲预测；MaNGA 模型敏感性与 Higgs 统计训练 | 导师职称／研究已核；2027 名额、经费与现行招生条款待核，招生页403；https://apps.ualberta.ca/directory/person/mariecci |
-| **McMaster — M.Sc. in Physics and Astronomy（Thesis）** | **04：[James Wadsley](04-mcmaster-james-wadsley/README.md)** | High（计算天体／旋转曲线）/ Reach | 重子反馈、曲线多样性与模拟曲线参数恢复；希望补足数值流体力学 | 通用邀请明确欢迎 MSc，非2027名额保证；年度 January 31 奖学金充分考虑、April 30 最终参考；https://physics.mcmaster.ca/people/ |
+| McGill — Master of Science (M.Sc.) in Physics (Thesis) | [Jim Cline](01-mcgill/README.md) | Medium / Reach | MaNGA 参数简并、先验与数值约束；希望补足粒子物理—宇宙学理论基础 | 名额及经费待问；https://www.physics.mcgill.ca/~jcline/ |
+| **UBC — Master of Science in Astronomy (MSc)** | **目标：[Ludovic Van Waerbeke](02-ubc/README.md)** | High（晕与统计推断）/ Reach | MaNGA 质量—浓度简并、模型敏感性，延伸至弱透镜子晕质量与中心偏移 | 指导资格明确，2027 名额、经费及成绩资格待核实；https://www.grad.ubc.ca/researcher/13409-van-waerbeke |
+| **Alberta — Master of Science in Physics** | **03：[Marie-Cécile Piro](03-alberta/README.md)** | High（暗物质与计算分析）/ Unknown | 由晕速度分布到方向性反冲预测；MaNGA 模型敏感性与 Higgs 统计训练 | 导师职称／研究已核；2027 名额、经费与现行招生条款待核，招生页403；https://apps.ualberta.ca/directory/person/mariecci |
+| **McMaster — M.Sc. in Physics and Astronomy（Thesis）** | **04：[James Wadsley](04-mcmaster/README.md)** | High（计算天体／旋转曲线）/ Reach | 重子反馈、曲线多样性与模拟曲线参数恢复；希望补足数值流体力学 | 通用邀请明确欢迎 MSc，非2027名额保证；年度 January 31 奖学金充分考虑、April 30 最终参考；https://physics.mcmaster.ca/people/ |
 | **Queen’s — Master of Science in Physics** | **05：[Kristine Spekkens](05-queens-kristine-spekkens/README.md)** | High（星系／Bayesian）/ Reach | HI 不对称性后验、相关噪声及群体推断；连接 MaNGA 与 coverage diagnostics | **优先联系：官方明确 Fall 2027 有1–2个 MSc / PhD 岗位**；年度 January 7 full consideration，2027-01-07按年度规则准备；https://www.queensu.ca/physics/people-search/kristine-spekkens |
 | **Western — MSc Astronomy（与总览 Physics MSc 分开记录）** | **06：[Pauline Barmby](06-western-pauline-barmby/README.md)** | High（方法／星系）/ Match（附条件） | 测光输入、MLP 分类污染与观测不确定性；Higgs 特征比较与 MaNGA 背景 | 物理本科可申请；2027名额待问，国际生 **2027-03-01** 截止；https://physics.uwo.ca/people/faculty_web_pages/barmby.html |
 | UBC — Master of Science in Physics (MSc)，备选 | **备选**：[Alison Lister](ubc-alison-lister/README.md) | High（方法）/ Reach | Higgs open-MC、MLP 输入比较、pyhf 和有限 MC / 覆盖率诊断 | 指导资格明确，2027 名额待问；https://www.grad.ubc.ca/researcher/14742-lister |
@@ -78,10 +78,10 @@ PDF开头新增“Summary · 申请数量汇总”，随后为“地区候选总
 
 | 导师 | 推荐阅读 | 已写入邮件的具体联系 | 阅读说明 |
 |---|---|---|---|
-| Jim Cline | 首读：[Late-Time Dark Matter Oscillations and the Core-Cusp Problem](https://arxiv.org/abs/2010.12583)（2021）；补充：[Self-interacting dark matter solves the final parsec problem of supermassive black hole mergers](https://arxiv.org/abs/2401.14450)（2024） | DDO 154 旋转曲线比较；MaNGA 晕质量—浓度相关后验；晕参数及重子建模不确定性如何影响成核机制检验。邮件草稿已同步 | [原文比较、阅读顺序与写信说明](01-mcgill-jim-cline/paper_reading_notes.md) |
-| Ludovic Van Waerbeke | [Measuring satellite galaxy subhalo masses in redMaPPer clusters with UNIONS weak lensing data](https://arxiv.org/abs/2607.14207)（2026） | 子晕质量、宿主晕贡献与中心偏移；提出模拟轮廓的质量恢复检验 | [章节与问题](02-ubc-ludovic-van-waerbeke/paper_reading_notes.md) |
-| Marie-Cécile Piro | [Directional dark matter signatures of the Large Magellanic Cloud](https://arxiv.org/abs/2606.12535)（2026） | 本地速度分布如何改变反冲方向预测及拒绝各向同性的事件数 | [章节与问题](03-alberta-marie-cecile-piro/paper_reading_notes.md) |
-| James Wadsley | [Dwarf diversity in ΛCDM with baryons](https://arxiv.org/abs/2510.11800)（2025） | 重子模型对旋转曲线与晕解释的影响；拟议参数恢复检验 | [章节与问题](04-mcmaster-james-wadsley/paper_reading_notes.md) |
+| Jim Cline | 首读：[Late-Time Dark Matter Oscillations and the Core-Cusp Problem](https://arxiv.org/abs/2010.12583)（2021）；补充：[Self-interacting dark matter solves the final parsec problem of supermassive black hole mergers](https://arxiv.org/abs/2401.14450)（2024） | DDO 154 旋转曲线比较；MaNGA 晕质量—浓度相关后验；晕参数及重子建模不确定性如何影响成核机制检验。邮件草稿已同步 | [原文比较、阅读顺序与写信说明](01-mcgill/paper-jim-cline.md) |
+| Ludovic Van Waerbeke | [Measuring satellite galaxy subhalo masses in redMaPPer clusters with UNIONS weak lensing data](https://arxiv.org/abs/2607.14207)（2026） | 子晕质量、宿主晕贡献与中心偏移；提出模拟轮廓的质量恢复检验 | [章节与问题](02-ubc/paper-ludovic-van-waerbeke.md) |
+| Marie-Cécile Piro | [Directional dark matter signatures of the Large Magellanic Cloud](https://arxiv.org/abs/2606.12535)（2026） | 本地速度分布如何改变反冲方向预测及拒绝各向同性的事件数 | [章节与问题](03-alberta/paper-marie-cecile-piro.md) |
+| James Wadsley | [Dwarf diversity in ΛCDM with baryons](https://arxiv.org/abs/2510.11800)（2025） | 重子模型对旋转曲线与晕解释的影响；拟议参数恢复检验 | [章节与问题](04-mcmaster/paper-james-wadsley.md) |
 | Kristine Spekkens | [Bayesian Galaxy Asymmetry](https://arxiv.org/abs/2609.26472)（2026） | 后验不确定性、相关噪声与星系群体应用 | [章节与问题](05-queens-kristine-spekkens/paper_reading_notes.md) |
 | Pauline Barmby | [The contribution of the color space in LSST-like photometry for the selection of extragalactic globular cluster candidates](https://arxiv.org/abs/2512.17644)（2025初版，2026修订） | 输入信息、分类污染与测光噪声敏感性，连接 Higgs 特征比较 | [章节与问题](06-western-pauline-barmby/paper_reading_notes.md) |
 | Alison Lister（备选） | 首读：[ATLAS weakly supervised dijet anomaly detection](https://arxiv.org/abs/2502.09770)（2025）；选读：[Transforming jet flavour tagging at ATLAS](https://arxiv.org/abs/2505.19689)（2026） | 首封用第一篇的分类器选择、pyhf 拟合和背景偏差验证；GN2 作为后续稳健性与校准阅读 | [章节与问题](ubc-alison-lister/paper_reading_notes.md) |
@@ -153,4 +153,4 @@ UBC新增红色加粗／★★重点冲刺，当前为39所已选、19所重点�
 
 ## 当前执行状态（2026-10-17周复盘）
 
-39校／19优先／8冲刺按当前总览；活动咨询材料为7校7位目标＋1位备选，尚未见新发送或回复记录。ANU与Sydney已有条件录取，不能再以本目录旧文“正式申请未提交”概括全仓库。Melbourne July 2027及05-31截止已有2026-10-11用户提供官网原文；准确开窗与offer时间仍待核。推荐额度执行以P8／B10及条件增额方案为准，不将旧“承诺未知”或“约20校”当最新执行表。[本周复盘](../weekly-reviews/2026-10-17.md)。
+39校／19优先／8冲刺按当前总览；活动咨询材料为7校7位目标＋1位备选，尚未见新发送或回复记录。ANU与Sydney已有条件录取，不能再以本目录旧文“正式申请未提交”概括全仓库。Melbourne July 2027及05-31截止已有2026-10-11用户提供官网原文；准确开窗与offer时间仍待核。推荐额度执行以P8／B10及条件增额方案为准，不将旧“承诺未知”或“约20校”当最新执行表。[最新周复盘](../weekly-reviews/2026-10-30.md)。

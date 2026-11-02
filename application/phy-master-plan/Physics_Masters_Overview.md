@@ -505,7 +505,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 </tr>
 <tr style="background:#FFFF00;" data-priority-application="true">
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top"><strong>重点申请</strong><br><a href="../../physics-master/LMU_MSc_Astrophysics.md">LMU · MSc Astrophysics</a><br>Reach / High<br>QS综合61 / 物理39</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">2年 /4 semesters /120 ECTS；最长6 semesters。；前两学期课程；第三学期研究训练；第四学期23周Master thesis，可在LMU Observatory及符合规定的MPA/MPE/ESO研究组进行。<a href="https://www.physik.lmu.de/en/studies/study-programs/applying-to-a-masters-program/" style="color:inherit"><br><br><strong>申请周期：</strong><br>冬季／2027年10月入学：2026-11-01 → 2027-01-15，或2027-05-01 → 2027-07-15（年度规则）；International Office须并行申请</a></td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">2年 /4 semesters /120 ECTS；最长6 semesters。；前两学期课程；第三学期研究训练；第四学期23周Master thesis，可在LMU Observatory及符合规定的MPA/MPE/ESO研究组进行。<a href="https://www.physik.lmu.de/en/studies/study-programs/applying-to-a-masters-program/" style="color:inherit"><br><br><strong>申请周期：</strong><br>冬季／2027年10月入学：2026-11-15 → 2027-01-15，或2027-05-15 → 2027-07-15（年度规则）；International Office须并行申请</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">高于平均的物理成绩与研究经历；需系和International Office双重录取；全英语，无非英语语言门槛。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">德国高匹配冲刺；英语且GRE可选<br><br><strong><a href="https://www.physik.lmu.de/en/studies/study-programs/msc-astrophysics/">计算相关：天体数据／ML课程</a></strong></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">可选，不强制<br><br><strong>申请前联系导师：</strong><br><a href="https://www.physik.lmu.de/en/studies/study-programs/applying-to-a-masters-program/">所查页面未列提前联系要求</a></td>
@@ -540,7 +540,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 | 项目 | 截止日期依据与资金提示 |
 |---|---|
 | TUM · Physics (Applied & Engineering) | 冬季入学年度January 1–May 31；按2027冬季列2027-01-01至2027-05-31；January 15为提前审理节点。；一般MSc不保证RA/TA；scholarships与tuition waiver可竞争，不能自动免non-EU学费。 |
-| LMU · MSc Astrophysics | 冬季／2027年10月入学可用2026-11-01至2027-01-15、2027-05-01至2027-07-15两个年度窗口；International Office须并行申请。注册要求October 1前完成本科。；MS资助不保证；2027学费/semester contribution本轮未核，不沿用零学费或固定金额当报价。 |
+| LMU · MSc Astrophysics | 冬季／2027年10月入学可用2026-11-15至2027-01-15、2027-05-15至2027-07-15两个年度窗口；International Office须并行申请。注册要求October 1前完成本科。；MS资助不保证；2027学费/semester contribution本轮未核，不沿用零学费或固定金额当报价。 |
 | Hamburg · MSc Physics (English) | 年度2月15日至3月31日，仅Winter/October入学；官网链接申请说明标2026/27且PDF更新January2026，2027/28系统开放仍须核对。奖学金截止未核。；无已核实的个人资助保证；按正式offer确认。 |
 | Heidelberg · MSc Physics | 冬季入学non-EU年度July 15截止；按2027冬季列2027-07-15，申请开放日待核。EU September 30不适用于HY。；MS stipend不保证；州non-EU tuition历史EUR1,500/semester尚需当前费用页复核，不能标2027已核。 |
 | KIT · MSc Physics | 冬季入学Non-EU nationals：July 15 for winter term；按2027冬季列2027-07-15，开放日待核。官网2026-12-01仅为夏季开窗，不用于冬季申请。截止字段Last-verified：2026-10-09；官方依据：https://www.sle.kit.edu/english/vorstudium/master-physics.php ；非EU原则支付tuition；有奖学金、法定exemption和特定waiver路径，但不保证MSc stipend。 |
@@ -712,3 +712,11 @@ WashU · MA Physics已确认Fall 2027校级统一开窗为2026-09-01；MA截止�
 ## 2027申请启动复核（2026-10-23）
 
 本轮从现行时间表读取2条往年项目与16组启动完全待核学校，并补核联合PPM的具体日期，共19组项目／20份学校档案；未确认新的2027准确启动日。全部月度申请单元格、往年标记、月份、星号、单校换行及轮次保持；16组完全待核名单不变，PPM继续保留用户回信确认的2026年10月底、具体日期待定。NYU校级2027已开放与既有记录一致，未取得准确开放日；ENS本轮无法读取正文，来源及批次疑点未解除。学校39条、重点19所、冲刺8所不变。每项官方URL、适用入学计划及本字段最后核实／访问尝试日期见[本轮核查记录](audit/application-opening-source-audit-20261023.md)。本节为最新启动核查说明；其他字段保持原核验日期，历史记录按其原日期阅读。
+
+## LMU Astrophysics申请窗口更正（2026-10-30）
+
+直接HTTPS取得官方Astrophysics专节正文：EFV年度窗口为 **November 15–January 15、May 15–July 15**。按本计划对应2026-11-15至2027-01-15、2027-05-15至07-15，均可申请2027年10月入学；2027专属批次及International Office流程仍需核对。原11-01／05-01开放日更正为11-15／05-15，截止日不变。仅本字段Last-verified：2026-10-30，其他字段保留原日期。官方来源：https://www.physik.lmu.de/en/studies/study-programs/applying-to-a-masters-program/ 。PDF／JSON未重新导出，当前Markdown为准。
+
+## 2027申请启动复核（2026-10-30）
+
+本轮按运行时现行时间表核查2条往年项目及16组启动完全待核学校，并补核联合PPM的具体开放日，共19组项目／20份学校档案；未确认可更新的2027准确启动日期。本任务保留2条往年标记、16组完全待核清单及PPM的2026年10月底／具体日期待定状态，不改动月度表中的启动日期、月份、轮次、星号或单校换行。ENS普通M1来源及年份标题仍冲突；Geneva返回验证码页，NYU关键招生页HTTP 403，均未升级为已核实。学校39条、优先19所、冲刺8所不变。每项可见官方URL、适用入学计划及本字段最后核实／访问尝试日期见[本轮核查记录](audit/application-opening-source-audit-20261030.md)。本节仅更新本次核查范围内的字段状态；同期其他任务的LMU更正保留，其他字段与历史核查日期不变。
