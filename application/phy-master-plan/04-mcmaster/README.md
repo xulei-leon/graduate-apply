@@ -9,7 +9,7 @@
 | 文件 | 用途 |
 |---|---|
 | [McMaster_PS_MSc_CSE_en.md](McMaster_PS_MSc_CSE_en.md) | Fall 2027 CSE M.Sc. 通用英文 PS；科学计算、方法训练与可靠推断；正文 480 词 |
-| [McMaster_PS_MSc_en.md](McMaster_PS_MSc_en.md) | Fall 2027 Physics and Astronomy thesis MSc 英文 PS；Wadsley / Parker 的模拟与观测研究匹配 |
+| [Statement of Interest-Hongyi Xu-McMaster physics.md](Statement%20of%20Interest-Hongyi%20Xu-McMaster%20physics.md) / [DOCX](Statement%20of%20Interest-Hongyi%20Xu-McMaster%20physics.docx) | Fall 2027 Physics and Astronomy thesis MSc 英文 PS；Wadsley / Parker 的模拟与观测研究匹配 |
 | [英文 CV](../../CV/CV_en.md) / [中文 CV](../../CV/CV_cn.md) | 共享的现行 CV；MaNGA 旋转曲线与暗物质晕为主 |
 | [letter-james-wadsley.md](letter-james-wadsley.md) | 英文 Fall 2027 thesis MSc 研究机会咨询信 |
 | [paper-james-wadsley.md](paper-james-wadsley.md) | 1 篇首读论文、原文定位、阅读顺序与邮件联系点 |

@@ -1,9 +1,4 @@
-# Personal Statement for the MSc in Physics and Astronomy
-
-Hongyi Xu  
-University of Toronto | hyi.xu@mail.utoronto.ca
-
-Dear Members of the Admissions Committee,
+# Statement of Interest
 
 I am applying to the thesis MSc in Physics and Astronomy at McMaster University for Fall 2027. I am completing an Honours Bachelor of Science in the Physics Specialist program at the University of Toronto and expect to graduate in June 2027. My work on galaxy rotation curves has made me interested in how computational models connect observed galaxy properties to the dark-matter halos that host them. I want to develop the physical understanding needed to interpret these connections through both simulations and observations.
 
@@ -13,14 +8,6 @@ Since May 2026, I have also worked remotely with Professor Mario Campanelli at U
 
 My undergraduate training in theoretical physics, laboratory work, and programming has provided a foundation for these projects. I am currently taking Computational Physics, Introduction to High Energy Physics, and Time Series Analysis, alongside other advanced physics courses. I now want to deepen the theoretical and numerical understanding needed to choose and justify physical models more independently.
 
-For my MSc, I want to build on my experience fitting simplified galaxy models by studying the physical processes that shape galaxies. McMaster's two-year thesis route, together with its research in computational astrophysics and galaxy evolution, would provide an appropriate setting for this development. I hope to strengthen my knowledge of dynamics, hydrodynamics, and numerical methods while learning to formulate and carry through a sustained research project under supervision.
+McMaster’s two-year thesis-based MSc, with its strengths in computational astrophysics and galaxy evolution, would help me build on my experience modelling galaxy rotation curves and develop a deeper understanding of the physical processes shaping galaxies. I am particularly interested in Professor James Wadsley’s work on galaxy formation, hydrodynamical simulations, and numerical methods, which would allow me to explore how baryonic processes affect galaxy structure and the interpretation of dark-matter halo properties. I am also interested in Professor Laura Parker’s observational research on galaxy evolution and the relationship between galaxies and their host dark-matter halos. The combination of computational and observational perspectives at McMaster would help me understand how theoretical models can be tested against real data. I hope to contribute my experience in Python modelling and uncertainty analysis while developing the physical understanding and numerical skills needed to undertake independent research.
 
-Professor James Wadsley's work on galaxy formation, hydrodynamical simulations, and numerical methods is particularly relevant to this goal. I would like to learn how baryonic processes influence galaxy structure and how those effects should be considered when interpreting halo parameters from rotation curves. A possible starting point to discuss would be fitting rotation curves from simulated galaxies with simplified mass models and comparing the inferred halo properties with those measured directly in the simulations. My experience with parameter degeneracies and sensitivity tests could support this analysis, while I would need to learn the simulation methods and the physical assumptions behind them.
-
-I am also interested in Professor Laura Parker's observational research on galaxy evolution, galaxy groups, and the relationship between galaxies and their host dark-matter halos. Her group's focus on environment would help me explore how halo inferences relate to a galaxy's broader physical setting. I would welcome the opportunity to learn how imaging and spectroscopic observations are used to study these relationships. The presence of both observational and computational approaches at McMaster is valuable to me because it would encourage me to consider how model predictions can be tested against data when developing a focused thesis question.
-
-My long-term goal is to pursue a PhD in computational astrophysics or a related field. Through McMaster's MSc, I hope to develop stronger physical judgement and greater independence in research, contributing my experience in Python modelling and uncertainty analysis while learning how to connect galaxy formation models with observable evidence.
-
-Yours sincerely,
-
-Hongyi Xu
+After graduation, I want to pursue a PhD in computational astrophysics or a related field. In the long term, I aspire to become a research scientist studying galaxy formation and evolution, using computational models and observational evidence to investigate the physical processes that shape the universe.

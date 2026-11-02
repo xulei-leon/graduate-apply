@@ -6,7 +6,7 @@
 
 | 文件 | 用途 |
 |---|---|
-| [Alberta_PS_MSc_en.md](Alberta_PS_MSc_en.md) | Fall 2027 Physics MSc 英文 PS；以计算建模与统计推断为主线，对接 Piro 的暗物质探测分析 |
+| [SoP-Hongyi Xu-Alberta.md](SoP-Hongyi%20Xu-Alberta.md) / [DOCX](SoP-Hongyi%20Xu-Alberta.docx) | Fall 2027 Physics MSc 英文 PS；以计算建模与统计推断为主线，对接 Piro 的暗物质探测分析 |
 | [英文 CV](../../CV/CV_en.md) / [中文 CV](../../CV/CV_cn.md) | 共享的现行 CV；MaNGA 暗物质晕推断与 Higgs 统计分析 |
 | [letter-marie-cecile-piro.md](letter-marie-cecile-piro.md) | 英文 Fall 2027 MSc 研究机会咨询信 |
 | [paper-marie-cecile-piro.md](paper-marie-cecile-piro.md) | 1 篇首读论文、原文定位、阅读顺序与邮件联系点 |

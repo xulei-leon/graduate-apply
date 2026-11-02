@@ -6,7 +6,7 @@
 
 | 文件 | 用途 |
 |---|---|
-| [McGill_PS_MSc_en.md](McGill_PS_MSc_en.md) | Fall 2027 Physics (Thesis) 英文 PS；Cline / Vachon 研究匹配，正文独立保存 |
+| [SoP-Hongyi Xu-McGill.md](SoP-Hongyi%20Xu-McGill.md) / [DOCX](SoP-Hongyi%20Xu-McGill.docx) | Fall 2027 Physics (Thesis) 英文 PS；Cline / Vachon 研究匹配，正文独立保存 |
 | [CV_cn.md](../../CV/CV_cn.md) / [CV_en.md](../../CV/CV_en.md) | 共享的天体物理版中文 / 英文 CV；MaNGA 为主，Higgs 作为计算推断补充 |
 | [letter-jim-cline.md](letter-jim-cline.md) | 英文 MSc 研究机会咨询信；按[英文基础模板](../../CV/letter_en.md)定制 |
 | [paper-jim-cline.md](paper-jim-cline.md) | 2021 年 core–cusp 论文的原文定位、MaNGA 联系、阅读顺序、邮件段落及交流准备；附简短补充阅读入口 |

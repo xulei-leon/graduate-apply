@@ -8,7 +8,7 @@
 
 | 文件 | 用途 |
 |---|---|
-| [UBC_PS_MSc_en.md](UBC_PS_MSc_en.md) | **Fall 2027 Physics MSc** 英文 PS；Van Waerbeke / Lister 研究匹配 |
+| [Statement of Interest-Hongyi Xu-UBC.md](Statement%20of%20Interest-Hongyi%20Xu-UBC.md) / [DOCX](Statement%20of%20Interest-Hongyi%20Xu-UBC.docx) | **Fall 2027 Physics MSc** 英文 PS；Van Waerbeke / Lister 研究匹配 |
 | [CV_cn.md](../../CV/CV_cn.md) / [CV_en.md](../../CV/CV_en.md) | 共享的现行中英文 CV |
 | [letter-ludovic-van-waerbeke.md](letter-ludovic-van-waerbeke.md) | 既有 Fall 2027 Astronomy MSc 研究机会咨询邮件 |
 | [paper-ludovic-van-waerbeke.md](paper-ludovic-van-waerbeke.md) | 1 篇首读论文、全文位置、阅读问题及已写入邮件的联系点 |
