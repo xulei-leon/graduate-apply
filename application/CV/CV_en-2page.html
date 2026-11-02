@@ -74,18 +74,21 @@
     .entry + .entry { margin-top: 11pt; }
     .entry-head {
       display: grid;
-      grid-template-columns: 36mm minmax(0, 1fr);
+      grid-template-columns: minmax(0, 1fr) auto;
       column-gap: 4mm;
       align-items: baseline;
     }
-    .entry-head h3 { grid-column: 2; grid-row: 1; }
+    .entry-head h3 { grid-column: 1; grid-row: 1; }
     .entry-head .date {
-      grid-column: 1;
+      grid-column: 2;
       grid-row: 1;
+      text-align: right;
       white-space: nowrap;
       font-weight: 700;
     }
-    .entry-body { margin-left: 40mm; }
+    .entry-body { margin-left: 0; }
+    .entry-detail { display: flex; justify-content: space-between; align-items: baseline; gap: 12pt; }
+    .location { flex: 0 0 auto; text-align: right; white-space: nowrap; }
     .entry-note { margin: 2pt 0 4pt; }
     .education p { margin-bottom: 3pt; }
     .coursework { margin-top: 6pt; }
@@ -93,7 +96,7 @@
     ul { margin: 0 0 0 15pt; padding: 0; }
     li { margin: 0 0 3pt; padding-left: 0; }
     li:last-child { margin-bottom: 0; }
-    .skills ul { margin-left: calc(40mm + 15pt); }
+    .skills ul { margin-left: 15pt; }
     .skills li { margin-bottom: 4pt; }
     .page-footer {
       margin-top: auto;
@@ -137,9 +140,9 @@
       <section class="education" aria-labelledby="education">
         <h2 id="education">Education</h2>
         <div class="entry">
-          <div class="entry-head"><span class="date">Sept 2023–<br>June 2027<br>(expected)</span><h3><strong>University of Toronto</strong></h3></div>
+          <div class="entry-head"><span class="date">Sept 2023–June 2027 (expected)</span><h3><strong>University of Toronto</strong></h3></div>
           <div class="entry-body">
-            <p>Major: Honours Bachelor of Science (HBSc), Physics Specialist, Toronto, Canada</p>
+            <div class="entry-detail"><p>Major: Honours Bachelor of Science (HBSc), Physics Specialist</p><p class="location">Toronto, Canada</p></div>
             <p class="coursework"><strong>Selected completed coursework:</strong> Advanced Classical Mechanics; Advanced Physics Lab; Electricity &amp; Magnetism; Thermal Physics; Electromagnetic Theory; Quantum Mechanics I; Introduction to Computer Programming; Introduction to Computer Science.</p>
             <p class="coursework"><strong>Selected coursework in progress:</strong> Computational Physics; Quantum Mechanics II; Nonlinear Physics; Introduction to High Energy Physics; Time Series Analysis; Relativistic Electrodynamics; Statistical Mechanics.</p>
           </div>
@@ -150,7 +153,7 @@
         <div class="entry">
           <div class="entry-head"><span class="date">May 2026–Present</span><h3>Feature Attribution for Higgs Four-Lepton Signal-Strength Inference</h3></div>
           <div class="entry-body">
-            <p class="entry-note">Research Project, advisor: Prof. Mario Campanelli, University College London · Remote</p>
+            <div class="entry-detail"><p class="entry-note">Research Project, advisor: Prof. Mario Campanelli, University College London</p><p class="location">Remote</p></div>
             <ul>
               <li>Investigated how kinematic feature selection affects signal-strength inference in simulated Higgs four-lepton events, using public ATLAS H → ZZ* → 2e2μ signal and background samples.</li>
               <li>Designed a systematic comparison of 19 kinematic variables, grouping them into four feature sets and evaluating all 15 nonempty combinations with MLP classifiers across five random seeds; built a unified pyhf profile-likelihood pipeline to compare classification performance with physical parameter constraints.</li>
