@@ -8,7 +8,7 @@
 |---|---:|---:|---|
 | 加拿大 | 12 | 6 | <span style="color:#C62828"><strong>UBC</strong></span>、<span style="color:#C62828"><strong>McGill</strong></span>、Alberta、McMaster、Queen’s、Western |
 | 澳大利亚 | 2 | 1 | <span style="color:#C62828"><strong>Melbourne</strong></span> |
-| 美国 | 10 | 3 | <span style="color:#C62828"><strong>Northwestern</strong></span>、<span style="color:#C62828"><strong>NYU</strong></span>、UT Austin |
+| 美国 | 10 | 3 | <span style="color:#C62828"><strong>Northwestern</strong></span>、<span style="color:#C62828"><strong>Brown</strong></span>、UT Austin |
 | 法国 | 5 | 4 | Paris-Saclay、<span style="color:#C62828"><strong>PSL / ENS</strong></span>、Sorbonne、<span style="color:#C62828"><strong>IP Paris</strong></span> |
 | 德国 | 5 | 3 | LMU、Heidelberg、KIT |
 | 瑞士 | 5 | 2 | <span style="color:#C62828"><strong>EPFL</strong></span>、UZH |
@@ -274,8 +274,8 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <th style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">推荐信 / 申请前联系导师</th>
 <th style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">推荐信数量要求</th>
 </tr>
-<tr>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top"><a href="../../physics-master/Brown_ScM_Physics.md">Brown · ScM Physics</a><br>Reach / Medium<br>QS综合66 / 物理137</td>
+<tr style="background:#FFD9E6;" data-priority-application="true">
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top"><strong>重点申请</strong><br><a href="../../physics-master/Brown_ScM_Physics.md">Brown · ScM Physics</a><br>Reach / Medium<br>QS综合66 / 物理137</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">1-2年，可2 /3 /4 semesters；8门课；department明确coursework与thesis option，thesis recommended；另main page称including thesis，存在表述差异。<a href="https://graduateprograms.brown.edu/graduate-program/physics-scm" style="color:inherit"><br><br><strong>申请周期：</strong><br>启动未公布 → 04-01；优先02-01（Fall；年份按系统复核）</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">无公开数值最低；强Physics准备，3.0偏弱。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">优先冲刺；自费<br><br><strong><a href="https://graduateprograms.brown.edu/graduate-program/physics-scm">计算物理：待核</a></strong></td>
@@ -330,11 +330,11 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需<br><br><strong>申请前联系导师：</strong><br><a href="https://www.stonybrook.edu/physics/graduate/apply.html">无需联系个别导师</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">3封</td>
 </tr>
-<tr style="background:#FFD9E6;" data-priority-application="true">
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top"><strong>重点申请</strong><br><a href="../../physics-master/NYU_MS_Physics.md">NYU · MS Physics</a><br>Match / High<br>QS综合58 / 物理103</td>
+<tr>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top"><a href="../../physics-master/NYU_MS_Physics.md">NYU · MS Physics</a><br>Match / High<br>QS综合58 / 物理103</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">32或36 credits；日历时长未核明确；Thesis32 / Examination32 / Report36 credits三条路线。<a href="https://gsas.nyu.edu/admissions/arc/programs/physics.html" style="color:inherit"><br><br><strong>申请周期：</strong><br>启动未公布 → 年度12-30 17:00 ET；2027批次待确认</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">无公开minimum score；课程与科研可整体评估。</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">美国重点；选thesis<br><br><strong><a href="https://bulletins.nyu.edu/graduate/arts-science/programs/physics-ms/">计算物理：MS核心课列入</a></strong></td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">备选；选thesis<br><br><strong><a href="https://bulletins.nyu.edu/graduate/arts-science/programs/physics-ms/">计算物理：MS核心课列入</a></strong></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需<br><br><strong>申请前联系导师：</strong><br><a href="https://gsas.nyu.edu/admissions/arc/programs/physics.html">所查页面未列提前联系要求</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">3封</td>
 </tr>
@@ -722,3 +722,5 @@ WashU · MA Physics已确认Fall 2027校级统一开窗为2026-09-01；MA截止�
 ## 2027申请启动复核（2026-10-30）
 
 本轮按运行时现行时间表核查2条往年项目及16组启动完全待核学校，并补核联合PPM的具体开放日，共19组项目／20份学校档案；未确认可更新的2027准确启动日期。本任务保留2条往年标记、16组完全待核清单及PPM的2026年10月底／具体日期待定状态，不改动月度表中的启动日期、月份、轮次、星号或单校换行。ENS普通M1来源及年份标题仍冲突；Geneva返回验证码页，NYU关键招生页HTTP 403，均未升级为已核实。学校39条、优先19所、冲刺8所不变。每项可见官方URL、适用入学计划及本字段最后核实／访问尝试日期见[本轮核查记录](audit/application-opening-source-audit-20261030.md)。本节仅更新本次核查范围内的字段状态；同期其他任务的LMU更正保留，其他字段与历史核查日期不变。
+
+<!-- 2026-11-07：按用户要求，重点申请及重点冲刺标记由 NYU 移至 Brown；总数不变。 -->

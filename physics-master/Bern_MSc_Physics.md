@@ -24,7 +24,7 @@
 | Recommendation count / 推荐数量 | 未列固定数量 |
 | Recommendation policy / 提交与例外 | international Master checklist的Physics项需本科论文摘要或无论文说明，未列额外推荐信；相邻专业的1/2封条款不能套给Physics。 |
 | Cohort size / 年度规模 | 未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。 |
-| Deadline / 主申请与奖学金 | 国际Master checklist纸质材料Autumn May31 /Spring Dec31；online registration另有截止尚待核，不把May31当唯一申请截止。 |
+| Deadline / 主申请与奖学金 | 秋季在线申请常规截止2027-04-30；国际学历纸质申请材料截止2027-05-31（年度规则对应；2027专属公告待确认）。需签证者不能依赖逾期申请。准确开放日待核，01-01仅为开始处理秋季申请。 |
 | Deadline evidence / 时间依据 | 年度规则，2027批次待确认 |
 | International tuition / 学费 | 2027学费未核实；须使用本人国际学生费率报价。 |
 | Funding / TA / RA | MSc保证资助未核到；2027tuition及international surcharge待核；thesis并非默认RA工资。 |
@@ -207,3 +207,17 @@ Physics、国际Master及中央秋季日期页可读；秋季页仍写每年01-0
 - https://www.unibe.ch/studium/daten/studierende/herbst/index_ger.html
 
 逐项证据及本轮访问结果见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261023.md)。
+
+## 申请启动／截止补核（2026-11-07）
+
+秋季在线申请常规截止2027-04-30；国际学历纸质申请材料截止2027-05-31（年度规则对应；2027专属公告待确认）。需签证者不能依赖逾期申请。准确开放日待核，01-01仅为开始处理秋季申请。
+
+本字段Last-verified／last-attempted：2026-11-07。其他字段保留原核验日期。
+
+官方来源：
+
+https://www.unibe.ch/studium/daten/studierende/herbst/index_ger.html
+
+https://www.unibe.ch/studium/studienangebote/master/bewerbung/international/index_ger.html
+
+逐校结果见[本轮申请日期核查](../application/phy-master-plan/audit/application-dates-audit-20261107.md)。

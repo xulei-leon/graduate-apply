@@ -296,8 +296,8 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <th style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">推荐信 / 申请前联系导师</th>
 <th style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">推荐信数量要求</th>
 </tr>
-<tr>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top"><a href="Brown_ScM_Physics.md">Brown University — Master of Science (Sc.M.) in Physics</a></td>
+<tr style="background:#FFD9E6;" data-priority-application="true">
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top"><strong>重点申请</strong><br><a href="Brown_ScM_Physics.md">Brown University — Master of Science (Sc.M.) in Physics</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">QS World University Rankings 2027综合 66；QS Physics &amp; Astronomy 2026 137；最新QS综合或Physics &amp; Astronomy前100已核。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">Academic / Research或coursework option；1-2年，可2 /3 /4 semesters；8门课；department明确coursework与thesis option，thesis recommended；另main page称including thesis，存在表述差异。<a href="https://graduateprograms.brown.edu/graduate-program/physics-scm" style="color:inherit"><br><br><strong>申请周期：</strong><br>启动未公布 → 04-01；优先02-01（Fall；年份按系统复核）</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">未公开数值最低或硕士录取典型GPA；需强Physics background。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；经典、电磁、量子、统计核心课程，research experience与SOP。</td>
@@ -387,8 +387,8 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">必需<br><br><strong>申请前联系导师：</strong><br><a href="https://www.stonybrook.edu/physics/graduate/apply.html">无需联系个别导师</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">3封</td>
 </tr>
-<tr style="background:#FFD9E6;" data-priority-application="true">
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top"><strong>重点申请</strong><br><a href="NYU_MS_Physics.md">New York University — Master of Science in Physics</a></td>
+<tr>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top"><a href="NYU_MS_Physics.md">New York University — Master of Science in Physics</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">QS World University Rankings 2027综合 58；QS Physics &amp; Astronomy 2026 103；最新QS综合或Physics &amp; Astronomy前100已核。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">Academic / Research；32或36 credits；官方样例4学期，约2学年为样例推算；Thesis32 / Examination32 / Report36 credits三条路线。<a href="https://gsas.nyu.edu/admissions/arc/programs/physics.html" style="color:inherit"><br><br><strong>申请周期：</strong><br>启动未公布 → 年度12-30 17:00 ET；2027批次待确认</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">FAQ无minimum score requirement；未单列MS本科数字最低，不能杜撰3.0硬门槛。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；CM / QM / EM / Statistical与Computational Physics；MS与PhD同修core，要求相同基础。</td>
@@ -464,10 +464,10 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <tr style="background:#FFD9E6;" data-priority-application="true">
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top"><strong>重点申请</strong><br><a href="PSL_Master_FundamentalPhysics_ICFP.md">Université PSL — Master’s degree in Physics — International Centre for Fundamental Physics (ICFP)</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">QS World University Rankings 2027综合 34；QS Physics &amp; Astronomy 2026 32；最新QS综合或Physics &amp; Astronomy前100已核。</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">Academic / Research；2年 /120 ECTS；本科毕业应申请M1；M1/M2 research internships与research-based training；各年论文/实习具体学分按track。<a href="https://psl.eu/en/education/master-s-degree-physics" style="color:inherit"><br><br><strong>申请周期：</strong><br>来源不一致待核；保留2026 M1参考：2025-11-24 → 2026-01-23 23:59 CET</a></td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">Academic / Research；2年 /120 ECTS；本科毕业应申请M1；M1/M2 research internships与research-based training；各年论文/实习具体学分按track。<a href="https://psl.eu/en/education/master-s-degree-physics" style="color:inherit"><br><br><strong>申请周期：</strong><br>ENS暂定2026-11-26 → 2027-01-21（申请及推荐）；与年份标题／PSL旧页冲突，待确认</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">扎实Physics本科；高级QM/statistical与数学，file + interview选拔；无公开数字最低。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；Physics本科核心和严谨理论/数学；科研成果及面试能力。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">所查program page未列GRE要求。；English教学；现行ICFP语言证明/是否要求C1及UofT waiver未在所查program条款闭环。</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">保留2026 M1参考窗口2025-11-24至2026-01-23 23:59 CET；2027来源不一致待核（2026-10-09）。M2窗口不适用于只有本科的HY。（仅公布2026周期，2027待发布）</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">ENS普通M1暂定窗口2026-11-26至2027-01-21，推荐信同日截止；标题仍写2026/2027，与PSL旧2026批次冲突，2027适用性待确认（2026-11-07）。不以旧01-23推算2027截止；不套M2或PhD Track日期。（仅公布2026周期，2027待发布）</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">2026-27 French/EU EUR255/year；non-EU未获豁免EUR3,950/year；2027-28及本人豁免待确认。；competitive scholarships，非录取自动资助；应准备自费。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">High / Reach；强冲刺；需突出科研</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">强冲刺；需突出科研<br><br><strong><a href="https://psl.eu/en/education/master-s-degree-physics">计算物理：待核</a></strong></td>
@@ -709,7 +709,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">Academic / Research；1.5年 /3 semesters，90 ECTS；Master thesis45 ECTS，加Master examination；English research-oriented degree。<a href="https://www.unibe.ch/e1006/e1029/e1041/e1046/e9395/e9454/e11071/e1803186/MasterCheckliste_ger.pdf" style="color:inherit"><br><br><strong>申请周期：</strong><br>启动待核 → 在线截止待核；年度05-31为秋季纸质材料截止</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">foreign recognised Bachelor等效；90ECTSPhysics/Astro +30Math，或60Physics/Astro +60Math；可附补课≤60ECTS。数值GPA未公开于所查页。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；严格Physics/Astro及Math学分；提交course descriptions和Bachelor thesis摘要，或声明本科无论文。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">官方international Master checklist Physics项未要求GRE。；100% English；Physics专属checklist未要求额外语言测试，中央规则将课堂语言掌握责任交申请人；无需德语证明。</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">国际Master checklist纸质材料Autumn May31 /Spring Dec31；online registration另有截止尚待核，不把May31当唯一申请截止。（年度规则，2027批次待确认）</td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">秋季在线申请常规截止2027-04-30；国际学历纸质申请材料截止2027-05-31（年度规则对应；2027专属公告待确认）。需签证者不能依赖逾期申请。准确开放日待核，01-01仅为开始处理秋季申请。（年度规则，2027批次待确认）</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">2027学费未核实；须使用本人国际学生费率报价。；MSc保证资助未核到；2027tuition及international surcharge待核；thesis并非默认RA工资。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">High / Match；瑞士条件主申；排名例外</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">瑞士条件主申；排名例外<br><br><strong><a href="https://www.philnat.unibe.ch/studium/studienprogramme/master_physik/index_ger.html">计算物理：待核</a></strong></td>
@@ -786,3 +786,7 @@ NYU专项补核（2026-10-21）：Thesis是Physics MS毕业路线，未见独立
 ## 2027申请启动复核（2026-10-23）
 
 本轮从现行时间表读取2条往年项目与16组启动完全待核学校，并补核联合PPM的具体日期，共19组项目／20份学校档案；未确认新的2027准确启动日。全部月度申请单元格、往年标记、月份、星号、单校换行及轮次保持；16组完全待核名单不变，PPM继续保留用户回信确认的2026年10月底、具体日期待定。NYU校级2027已开放与既有记录一致，未取得准确开放日；ENS本轮无法读取正文，来源及批次疑点未解除。学校39条、重点19所、冲刺8所不变。每项官方URL、适用入学计划及本字段最后核实／访问尝试日期见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261023.md)。本节为最新启动核查说明；其他字段保持原核验日期，历史记录按其原日期阅读。
+
+## 申请日历与重点名单同步（2026-11-07）
+
+重点申请及重点冲刺由NYU替换为Brown，39校、19所优先、8所冲刺不变。Bern在线申请04-30与材料05-31分开记录；ENS新M1窗口仅作来源冲突下的暂定节点。日期详情见[现行时间表](../application/phy-master-plan/Physics_Masters_Timeline.md)和[39校核查记录](../application/phy-master-plan/audit/application-dates-audit-20261107.md)。其他项目未确认的新日期保留待核；历史段落按原日期阅读。

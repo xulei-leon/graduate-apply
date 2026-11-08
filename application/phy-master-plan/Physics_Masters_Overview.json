@@ -2222,7 +2222,7 @@
       "recommendation_sources": [
         "https://graduateprograms.brown.edu/graduate-program/physics-scm"
       ],
-      "priority_application": false,
+      "priority_application": true,
       "application_cycle": "启动未公布 → 04-01；优先02-01（Fall；年份按系统复核）",
       "application_cycle_sources": [
         "https://graduateprograms.brown.edu/graduate-program/physics-scm"
@@ -2264,7 +2264,7 @@
       },
       "priority_before_computational_audit": "优先冲刺；自费",
       "summary_high_rank": false,
-      "highlight_color": null
+      "highlight_color": "#FFD9E6"
     },
     {
       "country": "USA",
@@ -2538,7 +2538,7 @@
       "rank_key": "New York University (NYU)",
       "match": "High",
       "difficulty": "Match",
-      "priority": "美国重点；选thesis；计算物理：MS核心课列入",
+      "priority": "备选；选thesis；计算物理：MS核心课列入",
       "qualification": "无公开minimum score；课程与科研可整体评估。",
       "duration": "32或36 credits；日历时长未核明确",
       "research": "Thesis32 / Examination32 / Report36 credits三条路线。",
@@ -2632,7 +2632,7 @@
           4
         ]
       },
-      "priority_application": true,
+      "priority_application": false,
       "application_cycle": "启动未公布 → 年度12-30 17:00 ET；2027批次待确认",
       "application_cycle_sources": [
         "https://gsas.nyu.edu/admissions/arc/programs/physics.html"
@@ -2672,9 +2672,9 @@
           "final_url": "https://bulletins.nyu.edu/graduate/arts-science/programs/physics-ms/"
         }
       },
-      "priority_before_computational_audit": "美国重点；选thesis",
+      "priority_before_computational_audit": "备选；选thesis",
       "summary_high_rank": true,
-      "highlight_color": "#FFD9E6"
+      "highlight_color": null
     },
     {
       "country": "USA",
@@ -5995,7 +5995,7 @@
     }
   },
   "recommendation_scope_note": "推荐信口径：必需、可选、官方清单未列必交和待核分别记录。未列要求不等于已确认0封；推荐人联系信息、在线评估与信件按官方实际形式区分。校级最低数与项目专属加额、入学与奖学金要求分别注明。",
-  "priority_application_scope": "2026-10-09用户指定：UBC新增重点冲刺，黄色或粉红色重点19所；红色加粗冲刺8所（UBC、McGill、Melbourne、Northwestern、NYU、PSL / ENS、IP Paris、EPFL）。已选39所；ANU已获offer不计重点；标记不改变资格或难度。",
+  "priority_application_scope": "2026-10-09用户指定：UBC新增重点冲刺，黄色或粉红色重点19所；红色加粗冲刺8所（UBC、McGill、Melbourne、Northwestern、Brown、PSL / ENS、IP Paris、EPFL）。已选39所；ANU已获offer不计重点；标记不改变资格或难度。",
   "summary": {
     "by_country": [
       {
@@ -6028,7 +6028,7 @@
         "priority_count": 3,
         "priority_schools": [
           "Northwestern",
-          "NYU",
+          "Brown",
           "UT Austin"
         ]
       },
@@ -6089,5 +6089,5 @@
       "计算证书配套路径": 1
     }
   },
-  "priority_marker_updated": "2026-10-09"
+  "priority_marker_updated": "2026-11-07"
 }
