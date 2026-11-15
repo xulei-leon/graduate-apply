@@ -200,3 +200,34 @@ Physics及中央招生页可读；条件页仍标题2026-27，只称下一秋季
 - https://www.unige.ch/etudiants/master/
 
 逐项证据及本轮访问结果见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261023.md)。
+
+
+## 2027申请启动核查（2026-11-13）
+
+Physics及中央招生四个URL均HTTP 200但仅返回JavaScript／验证码安全检查页，未取得招生正文，不能确认2027准确启动日；保留原待核值及既有年度规则证据。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-11-13**。其他字段保留原核验日期。
+
+官方来源：
+
+- https://www.unige.ch/sciences/physique/enseignement/master
+- https://www.unige.ch/admissions/englishcorner/general
+- https://www.unige.ch/admissions/sinscrire/
+- https://www.unige.ch/etudiants/master/
+
+逐项证据与访问缺口见[本轮启动核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261113.md)。
+
+## 2027申请启动复核（2026-11-13）
+
+Physics及中央招生四个URL均返回HTTP 200但正文为Access Denied，没有取得招生正文；2027启动日无法核实，保留待核和原年度日期依据。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-11-13**。未确认准确启动日，保留原日期／待核状态；其他字段仍按原核验日期。
+
+官方来源：
+
+- https://www.unige.ch/sciences/physique/enseignement/master
+- https://www.unige.ch/admissions/englishcorner/general
+- https://www.unige.ch/admissions/sinscrire/
+- https://www.unige.ch/etudiants/master/
+
+逐项证据见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261113.md)。

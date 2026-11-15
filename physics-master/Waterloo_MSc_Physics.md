@@ -187,3 +187,32 @@ Thesis MSc及how-to-apply页可读，只有September入学年度01-09截止与�
 - https://uwaterloo.ca/physics-astronomy/graduate-studies/how-apply
 
 逐项证据及本轮访问结果见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261023.md)。
+
+
+## 2027申请启动核查（2026-11-13）
+
+Thesis MSc及申请流程页可读；仅见September入学年度01-09截止及提前申请建议，未见明确对应2027入学的准确启动日，保留未公布。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-11-13**。其他字段保留原核验日期。
+
+官方来源：
+
+- https://uwaterloo.ca/physics-astronomy/graduate-studies/msc-programs
+- https://uwaterloo.ca/physics-astronomy/graduate-studies/how-apply
+- https://uwaterloo.ca/future-graduate-students/admissions/how-to-apply
+
+逐项证据与访问缺口见[本轮启动核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261113.md)。
+
+## 2027申请启动复核（2026-11-13）
+
+Thesis MSc、院系申请及校级流程可读；September入学仍只列年度01-09截止与提前申请建议，未公布2027准确启动日。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-11-13**。未确认准确启动日，保留原日期／待核状态；其他字段仍按原核验日期。
+
+官方来源：
+
+- https://uwaterloo.ca/physics-astronomy/graduate-studies/msc-programs
+- https://uwaterloo.ca/physics-astronomy/graduate-studies/how-apply
+- https://uwaterloo.ca/future-graduate-students/admissions/how-to-apply
+
+逐项证据见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261113.md)。

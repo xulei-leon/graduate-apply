@@ -197,3 +197,28 @@ M1 General Physics仍列Inception窗口2026-01-01至2026-07-06，课程开始31/
 - https://www.universite-paris-saclay.fr/en/education/masters-degree/physique-fondamentale-et-applications/m1-general-physics
 
 逐项证据及本轮访问结果见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261023.md)。
+
+
+## 2027申请启动核查（2026-11-13）
+
+M1 General Physics仍列Inception 2026-01-01至2026-07-06，课程2026-08-31至2027-07-09，属于2026入学；未见2027入学开窗公告，保留01-01往年参考及标记。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-11-13**。其他字段保留原核验日期。
+
+官方来源：
+
+- https://www.universite-paris-saclay.fr/en/education/masters-degree/physique-fondamentale-et-applications/m1-general-physics
+
+逐项证据与访问缺口见[本轮启动核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261113.md)。
+
+## 2027申请启动复核（2026-11-13）
+
+M1 General Physics仍列Inception 2026-01-01至2026-07-06，课程2026-08-31至2027-07-09，属于2026入学周期。保留01-01（往年），2027日历待公布。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-11-13**。未确认准确启动日，保留原日期／待核状态；其他字段仍按原核验日期。
+
+官方来源：
+
+- https://www.universite-paris-saclay.fr/en/education/masters-degree/physique-fondamentale-et-applications/m1-general-physics
+
+逐项证据见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261113.md)。

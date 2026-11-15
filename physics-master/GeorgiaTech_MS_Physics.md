@@ -192,3 +192,32 @@ Physics招生页及MS catalog可读，招生页只列年度12-15截止；英语�
 - https://grad.gatech.edu/english-proficiency
 
 逐项证据及本轮访问结果见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261023.md)。
+
+
+## 2027申请启动核查（2026-11-13）
+
+Physics招生及MS catalog可读，仍列年度12-15截止，未见2027 MS准确启动日；语言政策Fall 2027生效日期不作为开窗证据。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-11-13**。其他字段保留原核验日期。
+
+官方来源：
+
+- https://physics.gatech.edu/academics/graduate/admissions-info
+- https://catalog.gatech.edu/programs/physics-ms/
+- https://grad.gatech.edu/english-proficiency
+
+逐项证据与访问缺口见[本轮启动核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261113.md)。
+
+## 2027申请启动复核（2026-11-13）
+
+院系招生及MS catalog可读，仍只列年度12-15截止；未见2027 MS准确启动日。语言政策Fall 2027适用期不是申请开窗。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-11-13**。未确认准确启动日，保留原日期／待核状态；其他字段仍按原核验日期。
+
+官方来源：
+
+- https://physics.gatech.edu/academics/graduate/admissions-info
+- https://catalog.gatech.edu/programs/physics-ms/
+- https://grad.gatech.edu/english-proficiency
+
+逐项证据见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261113.md)。

@@ -190,3 +190,32 @@ Applied Physics MS及Engineering Bulletin可读，没有2027准确开放日；En
 - https://gradengineering.columbia.edu/admissions
 
 逐项证据及本轮访问结果见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261023.md)。
+
+
+## 2027申请启动核查（2026-11-13）
+
+Applied Physics MS及Engineering Bulletin可读但未列2027准确启动日；Engineering admissions入口HTTP 403，保留待核。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-11-13**。其他字段保留原核验日期。
+
+官方来源：
+
+- https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/applied-physics-applied-mathematics/graduate-programs/applied-physics-ms/
+- https://bulletin.columbia.edu/columbia-engineering/graduate-studies/graduate-admissions/
+- https://gradengineering.columbia.edu/admissions
+
+逐项证据与访问缺口见[本轮启动核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261113.md)。
+
+## 2027申请启动复核（2026-11-13）
+
+Applied Physics MS及Engineering Bulletin可读，没有2027准确开放日；Engineering admissions初次及重试均HTTP 403。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-11-13**。未确认准确启动日，保留原日期／待核状态；其他字段仍按原核验日期。
+
+官方来源：
+
+- https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/applied-physics-applied-mathematics/graduate-programs/applied-physics-ms/
+- https://bulletin.columbia.edu/columbia-engineering/graduate-studies/graduate-admissions/
+- https://gradengineering.columbia.edu/admissions
+
+逐项证据见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261113.md)。

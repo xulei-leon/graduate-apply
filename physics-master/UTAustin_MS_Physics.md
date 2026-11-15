@@ -185,3 +185,34 @@ Physics招生、校级流程及公开申请入口可读；只有年度Fall 12-01
 - https://gradschool.utexas.edu/degrees-programs
 
 逐项证据及本轮访问结果见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261023.md)。
+
+
+## 2027申请启动核查（2026-11-13）
+
+院系及校级流程、公开入口可读，仅见年度Fall 12-01截止；中央目录Physics仅列Ph.D.、院系FAQ仍允许master-only申请，2027 MS具体入口及准确启动日继续待核，不能据此断言停招。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-11-13**。其他字段保留原核验日期。
+
+官方来源：
+
+- https://physics.utexas.edu/academics/admissions
+- https://students.gradschool.utexas.edu/portal/app
+- https://gradschool.utexas.edu/how-to-apply
+- https://gradschool.utexas.edu/degrees-programs
+
+逐项证据与访问缺口见[本轮启动核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261113.md)。
+
+## 2027申请启动复核（2026-11-13）
+
+院系、校级流程及公开入口可读，仅列年度Fall 12-01截止；未公布2027 MS准确启动日。中央Degrees & Programs的Physics仅列Ph.D.，与院系master-only FAQ的既有差异保留；2027 MS可选状态待核，不能据此断言停招。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-11-13**。未确认准确启动日，保留原日期／待核状态；其他字段仍按原核验日期。
+
+官方来源：
+
+- https://physics.utexas.edu/academics/admissions
+- https://students.gradschool.utexas.edu/portal/app
+- https://gradschool.utexas.edu/how-to-apply
+- https://gradschool.utexas.edu/degrees-programs
+
+逐项证据见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261113.md)。

@@ -62,6 +62,6 @@
 
 正式条目应回答：能否申请、需要什么、匹配程度如何、哪些事实尚待跟进。完整字段和流程以 [AGENTS.md](AGENTS.md) 为准。
 
-## 本周复盘（2026-10-17）
+## 本周复盘（2026-11-13）
 
-[申请进展、截止日期与下周计划](application/weekly-reviews/2026-10-17.md)。该周快照记录两份条件录取：[ANU Astronomy and Astrophysics](offers/ANU.md)、[Sydney Master of Computer Science](offers/USYD.md)；原Sydney DS申请被拒。物理候选39校／19优先／8冲刺，DS当时50份；2026-10-19扩展后当前研究档案数见上方目录表。录取、候选、已提交与资格核实分别记录。
+[申请进展、近期节点与下周安排](application/weekly-reviews/2026-11-13.md)。物理39校／19优先／8冲刺，Brown已接替NYU，推荐额度同步；DS等62份研究档案、0 Verified。11月初CV／加拿大文书与UBC课程填写已具备基础材料；本周未见新增递交或received证据。优先处理MMA11-15、UBC11-17内部目标、X-HEC11-26及ETH11-30既有节点（本轮官网404，待再核）。两份既有条件录取：[ANU](offers/ANU.md)、[Sydney MCS](offers/USYD.md)。博士继续暂停。

@@ -224,3 +224,40 @@ S4. **Canada EEF 2027 calendar**：https://www.canada.campusfrance.org/fr/candid
 - https://www.parisphysicsmaster.com/
 
 逐项证据及本轮访问结果见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261023.md)。
+
+
+## 2027申请启动核查（2026-11-13）
+
+联合PPM目录、中央申请及eCandidat说明可读但没有项目2027准确启动日；Sorbonne专属申请页TLS证书验证失败、PPM网站HTTPS握手失败。与Sorbonne同步保留2026年10月底／具体日待定，只计一次申请，不套EEF通用日期。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-11-13**。其他字段保留原核验日期。
+
+官方来源：
+
+- https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/physique-fondamentale-et-applications-K2VO0C50/master-physique-fondamentale-et-applications-m1-parcours-paris-physics-master-JS1XR1EO.html
+- https://u-paris.fr/candidater-a-universite-paris-cite/
+- https://www.canada.campusfrance.org/fr/candidature-eef
+- https://sciences.sorbonne-universite.fr/en/masters/master-fundamental-physics-and-applications/m1-first-year-master
+- https://master.physique.sorbonne-universite.fr/fr/candidatures-inscription.html
+- https://www.parisphysicsmaster.com/
+- https://u-paris.fr/candidature-via-ecandidat/
+
+逐项证据与访问缺口见[本轮启动核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261113.md)。
+
+## 2027申请启动复核（2026-11-13）
+
+联合PPM目录及中央申请说明可读，未列2027项目准确启动日；联合项目专属申请页及PPM站点仍TLS／HTTPS失败。与Sorbonne同步保留2026年10月底计划／具体日待定，只计一次申请，不套EEF通用日期。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-11-13**。未确认准确启动日，保留原日期／待核状态；其他字段仍按原核验日期。
+
+官方来源：
+
+- https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/physique-fondamentale-et-applications-K2VO0C50/master-physique-fondamentale-et-applications-m1-parcours-paris-physics-master-JS1XR1EO.html
+- https://u-paris.fr/candidater-a-universite-paris-cite/
+- https://www.canada.campusfrance.org/fr/candidature-eef
+- https://sciences.sorbonne-universite.fr/en/masters/master-fundamental-physics-and-applications/m1-first-year-master
+- https://master.physique.sorbonne-universite.fr/fr/candidatures-inscription.html
+- https://www.parisphysicsmaster.com/
+- https://u-paris.fr/candidature-via-ecandidat/
+
+逐项证据见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261113.md)。

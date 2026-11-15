@@ -2157,9 +2157,9 @@
       "name": "Master of Science (Sc.M.) in Physics",
       "short": "Brown · ScM Physics",
       "rank_key": "Brown University",
-      "match": "Medium",
+      "match": "High",
       "difficulty": "Reach",
-      "priority": "优先冲刺；自费；计算物理：待核",
+      "priority": "优先冲刺；自费；计算物理/ML课程已核",
       "qualification": "无公开数值最低；强Physics准备，3.0偏弱。",
       "duration": "1-2年，可2 /3 /4 semesters",
       "research": "8门课；department明确coursework与thesis option，thesis recommended；另main page称including thesis，存在表述差异。",
@@ -2167,7 +2167,7 @@
       "gre": "General和Physics Subject GRE均不要求。",
       "english": "英语为唯一授课语言的本科可按规则免试；Canadian English degree路径适用，须证明。",
       "prereq": "经典、电磁、量子、统计核心课程，research experience与SOP。",
-      "deadline": "Fall 2027 priority 2027-02-01；final 2027-04-01。",
+      "deadline": "年度Fall02-01优先、04-01最终；2027批次待核。",
       "funding": "项目/系不提供guaranteed scholarships；按自费安排，外部奖学金另计。",
       "refs": "主program page列3封；department MSc page列2封，存在冲突，准备3封并以申请系统最终清单为准。",
       "sources": [
@@ -2180,13 +2180,13 @@
           "https://physics.brown.edu/academics/graduate/masters-degree-program"
         ]
       ],
-      "reason": "通用Physics进阶和研究论文选项适合补成绩与准备PhD；当前未核具体计算天体课题，保守Medium。",
+      "reason": "2026-10-22独立档案确认暗物质/统计、Higgs/AI及PHYS2600/2640/2550；2027硕士指导名额待核。",
       "action": "选thesis route，准备3封推荐并确认论文/推荐数量冲突；GPA低于常见竞争者，定位冲刺。",
       "notes": "",
       "kind": "Academic / Research或coursework option",
       "tuition": "2027学费未核实；须使用本人国际学生费率报价。",
       "status": "官方核心页面已访问；2027未发布字段待更新",
-      "deadline_status": "2027已公布",
+      "deadline_status": "年度规则；2027批次待核",
       "cohort": "未公开年度硕士入学规模；不以在读人数、PhD名额或申请量代替。",
       "verified": "2026-10-02",
       "overall": "66",
@@ -2218,7 +2218,7 @@
       "recommendation_required": "必需",
       "recommendation_count": "3封/2封冲突",
       "recommendation_note": "中央ScM项目页要求3封，Physics系MSc页要求2封；准备3封，提交时以申请系统清单确认，不消除官网冲突。",
-      "recommendation_verified": "2026-10-02",
+      "recommendation_verified": "2026-11-13",
       "recommendation_sources": [
         "https://graduateprograms.brown.edu/graduate-program/physics-scm"
       ],

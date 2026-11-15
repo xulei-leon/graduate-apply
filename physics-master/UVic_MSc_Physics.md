@@ -205,3 +205,30 @@ Physics MSc及校级日期页可读，仍列September入学前一年12-01优先�
 - https://www.uvic.ca/graduate/admissions/dates-deadlines/index.php
 
 逐项证据及本轮访问结果见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261023.md)。
+
+
+## 2027申请启动核查（2026-11-13）
+
+项目页首次超时，重试取得正文；仍为September入学前一年12-01优先、其后至08-01补录的年度截止，未见2027准确启动日，保留待核。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-11-13**。其他字段保留原核验日期。
+
+官方来源：
+
+- https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/physics-and-astronomy-cred/physics-msc.php
+- https://www.uvic.ca/graduate/admissions/dates-deadlines/index.php
+
+逐项证据与访问缺口见[本轮启动核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261113.md)。
+
+## 2027申请启动复核（2026-11-13）
+
+Physics MSc及校级日期页可读，只列September入学前一年12-01优先、至08-01补录的年度节点，没有2027准确启动日。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-11-13**。未确认准确启动日，保留原日期／待核状态；其他字段仍按原核验日期。
+
+官方来源：
+
+- https://www.uvic.ca/graduate/programs/graduate-programs/credential-pages/physics-and-astronomy-cred/physics-msc.php
+- https://www.uvic.ca/graduate/admissions/dates-deadlines/index.php
+
+逐项证据见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261113.md)。

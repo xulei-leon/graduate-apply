@@ -216,3 +216,34 @@ Physics、国际Master申请及中央日期页可读；2026-12-01明确属于sum
 - https://www.intl.kit.edu/istudies/15207.php
 
 逐项证据及本轮访问结果见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261023.md)。
+
+
+## 2027申请启动核查（2026-11-13）
+
+Physics及国际申请、中央日期页可读；2026-12-01明确是summer term开放，2027/28授课日历及交换申请日期均不能替代学位申请窗口。2027冬季准确启动日保留待核。
+
+适用入学计划：**2027冬季入学**；本字段最后核实／访问尝试：**2026-11-13**。其他字段保留原核验日期。
+
+官方来源：
+
+- https://www.sle.kit.edu/english/vorstudium/master-physics.php
+- https://www.intl.kit.edu/istudies/9074.php
+- https://www.sle.kit.edu/english/vorstudium/3968.php
+- https://www.intl.kit.edu/istudies/15207.php
+
+逐项证据与访问缺口见[本轮启动核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261113.md)。
+
+## 2027申请启动复核（2026-11-13）
+
+Physics及国际Master、中央日期页可读；明确2026-12-01是summer term开放，不适用于2027冬季。交换项目日历及2027/28授课时间不作为学位申请开窗证据。
+
+适用入学计划：**2027冬季入学**；本字段最后核实／访问尝试：**2026-11-13**。未确认准确启动日，保留原日期／待核状态；其他字段仍按原核验日期。
+
+官方来源：
+
+- https://www.sle.kit.edu/english/vorstudium/master-physics.php
+- https://www.intl.kit.edu/istudies/9074.php
+- https://www.sle.kit.edu/english/vorstudium/3968.php
+- https://www.intl.kit.edu/istudies/15207.php
+
+逐项证据见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261113.md)。

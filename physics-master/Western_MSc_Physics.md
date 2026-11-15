@@ -238,3 +238,33 @@ S6. **Physics research themes**：https://physics.uwo.ca/research/physics/index.
 - https://grad.uwo.ca/admissions/apply.html
 
 逐项证据及本轮访问结果见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261023.md)。
+
+
+## 2027申请启动核查（2026-11-13）
+
+院系列国际生2027-03-01截止；院系流程及校级申请页未给出2027准确启动日，Fall 2027项目当前可选状态仍待核。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-11-13**。其他字段保留原核验日期。
+
+官方来源：
+
+- https://physics.uwo.ca/graduate/future_students/admission_requirements.html
+- https://physics.uwo.ca/graduate/future_students/how_to_apply.html
+- https://grad.uwo.ca/admissions/apply.html
+
+逐项证据与访问缺口见[本轮启动核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261113.md)。
+
+## 2027申请启动复核（2026-11-13）
+
+院系仍列国际生2027-03-01截止；申请流程及Physics MSc校级资料没有准确启动日，Fall 2027项目当前可选状态未核实。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-11-13**。未确认准确启动日，保留原日期／待核状态；其他字段仍按原核验日期。
+
+官方来源：
+
+- https://physics.uwo.ca/graduate/future_students/admission_requirements.html
+- https://physics.uwo.ca/graduate/future_students/how_to_apply.html
+- https://grad.uwo.ca/admissions/apply.html
+- https://grad.uwo.ca/admissions/program.cfm?p=122
+
+逐项证据见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261113.md)。

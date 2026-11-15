@@ -105,8 +105,12 @@ Schutz、Liu未入选的公开招生限制及多大天文取消决定仍保留�
 
 ## 当前入口与执行状态（2026-10-17）
 
-当前CV为[中文](CV/CV_cn.md)、[英文](CV/CV_en.md)、[PDF](CV/Hongyi_Xu-CV.pdf)；通用PS中英文存在，仍含学校专属占位；[Sorbonne动机信](phy-master-plan/21-Sorbonne/Sorbonne_Motivation_Letter.md)已有独立草稿。旧文中的双版本CV说明属于历史整理记录。当前导师材料为7校7目标＋1备选；推荐信按[最新额度方案](phy-master-plan/Physics_Masters_Recommendation_Plan.md)执行。ANU与Sydney各有一份条件录取，见[ANU](../offers/ANU.md)、[Sydney MCS](../offers/USYD.md)。[最新周复盘及下一步](weekly-reviews/2026-10-30.md)。
+当前CV为[中文](CV/CV_cn.md)、[英文](CV/CV_en.md)、[PDF](CV/Hongyi_Xu-CV.pdf)；通用PS中英文存在，仍含学校专属占位；[Sorbonne动机信](phy-master-plan/21-Sorbonne/Sorbonne_Motivation_Letter.md)已有独立草稿。旧文中的双版本CV说明属于历史整理记录。当前导师材料为7校7目标＋1备选；推荐信按[最新额度方案](phy-master-plan/Physics_Masters_Recommendation_Plan.md)执行。ANU与Sydney各有一份条件录取，见[ANU](../offers/ANU.md)、[Sydney MCS](../offers/USYD.md)。[最新周复盘及下一步](weekly-reviews/2026-11-13.md)。
 
-## 本周进展（2026-10-30）
+## 历史进展（2026-10-30）
 
 [本周复盘与下周计划](weekly-reviews/2026-10-30.md)。McMaster CSE已于10-25合并Thesis／Project为480词通用稿，正式选择路径及1页PDF排版仍待落实；10-26提交同步CV手稿状态与项目链接。活动咨询材料为7校7目标＋1备选；未见本周新增发送、回复或提交记录。博士继续暂停，成绩单逐课核对仍按既有要求暂缓。
+
+## 本周进展（2026-11-13）
+
+[本周复盘与下周安排](weekly-reviews/2026-11-13.md)。本周11-08提交将Brown列入8所重点冲刺、NYU改为备选；本次同步推荐额度和ENS暂定01-21节点，物理总览Brown匹配与独立档案对齐。现有CV／四份加拿大文书及UBC课程填写稿作为递交基础；真实推荐人邀请／received和逐校材料清单仍须落实。博士保持暂停；本轮未发送或代提交。

@@ -464,7 +464,7 @@ GPA按CGPA3.0处理，分段成绩及逐课学时尚缺。High/Medium/Low为研�
 <tr style="background:#FFD9E6;" data-priority-application="true">
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top"><strong>重点申请</strong><br><a href="PSL_Master_FundamentalPhysics_ICFP.md">Université PSL — Master’s degree in Physics — International Centre for Fundamental Physics (ICFP)</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">QS World University Rankings 2027综合 34；QS Physics &amp; Astronomy 2026 32；最新QS综合或Physics &amp; Astronomy前100已核。</td>
-<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">Academic / Research；2年 /120 ECTS；本科毕业应申请M1；M1/M2 research internships与research-based training；各年论文/实习具体学分按track。<a href="https://psl.eu/en/education/master-s-degree-physics" style="color:inherit"><br><br><strong>申请周期：</strong><br>ENS暂定2026-11-26 → 2027-01-21（申请及推荐）；与年份标题／PSL旧页冲突，待确认</a></td>
+<td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">Academic / Research；2年 /120 ECTS；本科毕业应申请M1；M1/M2 research internships与research-based training；各年论文/实习具体学分按track。<a href="https://psl.eu/en/education/master-s-degree-physics" style="color:inherit"><br><br><strong>申请周期：</strong><br>保留ENS暂定2026-11-26 → 2027-01-21（申请及推荐）；PSL现列11-23开放，标题及日期冲突待确认（11-13）</a></td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">扎实Physics本科；高级QM/statistical与数学，file + interview选拔；无公开数字最低。 Typical admitted GPA未公开/未核；不以最低条件代替典型竞争水平。；Physics本科核心和严谨理论/数学；科研成果及面试能力。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">所查program page未列GRE要求。；English教学；现行ICFP语言证明/是否要求C1及UofT waiver未在所查program条款闭环。</td>
 <td style="border:1px solid #d8e1e6;padding:6px;vertical-align:top">ENS普通M1暂定窗口2026-11-26至2027-01-21，推荐信同日截止；标题仍写2026/2027，与PSL旧2026批次冲突，2027适用性待确认（2026-11-07）。不以旧01-23推算2027截止；不套M2或PhD Track日期。（仅公布2026周期，2027待发布）</td>
@@ -790,3 +790,8 @@ NYU专项补核（2026-10-21）：Thesis是Physics MS毕业路线，未见独立
 ## 申请日历与重点名单同步（2026-11-07）
 
 重点申请及重点冲刺由NYU替换为Brown，39校、19所优先、8所冲刺不变。Bern在线申请04-30与材料05-31分开记录；ENS新M1窗口仅作来源冲突下的暂定节点。日期详情见[现行时间表](../application/phy-master-plan/Physics_Masters_Timeline.md)和[39校核查记录](../application/phy-master-plan/audit/application-dates-audit-20261107.md)。其他项目未确认的新日期保留待核；历史段落按原日期阅读。
+
+
+## 2027申请启动复核（2026-11-13）
+
+本轮按现行时间表核查1条往年项目（Paris-Saclay M1）及16组启动完全待核学校，并补核ENS普通M1暂定日期与联合PPM具体开放日，共19组项目／20份学校档案。未确认可更新的2027准确启动日。PSL现列11-23、ENS仍列11-26，新增具体日期冲突；保留运行开始时的11-26暂定待确认值及其余日期、月份、轮次、星号、单校换行、1条往年标记与16组完全待核名单。39所／19所优先／8所重点冲刺不变。 每项可见官方URL、适用入学计划及最后核实／访问尝试日期见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261113.md)。本节为最新启动核查说明；历史段落按其原日期阅读，其他字段保留原核验日期。

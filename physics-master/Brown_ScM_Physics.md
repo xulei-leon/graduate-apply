@@ -209,3 +209,39 @@ ScM项目页仍为未标入学年份的Fall 02-01优先／04-01最终截止；�
 - https://apply.professional.brown.edu/portal/app-management
 
 逐项证据及本轮访问结果见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261023.md)。
+
+## 推荐与日期字段复核（2026-11-13）
+
+中央ScM页仍要求3封，Physics院系页仍要求2封；本轮直接HTTPS均200。保留冲突，按3位准备并以实际申请系统清单确认。中央页仍列Fall 02-01优先／04-01最终且未标入学年份；2027批次、开放日期仍待核。Brown已按11-08提交进入8所重点冲刺，承接P4／B4及C预留。仅复核本段字段，不重标整份档案核验日。
+
+- https://graduateprograms.brown.edu/graduate-program/physics-scm
+- https://physics.brown.edu/academics/graduate/masters-degree-program
+
+
+## 2027申请启动核查（2026-11-13）
+
+ScM项目、院系及申请入口可读；仍只列未标2027入学年份的Fall 02-01优先、04-01最终截止，未见两轮准确启动日；Fifth-year规则不套UofT申请人，保留未公布。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-11-13**。其他字段保留原核验日期。
+
+官方来源：
+
+- https://graduateprograms.brown.edu/graduate-program/physics-scm
+- https://physics.brown.edu/academics/graduate/masters-degree-program
+- https://apply.professional.brown.edu/portal/app-management
+
+逐项证据与访问缺口见[本轮启动核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261113.md)。
+
+## 2027申请启动复核（2026-11-13）
+
+ScM项目、院系和申请入口可读；Fall仅列未标2027年份的02-01优先、04-01最终截止，没有准确启动日。Fifth-year节点不适用于UofT外校申请。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-11-13**。未确认准确启动日，保留原日期／待核状态；其他字段仍按原核验日期。
+
+官方来源：
+
+- https://graduateprograms.brown.edu/graduate-program/physics-scm
+- https://physics.brown.edu/academics/graduate/masters-degree-program
+- https://apply.professional.brown.edu/portal/app-management
+
+逐项证据见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261113.md)。

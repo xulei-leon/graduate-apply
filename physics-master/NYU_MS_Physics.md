@@ -79,7 +79,7 @@ QS World University Rankings 2027综合 58；QS Physics & Astronomy 2026 103。
 |---|---|
 | Match | High — 计算物理、particle与cosmology环境及论文选项与现有科研较贴近。 |
 | Difficulty | Match–Reach；2026-10-21规划判断：CGPA3.0、强推荐与硕士导师名额未落实，无公开最低分不代表容易录取。 |
-| 申请优先级 | 美国重点；选thesis；计算物理：MS核心课列入 |
+| 申请优先级 | 备选；选thesis；计算物理：MS核心课列入；按2026-11-08提交同步 |
 | 当前资格焦点 | 无公开minimum score；课程与科研可整体评估。 |
 | 下一步 | 用thesis目标明确SOP，展示可复现推断与计算成果；预算按自费。 |
 
@@ -254,3 +254,37 @@ GSAS中央ARC首次HTTP 403、重试恢复，明确Spring、Summer、Fall 2027�
 - https://apply.gsas.nyu.edu/apply
 
 逐项证据及本轮访问结果见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261023.md)。
+
+
+## 2027申请启动核查（2026-11-13）
+
+Physics MS Bulletin及公开申请入口可读但无2027准确启动日；GSAS中央、Physics及系级FAQ页均HTTP 403，新版中央链接亦403。此前校级2027已开放记录保留为历史证据，具体MS term及准确启动日仍待核。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-11-13**。其他字段保留原核验日期。
+
+官方来源：
+
+- https://bulletins.nyu.edu/graduate/arts-science/programs/physics-ms/
+- https://gsas.nyu.edu/admissions/arc/programs/physics.html
+- https://as.nyu.edu/nyu-as/as/departments/physics/programs/graduate/physics-graduate-admissions-faq.html
+- https://gsas.nyu.edu/admissions/arc.html
+- https://apply.gsas.nyu.edu/apply
+- https://gsas.nyu.edu/nyu-as/gsas/admissions/arc.html
+
+逐项证据与访问缺口见[本轮启动核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261113.md)。
+
+## 2027申请启动复核（2026-11-13）
+
+GSAS Physics、FAQ和中央ARC恢复可读。ARC明确Spring／Summer／Fall 2027校级申请已开放，但未给准确开放日；Physics MS的term当前可选状态未核。Physics页更新October 2026，FAQ仍写Fall 2026；不把本次访问日当启动日。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-11-13**。未确认准确启动日，保留原日期／待核状态；其他字段仍按原核验日期。
+
+官方来源：
+
+- https://bulletins.nyu.edu/graduate/arts-science/programs/physics-ms/
+- https://gsas.nyu.edu/admissions/arc/programs/physics.html
+- https://as.nyu.edu/nyu-as/as/departments/physics/programs/graduate/physics-graduate-admissions-faq.html
+- https://gsas.nyu.edu/admissions/arc.html
+- https://apply.gsas.nyu.edu/apply
+
+逐项证据见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261113.md)。

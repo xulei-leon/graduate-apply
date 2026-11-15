@@ -223,3 +223,42 @@ S3. **Dedicated applications (TLS issue on this check)**：https://master.physiq
 - https://u-paris.fr/candidater-a-universite-paris-cite/
 
 逐项证据及本轮访问结果见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261023.md)。
+
+
+## 2027申请启动核查（2026-11-13）
+
+联合PPM项目、M1与Paris Cité目录、中央申请及eCandidat说明可读，未列项目2027准确启动日；Sorbonne专属申请页TLS证书验证失败、PPM网站HTTPS握手失败。保留用户回信确认的2026年10月底开放月份／具体日待定；EEF通用日历不替代PPM项目日历。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-11-13**。其他字段保留原核验日期。
+
+官方来源：
+
+- https://sciences.sorbonne-universite.fr/en/study/degree-seeking/masters/master-fundamental-physics-and-applications
+- https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/physique-fondamentale-et-applications-K2VO0C50/master-physique-fondamentale-et-applications-m1-parcours-paris-physics-master-JS1XR1EO.html
+- https://master.physique.sorbonne-universite.fr/fr/candidatures-inscription.html
+- https://www.canada.campusfrance.org/fr/candidature-eef
+- https://sciences.sorbonne-universite.fr/en/masters/master-fundamental-physics-and-applications/m1-first-year-master
+- https://www.parisphysicsmaster.com/
+- https://u-paris.fr/candidater-a-universite-paris-cite/
+- https://u-paris.fr/candidature-via-ecandidat/
+
+逐项证据与访问缺口见[本轮启动核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261113.md)。
+
+## 2027申请启动复核（2026-11-13）
+
+联合PPM项目及目录、中央申请说明可读，未列2027项目准确启动日。Sorbonne专属申请页重试仍TLS证书验证失败，PPM站点仍HTTPS握手失败。保留用户回信确认的2026年10月底计划／具体日待定；EEF 2027/2028通用10-01不替代项目日历。
+
+适用入学计划：**2027入学**；本字段最后核实／访问尝试：**2026-11-13**。未确认准确启动日，保留原日期／待核状态；其他字段仍按原核验日期。
+
+官方来源：
+
+- https://sciences.sorbonne-universite.fr/en/study/degree-seeking/masters/master-fundamental-physics-and-applications
+- https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/physique-fondamentale-et-applications-K2VO0C50/master-physique-fondamentale-et-applications-m1-parcours-paris-physics-master-JS1XR1EO.html
+- https://master.physique.sorbonne-universite.fr/fr/candidatures-inscription.html
+- https://www.canada.campusfrance.org/fr/candidature-eef
+- https://sciences.sorbonne-universite.fr/en/masters/master-fundamental-physics-and-applications/m1-first-year-master
+- https://www.parisphysicsmaster.com/
+- https://u-paris.fr/candidater-a-universite-paris-cite/
+- https://u-paris.fr/candidature-via-ecandidat/
+
+逐项证据见[本轮核查记录](../application/phy-master-plan/audit/application-opening-source-audit-20261113.md)。
